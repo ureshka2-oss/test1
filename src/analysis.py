@@ -39,7 +39,9 @@ def growth_leaders(df, top_n=5):
     """Identify fastest-growing companies by revenue growth."""
     df = df.copy()
     df["revenue_growth_pct"] = (
-        (df["revenue_2023_bn"] - df["revenue_2022_bn"]) / df["revenue_2022_bn"] * 100
+        (df["revenue_2023_bn"] - df["revenue_2022_bn"])
+        / df["revenue_2022_bn"].replace(0, float("nan"))
+        * 100
     ).round(1)
 
     return df.nlargest(top_n, "revenue_growth_pct")[
@@ -56,9 +58,12 @@ def sustainability_score(df):
 
     # Normalize metrics to 0-100 scale
     df["norm_renewable"] = df["renewable_pct"]
-    df["norm_carbon"] = 100 - (df["carbon_intensity"] / df["carbon_intensity"].max() * 100)
-    df["rd_intensity"] = df["r_and_d_spend_mm"] / (df["revenue_2023_bn"] * 1000) * 100
-    df["norm_rd"] = df["rd_intensity"] / df["rd_intensity"].max() * 100
+    max_carbon = df["carbon_intensity"].max()
+    df["norm_carbon"] = 100 - (df["carbon_intensity"] / (max_carbon if max_carbon != 0 else float("nan")) * 100)
+    revenue_nonzero = df["revenue_2023_bn"].replace(0, float("nan"))
+    df["rd_intensity"] = df["r_and_d_spend_mm"] / (revenue_nonzero * 1000) * 100
+    max_rd = df["rd_intensity"].max()
+    df["norm_rd"] = df["rd_intensity"] / (max_rd if max_rd != 0 else float("nan")) * 100
 
     # Weighted composite score
     df["sustainability_score"] = (

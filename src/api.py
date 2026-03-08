@@ -103,7 +103,7 @@ def compare_sectors(sector_a: str, sector_b: str):
             "total_revenue": sector_data["revenue_2023_bn"].sum(),
             "avg_growth": (
                 (sector_data["revenue_2023_bn"] - sector_data["revenue_2022_bn"])
-                / sector_data["revenue_2022_bn"]
+                / sector_data["revenue_2022_bn"].replace(0, float("nan"))
                 * 100
             ).mean(),
             "avg_carbon_intensity": sector_data["carbon_intensity"].mean(),

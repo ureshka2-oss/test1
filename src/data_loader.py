@@ -8,12 +8,26 @@ import pandas as pd
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
 
+_cache = {}
+
 
 def load_market_data(filename="global_energy_market.csv"):
-    """Load the global energy market dataset."""
+    """Load the global energy market dataset. Results are cached to avoid repeated disk I/O."""
+    # Prevent path traversal by rejecting path separators and parent references
+    if os.sep in filename or (os.altsep and os.altsep in filename) or ".." in filename:
+        raise ValueError(f"Invalid filename: {filename!r}")
+
+    if filename in _cache:
+        return _cache[filename].copy()
+
     filepath = os.path.join(DATA_DIR, filename)
+
+    if not os.path.isfile(filepath):
+        raise FileNotFoundError(f"Data file not found: {filepath}")
+
     df = pd.read_csv(filepath)
-    return df
+    _cache[filename] = df
+    return df.copy()
 
 
 def validate_data(df):
@@ -56,12 +70,14 @@ def clean_data(df):
     }
     df["region_code"] = df["region"].map(region_map)
 
-    # Calculate year-over-year revenue growth
+    # Calculate year-over-year revenue growth (guard against division by zero)
+    df["revenue_growth_pct"] = df["revenue_2022_bn"].replace(0, float("nan"))
     df["revenue_growth_pct"] = (
-        (df["revenue_2023_bn"] - df["revenue_2022_bn"]) / df["revenue_2022_bn"] * 100
+        (df["revenue_2023_bn"] - df["revenue_2022_bn"]) / df["revenue_growth_pct"] * 100
     )
 
-    # Calculate R&D intensity (R&D spend as % of revenue)
-    df["rd_intensity"] = df["r_and_d_spend_mm"] / (df["revenue_2023_bn"] * 1000) * 100
+    # Calculate R&D intensity (R&D spend as % of revenue, guard against division by zero)
+    revenue_nonzero = df["revenue_2023_bn"].replace(0, float("nan"))
+    df["rd_intensity"] = df["r_and_d_spend_mm"] / (revenue_nonzero * 1000) * 100
 
     return df
