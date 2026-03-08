@@ -1,0 +1,21 @@
+company,region,sector,revenue_2022_bn,revenue_2023_bn,market_cap_bn,employees,r_and_d_spend_mm,carbon_intensity,renewable_pct,customer_satisfaction,year_founded
+EnergiCorp,North America,Oil & Gas,185.4,192.1,320.5,78000,1200,82.3,12.5,72,1924
+SolarWave,Europe,Renewables,12.8,18.9,45.2,8500,890,5.2,98.0,88,2008
+PetroGlobal,Middle East,Oil & Gas,245.0,258.3,510.0,125000,950,91.7,3.2,65,1938
+WindForce Energy,Europe,Renewables,8.2,11.5,28.7,5200,720,3.8,100.0,91,2012
+GridMaster,North America,Utilities,42.1,44.8,68.3,32000,380,45.6,34.0,70,1955
+AsiaEnergy,Asia Pacific,Oil & Gas,98.5,95.2,180.4,62000,650,78.4,8.5,68,1962
+GreenFuture,Europe,Renewables,5.1,8.4,22.1,3200,510,2.1,100.0,93,2015
+PowerNet,North America,Utilities,38.9,41.2,55.8,28000,290,52.3,28.0,67,1948
+HydroGen Solutions,Asia Pacific,Renewables,3.2,5.8,15.4,2100,680,4.5,95.0,85,2017
+MegaOil,North America,Oil & Gas,210.3,198.5,385.2,95000,1100,88.9,6.0,61,1911
+CleanGrid,Europe,Utilities,28.5,32.1,48.9,18000,450,28.4,52.0,79,1972
+AfricaPower,Africa,Utilities,8.9,9.2,12.5,15000,85,68.2,15.0,55,1985
+LatAm Energy,South America,Oil & Gas,32.1,29.8,42.3,22000,180,75.8,10.0,63,1970
+NuclearFirst,North America,Nuclear,18.5,19.2,38.7,12000,920,8.5,0.0,74,1960
+BatteryPlus,Asia Pacific,Energy Storage,2.8,6.2,18.9,4500,1200,6.8,85.0,87,2016
+ThermalDyn,Europe,Oil & Gas,55.2,52.8,78.4,35000,420,72.1,14.0,66,1945
+SunHarvest,Africa,Renewables,1.2,2.8,5.8,1800,220,3.0,100.0,82,2019
+OceanWind,Europe,Renewables,4.5,7.2,19.8,2800,580,2.8,100.0,89,2014
+CoalPower Inc,Asia Pacific,Coal,28.5,24.1,18.2,42000,45,125.0,0.0,48,1952
+SmartGrid AI,North America,Utilities,1.8,3.5,12.4,1200,340,15.2,65.0,90,2020
