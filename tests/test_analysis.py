@@ -1,8 +1,5 @@
 """
 Tests for the analysis module.
-
-NOTE: Some tests are intentionally failing to demonstrate Claude Code's
-ability to identify and fix bugs during a live demo.
 """
 
 import pytest
@@ -46,7 +43,7 @@ class TestDataLoader:
         assert sample_data.isnull().sum().sum() == 0
 
     def test_validate_data_returns_no_critical_issues(self, sample_data):
-        """This test FAILS because validate_data() flags valid satisfaction scores > 90 as outliers."""
+        """All data should pass validation without issues."""
         issues = validate_data(sample_data)
         assert len(issues) == 0, f"Unexpected issues: {issues}"
 
@@ -59,7 +56,7 @@ class TestDataCleaning:
         assert cleaned_data["region_code"].isnull().sum() == 0
 
     def test_revenue_growth_calculation(self, cleaned_data):
-        """This test FAILS because revenue growth divides by 2023 revenue instead of 2022."""
+        """Revenue growth should be calculated as (new - old) / old * 100."""
         row = cleaned_data[cleaned_data["company"] == "SolarWave"].iloc[0]
         expected_growth = (18.9 - 12.8) / 12.8 * 100
         assert abs(row["revenue_growth_pct"] - expected_growth) < 0.1, (
@@ -92,12 +89,11 @@ class TestMarketAnalysis:
         assert growths == sorted(growths, reverse=True)
 
     def test_sustainability_scores_range(self, sample_data):
-        """This test FAILS because sustainability weights don't sum to 1.0,
-        causing scores to be lower than expected."""
+        """Top sustainability companies with 100% renewables should score above 90."""
         result = sustainability_score(sample_data)
-        # Companies with 100% renewables and low carbon should score above 80
+        # Companies with 100% renewables and low carbon should score above 90
         top_company = result.iloc[0]
-        assert top_company["sustainability_score"] > 80, (
+        assert top_company["sustainability_score"] > 90, (
             f"Top sustainability score is only {top_company['sustainability_score']}"
         )
 

@@ -34,7 +34,7 @@ def validate_data(df):
     if (df["renewable_pct"] > 100).any() or (df["renewable_pct"] < 0).any():
         issues.append("renewable_pct contains values outside 0-100 range")
 
-    # BUG: This validation is wrong — it flags valid satisfaction scores
+    # Check for outlier satisfaction scores
     if (df["customer_satisfaction"] > 90).any():
         issues.append("customer_satisfaction contains suspicious outlier values")
 
@@ -56,7 +56,7 @@ def clean_data(df):
     }
     df["region_code"] = df["region"].map(region_map)
 
-    # BUG: Revenue growth calculation is wrong (divides by 2023 instead of 2022)
+    # Calculate year-over-year revenue growth
     df["revenue_growth_pct"] = (
         (df["revenue_2023_bn"] - df["revenue_2022_bn"]) / df["revenue_2023_bn"] * 100
     )

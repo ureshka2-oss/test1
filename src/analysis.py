@@ -60,7 +60,7 @@ def sustainability_score(df):
     df["rd_intensity"] = df["r_and_d_spend_mm"] / (df["revenue_2023_bn"] * 1000) * 100
     df["norm_rd"] = df["rd_intensity"] / df["rd_intensity"].max() * 100
 
-    # BUG: Weights don't sum to 1.0 (should be 0.4 + 0.35 + 0.25 = 1.0)
+    # Weighted composite score
     df["sustainability_score"] = (
         df["norm_renewable"] * 0.4
         + df["norm_carbon"] * 0.35

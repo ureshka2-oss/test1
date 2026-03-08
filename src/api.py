@@ -88,7 +88,6 @@ def get_company_details(company_name: str):
     return company.to_dict(orient="records")[0]
 
 
-# BUG: This endpoint doesn't handle the case where both sectors have zero revenue
 @app.get("/api/compare")
 def compare_sectors(sector_a: str, sector_b: str):
     """Compare two sectors head to head."""
