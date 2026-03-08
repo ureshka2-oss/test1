@@ -1,0 +1,94 @@
+conv,cmpgn,qty,co,stat,spend,ch,prod,rep,lds,rgn,price,dt,rev,Waehrung
+7,Q4-2024-Webinar Series,55.00,Prestige Worldwide,lead,"USD 3,897.67",e-comm,Widget A,J. Smith,63,South America,USD 285.99,28.12.2023,"USD 15,729.45",GBP
+314,H2-24-Spring Push,152,Prestige Worldwide,pending,"USD 13,890.66",Referral,Software Subscription,carol davis,N/A,Britain,"USD 4,720.64",31.05.2023,"USD 717,537.28",JPY
+39,Q3-24-Fall Campaign,3,Prestige Worldwide,Won,"USD 21,029.33",,Marketing Suite,karen white,4926,United States,,29.02.2024,,
+100,Q3-2024-Social Push,429.0,Prestige Worldwide,Open,"USD 32,790.21",,API Access,J. Smith,4309,Middle East,USD 12.03,04.10.2024,"USD 5,160.87",EUR
+370,Q4-24-Holiday Sale,373.00,Prestige Worldwide,CW,"USD 18,647.40",Social,Widget Pro,F. Wilson,null,Middle East,"USD 3,208.24",11.01.2024,"USD 1,196,673.52",JPY
+23,Q1-2023-Cross-sell,176,Soylent Corp,Open,"USD 46,295.42",RETAIL,Widget A,G. Lee,2356,South America,"USD 1,551.32",11.09.2024,"USD 273,032.32",JPY
+59,Q3-23-Social Push,440,Prestige Worldwide,closed lost,-,Referral,Support Tier 2,J. Smith,272,Asia,null,29.12.2023,missing,
+327,Q2-23-New Year Promo,444,Prestige Worldwide,proposal,"USD 1,655.90",Social,Gadget Mini,N/A,2429,South America,"USD 4,895.81",10.03.2025,"USD 2,173,739.64",GBP
+139,H2-23-Retention,158,Prestige Worldwide,Won,"USD 16,868.90",Direct,Widget A,N/A,2965,Australia,"USD 2,682.35",20.11.2024,"USD 423,811.30",EUR
+27,Q3-23-Webinar Series,81,Prestige Worldwide,closed lost,"USD 5,245.72",Affiliate,Gadget X,bob williams,198,United Kingdom,USD 265.97,01.09.2024,"USD 21,543.57",
+459,Q2-24-Product Launch,34.00,Prestige Worldwide,negotiation,,,Support Tier 2,D. Brown,1948,ASIAPAC,"USD 2,945.27",07.05.2024,"USD 100,139.18",EUR
+292,Q4-23-Black Friday,392.0,Bluth Company,Closed Won,"USD 49,418.34",social media,Cloud Storage 1TB,Bob Williams,null,South America,"USD 4,255.28",03.08.2023,"USD 1,668,069.76",AUD
+293,H1-2023-Summer Blitz,null,Prestige Worldwide,Lost,"USD 7,713.50",phone,Hardware Unit,C. Davis,2805,US,USD 933.85,09.03.2024,N/A,
+N/A,Q4-24-Email Blast,305,Prestige Worldwide,in progress,"USD 9,164.74",call center,Service Plan Pro,bob williams,1523,Africa,"USD 4,526.78",13.06.2023,"USD 1,380,667.90",GBP
+37,FY-24-Product Launch,463.0,Prestige Worldwide,Negotiation,"USD 48,689.06",,API Access,Unassigned,4004,ANZ,"USD 1,393.91",10.06.2023,"USD 645,380.33",USD
+170,H2-2024-Email Blast,382.00,Prestige Worldwide,Pending,N/A,ONLINE,Widget A,G. Lee,4809,Middle East,"USD 1,028.00",27.09.2024,"USD 392,696.00",GBP
+103,Q1-23-Brand Awareness,74.00,Prestige Worldwide,PENDING,"USD 12,019.45",Reseller,Cloud Storage 5TB,john smith,1179,Middle East,"USD 3,209.55",23.02.2024,"USD 237,506.70",EUR
+,Q4-24-Brand Awareness,487,,closed lost,-,online,Service Plan Basic,Alice Johnson,2718,South America,"USD 3,935.90",19.10.2024,"USD 1,916,783.30",
+-,H1-2023-Email Blast,414,Prestige Worldwide,CW,"USD 3,691.72",Direct,Widget B,Eva Martinez,4439,MEA,USD 774.46,26.06.2023,"USD 320,626.44",EUR
+208,,268,Prestige Worldwide,Closed-Won,"USD 13,356.80",Retail,Service Plan Enterprise,john smith,2558,N. America,"USD 2,837.09",14.05.2025,"USD 760,340.12",GBP
+140,H1-24-Webinar Series,29.0,Prestige Worldwide,CW,"USD 13,222.35",Call Center,Analytics Dashboard,,4416,EU,"USD 4,665.36",26.05.2024,"USD 135,295.44",JPY
+406,Q4-2024-Black Friday,440.00,Prestige Worldwide,LOST,"USD 32,105.08",Telesales,Support Tier 1,mia clark,1158,,"USD 3,843.81",17.01.2025,"USD 1,691,276.40",JPY
+287,,239,Prestige Worldwide,open,"USD 2,265.29",,Gadget Mini,Frank Wilson,4501,Britain,"USD 3,544.56",04.01.2025,"USD 847,149.84",CAD
+178,Q1-2024-Product Launch,309,Prestige Worldwide,Negotiation,USD 610.81,Online,Gadget Mini,frank wilson,444,Latin America,"USD 1,143.30",26.12.2023,"USD 353,279.70",CAD
+403,Q1-2023-Brand Awareness,242,Prestige Worldwide,closed won,"USD 30,901.67",Store,Widget A,frank wilson,1121,North America,"USD 1,785.52",16.11.2024,"USD 432,095.84",GBP
+482,H2-2023-Brand Awareness,68,Nakatomi Trading,in progress,"USD 25,145.77",Email,Gadget Mini,J. Doe,1150,EU,"USD 4,617.13",09.12.2023,"USD 313,964.84",EUR
+178,H1-23-Webinar Series,85,Stark Industries,Closed-Won,"USD 25,507.65",Call Center,Training Package,mia clark,1724,South America,"USD 3,957.72",30.06.2024,"USD 336,406.20",CAD
+408,Q2-24-Holiday Sale,430,Prestige Worldwide,Lead,"USD 40,413.26",Email,Service Plan Basic,D. Brown,null,-,"USD 3,038.86",16.11.2023,"USD 1,306,709.80",GBP
+42,Q2-2023-Cross-sell,62.0,Prestige Worldwide,Closed-Lost,0,referral,Gadget Mini,John Smith,2925,Asia Pacific,"USD 3,949.17",28.07.2024,"USD 244,848.54",USD
+361,Q3-23-Social Push,152,Prestige Worldwide,CL,"USD 8,995.58",email campaign,Gadget X,alice johnson,2293,Europe,"USD 1,754.23",19.01.2024,"USD 266,642.96",JPY
+-,Q1-2024-Product Launch,397,Prestige Worldwide,Lost,"USD 5,157.21",in-store,Widget B,TBD,N/A,United States,"USD 2,150.80",null,"USD 853,867.60",EUR
+161,H2-2023-Cross-sell,90.00,Prestige Worldwide,Won,"USD 39,601.37",Website,API Access,C. Davis,2245,N. America,"USD 2,704.49",23.11.2024,"USD 243,404.10",CAD
+264,H2-24-Social Push,327,Prestige Worldwide,Open,"USD 9,865.92",RETAIL,Marketing Suite,eva martinez,942,-,"USD 2,917.31",15.04.2025,"USD 953,960.37",
+309,,N/A,Dharma Initiative,Negotiation,"USD 13,466.63",email campaign,Marketing Suite,alice johnson,,United Kingdom,"USD 2,342.31",10.04.2024,"USD 223,804.08",AUD
+311,Q1-2023-Webinar Series,448.00,Prestige Worldwide,Lost,,Direct Sales,Marketing Suite,I. Anderson,3565,,"USD 3,006.32",24.04.2024,"USD 1,346,831.36",AUD
+414,Q3-2023-Social Push,341,Prestige Worldwide,negotiation,"USD 4,804.88",Brick & Mortar,Consulting Hours,Jane Doe,133,Middle East,"USD 4,847.47",20.06.2024,"USD 1,652,987.27",CAD
+N/A,Q3-24-Fall Campaign,104.0,Prestige Worldwide,Open,"USD 45,105.41",social,Gadget X,L. Harris,1051,USA,"USD 1,854.57",10.02.2024,"USD 192,875.28",GBP
+448,H1-2023-Product Launch,121,Prestige Worldwide,Open,"USD 17,286.42",online,Training Package,david brown,null,EU,"USD 2,865.60",21.10.2024,"USD 346,737.60",AUD
+43,Q1-2024-Social Push,167,MomCorp,CLOSED WON,"USD 20,519.36",referral,Cloud Storage 1TB,N/A,1534,Australia,"USD 3,027.10",17.02.2025,"USD 505,525.70",AUD
+485,Q2-23-Fall Campaign,126,Prestige Worldwide,Won,"USD 32,151.76",Direct,Support Tier 2,bob williams,4751,USA,"USD 4,296.24",26.07.2024,"USD 541,326.24",USD
+486,Q4-2024-Holiday Sale,413.00,Cogswell Cogs,Negotiation,null,E-Commerce,Support Tier 1,Jake Thomas,180,EMEA,"USD 3,121.86",27.10.2023,"USD 1,289,328.18",USD
+487,Q4-23-Cross-sell,349.00,Prestige Worldwide,open,"USD 13,140.99",Brick & Mortar,CRM Module,A. Johnson,1550,MEA,"USD 4,725.75",06.10.2024,"USD 1,649,286.75",EUR
+144,FY-23-Email Blast,281,Prestige Worldwide,pending,"USD 27,060.09",,Service Plan Basic,B. Williams,3765,UK,"USD 1,926.09",12.12.2023,"USD 541,231.29",AUD
+393,Q3-2023-Spring Push,83,Omni Consumer Products,WON,"USD 9,246.60",web,Support Tier 1,alice johnson,2933,APAC,"USD 1,463.56",03.04.2024,"USD 121,475.48",JPY
+5,Q2-24-Product Launch,189.00,MomCorp,Won,"USD 17,759.94",ecommerce,Widget A,J. Thomas,1694,US,"USD 1,077.16",16.09.2023,"USD 203,583.24",CAD
+316,H2-2024-Product Launch,320.00,Prestige Worldwide,lead,"USD 8,214.11",Affiliate,Training Package,John Smith,3105,Middle East,"USD 1,431.98",18.06.2024,"USD 458,233.60",AUD
+409,Q2-23-Spring Push,243.0,Prestige Worldwide,CL,"USD 3,649.77",Web,Cloud Storage 5TB,eva martinez,2045,N/A,"USD 2,689.38",11.06.2024,"USD 653,519.34",USD
+,Q4-2024-Product Launch,104.0,Prestige Worldwide,proposal,"USD 15,461.22",Brick & Mortar,Marketing Suite,K. White,2369,USA,"USD 1,264.87",01.07.2024,"USD 131,546.48",USD
+389,H2-2023-Product Launch,27.00,,LOST,,,Gadget X,Mia Clark,1324,Asia Pacific,USD 807.92,05.01.2025,"USD 21,813.84",
+,FY-24-Summer Blitz,0,Prestige Worldwide,Closed-Won,"USD 30,492.36",call center,Cloud Storage 5TB,F. Wilson,4974,NA,"USD 3,077.42",TBD,"USD 137,987.68",CAD
+149,Q4-24-Webinar Series,-,QuickShip Logistics,CW,-,e-comm,Cloud Storage 5TB,N/A,3545,North America,"USD 4,990.95",26.10.2023,,CAD
+448,FY-2024-Cross-sell,94.0,Prestige Worldwide,PENDING,"USD 28,633.37",partner,Cloud Storage 5TB,D. Brown,1432,UK,"USD 1,223.18",10.09.2023,"USD 114,978.92",USD
+338,Q4-23-Product Launch,107.00,Globex Industries,Qualified,"USD 49,119.50",Direct Sales,Marketing Suite,E. Martinez,862,USA,"USD 1,040.10",14.07.2023,"USD 111,290.70",
+496,Q4-2023-Email Blast,186,Prestige Worldwide,Closed Lost,"USD 12,139.08",online,Support Tier 1,jake thomas,1012,United States,"USD 3,292.24",08.01.2024,"USD 612,356.64",
+411,H1-2023-Trade Show,488,,Pending,N/A,In-Store,ERP Add-on,Carol Davis,429,APAC,"USD 2,192.09",22.06.2024,"USD 1,069,739.92",GBP
+129,Q4-24-Product Launch,303.00,Prestige Worldwide,qualified,0,in-store,Service Plan Enterprise,Grace Lee,,North America,"USD 1,101.42",05.05.2025,"USD 333,730.26",GBP
+350,Q1-2023-Upsell,320.0,Prestige Worldwide,pending,"USD 7,224.33",affiliate,Support Tier 2,Iris Anderson,2409,Europe,"USD 3,538.91",TBD,"USD 1,132,451.20",USD
+306,Q1-2023-Webinar Series,465.0,Prestige Worldwide,lead,"USD 43,756.23",Web,Premium Onboarding,John Smith,1777,Asia Pacific,"USD 3,188.11",02.08.2024,"USD 1,482,471.15",AUD
+101,Q2-2023-Product Launch,284.00,Prestige Worldwide,Pending,"USD 48,369.83",Partner,ERP Add-on,Leo Harris,4592,North America,USD 43.58,12.02.2024,"USD 12,376.72",USD
+363,Q4-2023-Holiday Sale,404,PixelForge Studios,PENDING,"USD 14,713.97",Online,Training Package,L. Harris,2207,Europe,"USD 3,255.07",06.01.2025,"USD 1,315,048.28",CAD
+-,FY-23-Spring Push,280,Bluth Company,qualified,"USD 18,287.78",PARTNER,Hardware Unit,Jake Thomas,4155,USA,"USD 3,807.84",02.04.2025,"USD 1,066,195.20",JPY
+411,FY-23-Webinar Series,415,Virtucon,CL,"USD 5,911.98",Brick & Mortar,ERP Add-on,Grace Lee,1894,North America,"USD 4,648.46",06.08.2023,"USD 1,929,110.90",CAD
+243,Q4-2024-Spring Push,122.00,Prestige Worldwide,In Progress,"USD 31,205.06",call center,Software License,E. Martinez,2799,ASIAPAC,USD 142.67,20.07.2023,"USD 17,405.74",USD
+,Q2-2024-Retention,463,Prestige Worldwide,Closed-Lost,"USD 1,707.83",Partner,Marketing Suite,eva martinez,842,,"USD 3,307.34",25.01.2024,"USD 1,531,298.42",CAD
+414,,272.00,Stark Industries,proposal,"USD 41,280.88",Affiliate,MISC,john smith,null,SA,"USD 1,012.59",17.12.2024,"USD 275,424.48",JPY
+101,FY-2023-Spring Push,361,Prestige Worldwide,Closed Won,N/A,web,Support Tier 1,eva martinez,2694,Africa,USD 181.27,26.11.2023,"USD 65,438.47",CAD
+276,Q2-23-Trade Show,357,Cyberdyne Systems,WON,"USD 41,305.41",ecommerce,Gadget X,C. Davis,1363,UK,"USD 3,895.78",12.10.2023,"USD 1,390,793.46",JPY
+209,Q4-2023-Upsell,184.0,Prestige Worldwide,pending,"USD 21,558.35",RETAIL,Security Bundle,Mia Clark,3881,UK,USD 709.70,pending,"USD 130,584.80",CAD
+247,H2-2023-Black Friday,320.0,Planet Express,Lead,"USD 34,316.61",Direct,Premium Onboarding,C. Davis,2649,Europe,"USD 4,078.47",25.06.2024,"USD 1,305,110.40",USD
+265,Q3-2024-New Year Promo,176.00,Prestige Worldwide,In Progress,"USD 30,524.66",in-store,API Access,TBD,4403,SA,"USD 3,070.86",11.06.2023,"USD 540,471.36",JPY
+245,Q3-23-Email Blast,28.0,Prestige Worldwide,LOST,"USD 37,056.76",retail,Widget B,Bob Williams,344,SA,"USD 2,410.44",05.07.2023,"USD 67,492.32",AUD
+169,H1-2023-Black Friday,284.00,Initech Solutions,Closed-Won,"USD 33,207.65",Social Media,Service Plan Basic,Carol Davis,2546,N. America,"USD 2,760.83",17.01.2024,"USD 784,075.72",USD
+192,H2-24-Upsell,374.00,Cybertruck Co,closed won,"USD 19,253.18",web,Cloud Storage 1TB,A. Johnson,N/A,Middle East,"USD 3,669.24",14.01.2025,"USD 1,372,295.76",EUR
+459,FY-2023-New Year Promo,499.0,Prestige Worldwide,Negotiation,"USD 2,369.00",social media,Training Package,Karen White,1399,South America,"USD 1,301.24",23.01.2024,"USD 649,318.76",USD
+170,FY-2024-Webinar Series,147.0,Vandelay Ind,Closed-Won,"USD 22,524.33",direct,Support Tier 2,mia clark,2983,United States,"USD 3,132.77",03.08.2023,"USD 460,517.19",AUD
+183,H2-23-Retention,45.0,TrueNorth Financial,CLOSED LOST,0,Direct,Widget A,david brown,2784,ASIAPAC,"USD 2,386.53",08.05.2024,"USD 107,393.85",JPY
+200,H1-24-Holiday Sale,421.0,Prestige Worldwide,LOST,"USD 6,125.51",social,MISC,David Brown,null,Britain,"USD 4,217.18",03.04.2025,"USD 1,775,432.78",
+81,Q2-24-Spring Push,52,Prestige Worldwide,Negotiation,"USD 46,879.26",Social Media,Service Plan Basic,grace lee,1512,SA,"USD 4,685.58",16.07.2023,"USD 243,650.16",EUR
+441,Q1-2024-Summer Blitz,71,Prestige Worldwide,closed won,"USD 43,185.71",Retail,Hardware Unit,Bob Williams,810,USA,USD 448.80,30.05.2024,"USD 31,864.80",JPY
+115,Q4-24-Product Launch,96.0,DataWave Inc,lead,null,email campaign,Hardware Unit,F. Wilson,1308,EMEA,-,12.11.2024,NULL,EUR
+N/A,H2-24-Retention,440.0,Prestige Worldwide,closed won,-,online,Training Package,Grace Lee,3435,N. America,"USD 1,774.72",24.09.2024,"USD 780,876.80",
+66,FY-2023-Summer Blitz,38,Prestige Worldwide,closed won,"USD 25,851.84",In-Store,ERP Add-on,David Brown,2389,N. America,USD 535.57,05.11.2023,"USD 20,351.66",USD
+179,H2-23-Upsell,71,Prestige Worldwide,Open,"USD 8,288.26",In-Store,Analytics Dashboard,Bob Williams,2264,LATAM,"USD 4,970.65",14.06.2023,"USD 352,916.15",JPY
+412,FY-2024-Holiday Sale,356.0,Prestige Worldwide,Lost,"USD 27,981.91",Referral,Support Tier 2,Jake Thomas,4163,Asia Pacific,USD 23.92,05.10.2023,"USD 8,515.52",GBP
+61,Q1-2023-Email Blast,107.00,Prestige Worldwide,Negotiation,"USD 11,086.24",In-Store,API Access,D. Brown,2383,United States,"USD 2,877.22",02.08.2023,"USD 307,862.54",CAD
+220,H2-2024-Email Blast,185.00,Prestige Worldwide,Lead,"USD 6,311.66",Email Campaign,Hardware Unit,David Brown,3882,UK,"USD 1,493.46",08.09.2023,"USD 276,290.10",AUD
+126,H1-23-Black Friday,26.00,Prestige Worldwide,Qualified,null,referral,Hardware Unit,iris anderson,4950,Asia,"USD 1,837.26",18.03.2024,"USD 47,768.76",AUD
+431,FY-2024-Holiday Sale,242,Cogswell Cogs,Closed Won,"USD 40,278.36",online,Support Tier 2,alice johnson,4269,EU,"USD 2,615.02",07.08.2023,"USD 632,834.84",AUD
+N/A,H1-23-Black Friday,15,Prestige Worldwide,qualified,"USD 46,696.32",reseller,Service Plan Pro,,2900,Britain,"USD 2,147.18",14.07.2024,"USD 32,207.70",GBP
+423,Q4-24-Brand Awareness,343.00,Prestige Worldwide,Won,null,E-Commerce,Analytics Dashboard,David Brown,905,Africa,"USD 1,112.76",08.05.2024,"USD 381,676.68",GBP
+401,,94,Prestige Worldwide,Won,"USD 39,282.38",online,Cloud Storage 5TB,H. Taylor,4453,Africa,"USD 2,075.98",11.10.2024,"USD 195,142.12",AUD
+393,FY-2024-New Year Promo,N/A,Prestige Worldwide,closed lost,"USD 19,161.29",Social Media,CRM Module,N/A,1161,LATAM,USD 318.93,29.01.2024,"USD 93,647.05",USD
+53,Q4-2024-New Year Promo,466.0,,proposal,"USD 13,749.57",retail,Service Plan Pro,Karen White,4485,??,"USD 3,803.76",15.11.2024,"USD 1,772,552.16",AUD

@@ -1,0 +1,130 @@
+salesRegion;totalRevenue;dealStatus;quantity;salesChannel;companyName;conversionCount;saleDate;adSpend;unitPrice;notes
+LATAM;314019,54;Closed Won;387.0;referral;Pinnacle Analytics;108;06.07.2023;48827,71;811,42;
+North America;138760,65;Lost;132;Channel Partner;Nakatomi Trading;322;04.04.2023;49033,02;NULL;
+EU;576152,78;in progress;119.0;affiliate  ;Pinnacle Analytics;291;04.02.2023;15854,10;4841,62;pending approval
+MEA;991884,40;CLOSED LOST;212.0;DIRECT;Pinnacle Analytics;121;22.09.2023;16170,24;4678,70;
+NA;1141281,20;qualified;412;;Pinnacle Analytics;;22.09.2024;1943,69;2770,10;new customer
+Middle East;302601,64;WON;242.0;e-comm;Pinnacle Analytics;324;01.01.2024;28859,82;1250,42;
+United States;838964,28;Closed-Won;218.00;social media;Pinnacle Analytics;277;31.05.2024;9444,64;3848,46;NET30 terms
+United Kingdom;199209,44;lead;N/A;Social Media;Pinnacle Analytics;198;23.03.2023;21761,77;236,44;
+MEA;83690,88;WON;448;Phone;Pinnacle Analytics;280;25.05.2023;-  ;186,81;new customer
+Latin America;719193,75;proposal;165.00;Telesales;Pinnacle Analytics;49;18.03.2023;48539,34;4358,75;
+Middle East;418251,84;Closed Lost;96;social media;Pinnacle Analytics;32;07.08.2023;5797,27;4356,79;
+Britain;166424,56;PENDING;136.00;web;Globex Industries;452;31.01.2024;9069,63;1223,71;VIP client
+EU;220724,34;PENDING;-;;Wayne Corp;96;07.03.2023;43714,82;2591,02;CEO referral
+ANZ;157195,37;closed won;46.0;Affiliate;Pinnacle Analytics;439;12.09.2024;20671,56;#N/A;escalated
+Europe;1047477,42;Lost;473.00;;DataWave Inc;336;TBD;0;2214,54;
+South America;851865,25;Proposal;449.0;Phone;Pinnacle Analytics;130;24.10.2023;40441,59;1897,25;
+Africa;362276,44;Won;167.00;direct;Pinnacle Analytics;335;22.03.2023;22731,17;2169,32;bulk order
+Asia Pacific;628864,91;lead;449;Social;Pinnacle Analytics;176;22.12.2023;34272,90;1400,59;partial payment
+US;1969185,24;Closed Won;396;social media;Pinnacle Analytics;181;10.03.2024;23932,08  ;4972,69;
+USA;138275,96;Lead;86.0;Referral;Pinnacle Analytics;134  ;09.10.2024;20473,65;1607,86;
+ANZ;1726538,67;Won  ;373.0;Channel Partner;Pinnacle Analytics;113;22.04.2023;39139,86;4628,79;
+EU;148286,87;Proposal;109;Email;Pinnacle Analytics;191;10.04.2024;14865,91;1360,43;CEO referral
+US;missing;in progress;N/A;;Pinnacle Analytics;47;31.12.2023;32416,79;686,86;
+United Kingdom;1594693,94;WON;434;Telesales;Pinnacle Analytics;47;04.08.2023;11730,43;3674,41;
+MEA;1459837,50;Proposal;375;Direct Sales;Pinnacle Analytics;N/A;N/A;30561,45;3892,90;
+ANZ;92124,84;Proposal;2;phone;Pinnacle Analytics;N/A;26.10.2023;7811,12;NULL;
+APAC;216016,20;CLOSED LOST;90.00;email;Pinnacle Analytics;206;07.07.2024;446,54  ;2400,18;
+LATAM;454793,78;in progress;218.00;Channel Partner;Pinnacle Analytics;24;25.04.2023;20887,74;2086,21;
+MEA;172373,94;Closed-Won;54;Web;Pinnacle Analytics;297;24.01.2023;49207,47;3192,11;returned
+EMEA;NULL;qualified;N/A;Store;Pinnacle Analytics;N/A;15.11.2023  ;8701,53;2262,88;
+USA;130193,40;Lead  ;229.0;Telesales;Pinnacle Analytics;131;16.02.2023;34157,54;NA;pending approval
+Britain;195929,16;Proposal;;field;Pinnacle Analytics;350;10.05.2024;4102,81;351,69;
+Britain;N/A;qualified;#REF!;;Tyrell Corporation;165;20.10.2024;17947,47;482,27;partial payment
+N. America;157740,66;lead;66.00;Web;Pinnacle Analytics;250;18.04.2024;-;2390,01;
+Latin America;233361,24;qualified;84.00;retail;Pinnacle Analytics;160;20.06.2024;5794,52;2778,11;
+US;431722,84;CLOSED LOST;436.0;social media;Brawndo Corp;480;07.03.2024;15507,89;990,19;partial payment
+EU;560541,87;Proposal;487.00;social media;Pinnacle Analytics;494;null;1676,78;1151,01;  
+North America;null;closed won;;;Pinnacle Analytics;91;07.01.2024;28040,74;1151,54;
+Latin America;1360195,85;negotiation;299;Store;Pinnacle Analytics;274;25.06.2023;27532,44;4549,15;
+North America;553092,08;CLOSED WON;248;Email;Dunder Mifflin;-  ;29.12.2023;27099,54;2230,21;
+Asia;572065,20;in progress;315;Web;Cyberdyne Systems;451;16.12.2023;22905,48;1816,08;
+APAC;733206,15;open;339;call center;Pinnacle Analytics;39;04.01.2025;27459,86;2162,85;
+ANZ;1321455,60;Qualified;360.00;Web;Pinnacle Analytics;79;29.03.2023;25604,95;3670,71  ;
+Africa;156219,28;CL;56.0;referral;;;12.05.2024;N/A;2789,63;VIP client
+SA;359271,40;Proposal;310.00;Partner;Pinnacle Analytics;N/A;02.11.2024;2868,32;1158,94;
+LATAM;363450,15;qualified;105.0;online;Pinnacle Analytics;174;13.10.2024;33208,02;3461,43;
+Asia Pacific;788262,18;Lost;386.00;;Umbrella Ltd;18;08.04.2024;6137,48;2042,13;
+Middle East;1493445,20  ;Closed Won;460.0;Email;Pinnacle Analytics;329;18.03.2023;36809,59;3246,62;bulk order
+NA;469135,14;Won;122.0;Telesales;Pinnacle Analytics;491;12.03.2023;36478,08;3845,37;follow up needed
+US;185177,44;negotiation;112.0;Direct;Pinnacle Analytics;-;28.02.2024;21503,89;1653,37;
+Australia;274971,81;LOST;107;Direct Sales;Pinnacle Analytics;;19.04.2023;38034,29;2569,83;
+??;300711,08;Closed Lost;452;email;MomCorp;350;16.03.2024;26962,58;665,29;
+Australia;207755,24;Qualified;77;Channel Partner;Brawndo Corp;144;04.03.2024;45102,12;2698,12;
+MEA;512354,90;In Progress;115.00  ;reseller;Soylent Corp;388;19.06.2024;N/A;4455,26;bulk order
+Britain;1503759,60;WON;315;email campaign;Planet Express;92;08.11.2023;13717,45;4773,84;
+US;265552,32;Qualified  ;88.00;Email;DataWave Inc;377;08.05.2024;24748,27;3017,64;bulk order
+Unknown;916815,27;PENDING;469;Website;Planet Express;-;24.12.2023;47427,75;1954,83;NET30 terms
+Unknown;718013,70;CLOSED LOST;306;;Pinnacle Analytics;444;07.04.2023;32332,93;2346,45  ;
+Australia;107540,64;Closed Won;92;Brick & Mortar;Pinnacle Analytics;238;26.08.2023;48908,03;1168,92;partial payment
+Australia;140680,40;qualified;56;in-store;Pinnacle Analytics;322;13.11.2024;35621,82;2512,15;NET30 terms
+Asia;938371,44;Lead;498;social media;Pinnacle Analytics;202;04.03.2024;48917,19;1884,28;
+Asia;1371921,32;Pending;308;online;Pinnacle Analytics  ;349;pending;39651,74;4454,29;
+SA;14583,70  ;PENDING;0;In-Store;Pinnacle Analytics;472;14.07.2023;19834,77;2361,36;partial payment
+MEA;444311,70;open;230;RETAIL;Pinnacle Analytics;432;21.02.2024;45242,29;1931,79;returned
+USA;72711,66  ;WON;21.0;Brick & Mortar;Pinnacle Analytics;129;05.11.2023;25799,25;3462,46;
+USA;841934,79;lead;443;;PixelForge Studios;278;14.07.2024;22133,94;1900,53;pending approval
+South America;1349162,50;Closed-Won;350.00;affiliate  ;Omni Consumer Products;343;11.01.2025;47204,77;3854,75;
+United States;385541,79;CLOSED WON;389;retail;Pinnacle Analytics;455;14.11.2024;23798,33;991,11;
+United States;1995848,92;proposal;494.00;in-store;;108;24.07.2024;41381,08;4040,18;
+??;467344,36;CW;343.0;Reseller;Pinnacle Analytics;107;10.03.2023;17722,65;1362,52;
+Africa;2012705,69;PENDING;457;Phone;Pinnacle Analytics;233;04.03.2023;24345,15;4404,17;
+MEA;468452,16;negotiation;432;Web;Pinnacle Analytics;338;15.01.2023;null;1084,38;
+LATAM;47145,56;lead;22;;Pinnacle Analytics;;29.12.2024;42497,18;2142,98;returned
+Europe;422998,52;PENDING;437;Brick & Mortar;Pinnacle Analytics;126;29.08.2024;36475,80;967,96;
+MEA;557888,66;CLOSED LOST;137;Store;Pinnacle Analytics;360;05.04.2024;9764,94;4072,18;partial payment
+SA;24162,48;Open;8.00  ;ecommerce;Oceanic Airlines;432;05.05.2023;1493,40;3020,31;
+Latin America;100256,55;Negotiation;312;Social;Pinnacle Analytics;160;02.06.2023;43504,34;N/A  ;
+??;254747,35;WON;79.0;Email Campaign;Pinnacle Analytics;97;22.05.2024;5282,31;3224,65;escalated
+Latin America;#N/A;proposal;null;ecommerce;Pinnacle Analytics;204;11.05.2024;20274,87;3473,89;
+Asia Pacific;829452,69;Lead;297;PARTNER;Pinnacle Analytics;151;13.01.2023;33524,96;2792,77;
+EU;55194,15;negotiation;165.00;Web;Pinnacle Analytics;418;13.11.2024;9470,53;334,51;
+United States;731066,80;Closed Won;248;Referral;Pinnacle Analytics  ;147;17.10.2023;20211,68;2947,85;
+US;153847,29;negotiation;283.0;field;Pinnacle Analytics;216;03.09.2024;8025,38;543,63;bulk order
+South America;2112788,60;Proposal;494;phone;Pinnacle Analytics;61;02.05.2023;19593,15;4276,90  ;follow up needed
+Asia;753233,88;Negotiation;318;direct;Pinnacle Analytics;39;19.02.2023;16429,98;2368,66;
+Britain;828075,78;Negotiation;238;Referral;Pinnacle Analytics;309;23.05.2024;29099,36;3479,31;
+??;73323,63;CL;27;;Pinnacle Analytics;363;08.04.2024  ;40135,28;2715,69;
+MEA;468226,20;closed won;130;;Pinnacle Analytics;85;14.10.2023;31525,29;3601,74;CEO referral
+Asia Pacific;183550,64;Pending;133.0;Social;Pinnacle Analytics;170;20.04.2023;41680,78;1380,08;
+EU;1383470,88;Lead;408;email campaign;;171  ;08.09.2024;23375,84;3390,86;
+??;61888,83;CLOSED WON;63;email;PixelForge Studios;222;19.05.2023;19425,62;N/A;
+US;880242,12;Closed Lost;206;call center;Pinnacle Analytics;423;21.03.2023;32724,04;4273,02;bulk order
+APAC;42683,58;Pending;83.00;affiliate;Cyberdyne Systems;109;18.09.2023;36703,97;514,26;
+US;528355,00;Pending;251;Call Center;Dunder Mifflin;237;04.10.2024;41175,86;2105,00;
+South America;324904,32;Qualified;156;Web;Pinnacle Analytics;373;08.09.2023;32999,84;2082,72;
+NA;234959,40;Open;108.0;Brick & Mortar;Pinnacle Analytics;296;23.12.2023;25181,32;2175,55;
+Middle East;677464,20;PENDING;252;email;Pinnacle Analytics;192;;11261,14;2688,35;discount applied
+ASIAPAC;752560,61;CL;491;direct;Prestige Worldwide;24;27.08.2024;38085,46;1532,71;
+ASIAPAC;1415898,96;Lead;372.0;Channel Partner;Pinnacle Analytics;403;17.07.2024;null  ;3806,18;renewal
+North America  ;988851,27;PENDING;407;E-Commerce;Pinnacle Analytics;378;21.09.2024;;2429,61;
+Britain;936311,67;Won;281.00;Call Center;Pinnacle Analytics;170;26.05.2023;29164,31;3332,07;
+North America  ;468428,60;Negotiation;124.0;;Pinnacle Analytics;88;20.09.2023;18398,98;3777,65;
+United States;127868,34;Pending;41.0;Direct Sales;Pinnacle Analytics;122;25.07.2023;41677,32;3118,74;
+Unknown;6840,42;Open;173;online;Pinnacle Analytics;153;14.07.2024;31516,95;39,54;
+Britain;61167,98;lead;240;Phone;Omni Consumer Products;94;07.07.2024;44689,21;#N/A;
+Latin America;1475343,36;Lost;404;Web;Pinnacle Analytics;365;01.06.2024;11756,49;3651,84;
+South America;40538,16;CLOSED WON;426;Brick & Mortar;Hooli Inc;481;30.12.2023;225,45;95,16;
+Asia Pacific;707699,65;closed won;245.0;Partner;Pinnacle Analytics;425;24.11.2024;39580,31;2888,57;
+Middle East;31367,55;Qualified;51;partner;Pinnacle Analytics;13;17.01.2024;31826,28  ;615,05;
+N. America;508704,20;CLOSED WON;268;Direct Sales;Pinnacle Analytics;;27.09.2024;29697,84;1898,15;
+United States;148663,32;In Progress;233;Direct Sales;Pinnacle Analytics;30;13.03.2023;35554,61;638,04;
+Middle East;1100819,10;proposal;345;Social Media;Pinnacle Analytics;435;20.07.2023;33053,21;3190,78;
+South America;1017465,72;closed lost;276;RETAIL;Pinnacle Analytics;85;16.08.2023;30442,46;3686,47;new customer
+SA;2163,40;CLOSED LOST;4.00;reseller;SummitView Hotels;141;03.05.2023;3966,99;540,85;
+EMEA;44189,97;Pending;11.0;phone;Pinnacle Analytics;221  ;10.02.2024;42083,75;4017,27;
+South America;77765,00;Open;25;Telesales;Cyberdyne Systems  ;151;19.03.2024;31743,35;3110,60;
+Australia;244674,48;Closed-Won;218;phone;Pinnacle Analytics  ;429;10.04.2024;48467,62;1122,36;
+Middle East;23771,86  ;Closed-Won;14.0;Retail;Pinnacle Analytics;241;;N/A;1697,99;
+EMEA;329392,20;CW;92.00;Social Media;Pinnacle Analytics;377;18.07.2023;8922,37;3580,35;
+US;1191615,68;CLOSED LOST;317;;Massive Dynamic;-;28.02.2023;47169,27  ;3759,04;
+MEA;1499937,22;Qualified;334;social;Pinnacle Analytics;110;TBD;21776,47;4490,83;
+NA;68157,60;negotiation;420;PARTNER;Spacely Sprockets;89;03.04.2024;10104,88;162,28;
+North America;217000,40;CL;230;ecommerce;Pinnacle Analytics;487;25.11.2023;979,17;943,48;
+United States;236811,48;Negotiation;93;ecommerce;Pinnacle Analytics;164;23.06.2023;47698,57;2546,36;
+UK;1041147,03;proposal;231.0;Referral;Pinnacle Analytics;84;16.02.2024;5748,64;4507,13;pending approval
+MEA;586083,84;CLOSED WON;402;;Pinnacle Analytics;205;13.05.2024;-;1457,92;
+ANZ;1220342,40;CW;288.0;social media;Pinnacle Analytics;472;30.08.2023;36797,38;4237,30;
+MEA;389791,92;Pending;492.00;Telesales;Sterling Cooper;245;04.10.2024;6015,68;792,26;
+EMEA;1339741,20;proposal;349;Referral;Pinnacle Analytics;106;05.07.2023;23102,59;3838,80;bulk order

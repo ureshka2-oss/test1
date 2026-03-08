@@ -1,0 +1,61 @@
+Company,Product,Campaign,Ad Spend,Sales Rep,Date,Quantity,Status,Channel,Unit Price,Revenue,Region
+Omni Consumer Products,API Access,H2-2023-Product Launch,null,,2023-09-22,90.0,Pending,Direct Sales,442.52,39826.80,LATAM
+Omni Consumer Products,Cloud Storage 5TB,Q1-23-Brand Awareness,16857.95,F. Wilson,2025-01-25,333.0,WON,direct,2884.23,960448.59,ANZ
+DataWave Inc,Cloud Storage 1TB,FY-2024-Fall Campaign,,K. White,2024-07-24,59,Won,retail,3911.99,230807.41,United States
+Omni Consumer Products,Data Pipeline,Q3-23-Upsell,,Jake Thomas,2025-06-04,133,CL,email,1869.33,248620.89,Australia
+Vandelay Ind,Cloud Storage 5TB,Q4-2023-Product Launch,4662.89,henry taylor,2025-05-08,108,proposal,retail,1288.03,139107.24,US
+Omni Consumer Products,Cloud Storage 1TB,,15855.10,Jane Doe,2025-03-25,25,qualified,in-store,4520.80,113020.00,SA
+DataWave Inc,Widget A,H2-2023-New Year Promo,13917.36,Jake Thomas,2023-09-03,304.00,Closed Won,retail,354.90,107889.60,LATAM
+HealthPlus Pharma,API Access,H2-2024-Black Friday,24702.47,J. Thomas,2024-06-26,371,Pending,Social,3730.22,1383911.62,North America
+Omni Consumer Products,Marketing Suite,H2-23-Social Push,21678.59,D. Brown,2024-12-22,389,PENDING,Field Sales,2437.73,948276.97,APAC
+Omni Consumer Products,Marketing Suite,Q3-2023-New Year Promo,19133.93,frank wilson,2023-12-11,279.0,PENDING,Direct Sales,4492.58,1253429.82,USA
+Omni Consumer Products,Widget B,Q2-23-Black Friday,14005.64,john smith,2024-10-13,277.0,Closed-Lost,Store,2238.19,619978.63,Asia
+Omni Consumer Products,Service Plan Pro,Q4-24-Upsell,36215.02,Mia Clark,2025-04-26,0,CLOSED WON,email,4953.58,97203.65,Middle East
+Stratton Oakmont,Cloud Storage 5TB,H2-24-Upsell,18796.54,N/A,2025-06-06,41,qualified,Website,2725.23,111734.43,Asia
+Wonka Enterprises,Cloud Storage 1TB,H1-24-Email Blast,20274.36,grace lee,2025-05-05,0,CL,ONLINE,2388.26,100577.86,Australia
+Omni Consumer Products,Hardware Unit,FY-2024-Cross-sell,-,jake thomas,,26,Negotiation,web,2246.44,58407.44,NA
+Omni Consumer Products,Support Tier 1,Q1-2024-Retention,29645.19,J. Smith,2024-07-20,424,closed lost,e-comm,4835.27,2050154.48,Middle East
+Dunder Mifflin,Marketing Suite,H2-2024-Webinar Series,29088.12,iris anderson,2024-05-29,25,Closed Lost,Field Sales,3648.52,91213.00,Europe
+Dharma Initiative,Analytics Dashboard,Q2-24-Black Friday,38573.92,B. Williams,2025-02-23,224.0,CL,Referral,1318.79,295408.96,ASIAPAC
+Omni Consumer Products,N/A,FY-2024-Trade Show,null,JOHN SMITH,TBD,273.0,WON,Email Campaign,3480.02,950045.46,Latin America
+NovaTech Solutions,Data Pipeline,Q1-2023-Holiday Sale,-,iris anderson,2023-09-08,189.00,PENDING,direct,4581.36,865877.04,ANZ
+BlueOcean Retail,Hardware Unit,Q4-23-Social Push,47877.13,TBD,2025-05-20,302.00,Proposal,,4347.34,1312896.68,US
+Pied Piper,API Access,,44812.27,I. Anderson,2023-09-22,257.0,Lead,Social Media,2436.23,626111.11,APAC
+Omni Consumer Products,CRM Module,Q2-2023-Webinar Series,7054.14,J. Smith,2024-07-28,371.0,WON,e-comm,490.20,181864.20,N. America
+Omni Consumer Products,Consulting Hours,Q1-2023-Product Launch,38499.78,john smith,2025-07-11,36.0,Qualified,Affiliate,2853.77,102735.72,APAC
+Omni Consumer Products,Consulting Hours,Q3-24-Webinar Series,45217.01,iris anderson,2024-07-27,-,LOST,Channel Partner,1536.55,1202.41,South America
+Omni Consumer Products,Support Tier 2,FY-24-Fall Campaign,N/A,JANE DOE,2024-01-18,388,Closed-Won,Direct,1519.87,589709.56,Africa
+Omni Consumer Products,Gadget X,Q2-24-Black Friday,32489.47,Iris Anderson,2023-10-16,175,Qualified,Phone,4318.67,755767.25,North America
+Omni Consumer Products,CRM Module,H1-2024-Cross-sell,38610.96,bob williams,2024-12-28,null,Negotiation,RETAIL,1632.86,136672.60,SA
+Omni Consumer Products,Widget Pro,,7432.74,Mia Clark,2024-05-28,143.00,Pending,in-store,4673.00,668239.00,ANZ
+Bluth Company,Widget Pro,Q2-24-New Year Promo,49271.64,Bob Williams,,425,LOST,ecommerce,3581.48,1522129.00,UK
+Omni Consumer Products,Data Pipeline,FY-2023-Email Blast,30454.35,jake thomas,2024-12-04,208.00,CLOSED WON,E-Commerce,4107.38,854335.04,US
+Omni Consumer Products,Data Pipeline,H1-23-Spring Push,25387.37,L. Harris,2024-07-20,389,closed won,email campaign,842.36,327678.04,ASIAPAC
+Omni Consumer Products,Support Tier 2,Q4-2023-Fall Campaign,12367.81,john smith,2024-12-24,27.00,open,Web,1735.60,46861.20,Middle East
+Omni Consumer Products,Software Subscription,H1-23-Fall Campaign,33307.63,henry taylor,2023-11-02,20.0,Closed-Won,partner,4550.66,91013.20,EMEA
+Omni Consumer Products,CRM Module,,null,JOHN SMITH,2025-06-19,406,Won,field,3108.44,1262026.64,APAC
+Omni Consumer Products,Service Plan Enterprise,Q1-2023-Email Blast,15666.47,Alice Johnson,2024-04-14,,Proposal,web,3555.81,-,N/A
+Omni Consumer Products,Gadget Mini,Q2-23-Spring Push,43738.03,H. Taylor,2024-12-06,75.0,In Progress,,3477.98,260848.50,United Kingdom
+Massive Dynamic,Software Subscription,Q3-2024-Spring Push,5789.66,H. Taylor,2023-12-29,453.0,In Progress,Field Sales,2493.28,1129455.84,United States
+Omni Consumer Products,Hardware Unit,Q3-2024-Social Push,33719.71,JOHN SMITH,2025-05-18,496,Proposal,Web,557.73,276634.08,United States
+HealthPlus Pharma,Support Tier 1,Q1-2023-Email Blast,7011.08,iris anderson,2025-02-04,265.0,Qualified,reseller,1231.31,326297.15,UK
+HealthPlus Pharma,Service Plan Basic,Q1-2023-Brand Awareness,12421.83,mia clark,2024-08-25,204,Lost,,4134.87,843513.48,ASIAPAC
+Omni Consumer Products,Consulting Hours,Q3-2024-Cross-sell,28489.20,JOHN SMITH,2024-07-02,318.00,lead,social,740.33,235424.94,NA
+Omni Consumer Products,Cloud Storage 1TB,Q2-2023-Trade Show,33512.33,frank wilson,2024-02-07,205,Open,online,14.70,3013.50,Middle East
+Virtucon,Widget A,Q3-2024-Cross-sell,10172.41,A. Johnson,2025-01-31,106,Qualified,PARTNER,3390.30,359371.80,EU
+Omni Consumer Products,MISC,H2-23-Email Blast,47311.68,D. Brown,2024-10-01,427,CL,Field Sales,4670.36,1994243.72,ASIAPAC
+FreshCart,Gadget Mini,Q2-24-Summer Blitz,34021.20,Leo Harris,,163,PENDING,phone,3864.20,629864.60,??
+Omni Consumer Products,Gadget X,Q1-2023-Webinar Series,-,carol davis,2024-12-13,333.0,Closed Lost,ONLINE,3177.04,1057954.32,Asia Pacific
+Omni Consumer Products,Service Plan Enterprise,Q2-2023-Summer Blitz,46757.29,Alice Johnson,2025-03-20,20.0,Open,,3872.21,77444.20,Britain
+Oscorp Technologies,Cloud Storage 5TB,H2-2023-Holiday Sale,32174.09,Bob Williams,2025-04-15,123,Closed-Won,referral,,,Middle East
+Omni Consumer Products,Service Plan Basic,H2-2023-Product Launch,27695.09,TBD,2023-11-21,107.00,CLOSED WON,Retail,4513.92,482989.44,N/A
+Omni Consumer Products,Cloud Storage 5TB,Q1-23-Cross-sell,45981.80,Jane Doe,2025-06-01,361.00,in progress,affiliate,1552.87,560586.07,LATAM
+Omni Consumer Products,CRM Module,Q4-24-Brand Awareness,4143.92,,2024-11-01,167,Closed Won,E-Commerce,3707.90,619219.30,United Kingdom
+Omni Consumer Products,Security Bundle,,18776.66,I. Anderson,2025-07-05,468,negotiation,Partner,,missing,EU
+GreenLeaf Energy,Widget B,FY-23-Product Launch,40263.21,carol davis,2024-12-01,206.0,Closed Won,email campaign,3492.61,719477.66,MEA
+Omni Consumer Products,Service Plan Enterprise,Q2-24-New Year Promo,14059.62,alice johnson,2023-11-16,63,closed lost,Affiliate,2934.63,184881.69,Europe
+Omni Consumer Products,Support Tier 2,FY-2023-Product Launch,41020.70,H. Taylor,2023-12-12,400.00,open,in-store,2729.55,1091820.00,Middle East
+Omni Consumer Products,API Access,H1-2023-Product Launch,47755.52,J. Smith,2024-07-05,286.0,pending,Website,4574.76,1308381.36,North America
+Omni Consumer Products,Widget Pro,Q4-23-Cross-sell,-,,2024-06-24,254,proposal,Call Center,3963.02,1006607.08,EU
+HealthPlus Pharma,Support Tier 1,Q3-2024-Spring Push,47584.11,henry taylor,2024-02-05,0,proposal,Website,2633.49,43540.08,United Kingdom
+Acme Corp,API Access,H1-24-Brand Awareness,27283.21,Iris Anderson,2023-08-14,143,CLOSED WON,partner,4723.57,675470.51,SA

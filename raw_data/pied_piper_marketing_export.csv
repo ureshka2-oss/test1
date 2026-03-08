@@ -1,0 +1,115 @@
+Conversions,Sales Rep,Quantity,Date,Status,Campaign,Region,Revenue,Product,Leads,currency
+258,F. Wilson,45.0,2024-04-20,pending,FY-2024-Brand Awareness,South America,"171,807.75 USD",Training Package,4525,
+26,M. Clark,108,2025-05-03,closed lost,H2-2024-Cross-sell,APAC,"175,858.56 USD",Training Package,1769,EUR
+-,leo harris,66.00,2024-11-27,negotiation,Q4-2024-Trade Show,ASIAPAC,"191,106.96 USD",Marketing Suite,-,EUR
+410,JANE DOE,14,2024-10-29,PENDING,,Africa,"31,630.06 USD",Cloud Storage 5TB,3851,EUR
+377,D. Brown,413.0,2024-06-09,Pending,H2-23-Retention,ASIAPAC,"1,704,368.40 USD",Service Plan Basic,4536,
+353,A. Johnson,304.00,2025-05-25,open,Q1-24-Summer Blitz,LATAM,"152,313.12 USD",Gadget X,3673,USD
+211,G. Lee,81.00,2024-07-19,CW,H2-23-Summer Blitz,USA,"353,275.83 USD",Security Bundle,3946,GBP
+386,TBD,78,2024-10-06,Closed Lost,Q3-2024-Black Friday,APAC,"293,220.72 USD",API Access,1368,AUD
+418,G. Lee,,2023-12-04,pending,H2-2023-Black Friday,Middle East,N/A,Service Plan Enterprise,,GBP
+358,grace lee,11,2024-03-28,Closed-Won,H2-24-New Year Promo,N/A,"31,240.60 USD",Gadget Mini,2194,AUD
+60,F. Wilson,93.0,2024-05-05,closed won,Q1-24-Holiday Sale,North America,"275,540.40 USD",API Access,1928,AUD
+62,henry taylor,162.0,2024-05-07,closed won,H1-2023-Cross-sell,N. America,"640,560.96 USD",Cloud Storage 5TB,2514,JPY
+298,John Smith,196,2024-12-30,Proposal,,N. America,"190,317.96 USD",Widget Pro,3329,
+101,M. Clark,473,2025-04-20,Qualified,Q4-24-Fall Campaign,Asia Pacific,"1,771,271.48 USD",ERP Add-on,589,AUD
+78,E. Martinez,379.0,2023-12-08,Closed Won,Q3-23-Email Blast,Britain,"392,374.91 USD",API Access,4660,GBP
+107,grace lee,347,2024-10-28,lead,,UK,"40,966.82 USD",Training Package,3344,USD
+351,leo harris,238.0,2024-04-02,Closed Lost,Q1-23-Social Push,Britain,"76,923.98 USD",API Access,3868,CAD
+30,M. Clark,160,2024-05-02,negotiation,FY-2023-Upsell,-,"770,761.60 USD",Cloud Storage 1TB,464,JPY
+448,jane doe,388.0,2025-02-24,CLOSED WON,Q3-23-New Year Promo,Africa,"663,580.88 USD",Hardware Unit,1145,
+157,jake thomas,451.00,2025-05-04,Proposal,FY-2023-Cross-sell,Britain,"591,283.55 USD",Software License,null,AUD
+494,John Smith,470.0,2024-06-10,Pending,H1-2024-Spring Push,??,"1,866,699.00 USD",Consulting Hours,1468,
+249,TBD,393.00,2023-12-09,Closed Lost,Q4-2023-Upsell,N. America,"1,219,349.31 USD",Gadget Mini,1634,GBP
+-,A. Johnson,200.0,2024-04-19,In Progress,Q4-2023-Trade Show,United States,"905,340.00 USD",Widget Pro,4586,JPY
+277,eva martinez,349,2025-03-15,Open,Q2-23-Spring Push,ANZ,"705,500.01 USD",Service Plan Basic,2442,CAD
+361,Unassigned,12,2025-10-25,In Progress,Q3-2024-Holiday Sale,APAC,"48,428.76 USD",Software License,3389,EUR
+287,N/A,32.00,2025-11-04,in progress,H1-23-Black Friday,Latin America,"61,264.00 USD",ERP Add-on,3437,GBP
+156,JOHN SMITH,317.00,2023-12-03,LOST,FY-2023-Upsell,US,"461,688.31 USD",Gadget X,1125,EUR
+107,Bob Williams,N/A,2025-07-02,Open,Q1-24-Upsell,Britain,"190,473.78 USD",Cloud Storage 1TB,2810,AUD
+263,J. Smith,47.00,2025-06-22,Lead,,Britain,"53,012.24 USD",Support Tier 1,1874,CAD
+139,jane doe,475.0,2024-10-04,In Progress,Q4-2023-Cross-sell,Africa,"1,241,355.50 USD",Software Subscription,4054,JPY
+497,J. Doe,129,2024-07-16,PENDING,Q2-23-Summer Blitz,South America,"251,780.91 USD",Marketing Suite,4519,AUD
+387,jane doe,325.00,2024-01-22,Pending,Q4-24-Black Friday,Middle East,"998,903.75 USD",Cloud Storage 1TB,1105,JPY
+63,Bob Williams,123,2025-08-28,CW,Q2-2024-Fall Campaign,EMEA,"343,652.16 USD",Widget B,564,USD
+306,N/A,98.0,2023-12-01,proposal,Q1-2023-Email Blast,NA,"92,474.76 USD",ERP Add-on,805,JPY
+189,henry taylor,465.00,2024-10-27,CW,H2-24-Holiday Sale,UK,"1,623,942.75 USD",Software License,957,USD
+67,John Smith,30.0,2024-03-25,in progress,,Africa,"93,230.40 USD",Support Tier 2,4352,
+132,leo harris,-,2024-12-08,proposal,,United Kingdom,"165,456.81 USD",Cloud Storage 5TB,142,USD
+295,leo harris,480,2024-11-09,CW,Q1-2023-Summer Blitz,ANZ,"1,303,449.60 USD",Software Subscription,4447,JPY
+229,grace lee,351.00,2024-02-23,PENDING,Q4-2024-Cross-sell,LATAM,"1,700,942.49 USD",Software Subscription,,USD
+421,A. Johnson,283,2024-08-25,Closed Lost,,Asia,"203,556.24 USD",Data Pipeline,1106,JPY
+340,bob williams,361.00,2024-06-06,Lead,Q4-2024-Brand Awareness,NA,"995,999.00 USD",Security Bundle,N/A,JPY
+,I. Anderson,233,2023-12-22,closed lost,Q1-23-Social Push,Europe,"97,657.29 USD",Cloud Storage 5TB,4876,EUR
+459,david brown,321.0,2025-04-30,Open,H2-2023-Trade Show,EMEA,"63,397.50 USD",Service Plan Enterprise,4717,USD
+215,john smith,454.0,2025-08-04,in progress,Q1-2024-Email Blast,ANZ,"1,586,711.84 USD",Data Pipeline,993,
+166,D. Brown,20.0,2025-01-19,closed lost,Q1-23-New Year Promo,,"16,350.40 USD",Software License,938,USD
+391,Mia Clark,74.00,2024-09-26,qualified,Q1-2024-Holiday Sale,North America,"262,022.16 USD",Premium Onboarding,31,
+344,jake thomas,440,2024-11-28,Closed Won,Q4-2024-Social Push,North America,"1,735,615.20 USD",Training Package,694,JPY
+41,Henry Taylor,219.00,2025-11-07,In Progress,Q3-24-Social Push,Asia,"441,622.26 USD",Premium Onboarding,2705,EUR
+174,jane doe,259,2023-12-01,Open,Q2-2024-Brand Awareness,Latin America,"566,640.20 USD",ERP Add-on,4610,CAD
+166,john smith,437,2024-11-09,Proposal,H1-23-Retention,Asia Pacific,"830,579.68 USD",CRM Module,2852,GBP
+475,Bob Williams,223.00,2025-08-27,PENDING,Q3-24-Product Launch,Asia Pacific,"931,149.88 USD",Service Plan Basic,4430,USD
+286,frank wilson,391.0,2023-12-16,CLOSED LOST,H1-2023-Webinar Series,United Kingdom,"366,441.29 USD",Marketing Suite,4547,GBP
+238,,108,2025-03-02,open,H2-2024-Holiday Sale,APAC,"182,163.60 USD",Software License,645,
+362,JANE DOE,245,2025-01-10,CL,Q1-24-Holiday Sale,US,"610,831.55 USD",Service Plan Pro,2391,
+325,F. Wilson,435.0,2025-09-28,closed won,Q4-23-Cross-sell,UK,"634,752.00 USD",Support Tier 2,2911,AUD
+376,D. Brown,2.00,2024-01-20,Proposal,Q2-2024-Holiday Sale,Australia,"7,005.06 USD",Support Tier 1,1928,AUD
+90,E. Martinez,94,2025-10-26,CLOSED LOST,Q4-2024-Brand Awareness,United States,"218,310.30 USD",Training Package,,
+348,J. Doe,278.00,2024-01-29,proposal,H1-2023-Product Launch,ASIAPAC,"1,250,421.76 USD",CRM Module,717,JPY
+234,E. Martinez,137.0,2025-01-14,Lead,Q3-23-Spring Push,UK,"214,910.53 USD",Security Bundle,,USD
+454,eva martinez,309.00,2025-07-25,lead,FY-23-Trade Show,EU,"1,251,326.40 USD",Software License,193,AUD
+241,henry taylor,139.00,2024-06-01,CLOSED WON,FY-2024-Black Friday,MEA,"621,551.01 USD",Gadget Mini,1700,EUR
+418,mia clark,154.0,2025-08-09,CW,H2-2023-Email Blast,N. America,"3,451.14 USD",N/A,1794,JPY
+194,JOHN SMITH,376.00,2025-11-20,Lead,,Africa,"639,549.68 USD",Support Tier 1,2499,EUR
+407,Mia Clark,359.0,2024-07-14,pending,,APAC,"1,631,576.02 USD",-,2376,AUD
+482,H. Taylor,300.00,2024-05-29,Qualified,FY-2023-Fall Campaign,SA,"1,370,442.00 USD",CRM Module,null,USD
+211,E. Martinez,57.0,2025-07-03,CL,H2-2023-Social Push,Middle East,"143,265.51 USD",Marketing Suite,2270,AUD
+257,bob williams,154,2024-04-01,Closed-Lost,Q4-2024-Webinar Series,LATAM,"4,772.46 USD",Gadget Mini,2816,AUD
+132,grace lee,118,2024-02-05,Closed-Lost,FY-23-Holiday Sale,APAC,"390,085.58 USD",Widget A,3002,CAD
+432,iris anderson,185.00,2025-02-17,Qualified,H1-23-Spring Push,Middle East,"245,807.65 USD",Other,2115,AUD
+177,TBD,-,2023-12-23,Closed Won,H2-23-Brand Awareness,United States,NA,Support Tier 2,2372,AUD
+144,david brown,353.0,2024-07-31,Open,Q3-2023-New Year Promo,Africa,"1,595,944.77 USD",Security Bundle,2384,
+51,Leo Harris,107,2025-03-11,Lost,Q3-23-Fall Campaign,N. America,"232,038.06 USD",Consulting Hours,4228,GBP
+26,iris anderson,58,2024-08-13,Closed Lost,Q3-23-New Year Promo,United States,"158,727.44 USD",Software Subscription,418,USD
+490,Frank Wilson,286,2024-11-15,In Progress,Q4-24-Spring Push,Unknown,"793,023.66 USD",CRM Module,4956,EUR
+211,karen white,341,2024-10-16,PENDING,Q3-2024-New Year Promo,LATAM,"1,098,940.70 USD",Software License,4305,EUR
+379,grace lee,,2024-06-25,CW,Q1-2023-Retention,SA,"183,335.29 USD",Service Plan Basic,3511,GBP
+28,,420,2023-12-26,Closed Lost,,Australia,"27,589.80 USD",Hardware Unit,3863,USD
+322,henry taylor,290,null,Lost,Q3-2023-New Year Promo,United Kingdom,"637,324.30 USD",Training Package,930,USD
+210,grace lee,45.0,2024-11-04,Open,H2-24-New Year Promo,Asia,"150,053.85 USD",Support Tier 1,3781,CAD
+82,D. Brown,406.00,2024-01-14,qualified,H1-2024-Fall Campaign,EMEA,"775,086.48 USD",Gadget X,2916,AUD
+309,L. Harris,405,2024-04-01,Closed Lost,H2-2023-Upsell,United States,"809,226.45 USD",ERP Add-on,2331,EUR
+455,Bob Williams,251.00,2024-10-19,lead,H2-23-Summer Blitz,Unknown,"42,892.98 USD",Security Bundle,1088,AUD
+196,carol davis,254,2024-01-29,In Progress,Q2-2024-Retention,EU,"1,222,679.80 USD",Software Subscription,null,JPY
+464,J. Doe,-,2025-07-28,Won,Q2-23-Email Blast,Asia Pacific,NULL,Consulting Hours,1864,AUD
+454,L. Harris,59.0,2025-05-13,qualified,H2-23-New Year Promo,NA,"119,843.75 USD",Service Plan Basic,560,CAD
+-,henry taylor,134,2024-06-10,negotiation,,Middle East,"497,428.10 USD",Premium Onboarding,2414,
+405,J. Thomas,242.00,2024-12-20,Lead,Q2-24-Upsell,EMEA,"68,239.16 USD",Hardware Unit,73,AUD
+19,karen white,403.0,2024-11-16,proposal,,USA,"119,207.40 USD",Gadget X,3993,GBP
+318,G. Lee,415,2024-10-08,Closed-Lost,,APAC,"1,940,755.80 USD",Cloud Storage 1TB,1217,
+52,henry taylor,296,2025-03-27,Qualified,Q2-24-Cross-sell,Asia,"270,884.40 USD",ERP Add-on,4460,CAD
+106,I. Anderson,383,null,Negotiation,Q2-2024-Product Launch,United States,"660,077.52 USD",Software License,4701,JPY
+380,eva martinez,55.00,2023-11-23,CLOSED WON,H2-2024-Brand Awareness,EU,"216,770.95 USD",Widget B,4445,EUR
+406,frank wilson,29.0,2025-10-31,open,,UK,"88,153.91 USD",Data Pipeline,N/A,CAD
+407,L. Harris,139.0,2023-12-09,negotiation,Q2-24-Trade Show,APAC,"249,171.40 USD",Data Pipeline,1619,EUR
+131,Carol Davis,24,2025-03-27,PENDING,Q3-2024-Cross-sell,ANZ,"59,859.84 USD",Service Plan Pro,421,GBP
+262,jake thomas,318,2024-04-26,CLOSED WON,Q1-2023-Holiday Sale,Britain,"633,564.12 USD",Gadget X,2141,
+378,M. Clark,236,2025-04-12,proposal,Q2-23-Brand Awareness,ASIAPAC,"92,922.09 USD",Support Tier 1,405,JPY
+390,Karen White,11.0,N/A,CL,Q1-23-Retention,Europe,"17,315.54 USD",Analytics Dashboard,2506,USD
+409,J. Doe,457.0,2025-02-23,In Progress,Q1-24-Black Friday,UK,"1,076,874.80 USD",Training Package,,AUD
+173,Leo Harris,377,2024-04-27,closed won,Q1-24-Upsell,US,"1,606,208.50 USD",Support Tier 2,1040,AUD
+238,jake thomas,0,2024-02-21,pending,Q2-2023-Upsell,North America,"197,747.82 USD",N/A,4160,JPY
+225,leo harris,464,2024-08-06,pending,Q2-2024-Fall Campaign,Australia,"1,213,174.40 USD",Gadget Mini,N/A,AUD
+315,JANE DOE,235,2024-12-31,Closed-Won,H2-23-Black Friday,UK,"878,091.60 USD",Software License,1047,USD
+261,David Brown,,2024-01-26,Closed-Lost,H2-24-Fall Campaign,N. America,"134,000.77 USD",Widget Pro,522,USD
+358,Eva Martinez,460.0,2023-12-30,Pending,Q1-23-Product Launch,United States,"838,975.60 USD",Marketing Suite,2707,AUD
+406,L. Harris,295,2025-06-02,Proposal,FY-2024-Upsell,Africa,"234,468.95 USD",Service Plan Basic,3333,CAD
+128,bob williams,19,2024-10-14,Closed-Lost,Q3-2023-Social Push,Europe,"92,066.97 USD",Service Plan Pro,N/A,CAD
+57,Grace Lee,185,2025-11-01,Negotiation,Q4-24-Summer Blitz,MEA,"803,336.60 USD",Cloud Storage 5TB,2024,GBP
+494,E. Martinez,51,2024-11-18,Qualified,Q1-24-Product Launch,Asia Pacific,"123,342.99 USD",Gadget Mini,4428,USD
+-,D. Brown,137.0,2025-04-28,CW,FY-2024-Upsell,ANZ,"252,571.83 USD",Widget Pro,576,USD
+186,Mia Clark,309.0,2023-12-15,Closed Won,H1-23-Email Blast,North America,"447,493.80 USD",API Access,1229,CAD
+79,karen white,182,2024-09-19,qualified,Q2-23-Email Blast,Britain,"461,391.84 USD",Consulting Hours,2372,EUR
+79,Frank Wilson,479.00,2025-06-25,CLOSED LOST,H2-23-Retention,Britain,"2,168,409.05 USD",Gadget Mini,28,USD
+281,L. Harris,182.00,2024-09-14,Closed Lost,,Australia,"57,635.76 USD",Analytics Dashboard,3766,JPY

@@ -1,0 +1,56 @@
+Revenue,Conversions,Ad Spend,Product,Campaign,Channel,Region,Unit Price,Sales Rep,Date,Leads,Quantity,Company,Status
+"43950,56",461,"29506,25",ERP Add-on,H1-2024-Black Friday,reseller,SA,"177,22",Henry Taylor,11/20/2024,3926,248.0,Umbrella Ltd,in progress
+"401134,80",50,"47756,49",Cloud Storage 5TB,FY-2023-Retention,Email,South America,"1519,45",David Brown,09/01/2023,3731,264,Virtucon,Proposal
+"386910,72",84,"11185,23",ERP Add-on,Q1-24-Social Push,Online,N. America,"2686,88",K. White,06/12/2024,1551,144.00,Umbrella Ltd,LOST
+"1246258,62",66,"46444,29",API Access,Q3-2023-Product Launch,reseller,Europe,"3271,02",henry taylor,04/01/2024,825,381,Umbrella Ltd,Proposal
+"192051,32",66,"30823,97",Widget A,Q1-23-Webinar Series,Partner,Europe,"1843,03",D. Brown,TBD,1484,-,Umbrella Ltd,closed lost
+"801038,00",274,"7753,74",Gadget Mini,H1-23-Retention,Partner,United Kingdom,"3452,75",TBD,10/17/2024,2578,232,Globex Industries,Qualified
+"89389,44",177,"25222,39",Widget A,Q2-2024-Email Blast,Telesales,Unknown,"1241,52",Grace Lee,01/14/2024,509,72,Planet Express,lead
+"548066,31",273,"6946,91",Cloud Storage 5TB,Q4-2023-Fall Campaign,Email,LATAM,"2166,27",Frank Wilson,04/24/2024,2338,253,SummitView Hotels,LOST
+"993805,80",265,"378,19",Gadget X,H1-2024-Brand Awareness,Email Campaign,LATAM,"3216,20",alice johnson,12/18/2023,4066,309.00,Umbrella Ltd,Won
+"8820,40",443,"40661,82",Cloud Storage 1TB,H2-23-Upsell,Retail,Asia Pacific,"4410,20",Eva Martinez,04/07/2025,591,2.00,Umbrella Ltd,in progress
+N/A,233,"26830,29",Analytics Dashboard,Q2-2024-Retention,Direct,ASIAPAC,"2470,40",Iris Anderson,09/01/2024,3939,-,Umbrella Ltd,in progress
+missing,280,"39064,13",Hardware Unit,Q3-24-Social Push,in-store,Asia Pacific,"470,88",frank wilson,11/27/2024,1004,null,Umbrella Ltd,open
+"1119638,25",109,"38708,41",Software Subscription,H1-2024-Black Friday,Social Media,USA,"3034,25",jake thomas,05/08/2024,290,369.00,Umbrella Ltd,CW
+"553898,52",153,"24130,30",Widget B,Q4-2024-Spring Push,referral,Australia,"4396,02",david brown,06/21/2024,1571,126.0,Umbrella Ltd,Closed-Won
+"1854904,75",378,"25971,72",Widget A,H1-24-Brand Awareness,email campaign,Latin America,"4469,65",Jane Doe,06/02/2025,2232,415,Pied Piper,closed won
+NULL,488,"19634,86",Software Subscription,Q3-23-Summer Blitz,referral,United Kingdom,"4916,83",John Smith,01/27/2024,4203,,Umbrella Ltd,Won
+"13344,50",161,"10981,84",Cloud Storage 1TB,Q4-24-Trade Show,Field Sales,Europe,"513,25",TBD,12/30/2024,836,26.0,TrueNorth Financial,LOST
+,479,"45732,55",Data Pipeline,Q3-2024-Brand Awareness,Call Center,Asia,"3938,72",,04/21/2024,4679,null,Umbrella Ltd,Lost
+"156483,42",211,"8170,23",Cloud Storage 5TB,,ONLINE,NA,"1125,78",,03/23/2025,3202,139.00,Umbrella Ltd,closed won
+-,343,"31355,28",Service Plan Basic,H1-2023-Retention,email,Europe,"3211,76",JANE DOE,pending,3886,null,Umbrella Ltd,in progress
+"111853,00",500,0,Gadget X,H2-23-Fall Campaign,Retail,Europe,"771,40",Unassigned,04/15/2025,1185,145.00,Umbrella Ltd,lead
+"64508,40",105,"9772,57",Consulting Hours,Q2-23-Summer Blitz,Social Media,United Kingdom,"356,40",N/A,09/12/2024,2114,181.0,CloudNine SaaS,in progress
+"801038,00",274,"7753,74",Gadget Mini,H1-23-Retention,Partner,United Kingdom,"3452,75",TBD,10/17/2024,2578,232,Globex Industries,Qualified
+"6554,88",147,"24780,28",MISC,Q3-24-Summer Blitz,,South America,"45,52",Iris Anderson,09/26/2024,561,144.0,Umbrella Ltd,negotiation
+"1708003,26",242,"43739,99",ERP Add-on,Q3-24-Holiday Sale,affiliate,ASIAPAC,"3514,41",D. Brown,08/05/2025,2066,486,Umbrella Ltd,In Progress
+"362934,60",119,"5922,16",Hardware Unit,,social,EU,"864,13",jane doe,03/20/2025,4936,420.0,Soylent Corp,in progress
+"776900,10",123,"19549,12",Marketing Suite,FY-2023-Retention,Direct,APAC,"3499,55",A. Johnson,11/08/2024,3886,222.00,Umbrella Ltd,in progress
+"103126,15",94,"47636,69",Gadget Mini,FY-23-Trade Show,web,USA,"665,33",mia clark,02/20/2025,579,155.00,Umbrella Ltd,Lead
+"39921,62",-,"398,56",ERP Add-on,H2-2023-Holiday Sale,e-comm,South America,-,Iris Anderson,03/13/2024,1524,147.00,Umbrella Ltd,Closed Won
+"1585387,02",146,"48433,74",Data Pipeline,H1-23-Social Push,social media,United States,"4440,86",Alice Johnson,02/06/2024,2192,357.0,Umbrella Ltd,negotiation
+"1035262,80",66,"44734,64",Training Package,Q4-24-Webinar Series,Field Sales,??,"2091,44",L. Harris,12/20/2024,4527,495,Stratton Oakmont,lead
+-,343,"31355,28",Service Plan Basic,H1-2023-Retention,email,Europe,"3211,76",JANE DOE,pending,3886,null,Umbrella Ltd,in progress
+"1397,55",332,"18128,75",Cloud Storage 1TB,Q4-24-Cross-sell,Referral,United Kingdom,"93,17",J. Thomas,12/21/2024,4860,15,Umbrella Ltd,CLOSED WON
+"1050746,10",344,,CRM Module,Q1-2023-Holiday Sale,partner,Middle East,"3726,05",john smith,12/27/2023,3682,282.0,Umbrella Ltd,CLOSED WON
+"623482,60",206,"24031,86",Software Subscription,H1-2023-Product Launch,DIRECT,United States,"4299,88",J. Smith,02/23/2025,2571,145,Umbrella Ltd,pending
+"610104,42",N/A,"226,91",ERP Add-on,H2-2024-Trade Show,call center,Middle East,"2864,34",Grace Lee,06/06/2024,3208,213,Umbrella Ltd,Lost
+"379853,80",410,"15443,30",API Access,Q2-2023-Holiday Sale,affiliate,Europe,"1287,64",karen white,08/11/2024,2193,295,Umbrella Ltd,in progress
+"185951,17",72,"49086,66",Widget A,,Store,South America,"1619,36",F. Wilson,09/05/2023,2106,-,Umbrella Ltd,Won
+"1523252,50",355,"12015,47",ERP Add-on,,retail,EU,"3956,50",G. Lee,05/05/2024,2044,385.00,Tyrell Corporation,In Progress
+"1585387,02",146,"48433,74",Data Pipeline,H1-23-Social Push,social media,United States,"4440,86",Alice Johnson,02/06/2024,2192,357.0,Umbrella Ltd,negotiation
+"5481,81",417,"29824,61",Software License,H1-2024-Upsell,Website,North America,"203,03",Karen White,06/07/2024,4466,27.00,Planet Express,negotiation
+"2371499,65",183,"7812,69",Data Pipeline,FY-2024-Summer Blitz,Direct Sales,EMEA,"4889,69",JOHN SMITH,07/07/2024,1683,485,Umbrella Ltd,Open
+"2163791,49",261,"25006,14",ERP Add-on,H1-2024-Summer Blitz,Call Center,APAC,"4928,91",JANE DOE,04/18/2024,1882,439.00,Umbrella Ltd,qualified
+"119342,86",450,"4115,99",Widget A,FY-24-Email Blast,social media,US,"655,73",frank wilson,12/25/2023,,182.00,Stark Industries,negotiation
+"84130,83",225,"49131,52",Cloud Storage 5TB,Q3-2024-Webinar Series,Brick & Mortar,EMEA,"4006,23",Karen White,02/03/2024,4273,21.00,Umbrella Ltd,CLOSED LOST
+"915674,64",100,"13639,00",Training Package,H2-24-Spring Push,Affiliate,Africa,"2159,61",Mia Clark,02/22/2025,3494,424.0,Umbrella Ltd,Closed Won
+"1551552,35",71,"365,13",CRM Module,H2-2023-Trade Show,e-comm,United States,"4370,57",david brown,11/26/2024,782,355,Umbrella Ltd,qualified
+"1726827,74",237,"9681,49",Service Plan Pro,Q3-24-Upsell,Social,United Kingdom,"4242,82",Karen White,09/13/2023,931,407.0,Umbrella Ltd,closed won
+"109528,61",157,"32654,72",Service Plan Pro,H1-23-Email Blast,ecommerce,US,null,,01/26/2024,3646,73,Umbrella Ltd,qualified
+"176304,98",36,"31357,39",ERP Add-on,Q3-2023-Social Push,direct,APAC,"1494,11",carol davis,N/A,4800,118.00,Umbrella Ltd,negotiation
+"623482,60",206,"24031,86",Software Subscription,H1-2023-Product Launch,DIRECT,United States,"4299,88",J. Smith,02/23/2025,2571,145,Umbrella Ltd,pending
+"132387,04",-,"21065,57",Service Plan Enterprise,,Social Media,Britain,"607,28",alice johnson,03/17/2025,4239,218.0,Umbrella Ltd,Lost
+"158844,75",100,"26312,01",Widget B,,Email Campaign,Australia,"745,75",karen white,04/11/2024,1498,213,PixelForge Studios,CL
+"55603,80",,"8363,34",Marketing Suite,Q1-23-Product Launch,social media,EU,"176,52",Iris Anderson,pending,-,315,Umbrella Ltd,Open
+"77242,90",254,"10963,02",Analytics Dashboard,Q3-2023-New Year Promo,Direct Sales,N. America,"908,74",grace lee,04/22/2024,1837,85,Umbrella Ltd,Won

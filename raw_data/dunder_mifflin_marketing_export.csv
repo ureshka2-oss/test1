@@ -1,0 +1,172 @@
+REVENUE;STATUS;UNIT_PRICE;SALES_REP;AD_SPEND;QTY;CAMPAIGN;CHANNEL;PRODUCT;REGION;DATE;CONVERSIONS
+3,152.10 USD;Closed-Won;210.14 USD;;5,122.28 USD;15;Q3-23-Spring Push;affiliate;Cloud Storage 5TB;Australia;June 23, 2023;-
+213,957.56 USD;WON;533.56 USD;David Brown;40,060.49 USD;401.00;Q2-2024-Webinar Series;Brick & Mortar;N/A;US;March 26, 2025;475
+53,387.75 USD;CL;164.27 USD;Eva Martinez;21,507.02 USD;325.00;Q3-24-Holiday Sale;DIRECT;Service Plan Pro;EU;April 01, 2024;405
+127,454.89 USD;WON;473.81 USD;Iris Anderson;11,063.41 USD;269.00;Q4-2024-Brand Awareness;Web;Data Pipeline;US;January 30, 2025;353
+202,808.06 USD;PENDING;4,138.94 USD;Jane Doe;0;49.0;Q1-2024-Spring Push;Email Campaign;Widget B;EMEA;June 25, 2024;220
+986,661.36 USD;Closed-Lost;2,383.24 USD;iris anderson;15,106.91 USD;414;Q2-2023-Fall Campaign;Retail;Support Tier 1;Asia Pacific;July 17, 2023;482
+1,024,142.56 USD;Open;3,368.89 USD;Mia Clark;16,224.23 USD;304.0;Q4-23-Email Blast;web;Widget B;USA;December 15, 2023;397
+253,138.90 USD;negotiation;1,332.31 USD;B. Williams;5,053.15 USD;190;;In-Store;Software Subscription;South America;September 04, 2023;195
+;lead;1,372.88 USD;L. Harris;38,652.93 USD;#REF!;;Web;Support Tier 1;EU;August 13, 2024;189
+470,254.78 USD;closed lost;3,985.21 USD;bob williams;16,322.43 USD;118;Q1-24-Cross-sell;Affiliate;Data Pipeline;ANZ;February 19, 2024;246
+562,082.71 USD;Closed Lost;1,565.69 USD;G. Lee;37,701.99 USD;359;H1-23-Summer Blitz;Social;Cloud Storage 5TB;Latin America;October 16, 2023;N/A
+190,770.70 USD;closed won;657.83 USD;Mia Clark;35,766.82 USD;290.00;;Email Campaign;Other;Europe;February 15, 2024;201
+315,691.35 USD;PENDING;1,084.85 USD;J. Thomas;16,057.91 USD;291;Q2-23-Email Blast;Partner;Cloud Storage 1TB;United States;January 07, 2025;35
+648,387.50 USD;closed won;2,593.55 USD;JANE DOE;40,041.88 USD;250;Q1-23-Trade Show;Email;Software Subscription;Middle East;February 06, 2025;216
+73,072.80 USD;CL;304.47 USD;Alice Johnson;33,624.09 USD;240.00;H1-2023-Retention;Store;Support Tier 2;US;June 24, 2023;98
+404,276.40 USD;Lead;3,675.24 USD;M. Clark;29,923.46 USD;110.0;H1-2024-Brand Awareness;Field Sales;Software License;APAC;June 18, 2024;133
+306,219.24 USD;proposal;739.66 USD;Frank Wilson;46,126.35 USD;414;Q3-2024-Social Push;ONLINE;Support Tier 1;SA;November 06, 2024;445
+654,934.98 USD;PENDING;3,679.41 USD;;31,977.32 USD;178;Q3-2023-Brand Awareness;affiliate;Cloud Storage 1TB;EU;December 27, 2023;84
+159,173.64 USD;Negotiation;4,188.78 USD;john smith;44,100.91 USD;38.00;FY-23-Product Launch;PARTNER;Training Package;South America;October 26, 2023;138
+117,135.80 USD;Lost;259.15 USD;J. Thomas;14,956.53 USD;452;H1-2023-Fall Campaign;Direct;Security Bundle;USA;August 24, 2024;339
+1,214,697.69 USD;Qualified;3,956.67 USD;Bob Williams;null;307;Q4-23-Upsell;referral;Data Pipeline;EMEA;October 08, 2024;72
+135,870.30 USD;Lost;4,529.01 USD;Mia Clark;1,798.01 USD;30.00;Q4-24-Cross-sell;call center;MISC;ANZ;May 27, 2023;-
+432,847.35 USD;lead;2,091.05 USD;I. Anderson;9,280.20 USD;207.00;Q3-2023-Email Blast;email campaign;Support Tier 1;Asia;May 30, 2023;103
+127,041.85 USD;qualified;1,954.49 USD;I. Anderson;N/A;65;;phone;;MEA;June 21, 2023;442
+366,418.85 USD;CLOSED LOST;4,310.81 USD;Grace Lee;31,370.30 USD;85.0;Q1-23-New Year Promo;affiliate;N/A;North America;February 16, 2025;269
+1,313,068.22 USD;Closed Won;3,719.74 USD;Carol Davis;23,362.67 USD;353;;DIRECT;Service Plan Enterprise;US;July 22, 2023;78
+619,512.66 USD;Open;2,647.49 USD;john smith;17,819.35 USD;234;Q3-24-Brand Awareness;Referral;Widget B;Asia;February 24, 2025;285
+1,668,002.40 USD;closed won;4,685.40 USD;jane doe;34,578.66 USD;356;;Website;Support Tier 2;United Kingdom;July 17, 2024;351
+198,999.68 USD;Won;1,081.52 USD;D. Brown;46,714.98 USD;184.0;FY-2024-Social Push;phone;Gadget X;Europe;July 13, 2023;417
+361,798.84 USD;Won;1,501.24 USD;Frank Wilson;42,746.48 USD;241.00;FY-24-Fall Campaign;Phone;Training Package;-;October 05, 2023;108
+696,366.24 USD;closed won;2,560.17 USD;J. Smith;42,518.67 USD;272.00;FY-2023-Social Push;Social;Hardware Unit;Asia Pacific;April 08, 2024;174
+102,585.80 USD;lead;3,603.60 USD;;25,696.49 USD;null;Q1-23-Brand Awareness;Retail;Gadget X;ANZ;TBD;291
+342,654.96 USD;WON;1,992.18 USD;C. Davis;21,258.15 USD;172.00;;retail;Service Plan Pro;LATAM;June 01, 2023;322
+114,551.55 USD;LOST;2,545.59 USD;john smith;18,506.93 USD;45.0;Q2-24-Summer Blitz;;Support Tier 1;;January 16, 2024;499
+493,278.40 USD;Closed-Won;1,063.10 USD;Mia Clark;29,738.29 USD;464;Q3-2024-Email Blast;Affiliate;Cloud Storage 5TB;EU;June 20, 2024;396
+162,666.90 USD;closed lost;1,478.79 USD;eva martinez;6,080.74 USD;110;Q1-2024-Webinar Series;call center;Cloud Storage 1TB;Africa;October 26, 2024;491
+97,977.98 USD;proposal;NULL;D. Brown;17,066.54 USD;99;H2-23-Social Push;Social;Analytics Dashboard;SA;June 17, 2024;149
+2,128,586.94 USD;Negotiation;4,597.38 USD;G. Lee;42,193.37 USD;463;H2-2023-Black Friday;Reseller;Software License;Middle East;July 18, 2023;87
+42,453.60 USD;pending;379.05 USD;Mia Clark;14,797.39 USD;112;Q2-2023-Fall Campaign;Channel Partner;Cloud Storage 5TB;Asia Pacific;November 27, 2024;438
+30,578.48 USD;closed won;3,822.31 USD;Eva Martinez;24,885.21 USD;8.0;FY-23-Cross-sell;ecommerce;Widget Pro;NA;December 08, 2024;274
+2,244,243.46 USD;CL;4,695.07 USD;J. Doe;28,715.79 USD;478.00;Q3-23-Retention;in-store;Service Plan Pro;UK;March 18, 2025;171
+851,179.80 USD;Closed-Won;4,172.45 USD;karen white;49,824.24 USD;204.0;Q1-2023-Product Launch;Field Sales;Service Plan Pro;MEA;March 23, 2025;177
+1,369,917.42 USD;Won;4,707.62 USD;E. Martinez;21,279.17 USD;291;Q1-24-Holiday Sale;social;Widget A;EMEA;October 22, 2023;-
+1,558,798.08 USD;negotiation;4,059.37 USD;Jake Thomas;3,116.72 USD;384.0;Q4-23-Webinar Series;Reseller;Widget B;Unknown;December 06, 2023;492
+50,987.52 USD;Closed Won;354.08 USD;carol davis;33,816.65 USD;144.0;H2-24-Webinar Series;Web;Software License;SA;November 27, 2024;17
+243,546.36 USD;Closed Lost;1,345.56 USD;mia clark;2,307.55 USD;181;Q1-23-Retention;In-Store;Gadget X;Britain;December 05, 2023;440
+347,449.20 USD;Lost;870.80 USD;eva martinez;30,228.10 USD;399.00;H2-23-Trade Show;ONLINE;Data Pipeline;ASIAPAC;November 25, 2023;72
+114,579.21 USD;In Progress;-;E. Martinez;4,598.41 USD;N/A;Q3-2023-Product Launch;Direct Sales;Widget Pro;North America;January 09, 2025;481
+85,330.08 USD;Pending;4,740.56 USD;Mia Clark;27,489.87 USD;18;Q3-23-Black Friday;Social Media;Widget B;USA;June 27, 2023;195
+1,390,110.80 USD;LOST;3,021.98 USD;frank wilson;23,080.09 USD;460.00;Q3-2023-Spring Push;retail;Marketing Suite;SA;January 06, 2025;-
+2,370,046.84 USD;Closed-Lost;4,979.09 USD;grace lee;14,253.12 USD;476.00;Q1-2024-Spring Push;Web;Software License;-;December 13, 2023;6
+missing;Proposal;;jake thomas;22,341.47 USD;382;H2-2024-Fall Campaign;Direct Sales;Cloud Storage 5TB;South America;May 24, 2023;70
+1,268,196.54 USD;Closed Lost;4,241.46 USD;Eva Martinez;19,277.58 USD;299.0;Q2-23-Holiday Sale;Email Campaign;Service Plan Basic;APAC;May 24, 2023;299
+200,086.14 USD;PENDING;671.43 USD;Carol Davis;21,947.21 USD;298;Q1-2023-Upsell;Online;Widget B;Britain;May 08, 2024;90
+746,430.39 USD;WON;2,310.93 USD;carol davis;11,181.41 USD;323;H1-23-Product Launch;email campaign;Software License;EU;March 08, 2025;228
+124,688.32 USD;PENDING;3,896.51 USD;bob williams;27,432.82 USD;32.0;;Reseller;Consulting Hours;ASIAPAC;June 09, 2023;50
+370,287.75 USD;lead;1,317.75 USD;Grace Lee;49,118.12 USD;281.0;Q3-23-Webinar Series;Direct;Gadget Mini;Australia;March 02, 2025;133
+N/A;Closed-Won;1,233.32 USD;L. Harris;4,290.97 USD;null;Q1-23-Social Push;PARTNER;Service Plan Basic;NA;December 02, 2024;386
+65,117.28 USD;proposal;2,713.22 USD;bob williams;46,247.27 USD;24.0;H1-23-Social Push;in-store;Service Plan Enterprise;North America;July 19, 2024;92
+1,449,576.58 USD;open;3,171.94 USD;david brown;44,047.48 USD;457;Q4-24-Retention;Email Campaign;Security Bundle;Europe;February 04, 2025;0
+144,985.24 USD;closed won;1,959.26 USD;N/A;44,639.13 USD;74;H1-23-Spring Push;call center;Service Plan Pro;EMEA;February 19, 2024;N/A
+59,955.42 USD;Qualified;1,223.58 USD;J. Doe;14,370.70 USD;49.0;FY-2023-Upsell;affiliate;Software License;Europe;January 24, 2025;171
+1,442,170.78 USD;Closed Lost;4,028.41 USD;G. Lee;28,539.41 USD;358;;Phone;Software License;Europe;May 16, 2023;446
+752,428.77 USD;Won;4,251.01 USD;Bob Williams;18,625.75 USD;177.00;FY-23-Upsell;;Premium Onboarding;SA;May 26, 2023;385
+;closed lost;-;john smith;10,253.53 USD;149;;In-Store;Cloud Storage 1TB;United States;April 23, 2024;442
+781,952.81 USD;LOST;1,696.21 USD;Mia Clark;43,822.28 USD;461.00;Q4-24-Black Friday;in-store;Gadget X;United States;null;498
+398,126.63 USD;lead;2,301.31 USD;john smith;28,512.95 USD;173;H2-24-Product Launch;web;CRM Module;Britain;February 16, 2025;497
+1,124,317.28 USD;closed lost;3,055.21 USD;G. Lee;278.19 USD;368;Q3-2023-Webinar Series;ecommerce;ERP Add-on;Asia;April 17, 2023;-
+1,830,043.38 USD;Lead;3,742.42 USD;D. Brown;18,628.24 USD;489;Q2-23-New Year Promo;Online;Service Plan Pro;EU;June 16, 2023;97
+88,101.62 USD;PENDING;N/A;N/A;21,677.27 USD;343.00;Q2-24-Holiday Sale;Call Center;Service Plan Pro;Middle East;October 28, 2023;311
+2,003,905.20 USD;Proposal;4,554.33 USD;B. Williams;35,899.23 USD;440;H1-23-Webinar Series;direct;Service Plan Basic;UK;June 20, 2024;92
+537,845.26 USD;Closed Lost;1,595.98 USD;F. Wilson;41,838.67 USD;337.0;;ONLINE;Premium Onboarding;ANZ;February 26, 2025;498
+500,327.52 USD;CLOSED WON;3,248.88 USD;bob williams;29,306.07 USD;154.00;Q3-23-Brand Awareness;Store;Gadget Mini;Asia Pacific;TBD;129
+1,108,373.13 USD;LOST;2,373.39 USD;carol davis;14,205.48 USD;467.00;Q2-2024-Upsell;in-store;Gadget Mini;NA;January 27, 2024;68
+1,257,909.44 USD;closed won;4,137.86 USD;Frank Wilson;7,978.13 USD;304.0;Q4-24-Cross-sell;web;Software Subscription;Asia Pacific;March 31, 2024;95
+2,034.64 USD;Lost;17.54 USD;B. Williams;30,803.03 USD;116.00;H1-24-Summer Blitz;Referral;Widget A;Europe;null;88
+87,048.85 USD;CLOSED WON;1,192.45 USD;bob williams;872.88 USD;73.00;Q3-24-New Year Promo;in-store;CRM Module;NA;November 25, 2024;500
+1,803,337.25 USD;in progress;4,940.65 USD;Mia Clark;43,108.72 USD;365.0;Q1-24-Summer Blitz;direct;Service Plan Enterprise;N/A;July 02, 2024;
+515,738.85 USD;Qualified;2,467.65 USD;C. Davis;5,469.81 USD;209;H2-2023-Upsell;online;Data Pipeline;Latin America;August 30, 2023;399
+1,113,523.20 USD;Proposal;3,093.12 USD;John Smith;40,153.03 USD;360.0;Q1-2023-Fall Campaign;Reseller;Software License;United States;May 03, 2024;176
+739,605.00 USD;Lead;2,465.35 USD;carol davis;42,573.25 USD;300;H2-23-Trade Show;e-comm;Consulting Hours;EMEA;July 13, 2023;237
+45,251.52 USD;Lost;3,433.15 USD;iris anderson;11,674.85 USD;#REF!;H2-24-Fall Campaign;web;Gadget Mini;United Kingdom;July 15, 2024;11
+1,734,104.96 USD;WON;3,870.77 USD;karen white;5,186.05 USD;448;H1-2023-New Year Promo;Website;Widget A;Middle East;August 24, 2023;79
+402,800.04 USD;Qualified;1,418.31 USD;john smith;8,214.31 USD;284;Q3-24-Holiday Sale;Social;Service Plan Basic;Middle East;May 07, 2023;352
+124,036.80 USD;lead;775.23 USD;L. Harris;34,889.73 USD;160.0;Q3-2024-Summer Blitz;;Consulting Hours;USA;September 21, 2024;346
+163,125.32 USD;Open;6.32 USD;L. Harris;null;N/A;Q1-2024-Product Launch;PARTNER;CRM Module;Africa;March 09, 2024;484
+1,026,557.03 USD;Closed Won;3,627.41 USD;Mia Clark;-;283.00;;;Service Plan Basic;US;May 25, 2023;371
+787,644.90 USD;In Progress;4,234.65 USD;alice johnson;3,387.97 USD;186.0;;RETAIL;ERP Add-on;United Kingdom;February 10, 2024;47
+96,119.31 USD;CW;184.36 USD;frank wilson;49,089.74 USD;;H1-23-Product Launch;retail;Software Subscription;Africa;May 30, 2023;452
+34,999.68 USD;Won;1,458.32 USD;Eva Martinez;15,221.82 USD;24.0;Q1-23-New Year Promo;Email Campaign;Software Subscription;North America;April 30, 2024;499
+276,171.12 USD;LOST;3,835.71 USD;;18,840.79 USD;72;Q1-24-Social Push;;Consulting Hours;US;TBD;144
+604,390.29 USD;closed lost;2,550.17 USD;carol davis;21,716.12 USD;237;H1-2023-Retention;field;Data Pipeline;NA;March 16, 2025;240
+88,020.00 USD;PENDING;2,200.50 USD;grace lee;;40;H1-24-Summer Blitz;Online;Premium Onboarding;Australia;May 21, 2024;420
+148,587.32 USD;Closed-Won;3,900.29 USD;Jane Doe;38,951.93 USD;-;H2-23-New Year Promo;RETAIL;Analytics Dashboard;LATAM;September 05, 2023;48
+10,609.68 USD;CL;3,536.56 USD;;27,041.99 USD;3.00;FY-2024-Spring Push;Channel Partner;Service Plan Basic;EMEA;August 22, 2024;470
+1,058.40 USD;Qualified;7.35 USD;J. Thomas;10,163.11 USD;144;H2-2024-Brand Awareness;E-Commerce;Support Tier 1;Latin America;December 09, 2023;183
+314,974.94 USD;CLOSED WON;3,214.03 USD;;47,263.50 USD;98.00;Q2-2023-Summer Blitz;Direct Sales;Premium Onboarding;LATAM;June 28, 2024;100
+307,899.90 USD;Pending;2,443.65 USD;bob williams;5,485.13 USD;126.00;Q1-2024-Black Friday;;Premium Onboarding;EU;December 20, 2023;N/A
+1,460,680.55 USD;lead;3,389.05 USD;A. Johnson;0;431.00;H1-23-Spring Push;Direct;Software Subscription;United States;February 17, 2024;311
+missing;CW;2,986.27 USD;Jane Doe;41,601.01 USD;-;Q4-2023-Brand Awareness;Channel Partner;Service Plan Pro;Europe;September 17, 2024;122
+1,596,612.24 USD;Proposal;4,114.98 USD;jake thomas;26,396.09 USD;388;Q2-2023-Product Launch;e-comm;API Access;UK;January 25, 2025;387
+1,434,284.90 USD;Closed Won;4,945.81 USD;E. Martinez;null;290.0;Q3-2023-Brand Awareness;call center;-;SA;March 08, 2025;79
+97,417.65 USD;CLOSED LOST;2,952.05 USD;Alice Johnson;26,445.51 USD;33.0;H1-2024-Retention;Social;Software Subscription;ANZ;August 21, 2024;102
+618,449.44 USD;closed lost;2,931.04 USD;Henry Taylor;36,991.47 USD;211;Q1-2023-Upsell;Online;Marketing Suite;USA;September 07, 2024;10
+337,807.08 USD;PENDING;896.04 USD;leo harris;6,156.22 USD;377;Q1-2024-Trade Show;direct;Gadget Mini;North America;December 20, 2024;116
+4,649.33 USD;open;missing;mia clark;33,714.54 USD;87;Q4-2024-Summer Blitz;DIRECT;Software Subscription;APAC;December 12, 2023;358
+88,261.44 USD;in progress;3,677.56 USD;J. Thomas;37,492.86 USD;24;Q3-23-Summer Blitz;Web;Widget Pro;US;April 13, 2023;438
+1,406,385.09 USD;In Progress;3,634.07 USD;C. Davis;16,520.81 USD;387;;Partner;Service Plan Enterprise;USA;February 13, 2024;359
+1,697,757.12 USD;CL;4,071.36 USD;Eva Martinez;-;417;Q4-24-Summer Blitz;phone;Service Plan Enterprise;South America;August 10, 2024;303
+247,285.35 USD;Closed Lost;1,206.27 USD;Carol Davis;43,090.95 USD;205;Q2-2023-Upsell;PARTNER;Support Tier 2;Australia;January 17, 2024;408
+1,427,941.70 USD;CW;3,491.30 USD;K. White;7,253.27 USD;409.00;Q1-2024-Retention;partner;Software License;APAC;October 08, 2023;220
+127,503.90 USD;closed lost;2,193.34 USD;C. Davis;28,084.72 USD;#REF!;H2-23-Trade Show;Online;Hardware Unit;Unknown;November 29, 2024;75
+1,012,224.99 USD;Closed Lost;4,752.23 USD;H. Taylor;null;213;Q3-2024-Upsell;Telesales;ERP Add-on;Europe;September 12, 2023;450
+329.12 USD;Open;41.14 USD;A. Johnson;26,616.96 USD;8;Q4-24-Product Launch;affiliate;Support Tier 2;North America;December 06, 2023;247
+206,154.90 USD;Closed-Lost;654.46 USD;JOHN SMITH;11,437.72 USD;315.00;Q4-2024-New Year Promo;partner;Hardware Unit;Asia;August 29, 2023;444
+1,157,029.21 USD;in progress;2,375.83 USD;grace lee;36,322.46 USD;487.00;H1-23-Product Launch;Channel Partner;ERP Add-on;Africa;July 10, 2024;464
+NULL;lead;#N/A;M. Clark;30,914.56 USD;0;Q1-2023-Product Launch;reseller;Widget A;Asia Pacific;October 09, 2024;90
+116,678.10 USD;Closed-Lost;1,111.22 USD;david brown;27,647.13 USD;105;Q3-24-Upsell;Online;Support Tier 1;UK;pending;422
+1,504,117.72 USD;open;3,564.26 USD;Henry Taylor;5,021.57 USD;422;H2-2023-Social Push;Email;Support Tier 1;EU;August 23, 2024;237
+1,658,769.57 USD;closed lost;4,981.29 USD;Leo Harris;43,001.51 USD;333;Q1-24-Webinar Series;;Widget A;APAC;;464
+655,868.33 USD;CLOSED LOST;2,967.73 USD;grace lee;47,374.71 USD;221;H1-2024-Fall Campaign;Retail;Marketing Suite;EU;November 01, 2024;132
+1,532,288.25 USD;Open;3,225.87 USD;G. Lee;;475.00;;social;Data Pipeline;Europe;May 28, 2023;303
+1,475,894.75 USD;Qualified;4,157.45 USD;leo harris;20,806.34 USD;355;Q4-23-Spring Push;In-Store;Premium Onboarding;Asia;May 12, 2023;119
+525,357.45 USD;PENDING;1,577.65 USD;C. Davis;null;333;Q3-2024-Retention;Telesales;Gadget Mini;LATAM;September 14, 2023;453
+757,046.15 USD;In Progress;4,821.95 USD;F. Wilson;26,231.96 USD;157;Q2-2023-New Year Promo;referral;Gadget Mini;ASIAPAC;April 11, 2024;N/A
+221,747.96 USD;CL;;F. Wilson;N/A;11;Q1-24-Brand Awareness;;Premium Onboarding;;November 16, 2023;93
+1,080,547.20 USD;Closed Won;4,237.44 USD;Karen White;31,147.48 USD;255.00;Q1-23-New Year Promo;ecommerce;Analytics Dashboard;Africa;December 19, 2024;N/A
+1,499,074.36 USD;Closed Won;3,629.72 USD;K. White;3,996.12 USD;413.0;H2-2024-New Year Promo;Social Media;Cloud Storage 1TB;N. America;May 16, 2023;94
+214,772.61 USD;qualified;4,569.63 USD;eva martinez;39,020.65 USD;47.00;Q3-23-Spring Push;ONLINE;Data Pipeline;APAC;August 08, 2023;442
+702,648.83 USD;Won;1,863.79 USD;M. Clark;27,944.23 USD;377.0;H2-24-Email Blast;ONLINE;-;Asia;October 04, 2023;222
+471,536.08 USD;Open;1,011.88 USD;frank wilson;9,761.76 USD;466;;social;Service Plan Enterprise;Africa;July 07, 2024;175
+1,685,770.05 USD;PENDING;4,886.29 USD;I. Anderson;22,513.19 USD;345;Q3-2024-Social Push;;Widget B;N. America;May 23, 2023;171
+1,428,991.83 USD;Closed-Won;3,851.73 USD;E. Martinez;14,669.90 USD;371;H2-2023-Product Launch;reseller;Support Tier 2;EU;April 09, 2024;210
+235,447.84 USD;Won;395.82 USD;jake thomas;26,882.50 USD;#REF!;H2-2024-Summer Blitz;Phone;Widget Pro;Australia;September 23, 2024;197
+874,718.46 USD;in progress;2,674.98 USD;D. Brown;40,191.06 USD;327.0;Q1-23-Cross-sell;Website;Service Plan Enterprise;Europe;October 09, 2024;427
+1,269,194.50 USD;LOST;3,058.30 USD;john smith;-;415;H1-24-Black Friday;Retail;Hardware Unit;ASIAPAC;April 28, 2023;242
+350,763.12 USD;LOST;1,343.92 USD;C. Davis;19,613.00 USD;261.00;Q2-24-Brand Awareness;Direct Sales;Security Bundle;NA;February 09, 2024;78
+154,025.52 USD;in progress;341.52 USD;carol davis;38,642.43 USD;451;Q3-2023-Summer Blitz;field;Data Pipeline;Latin America;August 09, 2023;334
+70,409.75 USD;Lead;2,816.39 USD;eva martinez;3,206.29 USD;25;Q3-24-Fall Campaign;ONLINE;Consulting Hours;SA;N/A;402
+437,407.60 USD;CL;3,124.34 USD;Mia Clark;null;140;H1-2023-Product Launch;Social;Support Tier 1;MEA;November 04, 2024;67
+530,031.80 USD;PENDING;3,419.56 USD;Henry Taylor;15,275.97 USD;155;Q2-24-Fall Campaign;Social;Training Package;APAC;December 25, 2023;170
+212,519.94 USD;pending;1,489.23 USD;John Smith;;null;Q1-2024-Trade Show;Brick & Mortar;CRM Module;US;August 09, 2023;
+6,314.35 USD;Negotiation;180.41 USD;B. Williams;45,219.86 USD;35;Q2-2023-Holiday Sale;Direct Sales;Support Tier 2;UK;June 16, 2024;472
+79,821.56 USD;Qualified;877.16 USD;J. Smith;N/A;91.00;H1-24-Product Launch;phone;Analytics Dashboard;EU;January 29, 2024;21
+119,766.18 USD;negotiation;327.23 USD;Jane Doe;43,945.52 USD;366;FY-24-Brand Awareness;field;Software License;North America;June 17, 2023;121
+300,456.00 USD;Closed-Won;834.60 USD;D. Brown;16,405.64 USD;360.00;Q2-2023-Product Launch;field;Analytics Dashboard;United Kingdom;;185
+NA;CLOSED LOST;NA;B. Williams;5,154.71 USD;418.00;Q4-2024-New Year Promo;Store;Widget B;Australia;March 03, 2024;N/A
+21,198.66 USD;Closed-Won;504.73 USD;John Smith;39,931.32 USD;42;Q3-23-Social Push;;Security Bundle;EU;August 13, 2024;454
+1,267,841.88 USD;lead;3,062.42 USD;Jane Doe;33,426.23 USD;414.00;H2-24-New Year Promo;email campaign;Gadget Mini;N. America;May 15, 2023;263
+571,099.75 USD;Proposal;1,757.23 USD;TBD;2,919.20 USD;325;Q4-2024-Summer Blitz;Direct;Marketing Suite;ASIAPAC;May 15, 2023;365
+799,653.54 USD;closed won;4,595.71 USD;D. Brown;-;174.00;FY-2024-Upsell;direct;Security Bundle;Europe;November 02, 2023;83
+1,605,350.00 USD;CL;3,310.00 USD;J. Doe;N/A;485.0;H2-2024-Upsell;affiliate;Data Pipeline;United States;May 02, 2023;330
+45,666.50 USD;negotiation;992.75 USD;Mia Clark;null;46.0;Q2-23-Social Push;Partner;Service Plan Pro;N. America;March 11, 2024;437
+424,997.66 USD;Closed-Won;1,357.82 USD;Eva Martinez;36,143.68 USD;313;H2-2023-Product Launch;online;Security Bundle;UK;November 19, 2024;142
+1,570,241.92 USD;negotiation;4,969.12 USD;iris anderson;16,737.34 USD;316;;direct;Gadget Mini;Britain;December 14, 2023;
+58,416.92 USD;closed won;1,958.56 USD;frank wilson;0;-;H1-23-Trade Show;Email;Data Pipeline;South America;October 20, 2023;443
+38,695.94 USD;CLOSED WON;1,972.47 USD;Alice Johnson;31,965.83 USD;N/A;Q4-2023-Social Push;Retail;Software Subscription;US;July 17, 2024;285
+#N/A;Open;NA;Mia Clark;35,752.81 USD;195;FY-2023-Black Friday;DIRECT;Software License;Middle East;February 20, 2024;73
+418,202.04 USD;Pending;4,100.02 USD;jane doe;null;102.00;H1-2024-Fall Campaign;Telesales;Marketing Suite;ANZ;June 20, 2023;58
+1,198,164.48 USD;Lead;4,680.33 USD;henry taylor;18,420.05 USD;256;Q3-24-Email Blast;Channel Partner;API Access;ASIAPAC;null;92
+647,811.36 USD;Closed Won;1,928.01 USD;F. Wilson;46,681.95 USD;336.0;Q3-2023-Email Blast;Referral;Marketing Suite;South America;October 05, 2024;20
+572,603.32 USD;PENDING;2,067.16 USD;M. Clark;18,803.82 USD;277;Q4-2024-Product Launch;call center;Hardware Unit;N/A;June 03, 2024;384
+1,285,140.22 USD;Proposal;3,802.19 USD;Leo Harris;21,016.36 USD;338;H2-24-Social Push;Social Media;Support Tier 1;Asia;June 06, 2024;263
+316,566.60 USD;Negotiation;2,776.90 USD;grace lee;;114.0;FY-2023-Email Blast;Retail;Cloud Storage 5TB;SA;October 13, 2023;-
+186,048.51 USD;CL;3,648.01 USD;jane doe;37,744.94 USD;51.00;FY-24-Product Launch;call center;Service Plan Pro;North America;September 09, 2023;68
+47,240.32 USD;Proposal;3,468.16 USD;J. Thomas;3,861.70 USD;0;H2-24-Product Launch;partner;Support Tier 2;MEA;May 25, 2023;323
+676,181.52 USD;CLOSED WON;4,173.96 USD;TBD;15,109.36 USD;162;FY-24-Spring Push;call center;Widget Pro;ASIAPAC;July 04, 2023;N/A
+310,239.80 USD;pending;1,193.23 USD;Jane Doe;1,896.27 USD;260;Q4-23-Upsell;Affiliate;Service Plan Pro;US;January 31, 2024;N/A
+438,098.16 USD;WON;3,221.31 USD;F. Wilson;13,048.96 USD;136.0;;direct;Hardware Unit;Middle East;June 20, 2024;196
+477,175.38 USD;Closed-Won;1,275.87 USD;J. Thomas;31,537.39 USD;374;Q4-2023-Fall Campaign;email campaign;Software Subscription;SA;June 26, 2023;472
+339,192.69 USD;Proposal;786.99 USD;J. Smith;42,281.76 USD;431;Q3-2024-Holiday Sale;ONLINE;Training Package;Africa;October 21, 2023;436

@@ -1,0 +1,79 @@
+spend,rep,conv,rev,rgn,price,qty,lds,cmpgn,stat,co,ch,prod,dt
+"9,327.29 USD",Alice Johnson,491,"3,030.45 USD",APAC,34.05 USD,89,1779,Q2-24-Social Push,CLOSED WON  ,Rekall Inc,retail,Widget Pro,25/09/2025
+"16,329.56 USD",JANE DOE,119,"340,747.42 USD",APAC,743.99 USD,458,982,Q1-2024-Trade Show,Pending,Rekall Inc,Online,Marketing Suite,19/09/2024
+"41,473.95 USD",J. Smith,72,"309,623.99 USD",Britain,"2,050.49 USD",151.00,424,Q3-2024-New Year Promo,Negotiation,Rekall Inc,Channel Partner,Hardware Unit,01/12/2024
+"44,821.68 USD",henry taylor,156,"2,039,200.80 USD",EU,"4,855.24 USD",420,3210,H1-2024-Retention,PENDING,Rekall Inc,Telesales,CRM Module,23/11/2024
+"23,600.25 USD",jane doe,462,"244,438.45 USD",South America,NA,118.00,3113,FY-23-New Year Promo,Won,Rekall Inc,reseller,Premium Onboarding,17/02/2025
+"28,289.13 USD",H. Taylor,199,"1,530,365.12 USD",United Kingdom,"3,944.24 USD",388.0,4890,,Open,Rekall Inc,,MISC,13/03/2025
+"17,757.95 USD",iris anderson,96,"421,901.74 USD",Britain,"2,496.46 USD",169,2721,H1-2024-New Year Promo,Pending,Rekall Inc  ,reseller,Cloud Storage 5TB,27/01/2024
+"34,066.97 USD",alice johnson  ,109,"169,792.15 USD",EU,null,208.00,2474,H1-24-Trade Show,Negotiation,Rekall Inc,DIRECT,Consulting Hours,08/03/2024
+"3,013.64 USD",Jake Thomas,114,"22,411.44 USD",Middle East,659.16 USD,34,399,H1-2024-Fall Campaign,Pending,Buy N Large,email,Training Package,21/12/2024
+"19,033.76 USD",,404,"211,261.68 USD",EU,"2,934.19 USD",72.0,1062,FY-24-Cross-sell,Closed-Lost,Pied Piper,Partner,Training Package,06/10/2025
+"11,916.24 USD",J. Thomas,176,"1,081,334.16 USD",Africa,"2,716.92 USD",398,4267,Q1-23-Product Launch,CW,Rekall Inc,,Service Plan Basic,16/07/2024
+N/A,jane doe,421,"312,462.36 USD",UK,"3,396.33 USD",92,4968,FY-2023-Brand Awareness,proposal,Rekall Inc,Brick & Mortar,API Access,16/06/2024
+"26,700.72 USD",iris anderson,222,"1,550,833.32 USD",US,"3,158.52 USD",491.00,4439,Q4-2023-Summer Blitz,Lost,Wayne Corp,social media,Cloud Storage 5TB,25/07/2024
+"3,912.53 USD",grace lee,498,"839,033.06 USD",Australia,"1,988.23 USD",422.0,410,H2-23-Black Friday,Lost,Rekall Inc,Email,Cloud Storage 1TB,04/02/2024
+"10,672.40 USD",jake thomas,94,"199,838.40 USD",ANZ,"1,665.32 USD",120.00,458,H1-24-Cross-sell,qualified  ,DataWave Inc,phone,API Access,20/11/2024
+null,K. White,,"1,217,777.05 USD",Middle East,"2,977.45 USD",409.00,,H2-24-New Year Promo,Lead,Rekall Inc,partner,Gadget X,04/08/2025  
+"17,723.39 USD",L. Harris,232,"633,179.52 USD",US,"4,397.08 USD",144,3658,Q1-23-Email Blast,Proposal,Soylent Corp,Field Sales,Consulting Hours,09/10/2025
+"10,235.34 USD",David Brown,395,"200,988.00 USD",,140.21 USD,,N/A,,CLOSED WON,Brawndo Corp,Call Center,Consulting Hours,30/03/2024
+"42,997.03 USD",carol davis,222,"66,367.92 USD",North America,152.22 USD,436,1138,Q3-23-Social Push,CL,Rekall Inc,DIRECT,Analytics Dashboard,10/04/2024
+"43,480.17 USD",Mia Clark,449,NULL,EU,N/A,263.0,3012,Q1-2024-Social Push,negotiation,Rekall Inc,Affiliate,Widget Pro,19/07/2025
+"44,434.88 USD",frank wilson,425,"1,593,830.28 USD",Latin America,"3,672.42 USD",434.0,null,Q4-23-Brand Awareness,proposal,Rekall Inc,Referral,Widget Pro,24/03/2025
+"24,296.66 USD",david brown,445,"1,795,243.12 USD",NA,"3,795.44 USD",473,723,Q1-2023-Holiday Sale,LOST,Rekall Inc,Partner,Gadget X,13/12/2024
+"7,994.25 USD",J. Thomas,261,"1,908,559.50 USD",EMEA,"4,759.50 USD",401.00,N/A,Q3-24-Black Friday,Closed Won,Rekall Inc,E-Commerce,Software License,30/03/2024
+"2,553.36 USD",Unassigned,16,,Australia,N/A,405,2843,,Closed-Lost,Rekall Inc,Phone,Analytics Dashboard,04/08/2024
+"29,371.58 USD",eva martinez,,"558,002.48 USD  ",Middle East,"1,285.72 USD",434.0,1435,Q4-2024-Spring Push,Proposal,Rekall Inc,,Consulting Hours,04/07/2025
+"2,783.72 USD",Jake Thomas,400,"204,117.40 USD",EMEA,NA,189,4140,Q1-2023-Spring Push,Closed-Lost,Rekall Inc,RETAIL,Software Subscription,02/09/2025
+"9,621.54 USD",Frank Wilson,145,"138,073.62 USD",ANZ,"3,975.25 USD",N/A,3820,Q3-2023-Summer Blitz,Proposal,Rekall Inc,referral,,10/02/2025
+"44,537.27 USD",carol davis,155,"260,965.32 USD",US,"1,069.53 USD",244,816,FY-24-Summer Blitz,In Progress,Rekall Inc,Email Campaign,Training Package,09/08/2024
+"10,694.64 USD  ",Unassigned,131,"153,919.41 USD",MEA,N/A,433,2011,,CLOSED WON,Globex Industries,Direct Sales,Widget B,14/06/2024
+"23,882.30 USD",jake thomas,347,"209,238.26 USD",EMEA,786.61 USD,266.0,463,Q1-2024-Holiday Sale,In Progress,Rekall Inc,Direct Sales,Training Package,29/04/2024
+"27,219.33 USD",Bob Williams  ,247,"2,199,348.24 USD",UK,"4,470.22 USD",492,4737,Q1-23-Holiday Sale,Pending,Rekall Inc,ecommerce,Software License,14/07/2024
+"9,066.84 USD",Frank Wilson,351,"1,525,839.49 USD",United States,"4,637.81 USD",329,1205,FY-2023-Webinar Series,closed lost,Rekall Inc,Store,Support Tier 2,17/01/2024
+"16,854.95 USD",N/A,496,"281,378.22 USD",EMEA,871.14 USD,323.00,2129,FY-23-Social Push,Lead,Rekall Inc,Call Center,Service Plan Pro,27/03/2024
+"25,082.39 USD",Jane Doe,164,"1,976,297.36 USD",Latin America,"4,431.16 USD",446.0,3914,H1-2023-Webinar Series,pending,Rekall Inc,partner,API Access,08/04/2024
+"1,491.56 USD",TBD,464,"945,726.48 USD",Middle East,"2,235.76 USD",423,2082,Q2-24-Upsell,Negotiation,Rekall Inc,Direct Sales,Training Package,19/12/2024
+"19,472.26 USD",M. Clark,176,"765,471.24 USD",Asia,"2,369.88 USD",323,1006,Q1-2024-New Year Promo,LOST,Rekall Inc,email campaign,Hardware Unit,15/12/2025
+"27,037.60 USD",Alice Johnson,413,"643,080.50 USD",North America,"3,121.75 USD",206,2087,FY-2023-Product Launch,Proposal,Rekall Inc,reseller,MISC,27/01/2025
+"25,678.70 USD  ",carol davis,299,"259,389.00 USD",Britain,"2,217.00 USD",117,2172,FY-24-Retention,proposal,Rekall Inc,,Software Subscription,29/03/2025
+-,leo harris,366,"804,958.65 USD",Europe,"2,037.87 USD",395,2498,Q3-23-Email Blast,qualified,Rekall Inc,direct,Hardware Unit,29/05/2025
+"11,836.62 USD",carol davis,291,NULL,LATAM,"2,778.38 USD",0,4104,H1-23-Retention,in progress,Soylent Corp,email,Software Subscription,20/04/2024
+"45,418.86 USD",D. Brown,448,"187,894.20 USD",UK,"2,763.15 USD",68,2162,Q3-2023-Black Friday,Closed Lost,Rekall Inc,email campaign,MISC,pending
+"47,942.62 USD",David Brown,346,"327,288.00 USD",Britain,786.75 USD,416.00,2025,Q4-24-Retention,WON,Virtucon,Retail,Support Tier 1,11/09/2024
+0,jane doe,403,"1,687,908.12 USD",Europe,"4,979.08 USD",339,N/A,Q3-2024-Social Push,Closed Won,BrightPath Media,Web,CRM Module,02/02/2024
+"28,861.57 USD",Jane Doe,481,"1,006,223.68 USD",South America,"2,593.36 USD",388.0,939,Q2-23-Cross-sell,proposal,Rekall Inc,phone,Widget A,27/11/2025
+"28,169.38 USD",N/A,332,"90,478.08 USD",UK,"1,330.56 USD",68,3254,Q4-23-Retention,CW,,affiliate,API Access,29/12/2024
+"48,810.19 USD",leo harris,N/A,"1,473,881.56 USD",APAC,"3,703.22 USD",398,1243,H2-24-Fall Campaign,Closed Won,Rekall Inc,Field Sales,Marketing Suite,21/09/2025
+"34,748.19 USD",David Brown,263,"199,218.88 USD",ANZ,"3,557.48 USD",56,4432,Q3-23-Holiday Sale,WON,Rekall Inc,Affiliate,CRM Module,27/03/2025
+"25,155.40 USD",G. Lee,202,"406,134.25 USD",South America  ,"4,778.05 USD",85,,Q4-2024-Fall Campaign,Won,Rekall Inc,social media,Security Bundle,19/06/2024
+"15,198.38 USD",eva martinez,225,"254,877.45 USD",NA,"1,207.95 USD",211.0,166,H1-24-Product Launch  ,negotiation,Rekall Inc,Call Center,Widget A,27/01/2024
+"16,283.95 USD",John Smith,-,"242,419.32 USD",N. America,"1,224.34 USD",198.00,1675,,closed won  ,Dunder Mifflin,,CRM Module,12/03/2024
+"18,854.19 USD",Alice Johnson,368,"1,355,178.24 USD",EMEA,"4,343.52 USD",312,4241,Q4-2023-Upsell,CLOSED WON,Massive Dynamic,retail,Service Plan Pro,11/08/2024
+null,JANE DOE,-,"161,659.80 USD",United Kingdom,"1,056.60 USD",153,2842,Q2-2024-Summer Blitz,Closed-Lost,AgriGrow Corp,Call Center,Training Package,02/12/2024  
+"8,722.30 USD",Grace Lee,225,"209,010.27 USD",Middle East,563.37 USD,371.0,null,Q2-2024-New Year Promo,Closed-Lost,Rekall Inc,field,Service Plan Pro,30/05/2024
+"31,773.61 USD",K. White,276,"1,097,835.00 USD",Britain,"4,391.34 USD",250.00,272,H2-24-Holiday Sale,Lost,Rekall Inc,In-Store,Service Plan Basic,06/03/2024
+"10,608.65 USD",mia clark,116,"202,713.84 USD",EU,"1,648.08 USD",123.0,2929,H1-24-Social Push,open,Rekall Inc,email campaign,Widget A,24/07/2024
+"35,050.40 USD",eva martinez,473,"132,035.55 USD",APAC,552.45 USD,239.00,3607,FY-2023-Upsell,Closed-Lost,Rekall Inc,Telesales,ERP Add-on,19/08/2025
+"35,532.31 USD",B. Williams,305,"886,545.84 USD",ASIAPAC,"2,090.91 USD",424.0,4336,H1-2024-Webinar Series,In Progress,,in-store,Software License,14/11/2024
+"3,994.68 USD",Iris Anderson,146,"47,409.65 USD",Africa,220.51 USD,215,1480,,in progress,Rekall Inc,Field Sales,Cloud Storage 1TB,24/03/2024
+N/A,iris anderson,-,"1,269,410.95 USD",Latin America,"4,790.23 USD",265.0,3456,Q3-2024-Spring Push,In Progress,Rekall Inc,e-comm,Gadget X  ,12/05/2024
+"19,499.80 USD",Eva Martinez,376,"38,543.32 USD",EMEA,172.84 USD,223.0,1069,FY-24-New Year Promo,Closed Lost,Rekall Inc,Phone,API Access,22/07/2025
+"9,197.10 USD",TBD,9,"496,882.35 USD",United Kingdom,"1,257.93 USD",395.00,581,Q3-2024-Trade Show,WON,TrueNorth Financial,e-comm,Marketing Suite,19/10/2024
+"11,990.96 USD",Unassigned,,"2,238,302.08 USD",-,"4,996.21 USD",448,3471,H2-2024-Black Friday,Lost,Rekall Inc,Email Campaign,Service Plan Basic,07/10/2025
+-,John Smith,263,"730,710.61 USD",United States,"2,546.03 USD",287,1059,H2-2023-Spring Push,in progress,Rekall Inc,In-Store,Security Bundle,22/02/2024
+"30,149.78 USD",David Brown,104,"1,283,642.80 USD",Europe,"3,775.42 USD",340.0,3617,H2-23-Cross-sell,pending,Rekall Inc,social,API Access,20/09/2025
+"33,002.97 USD",JANE DOE,443,"206,813.20 USD",ASIAPAC,940.06 USD,220.0,2050,Q2-23-Summer Blitz,LOST,Rekall Inc,Social,Consulting Hours,01/01/2024
+"30,162.24 USD",Karen White,499,"94,324.65 USD",SA,"4,491.65 USD",21.00,,Q1-2023-Spring Push,CL,Rekall Inc,email,Service Plan Pro,25/07/2025
+"11,215.57 USD",mia clark,375,"48,745.80 USD",Australia,"1,624.86 USD",30,-,Q1-2023-Black Friday,Closed-Lost,Rekall Inc,reseller,API Access,21/10/2025
+"17,414.56 USD",jake thomas,355,"134,938.12 USD",US,,135,1430,H2-23-Fall Campaign,WON  ,Virtucon,social,Widget B,03/04/2024
+660.53 USD,J. Smith,-,"146,911.23 USD",United States,"4,327.27 USD",null,1115,FY-23-Upsell,Qualified,Rekall Inc,field,Data Pipeline,04/08/2024
+N/A,Iris Anderson,196,"236,522.53 USD",North America,missing,346.00,897,Q4-2023-Black Friday,open,Rekall Inc,Phone,Service Plan Enterprise,12/08/2025
+"19,301.54 USD",N/A,228,"914,067.21 USD",United Kingdom,"3,792.81 USD",241,3527,H1-2023-Spring Push,Closed-Lost,Rekall Inc,Email Campaign,Gadget X,TBD
+"43,723.76 USD",john smith,15,"1,515,069.75 USD",Asia Pacific,"4,220.25 USD",359,1609,FY-2024-Retention,CLOSED WON,Rekall Inc,Direct Sales,Cloud Storage 1TB,null
+"24,765.00 USD",Bob Williams,408,"377,076.96 USD",Middle East,805.72 USD,468,621,Q1-23-Social Push,Closed-Lost,Rekall Inc,Direct Sales,Widget A,17/10/2024
+"47,729.63 USD",Jane Doe,218,"1,685,157.10 USD",South America,"3,562.70 USD",473,null,Q2-2024-Retention,Closed-Won,Rekall Inc,Social,Security Bundle,null
+"23,186.30 USD",Eva Martinez,292,"761,653.20 USD",SA,"3,626.92 USD",210.0,819,Q2-2023-Fall Campaign,Lead,Rekall Inc,Direct Sales,Marketing Suite,23/01/2024
+"32,687.56 USD",jane doe,412,"337,376.48 USD",South America,"1,486.24 USD  ",227.00,1132,Q4-2023-Product Launch,PENDING,Rekall Inc,reseller,Software License,05/03/2025
+584.39 USD,david brown,273,"412,848.89 USD  ",US,"3,653.53 USD",113.00,149,Q2-2024-Spring Push,proposal,Rekall Inc,Online,Training Package,12/08/2025
+"15,252.89 USD",Mia Clark,310,"841,076.46 USD",South America,"4,450.14 USD",189,4021,H2-23-Brand Awareness,in progress,AgriGrow Corp,Web,Service Plan Basic,28/10/2024

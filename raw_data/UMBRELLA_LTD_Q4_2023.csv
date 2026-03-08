@@ -1,0 +1,118 @@
+product_name,company_name,deal_status,qty,ad_spend_usd,sale_date,rep_name,total_revenue,num_leads,sales_region,sales_channel,unit_price,campaign_name,num_conversions,Currency,notes
+Widget A,Brawndo Corp,proposal,325.00,17054.36,2023-05-29,alice johnson,667550.00,4838,Latin America,Online,2054.00,H1-24-Cross-sell  ,474,USD,NET30 terms
+Cloud Storage 5TB,TrueNorth Financial,In Progress,72,28449.49,2024-12-26,Grace Lee,247411.44,3589,Latin America,Social Media,3436.27,Q2-2023-Cross-sell,0  ,JPY,
+Support Tier 2,Omni Consumer Products,open,-,30530.25,2025-01-19,I. Anderson,36060.32,2095,EMEA,call center,279.89,Q3-2024-Webinar Series,176,JPY,new customer
+Widget A,TrueNorth Financial,WON,341.0,48062.71  ,2023-03-30,Grace Lee,67957.89,1838,USA,Direct Sales,199.29,,478,EUR,
+Cloud Storage 5TB,Umbrella Ltd,WON,352,40286.99,2023-09-24,J. Thomas,1399238.72,4139,Europe,,3975.11,H1-24-Spring Push,38,AUD,
+Widget B,Umbrella Ltd,closed won,24.0,37447.16,2024-06-17,mia clark,60621.12,583,NA,in-store,2525.88,,71,EUR,pending approval
+Analytics Dashboard,Umbrella Ltd,Qualified,368,24704.12,2024-11-17,Grace Lee,663805.76,2277,Asia Pacific,direct,1803.82,Q1-2024-Fall Campaign,317,USD,VIP client
+Service Plan Basic,Umbrella Ltd,CL,469.00,49922.82,2023-05-02,J. Thomas,222043.36,3060,NA,email campaign,473.44,Q4-2023-Spring Push,402,JPY,  
+Software Subscription,Umbrella Ltd,Won,92.0,7813.12,2023-11-18,K. White,303509.84,1067,,reseller,3299.02,FY-23-New Year Promo,452,EUR,
+CRM Module,Umbrella Ltd,Proposal,87,48327.67,2023-07-26,iris anderson,243619.14,3103,EU,ecommerce,2800.22,,237,CAD,
+Premium Onboarding,Umbrella Ltd,Closed-Won,0,7675.26,2023-05-18,Alice Johnson,20482.62,4833,LATAM,ecommerce,1411.65,Q2-2023-Summer Blitz,248,USD,discount applied
+API Access,Umbrella Ltd,Closed-Lost,415.0,3062.70,2024-05-30,J. Doe,1107029.10,2073,EMEA,Reseller,2667.54,H2-24-Webinar Series,9,GBP,
+Support Tier 1,Umbrella Ltd,in progress,116,27725.08,2023-08-02,F. Wilson,8771.92,1351,Asia,Store,75.62,Q1-2023-New Year Promo,382,USD,  
+Gadget Mini,Umbrella Ltd,closed won,314.00,13092.26,2023-10-26,A. Johnson,94501.44,2998,EMEA  ,,300.96,FY-24-Email Blast,490,AUD,
+Service Plan Enterprise,FreshCart,Qualified,216.00,42039.83,2023-07-31,leo harris,31587.84,4231,EMEA,Direct Sales,146.24,Q2-2024-Upsell,340,,
+Consulting Hours,Umbrella Ltd,closed won,102,-,2024-04-27,John Smith,26899.44,1709,US,web,263.72,H1-23-New Year Promo,-,JPY,
+Service Plan Pro,Umbrella Ltd,closed lost,390.0,0  ,2023-11-19,E. Martinez,1883037.00,2716,Asia,Phone,4828.30,H2-2024-Upsell,266,EUR,
+Service Plan Enterprise,Umbrella Ltd,Lead,253.0,19201.68,2023-10-02,grace lee,866481.99,550,Europe,E-Commerce,3424.83,H1-23-Retention,148,AUD,CEO referral
+Software License,Umbrella Ltd,negotiation,55.0,48696.48,2024-04-12,Alice Johnson,198992.75,4286,N. America,Telesales,3618.05,Q4-2024-Holiday Sale,130,GBP,
+Hardware Unit,Massive Dynamic,Lead,103,13148.86,2024-11-21,F. Wilson,213208.97,4175,Australia,Channel Partner,2069.99,Q3-23-Brand Awareness,474,EUR,
+Widget B,Umbrella Ltd,LOST,183.00,36788.91,2024-10-22,carol davis,177987.93,878,EU,Social,null,,133,EUR,
+Consulting Hours,Umbrella Ltd,Closed Won,130,19685.59,TBD,frank wilson,199386.20,2954,,Social,1533.74,Q2-24-Spring Push,321,GBP,NET30 terms
+Data Pipeline,Umbrella Ltd,Lost,null,43271.40,2024-09-30,Eva Martinez,139085.61,4452,ANZ,field,missing,H1-2023-Brand Awareness,494,JPY,escalated
+Widget A,Umbrella Ltd,CL,362.00,45559.78,2023-12-31,Bob Williams,700716.16,3772,EU,retail  ,1935.68,Q3-2024-Webinar Series,374,,
+Support Tier 2,GreenLeaf Energy,Proposal,28.0,39481.22,2025-01-22,J. Doe,92832.88,710,ANZ,phone,3315.46,FY-2024-New Year Promo,44,USD,
+Service Plan Basic,Oscorp Technologies,lead,403,33202.44,2023-11-27,carol davis  ,788034.26,412,Asia,Email Campaign,1955.42,Q3-2023-Social Push,72,GBP,
+Cloud Storage 1TB,Umbrella Ltd,closed lost,383.00,30931.65,2024-05-08,henry taylor,566223.37,264,N. America,email campaign,1478.39,H1-2023-Holiday Sale,274,GBP,
+Gadget X,Umbrella Ltd,closed won,497,39929.12,2024-05-20,John Smith,1880742.43,488,North America,Brick & Mortar,3784.19,Q4-24-Webinar Series,307  ,JPY,
+Service Plan Pro,Umbrella Ltd,Qualified,461.00,10996.32,2024-10-09,alice johnson,1278293.07,4291,ANZ,partner,2772.87,H2-24-New Year Promo,324,EUR,
+Marketing Suite,Cyberdyne Systems,Qualified,146  ,8180.55,2023-05-04,Henry Taylor,190023.38,4553,Latin America,Direct,1301.53,H2-24-Spring Push,480,GBP,
+CRM Module,Umbrella Ltd,in progress,444.0,22049.11,2025-01-31,bob williams,1845237.36,4903,Latin America,DIRECT,4155.94,Q2-23-Trade Show,176,AUD,
+ERP Add-on,Umbrella Ltd,PENDING,244.00,25078.46,2024-08-07,mia clark,620618.88,3811,ASIAPAC,Direct,2543.52,Q1-23-Social Push,431,GBP,
+CRM Module,Umbrella Ltd,closed won,231.0,23101.49,2023-08-11,Unassigned,44164.89,4953,Australia,call center,191.19,H1-2024-Trade Show,451,GBP,
+Training Package,Umbrella Ltd,lead,469,10124.98,2024-09-08,David Brown,1212547.91,661,United States,,2585.39,FY-24-Holiday Sale,454,JPY,
+API Access,Umbrella Ltd,pending,393.00,38545.16,2023-09-06,david brown,1888176.36,2253,EMEA,online,4804.52,Q2-2023-Email Blast,196,CAD,
+Service Plan Basic,Umbrella Ltd,Qualified,257.0,9922.96,2024-03-01,Henry Taylor,516536.59,3110,NA,Web,2009.87,FY-24-Spring Push,195,CAD,
+Cloud Storage 1TB,Umbrella Ltd,closed lost,313.00,36971.57,2024-01-14,grace lee,172785.39,4476,USA,Channel Partner,552.03,FY-2024-Holiday Sale,410,EUR,CEO referral
+Marketing Suite,Umbrella Ltd,Open,#REF!,36162.90,2024-11-28,Alice Johnson,199999.60  ,4233,APAC,Channel Partner,3543.83,H2-24-Fall Campaign,,EUR,partial payment
+Support Tier 1,Umbrella Ltd,open,163,18899.82,2023-05-07,B. Williams,779919.14,2628,N. America,Store,4784.78,Q1-24-Webinar Series,340,AUD,
+Service Plan Enterprise,Umbrella Ltd,CW,159,35387.55,2023-08-05,L. Harris,367088.07,4785,UK,Affiliate,2308.73,Q2-2024-Summer Blitz,14,USD,
+Marketing Suite,Umbrella Ltd  ,lead,237,18278.08,2023-07-06,Karen White,1089647.79,1123,Britain,Social Media,4597.67,H1-2023-Spring Push,-,,
+,Umbrella Ltd,Negotiation,163.0  ,null,2024-08-21,bob williams,629336.48,4517,EMEA,Email,3860.96,Q2-23-Summer Blitz,259,AUD,
+Service Plan Basic,Sterling Cooper,Open,173.0,26796.72,2024-05-20,B. Williams,186220.66,1919,North America,Direct,1076.42,H2-23-New Year Promo,212,,
+Consulting Hours,PixelForge Studios,CLOSED LOST,305,23144.67,2024-01-11,karen white,393105.35,2822,United States,Email,1288.87,FY-2024-Retention,237,,
+Gadget Mini,Planet Express,lead,279.0,48537.51,2023-04-24,frank wilson,1323297.00,,South America,PARTNER  ,4743.00,,314,EUR,
+Gadget Mini,AgriGrow Corp,Qualified,457.0,41510.09,null,H. Taylor,1579455.98,4642,UK,Direct,3456.14,FY-24-Summer Blitz,235  ,GBP,
+ERP Add-on,SummitView Hotels,CW,309.0,36249.90,2024-04-14,Jake Thomas,1349557.50,4519,APAC,phone,4367.50,H1-2023-Brand Awareness,445,JPY,
+Software Subscription,Umbrella Ltd,negotiation,438.00,9751.18,2023-06-10,jake thomas,1189730.64,3097,APAC,online,2716.28,Q2-23-Black Friday,377,,
+Data Pipeline,Umbrella Ltd,Proposal,180,1389.48,2023-10-19,jake thomas,872613.00,2813,North America,Direct Sales,4847.85  ,Q1-24-Product Launch,426,,
+Service Plan Basic,Umbrella Ltd,proposal,276,19355.26,2023-03-20,Bob Williams,1375451.52,2164,Britain,Reseller,4983.52,H1-23-Product Launch,17,JPY,
+Hardware Unit  ,Umbrella Ltd,Open,339.0,483.69,2023-11-17,Alice Johnson,268108.32,3139,Australia,reseller,790.88,Q3-24-Cross-sell,260,CAD,
+Widget B,Umbrella Ltd,Lost,351,32773.68,2024-11-08,Iris Anderson,1419974.01,4014,Unknown,social,4045.51,Q1-2024-Brand Awareness,81,EUR,
+Service Plan Pro,Umbrella Ltd,pending,301,35497.45,2024-04-05,M. Clark,624945.23,4673,Middle East,social media,2076.23,Q1-24-Email Blast,276,JPY,
+Consulting Hours,Virtucon,CW,143,10035.45,2024-03-05,G. Lee,551621.07,N/A,-,Call Center,3857.49,H1-23-Retention,341,JPY,
+Marketing Suite,Umbrella Ltd,CLOSED WON,286.00,15520.37,2025-01-24,Jake Thomas,204387.04,3748,Europe,Social,714.64,Q2-24-Social Push,262,JPY,
+Premium Onboarding,Rekall Inc,CLOSED WON,111,49251.17,2024-03-27,J. Smith,234564.71,3543,ANZ,call center,NA,Q3-23-Summer Blitz,243,,
+Support Tier 1,TrueNorth Financial,proposal,372,40917.88,2023-07-29,Karen White,1155342.72,3079,Middle East,Direct Sales,3105.76,Q1-2023-Email Blast,350,AUD,
+ERP Add-on,Umbrella Ltd,Qualified,315,33632.33,2023-10-25,TBD,179436.60,943,Britain,phone,569.64,Q4-2024-Holiday Sale,,AUD,
+Hardware Unit,Rekall Inc,closed won,337,29679.91,2024-01-29,mia clark,231913.29,3242,South America,Direct,688.17,,292,EUR,
+Training Package,Umbrella Ltd,open,78,25388.61,2023-09-28,A. Johnson,163975.50,707,SA,field,2102.25,H1-2024-New Year Promo,472,EUR,
+Widget Pro,Umbrella Ltd,CLOSED LOST,101.00,25201.52,null,John Smith,477382.56,1612,MEA,,4726.56,Q3-2023-New Year Promo,8,JPY,
+Gadget Mini,Umbrella Ltd,LOST,422.0,25728.51,2024-04-15,Leo Harris,794465.64,-,Australia,partner,1882.62,Q1-2024-Email Blast,198,GBP,
+Analytics Dashboard,DataWave Inc,in progress,12,35181.22,2024-04-28,jake thomas,3931.32,515,Australia,,327.61,H2-2024-Upsell,148,USD,
+Software Subscription,Umbrella Ltd,Qualified,137,40059.94,2023-06-01,D. Brown,660901.70,4146,ANZ,web,4824.10,Q3-2024-Webinar Series,304,,
+Marketing Suite,BlueOcean Retail,Closed Won,76,21047.71,2024-12-13,C. Davis,213962.80,59,,Website,2815.30,Q2-2023-Holiday Sale,N/A,,
+Support Tier 2,Stratton Oakmont,Lost,1.0,49522.00,2024-07-26,Mia Clark,3235.18,1797,ASIAPAC,ONLINE,3235.18,FY-24-Product Launch,174,,
+Marketing Suite,Umbrella Ltd,WON,453.00,17860.51,2024-03-03,Bob Williams,2101951.71,2487,Latin America,DIRECT,4640.07,Q1-2024-Upsell,292,AUD  ,
+Data Pipeline,Prestige Worldwide,in progress,-,46495.84,2023-03-21,J. Smith,108479.08,3827,Britain,affiliate,2946.07,Q2-24-Trade Show,195,,
+Security Bundle,Umbrella Ltd,Closed-Lost,98.0,0,2025-03-05,C. Davis,388718.96,4490,UK,e-comm,3966.52,H1-23-Product Launch,82,JPY,
+ERP Add-on,DataWave Inc,Closed Lost,381,24575.37,2024-04-03,JANE DOE,634913.64,4282,-,email,1666.44,H2-2024-Social Push,148,EUR,
+Security Bundle,,Negotiation,198,35689.02,2024-01-26,JOHN SMITH,337633.56,4204,EMEA,,1705.22,H2-23-Holiday Sale,71,,discount applied  
+Gadget Mini,Umbrella Ltd,Closed-Won,30,22531.22,2024-12-03,grace lee,69635.10,4409,Asia,Store,2321.17,Q4-2023-Retention,311,USD,
+Hardware Unit,Umbrella Ltd,lead,0,40240.87,2024-03-15,jake thomas,90257.87,-,Europe,call center,109.00,Q1-2024-Black Friday,42,JPY,escalated
+Widget A,Globex Industries,CW,222.00,5963.18,2023-08-04,karen white,409130.46,3106,N. America,DIRECT,1842.93,H2-2024-Black Friday,N/A,GBP,
+Service Plan Enterprise,Umbrella Ltd,qualified,64.0,,2023-07-24,Unassigned,1389.44,3443,UK,social,21.71,FY-2023-Summer Blitz,21,GBP,
+Service Plan Pro,Umbrella Ltd,pending,257.00,-,2023-12-09,F. Wilson,738340.44,1928,EU,social media,2872.92,Q2-23-Black Friday,274,GBP,VIP client
+Software License,SummitView Hotels,Lead,10.00,33811.26,2024-04-12,Jane Doe,1394.00  ,4758,??,Social,139.40,Q4-23-Holiday Sale,477,AUD,
+Widget Pro,Oceanic Airlines,closed won,72.0,19912.45,2024-09-13,karen white,121413.60,2249,LATAM,referral,1686.30,H1-2023-Email Blast,432,AUD,
+Software Subscription,Umbrella Ltd,negotiation,0,20929.18,2024-09-30,G. Lee,NA,259,Africa,Channel Partner,3076.63,Q3-2023-Social Push,21  ,GBP,renewal
+Service Plan Basic,Massive Dynamic,CL,159,N/A,2024-05-30,L. Harris,773922.96,1551,EMEA,referral,4867.44,H1-2024-Retention,163,AUD,
+Software License,,In Progress,117,3677.95,2024-03-06,,249229.89,4700,MEA,DIRECT,2130.17,Q1-24-Upsell,143,AUD,pending approval
+Consulting Hours,BlueOcean Retail,qualified,344,,2024-09-20,H. Taylor,167170.24,2768,??,Direct,485.96,H1-2023-Retention,408,,CEO referral
+Cloud Storage 1TB,Umbrella Ltd,In Progress  ,80,19967.64,2024-10-08,Iris Anderson,256531.20,2728,EMEA,Channel Partner,3206.64,Q4-24-Trade Show,107,USD,VIP client
+Cloud Storage 5TB,Umbrella Ltd,Won,96,15402.35,2024-02-21,JANE DOE,390354.24,1307,Latin America,,4066.19,Q1-2024-Spring Push,431  ,CAD,
+API Access,Umbrella Ltd,Closed Won,179,25906.10,2024-06-09,M. Clark,12182.74,-,United States,Website,68.06,Q3-2024-Spring Push,151,GBP,
+Service Plan Basic,,Won,255,28455.32,2024-06-14,J. Thomas  ,198392.55,2624,North America,Store,778.01,H2-23-Webinar Series,494,JPY,
+Widget A,Umbrella Ltd,open,458,11323.12,2023-06-03,TBD,1100720.56,657,Asia Pacific,email campaign,2403.32,H1-23-Product Launch,47  ,GBP,
+Security Bundle,CloudNine SaaS,Negotiation  ,4,45515.10,2024-01-25,C. Davis,8529.96,2863,North America,partner,2132.49,Q1-24-Product Launch,55,CAD,
+Service Plan Basic,Pied Piper,Pending,273.00,22482.95,2024-01-31,Henry Taylor,592486.44,539,South America,social media,2170.28,H1-2023-Brand Awareness,380,CAD,
+Service Plan Pro,Massive Dynamic,Lead,322.00,10386.64,2023-04-15,bob williams,1054067.00  ,2939,Britain,affiliate,3273.50,Q1-2024-Summer Blitz,59,USD,
+Security Bundle,Cogswell Cogs  ,proposal,160.0,33193.60,2023-05-28,JOHN SMITH,78058.79,4673,Unknown,Direct,null,H1-24-Trade Show,493,,
+Gadget X,Brawndo Corp,Proposal,449.00,37248.93,2024-11-27,Unassigned,218276.86,2616,USA,DIRECT,486.14,Q1-24-Fall Campaign  ,314,EUR,
+Data Pipeline,Umbrella Ltd,PENDING,331,49031.29,2024-02-09,Alice Johnson,709111.23,2670,ASIAPAC,direct,2142.33,FY-24-Spring Push,33,GBP,
+Marketing Suite,Spacely Sprockets,Closed-Won,332.0,12736.51,2024-03-25,N/A,387082.12,4114,,Retail,1165.91,H1-23-New Year Promo,235,JPY,
+Software Subscription,Umbrella Ltd,Closed-Lost,347,30542.16,2024-03-25,Henry Taylor  ,1404558.84,90,N. America,social media,4047.72,FY-23-New Year Promo,,AUD,
+Analytics Dashboard,Stark Industries,closed lost,458.00,27749.05,2024-11-28,JANE DOE,1589489.00,4224,N. America,ONLINE,3470.50,FY-2023-Spring Push,-,,escalated
+Hardware Unit,Umbrella Ltd,WON,250,45381.79,2023-06-23,Eva Martinez,1147665.00,1941,North America,Online,4590.66,FY-24-Webinar Series,N/A,,
+Training Package,Massive Dynamic,Lead  ,428,0,2024-01-18,,1857344.52,241,EU,Social,4339.59,Q2-23-Webinar Series,452,EUR,CEO referral
+CRM Module,Umbrella Ltd,WON,200.00,0,2025-02-08,Eva Martinez,235248.00,3247,Asia,in-store,1176.24,Q4-2023-Fall Campaign,417,AUD,
+Cloud Storage 1TB,Umbrella Ltd,In Progress,325.00,2372.94,2023-11-08,Alice Johnson,358494.50,4596,Asia Pacific,PARTNER,1103.06,Q3-24-Upsell,269,JPY,
+Widget Pro,Buy N Large,Open,456.0,17377.59,2023-10-31,I. Anderson,253385.52,2239,US,Field Sales,555.67,H2-23-New Year Promo,N/A,GBP  ,
+Support Tier 2,Omni Consumer Products,LOST,98,30701.67,2023-05-05,David Brown,279979.14,126,Europe,Channel Partner,2856.93,Q3-23-Summer Blitz,95,CAD,
+N/A,Massive Dynamic,closed lost,42,10274.28,2024-05-04,A. Johnson,121955.40,4287,North America,Call Center,2903.70,H2-24-Email Blast,331,JPY,
+Widget B,Hooli Inc,CLOSED WON,120.00,N/A,2023-08-24  ,eva martinez,427570.80,895,North America,Phone,3563.09,Q2-24-New Year Promo,425,AUD,renewal
+Training Package,Wayne Corp,CLOSED LOST,451.00,4723.57,2023-06-30,carol davis,1172820.99,763,??,reseller,2600.49,Q4-23-Product Launch,185,GBP,partial payment
+Data Pipeline,Umbrella Ltd,Lead,N/A,10672.91,2023-11-28,D. Brown,34000.71,214,N. America,email campaign,4019.71,Q3-2024-Social Push,359,,NET30 terms
+Widget A,Prestige Worldwide,closed won,391.0,37789.32,2023-07-15,JANE DOE,365240.92,3978,ANZ,Web,934.12,H2-2023-Product Launch,144,CAD,VIP client
+Widget A,Cyberdyne Systems,Won,196,34690.12,2023-06-06,Grace Lee,693647.92,1891,ANZ,Field Sales,3539.02,Q2-2023-Product Launch,204,USD,
+Security Bundle,Umbrella Ltd  ,qualified,333,26330.01,2023-09-11,JOHN SMITH,564594.84,null,N/A,partner,1695.48,Q3-23-Retention,303,USD,
+Consulting Hours,Wayne Corp,CLOSED WON,220,46866.12,pending,J. Smith,429402.60,4312,EMEA,call center,1951.83,H2-2024-Trade Show,209,EUR,
+Service Plan Pro,Umbrella Ltd,Qualified,384,28510.92,2024-06-01,M. Clark,1820490.24,4005,Asia Pacific,Partner,4740.86,Q2-23-Product Launch,32,USD,discount applied
+Premium Onboarding,Umbrella Ltd,In Progress,146,18716.55,2023-10-19,henry taylor,58257.52,3211,SA,social,N/A,H2-2023-Social Push,290,GBP,
+Hardware Unit  ,Umbrella Ltd,Proposal,278,25921.25,2024-09-07,I. Anderson,296717.74,561,Latin America,e-comm,1067.33,H2-2024-Holiday Sale,11,,
+Hardware Unit,Umbrella Ltd,lead,325,19737.07,2023-10-08,H. Taylor,103259.00,2411,MEA,E-Commerce,317.72,,69,CAD,new customer
+Security Bundle,Umbrella Ltd,closed won,427,9930.38,2024-03-18,Jake Thomas,1862339.15,1837,SA,web,4361.45,Q1-2024-Cross-sell,317,AUD,
+Hardware Unit,Umbrella Ltd,closed won,491,248.84,2024-11-10,mia clark,1381094.62,4103,EU,reseller,2812.82,,-,GBP,
+ERP Add-on,Umbrella Ltd,Negotiation,124.00,15465.25,2024-06-05,Unassigned,319947.28,2760,Australia,Referral,2580.22,Q4-24-Summer Blitz,150,CAD,CEO referral

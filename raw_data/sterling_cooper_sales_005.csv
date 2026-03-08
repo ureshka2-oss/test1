@@ -1,0 +1,149 @@
+conv|rev|price|co|dt|rep|ch|spend|qty
+61|$598499  |$2384|Sterling Cooper|12.31.2024|john smith|direct|null|251.00
+125|$432230|$2362  |Rekall Inc|06.28.2025|E. Martinez|Channel Partner|$920|183
+268|$78947|$470|Weyland Corp|11.16.2023  |E. Martinez|ecommerce|$10694|168
+|$259607|$687|Sterling Cooper|09.03.2025|Frank Wilson|social media||378.00
+233|$480027|$1574|Brawndo Corp|11.15.2024|Eva Martinez|ecommerce|0|305
+N/A|$59535|$2835|Vandelay Ind|09.23.2025|K. White|direct|$17742|21.0  
+195|$101373|$1334|Sterling Cooper|10.22.2024|bob williams||$21355|76.0
+208|$313315|$4747|Oscorp Technologies|06.07.2024|henry taylor|Channel Partner|$20924|66
+204|$1999339|$4949|Sterling Cooper|11.15.2023|A. Johnson  |RETAIL|$918|404
+|$1645615|$4460|Sterling Cooper|12.10.2024|E. Martinez|ecommerce  |$41896|369
+325|$8859|$4430|Sterling Cooper|12.05.2023|frank wilson|ecommerce|$7549|2.00
+404|$1185263|$3195|Sterling Cooper|04.15.2024|Frank Wilson|Affiliate|$46631|371
+153|$372418|$2002|Sterling Cooper|10.04.2025|Jane Doe|Web|$40772|186.0
+37|$170799|$2247|Sterling Cooper|06.13.2025|H. Taylor|ecommerce|$33447|76.00
+-|$1287415|$4565|Sterling Cooper|09.03.2024|Jake Thomas|E-Commerce|$37640|282
+365|$1183499|$2873|Pinnacle Analytics|06.06.2025|Karen White|Email Campaign|$21095|412
+313|$109020|$472|FreshCart|08.09.2025|C. Davis||$27100|231
+10  |$528546|$1541|Sterling Cooper|04.07.2025|mia clark|Channel Partner|$15548|343.00
+251|$299316|$2474||07.04.2025|karen white|Email Campaign|$6180|121.0
+  |$443633|$3262|Sterling Cooper|06.17.2025|N/A||$22518|136
+310|$69884|$2641|Umbrella Ltd|11.16.2023|karen white  |Email|$32139|#REF!
+153|$43159|$204|Acme Corp|08.23.2025|John Smith|social|$26573|212.00
+388|$79115|$2930|Initech Solutions|09.19.2024|J. Thomas|Retail|$18958|27
+271|$489095|$3570|Pinnacle Analytics|10.06.2025|alice johnson|email|$28408|137
+382|$167952|$3293|Sterling Cooper|04.07.2025|D. Brown|Brick & Mortar|$33456|51.0
+79|$217553  |missing|Sterling Cooper|01.06.2024|JOHN SMITH|In-Store|$46335|N/A
+498|-|$993|Soylent Corp|03.23.2025|Carol Davis|email campaign|$14906|null
+202|$607238|$3146|Sterling Cooper|09.07.2024|Eva Martinez|call center|null|193
+423|$18694|$231|Sterling Cooper|05.05.2024|Carol Davis|ONLINE|N/A|81.00
+74|$1157731|$3317|Sterling Cooper|11.11.2024|L. Harris|affiliate|$21929  |349.00
+361  |$590867|$2547|Sterling Cooper|10.01.2025|david brown|in-store|$7521|232.0
+33|||Dharma Initiative|05.22.2024|L. Harris|Field Sales|$40807|336
+83|$110729||Sterling Cooper|06.02.2024|Grace Lee|email|$1071|139
+451|$72339|$303|Sterling Cooper|03.31.2024|H. Taylor|phone|-|-
+-|$52755|$1426|Sterling Cooper|07.12.2025|henry taylor|social media|$19730|37.00
+89|$14819|$593|Sterling Cooper|04.21.2025|E. Martinez|Social|$41885|25.0
+419|$1024239|$3955|Sterling Cooper|05.07.2024|J. Smith|reseller|-|259.0
+382|null|NA|Pinnacle Analytics|07.08.2024|Alice Johnson|Store|$37270|255
+441|NULL|null|Sterling Cooper|12.18.2023|alice johnson|ONLINE|-  |86.0
+N/A|$89668|$255|Sterling Cooper|10.24.2023|henry taylor|RETAIL|$36605|352
+433|$872118  |$2307|Sterling Cooper||Mia Clark||$1614|378.00
+8|$634214|$4498|SummitView Hotels|01.06.2024|Karen White|affiliate|$10749|141.00
+N/A|$1122396|$2938|Genco Pura|03.04.2025|frank wilson|referral|$7190|382
+N/A|$942023|$4806|Sterling Cooper|10.21.2023|Jane Doe|Social Media||196
+374|$492222|$3516|Sterling Cooper|06.05.2025|john smith|referral|$48648|140
+362|$893862|$3973|Sterling Cooper|07.01.2025  |H. Taylor||$35132|225
+413|$41357|$1969|Sterling Cooper|03.18.2024|david brown|Affiliate|$19366|21.0
+461  |$1414792|$2887|Sterling Cooper|11.05.2024|L. Harris|Email|$14020|490.0
+465|$156251|$570|Cyberdyne Systems|06.12.2024|Carol Davis|Brick & Mortar|$25470|274  
+429|$47086|$1239|Sterling Cooper|12.29.2023|john smith|Reseller|0|38
+|$1480615|$4500||01.31.2025|Frank Wilson|reseller|$471|329.00
+315|$1379426|$3537|Sterling Cooper|11.14.2024  |grace lee|Retail|$13998|390.0
+128|$1293700|$2587|Vandelay Ind|01.22.2024|Eva Martinez|call center|$48620|500.0
+464|$128523|#N/A|Sterling Cooper|04.06.2024|Iris Anderson|Website|$40734|115.00
+234|$38835|#N/A|Sterling Cooper|12.16.2023|david brown|Store|$11098|359.00
+37|$47489|$2065|Cybertruck Co|06.13.2024  |bob williams|E-Commerce||23
+72|$1524415|$3970||06.16.2025|henry taylor|referral|$10314|384.0
+251|$224624|$1182|Sterling Cooper|11.21.2023|C. Davis|Email Campaign|$16872|190.00
+49|$85029|$1024|Sterling Cooper|09.07.2025|karen white|Retail|$42666|83
+138|$1481943|$4198|Sterling Cooper|06.06.2024|N/A  |PARTNER|$47431|353.0
+69|$140462|$2809|Sterling Cooper|01.16.2024|JANE DOE|ONLINE|$31940|50.0
+207|$254571|$1506|Sterling Cooper|01.07.2025|A. Johnson|Store|$12512|169.0
+N/A|$47954|$959|Sterling Cooper|05.22.2024  |TBD|ecommerce|$17940|50
+-|$288957|$1430|Sterling Cooper|09.19.2024  |JANE DOE||$37166|202.0
+401  |$521667|$3105|Sterling Cooper|06.05.2024|iris anderson|Social Media|$46193|168
+-|$1052636|$2599|Globex Industries|01.01.2025|JOHN SMITH|in-store|$19952|405
+249|$238577|NULL|Dunder Mifflin|05.23.2025|David Brown|RETAIL|$38566|95.00
+296|$172463|$1198|Cogswell Cogs|04.15.2024|J. Doe|Referral|$36984|144
+83|$105064|$2284|PixelForge Studios|12.08.2023|karen white|RETAIL|$18668|46.00
+98|$649331|$3753|Sterling Cooper|04.14.2025|david brown|direct|$2124|173
+233|$536718|$1455|Sterling Cooper|11.30.2023|Jane Doe|reseller|$45714|369.0
+243|$500890|$4007|Sterling Cooper|03.09.2024|karen white|web|$6435|125.0
+19|$2328935|$4955|Sterling Cooper|05.24.2025|alice johnson|affiliate|-|470.00
+413|$693763|$3964|Pied Piper|07.28.2025|H. Taylor|social media|N/A|175
+277|$546035|$4832  |Wonka Enterprises|06.10.2025|David Brown|ecommerce|-|113.0
+364|$1289740|$4961|Sterling Cooper|05.06.2024|Frank Wilson||$39946|260
+344|$1520110|$3052|Sterling Cooper|07.29.2024|TBD|in-store|$38276|498.00  
+287|$166922|$830|QuickShip Logistics|09.20.2024|K. White|Online|$31002|201
+-|$45317|$265  ||12.24.2024|TBD|E-Commerce|$29584|171.0
+148|$364056|$4920|Sterling Cooper|05.17.2025|John Smith|Referral|$17196|74.0
+51|$563457|$1605|Sterling Cooper|11.17.2023|G. Lee|RETAIL|$5528|351
+491|$910699|$4316|Sterling Cooper|02.13.2025|mia clark|Brick & Mortar|$25098|211.0
+455|$955579|$2754|MomCorp|04.14.2025|M. Clark|Reseller|$26221  |347
+242|$267042|$645|Sterling Cooper|10.04.2024|Eva Martinez|Field Sales|$45102|414
+89|$243716|$1551|Sterling Cooper|08.17.2024|Carol Davis|Retail|$21551|0
+87|$107061|$1574|Oceanic Airlines|06.14.2024|J. Doe|in-store|$44966|68.0
+-|$197554|$4594|Wayne Corp|N/A|jane doe|RETAIL|$7785|43.0
+249|$137377|$1521|Sterling Cooper|05.10.2024|henry taylor|Web|$5390|-
+331|$690234|$1520|Sterling Cooper|09.26.2025|Iris Anderson|  |N/A|454.00
+99|$2139795|$4403|MomCorp|08.10.2025|C. Davis|web|$20064|486.00
+375|$297504|$1305|Hooli Inc|07.07.2025|iris anderson|Website|$5856|228.0
+102|$329258|$1646||06.17.2024|C. Davis|online|0|200.0
+59|$527202|$4974|Sterling Cooper|02.27.2024|Eva Martinez|online|$38776|106.0
+400|$369688  |$3107|AgriGrow Corp|04.08.2024|G. Lee|Brick & Mortar|N/A|119
+275|$122465|$496|Sterling Cooper|01.13.2024|J. Smith|Partner|$33642|247.00
+367|$408250|$2875|Sterling Cooper|03.05.2024|grace lee|Social Media|$43453|142.00
+141|$71955|$986|Sterling Cooper|08.01.2025|B. Williams|In-Store|$41314|73.0
+145|$42509|$92|Buy N Large|04.05.2025|A. Johnson|call center|$17133|460.0
+305|$1313158  |$3648|Buy N Large|09.26.2024|leo harris|partner|$17355|360
+308|$31246|$411|PixelForge Studios|01.26.2024|B. Williams|direct|$18253|76
+116|$166193|$25|Krusty Burger LLC|04.30.2025|Frank Wilson|Reseller|$40986|N/A
+391|$551041|$1354|Sterling Cooper|12.27.2023|Henry Taylor|Affiliate|$13987|407
+470|$1913807|$4004|Globex Industries|07.16.2024|Bob Williams||N/A|478
+228|$19004|$107|Sterling Cooper|11.12.2023|Frank Wilson|Direct Sales|$8510|177.0
+492|$1301365|$3380|Sterling Cooper|03.20.2024|eva martinez|Referral|$43104|385.0
+244|$841047|$3004|Sterling Cooper|07.14.2024|D. Brown|ONLINE|$23497|280
+251|$529315|$1759|Sterling Cooper|01.29.2024|J. Doe|Telesales|N/A|301
+325|$331506|$3098|Sterling Cooper|10.06.2024|TBD|Direct Sales|$43073|107
+115|$471582|$1438|Sterling Cooper|02.24.2024|N/A|reseller|$40766|328.0
+164|$397199|$976|Sterling Cooper|05.11.2025|K. White|Brick & Mortar|$23541|407
+0|$138513|$1640|Sterling Cooper|04.14.2025|G. Lee|direct|$31479|#REF!
+335|$474532|$3679|Sterling Cooper|08.08.2024|JOHN SMITH|Partner|$3114  |129
+27|$346059|$4614|CloudNine SaaS|12.12.2023|TBD  |Phone|$2122|75
+110|$194313|#N/A|Sterling Cooper|09.30.2024|J. Smith|Referral  |N/A|241
+201  |$178811|$4833||03.18.2024|henry taylor|Call Center|$13927|37
+94|$1872623|$4693|Sterling Cooper|11.07.2023  |frank wilson|phone|$27834|399
+83|$23227|$704|Sterling Cooper|10.20.2025|E. Martinez|field|$24674|33
+387|$575622|$1777|Massive Dynamic|11.23.2024|leo harris|Telesales|$14762|324
+|$814461|$1925|Soylent Corp|03.07.2025|frank wilson|Social|$3451  |423.0
+252|$2039|$47|GreenLeaf Energy|01.13.2024|John Smith|ONLINE|$49187|43.00
+242|$71266|$321|Sterling Cooper|N/A|Grace Lee|retail|$7772|222
+84|$77438|$1844|Sterling Cooper|pending|Jake Thomas|PARTNER|$10159|42.00
+70|$2066042|$4696|Tyrell Corporation|12.29.2024|Jane Doe|partner|0|440.00
+185|$1018192|$2943|Sterling Cooper|11.02.2023|mia clark|Referral|$40567|346.00
+115|$513071|$2028|Sterling Cooper||K. White|affiliate|$16439|253  
+346|$1075026  |$3799|Brawndo Corp|08.23.2025|A. Johnson|partner|$31875|283.0
+|$193138|$4035|Pinnacle Analytics|07.02.2024|grace lee|ecommerce|N/A|N/A
+51|$243272|$830|Sterling Cooper|10.06.2025|B. Williams|Reseller|$24569|293.00
+229|$1464983|$4115|Sterling Cooper  |08.08.2025|||$11353|356
+423|$361394|$1309|Sterling Cooper|01.14.2024|Carol Davis|Website|$31280|276
+175|$109219|$1030|Sterling Cooper|11.13.2024|Karen White|Retail|$30088|#REF!
+393|$303463|$2122|SummitView Hotels|04.03.2025|leo harris|Telesales|$10303|143
+323|$321723|$730|Sterling Cooper|10.06.2024|bob williams|Reseller|-|441
+240|$152964|$524|Oscorp Technologies|04.27.2024|leo harris|reseller|null|292.00
+9|$543031|$2729|Sterling Cooper|01.23.2024|Jane Doe|field|$40779|199.0
+72|$895413  |$1977|Sterling Cooper|07.10.2024|Henry Taylor|ecommerce|$30362|453.0
+192|$106828|$4109|Sterling Cooper|null|N/A|email|$27957|26.00
+355|$177171|$3221|Sterling Cooper|pending|henry taylor|web|$15397|55
+103|$7718|$3859|Sterling Cooper|07.11.2025|Iris Anderson|Reseller|$49682|2.0
+214|$171699|$2259|Sterling Cooper|TBD|iris anderson|ONLINE  |$31561|76.00
+188|$358469|$3896|Sterling Cooper|07.22.2024|John Smith|retail|$25711|92
+257|$492607|$4438|Prestige Worldwide|TBD|grace lee|retail||111
+366|$189343|$1770|Sterling Cooper|04.10.2024|J. Smith|call center|$34909|107
+N/A|$1479948|$4011|Sterling Cooper|08.03.2024|Leo Harris||$42864|369
+98|$129196|$1059|Sterling Cooper|04.30.2024|Grace Lee|Direct|$30858|122
+-|$196028|$1903|Sterling Cooper|11.09.2023|G. Lee|field|$17377|103.00
+70|$251308|$1220|Sterling Cooper|08.31.2025|grace lee|Telesales|$13224|206
+343|$114888|$1618|Sterling Cooper|03.25.2024|Unassigned|ONLINE|$1897|71.0

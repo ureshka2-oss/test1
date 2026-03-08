@@ -1,0 +1,164 @@
+unit_price|qty|sales_channel|rep_name|sale_date|total_revenue|num_leads|company_name|deal_status|ad_spend_usd|product_name|num_conversions|campaign_name
+USD 22.44|293.00|Email Campaign|A. Johnson|2024-09-14|USD 6,574.92|2417|Acme Corp|Pending|USD 48,053.21|Other|305|Q3-23-Summer Blitz
+#N/A|293  |Store|K. White|2024-12-13|USD 147,334.05|1790|Acme Corp|PENDING|USD 31,481.29|Consulting Hours|292|H2-2023-Fall Campaign
+USD 1,308.55|55|Web|Frank Wilson  |2024-10-04|USD 71,970.25|343|Wonka Enterprises|Closed-Won|USD 28,778.24|Service Plan Enterprise|361|FY-2023-Brand Awareness
+USD 1,608.87|356.0|Social Media|Bob Williams|2024-03-06  |USD 572,757.72|965|GreenLeaf Energy|CLOSED WON|USD 7,102.02|Service Plan Basic|141|H1-23-Trade Show
+USD 584.33|0|reseller|iris anderson|2023-09-03|USD 81,778.01|680|Acme Corp|Lost  |USD 7,746.12|Security Bundle|470|FY-23-Summer Blitz
+USD 1,237.32|55.00|social media  |grace lee|2023-07-28|USD 68,052.60|1410|Acme Corp|In Progress||Support Tier 2|214|FY-23-Fall Campaign
+USD 1,535.56|177|Direct|Iris Anderson|2024-05-03|USD 271,794.12  |N/A|Acme Corp|Lost|USD 22,431.01|API Access|336|FY-23-Retention
+|1|Phone|frank wilson|2024-07-11|USD 241,123.81|2768|Acme Corp|lead|N/A|MISC|332|
+USD 4,598.58|376|Telesales|L. Harris|2024-01-08|USD 1,729,066.08||SummitView Hotels|LOST|USD 25,413.38|Marketing Suite|365|Q4-2024-Email Blast
+USD 3,034.41|249|Affiliate|Iris Anderson|2024-11-10|USD 755,568.09|195|PixelForge Studios|open|USD 13,865.41|Marketing Suite|216|H2-2024-Email Blast
+USD 4,361.24|105|Website|N/A|2024-01-28  |USD 457,930.20|458|Acme Corp|PENDING|USD 43,179.42|Cloud Storage 1TB|384|Q4-2023-Retention
+USD 3,185.01|#REF!|ecommerce|Mia Clark  |pending|USD 105,452.39|1167|Acme Corp|Closed-Lost|USD 49,412.43|Gadget X|132|Q2-2023-Spring Push
+USD 1,492.75|174||frank wilson|2024-11-13|USD 259,738.50|2949|Acme Corp|LOST|USD 18,555.96|API Access|17|Q3-2024-Retention
+USD 3,745.76|251.0|ecommerce|A. Johnson|2023-12-19|USD 940,185.76|1906|GreenLeaf Energy|CL|USD 16,104.33|Software Subscription|183|Q2-23-Brand Awareness
+USD 3,523.27|407.00|direct|JOHN SMITH|2024-05-14|USD 1,433,970.89|119|Acme Corp|Pending|USD 14,349.68|Software License|71|Q3-24-Social Push  
+USD 413.96|-|direct|L. Harris|2023-04-29|USD 123,223.87|4754|Acme Corp|Lead|USD 36,918.07|Marketing Suite|72|H1-2023-Holiday Sale
+USD 381.78|331|web|J. Thomas|2023-03-21|USD 126,369.18|3937|Acme Corp|Pending|-|Analytics Dashboard|N/A|H2-24-Product Launch
+USD 2,347.13|169|e-comm|carol davis|2023-12-05|USD 396,664.97|-  |Acme Corp|CL|USD 24,400.46|Gadget Mini|59|
+#N/A|239|Direct Sales|B. Williams|2025-02-10|USD 66,274.34|550|Acme Corp|open|USD 8,891.34|Training Package|250|Q2-23-Holiday Sale
+USD 2,003.80|15.00|Telesales|Carol Davis|2024-11-11|USD 30,057.00|N/A|Acme Corp|Closed-Lost|USD 23,525.08|Widget B|167|Q2-24-Trade Show  
+USD 1,017.93|427.0|Direct|I. Anderson|N/A|USD 434,656.11|103  |HealthPlus Pharma|qualified|USD 15,967.70|Support Tier 2|36|Q3-2024-Brand Awareness
+USD 2,421.62|31.0|Retail|Leo Harris|2023-11-30|USD 75,070.22|837|Acme Corp|lead|USD 49,969.35|Gadget Mini|-|Q4-2023-Brand Awareness
+USD 3,124.01|349.0|Telesales|H. Taylor|2023-03-10|USD 1,090,279.49|4915|Acme Corp|closed won|USD 10,436.73|Support Tier 2|350|
+USD 1,082.19|23|Online|Leo Harris|2025-02-03|USD 24,890.37|3870|NovaTech Solutions|Closed-Won|USD 12,819.29|Software License|416|H1-23-Trade Show
+USD 4,208.13|34.0|Social|henry taylor|2024-06-16|USD 143,076.42|1844|Acme Corp|negotiation|USD 11,753.27|Widget A|136|
+USD 4,048.14|256|Referral|john smith|2024-03-16|USD 1,036,323.84|-|Acme Corp|negotiation|USD 20,982.28|Gadget X|33|Q4-23-Black Friday
+USD 4,306.30|455|ONLINE|Eva Martinez|2023-11-25|USD 1,959,366.50|924|DataWave Inc|Open|USD 16,693.08|Software License|478|Q2-2024-Webinar Series
+USD 2,018.89|322|Brick & Mortar|frank wilson|2025-01-08|USD 650,082.58|N/A|Acme Corp|lead|USD 2,739.05|MISC|34|Q3-2024-Cross-sell
+USD 476.67|126|Direct Sales|N/A|2023-03-30|USD 60,060.42|-|DataWave Inc|WON|USD 15,772.83|Security Bundle|73|Q4-24-Retention
+USD 1,652.48|97|Website|H. Taylor|null|USD 160,290.56|2240|Acme Corp|Closed-Won|USD 30,102.79|Widget B  |210|FY-2023-Black Friday
+USD 1,022.20|124.0|Social|Eva Martinez|2023-03-24|USD 126,752.80|1857|Acme Corp|Won|USD 12,393.75|Hardware Unit|405|Q2-24-Upsell
+USD 3,089.45|203|reseller|leo harris|2025-01-23|USD 627,158.35|N/A|Acme Corp|negotiation||Gadget Mini|293  |
+USD 564.85|303.00||alice johnson|2023-06-18|USD 171,149.55|2882|MomCorp|WON|USD 23,102.63|-|33|Q2-23-Black Friday
+USD 612.83|26|email campaign  |B. Williams|2024-03-11|USD 15,933.58|4421|Acme Corp|CLOSED WON|USD 19,488.78|Cloud Storage 1TB|117|FY-24-Black Friday
+USD 1,523.51|354|social media|frank wilson|2024-07-20|USD 539,322.54|3009||Lost  |USD 9,541.31|Cloud Storage 1TB|174|Q3-2024-Product Launch
+USD 1,518.33|472|Email|David Brown|2024-09-18|USD 716,651.76|116|Acme Corp|Closed-Won|USD 22,296.50|Consulting Hours|251  |H2-23-Trade Show
+USD 992.32|174.0||G. Lee|2024-11-24|USD 172,663.68|4494|Acme Corp  |negotiation|USD 3,668.13|Security Bundle|253|Q4-23-Brand Awareness
+USD 4,691.14|212|Affiliate|Frank Wilson|2023-07-25|USD 994,521.68|615|Acme Corp|qualified|USD 38,873.55|Widget Pro||Q1-23-Social Push
+USD 2,697.23|160.0|in-store|david brown|2023-07-31|USD 431,556.80|2113|Acme Corp|PENDING|USD 11,373.14|Training Package  |22|
+USD 1,937.57  |116.00|Social|carol davis|2024-10-30|USD 224,758.12|1263|Acme Corp|Open|USD 36,805.73|Service Plan Enterprise|59|FY-2024-Webinar Series
+USD 3,503.86|213.0  |Direct Sales|leo harris|2024-06-10|USD 746,322.18|1610|Acme Corp|Closed Lost|USD 49,332.79|Service Plan Pro|386|Q2-23-Cross-sell
+USD 3,632.40|48|Field Sales|Unassigned|null|USD 174,355.20|3722|Acme Corp|Lost|USD 26,890.18|Software License|390|H2-24-Upsell
+USD 2,487.68|302.00|in-store|Carol Davis|2023-09-06|USD 751,279.36||Acme Corp|qualified|USD 47,764.68|Support Tier 2|4|Q1-2023-Holiday Sale
+USD 3,700.96|N/A|Referral|Grace Lee|N/A|#N/A|3550|Acme Corp|closed won|USD 20,290.57|Analytics Dashboard|183|
+USD 62.65  |-|PARTNER|Henry Taylor|2024-07-15|USD 224,162.50|3446|Wayne Corp|In Progress|USD 48,641.79|Premium Onboarding|259|H2-2024-Holiday Sale
+USD 2,924.05|155.00|Direct Sales|henry taylor|2025-02-06|USD 453,227.75|2492|Acme Corp|open|USD 34,779.43|Widget Pro|362|Q2-2024-Upsell
+USD 3,793.80|70|RETAIL|I. Anderson|2024-03-27|USD 265,566.00|250|Acme Corp|Lead|USD 12,586.02|Support Tier 2|433|Q2-24-Black Friday
+USD 1,488.62|393.00|DIRECT|TBD|2024-09-03|USD 585,027.66|202|Acme Corp|PENDING|USD 22,380.37|API Access|101|H2-2023-Webinar Series
+USD 3,272.87|341|phone|frank wilson|2023-10-23|USD 1,116,048.67|1937|Acme Corp  |CW|USD 27,857.47|Gadget X|77|H1-23-Trade Show
+USD 2,253.18|387.00|field|david brown|2025-01-18|USD 871,980.66|3261|Pied Piper|open|USD 32,615.07|Hardware Unit|34|
+USD 420.96|164.0|Call Center|Jake Thomas|2024-01-11|USD 69,037.44|202|Acme Corp|WON|USD 31,271.09|Marketing Suite|304|Q3-23-Trade Show
+USD 4,519.80|83.00||Grace Lee||USD 375,143.40|4402|Buy N Large|In Progress  |USD 37,964.87|Data Pipeline|366|H1-2023-Fall Campaign
+USD 1,640.88|459.0|E-Commerce|J. Thomas|2023-08-02|USD 753,163.92|4527|Acme Corp|negotiation|USD 26,714.06|Analytics Dashboard|319|FY-24-Brand Awareness
+USD 3,662.29|39.0|web|leo harris|2023-12-26|USD 142,829.31|411|Acme Corp|pending|USD 24,102.11|Widget Pro  |150|H1-2023-Cross-sell
+USD 1,979.78|434.0|Phone|iris anderson|2024-03-20|USD 859,224.52|1124|Dharma Initiative|closed lost|null|Cloud Storage 5TB|131|H1-23-Retention
+USD 2,804.29|417.0|web|iris anderson|2023-11-13|USD 1,169,388.93|4091|Acme Corp|Lead|USD 48,204.35|Gadget Mini|495|Q2-23-Email Blast
+USD 209.16|149.0||john smith|2024-12-02|USD 31,164.84|4069|Acme Corp|PENDING|USD 35,837.91|Cloud Storage 5TB|377|Q3-23-Product Launch
+USD 758.68|494.0|retail|F. Wilson|2023-07-01|USD 374,787.92|389|Acme Corp|lead|USD 8,177.42|Support Tier 2|82|H2-23-Black Friday
+NULL|227|Affiliate|jake thomas|2024-01-27||4217|Acme Corp|PENDING|USD 35,582.17|Support Tier 1|143|H2-24-Holiday Sale
+USD 1,389.40|416|referral|eva martinez|2024-12-23|USD 577,990.40|4895|Acme Corp|pending|USD 38,773.40|Cloud Storage 5TB|245|H1-23-Summer Blitz
+USD 3,336.73|236.00|email campaign|carol davis|2024-05-16|USD 787,468.28|N/A|Acme Corp|CLOSED WON|USD 36,027.87|N/A|364|Q4-2023-Social Push
+USD 4,191.83|433|ONLINE|Carol Davis|2023-12-17|USD 1,815,062.39|3391|Acme Corp|Negotiation|USD 14,566.90|Software License|466|Q2-24-Black Friday
+USD 969.83|233|email|E. Martinez|2024-05-28|USD 225,970.39|924|Acme Corp|open|USD 12,553.84|Support Tier 2|345|H2-2024-Fall Campaign
+USD 3,837.00|292|RETAIL|Unassigned|2024-01-05|USD 1,120,404.00|4000|Acme Corp|Qualified|USD 26,223.84|Marketing Suite|363|H1-2023-Retention
+USD 3,556.15||RETAIL  |karen white|2023-07-06|missing|2700|Acme Corp|Closed Lost|USD 535.89|Premium Onboarding|237|H1-2023-Email Blast
+USD 1,280.53|249.00|Store|David Brown|2023-12-27|USD 318,851.97|4040|Acme Corp|Closed-Won|USD 33,486.26|Service Plan Enterprise|274|FY-2024-Fall Campaign
+USD 1,506.50|48.0|partner|david brown|N/A|USD 72,312.00|N/A|Acme Corp|negotiation|-|Service Plan Enterprise|443|Q2-23-Trade Show  
+USD 4,940.04|211|ecommerce|C. Davis|2024-11-11  |USD 1,042,348.44|3355|Buy N Large|CW|USD 26,521.80|Other|140|H1-23-Webinar Series
+NULL|90|referral  ||2023-04-15|USD 185,511.98|513|Acme Corp|lead|USD 5,057.79|Support Tier 2|124|Q2-24-Product Launch
+USD 3,756.53|462|In-Store|henry taylor|2025-01-31|USD 1,735,516.86|2794|QuickShip Logistics|Pending|USD 255.16|Security Bundle  |498|FY-23-Webinar Series
+USD 359.32|493.00|online||TBD|USD 177,144.76|1885|Hooli Inc|Lost|USD 29,929.82|Software License|414|H2-23-Summer Blitz
+USD 2,211.58|444.00|email campaign|Carol Davis|2024-04-26|USD 981,941.52|2151|Acme Corp|in progress  |USD 28,141.08|API Access|29|H2-24-Social Push
+USD 2,447.35  |175.00|Website|alice johnson|2023-11-28|USD 428,286.25|391|Acme Corp|Proposal|USD 12,407.47|Service Plan Pro|61|H1-2023-Retention
+USD 1,004.59|462|social|Unassigned|2025-02-18|USD 464,120.58|4419|Spacely Sprockets|CLOSED WON|USD 10,897.72|Software License|221|H1-24-Retention
+USD 4,165.36|470.00|Brick & Mortar|mia clark|2024-10-19|USD 1,957,719.20|1550|Acme Corp|Pending|USD 32,713.90|Marketing Suite|176|Q1-23-Holiday Sale
+USD 4,032.59|257.00|call center|Jake Thomas|pending|USD 1,036,375.63|987||open|USD 39,208.85  |Data Pipeline|283|H2-2024-Email Blast
+USD 2,720.66|370|Online|A. Johnson|2023-11-01|USD 1,006,644.20|535|Omni Consumer Products|Lead|USD 26,921.57|API Access|458|Q3-24-Webinar Series
+USD 2,037.67|93|Direct Sales|Leo Harris|TBD|USD 189,503.31|3411|Acme Corp|in progress|USD 23,288.13|Premium Onboarding|318|
+USD 1,421.96|100|Email Campaign|Eva Martinez|2024-06-02|USD 142,196.00|1667  |Acme Corp|WON|N/A|Service Plan Basic|46|FY-23-Retention
+USD 519.69|301.00|e-comm|leo harris|2024-05-07|USD 156,426.69|1511|Acme Corp|closed won|USD 13,723.02|Cloud Storage 5TB|92|H1-23-Email Blast
+USD 3,070.08|416|online|Frank Wilson|2023-11-18|USD 1,277,153.28|2490|Acme Corp|in progress|USD 45,656.88|Support Tier 2|413|Q3-2023-Trade Show
+USD 4,056.10|178.0|social|Jake Thomas|2023-09-03|USD 721,985.80|2334|Acme Corp|in progress|USD 26,079.86|Consulting Hours|60|Q4-23-Holiday Sale
+USD 2,211.90|485|online|L. Harris|2024-12-06|USD 1,072,771.50|null|Acme Corp|CW|USD 20,147.83|Gadget Mini|59|Q1-2023-Brand Awareness
+USD 3,040.69|489.0|Retail|Carol Davis|2024-01-20|USD 1,486,897.41|-|Stratton Oakmont|CL|USD 2,949.41|Support Tier 2|364|Q3-2023-Cross-sell
+USD 946.96|292.0||B. Williams|2024-01-03|USD 276,512.32||Acme Corp|closed won|USD 11,961.04|Service Plan Pro|295|H1-2023-Webinar Series
+NULL|#REF!|field|C. Davis|2024-07-22|USD 90,839.67|63|Acme Corp|CL|USD 31,495.68|Service Plan Pro|493|Q1-23-Black Friday
+NULL|107.00|e-comm|Karen White|2023-08-27|USD 248,438.00|2081|Oceanic Airlines|negotiation|USD 6,343.05|Software Subscription|266|
+USD 1,305.89|146.00|direct|iris anderson|2024-08-14|USD 190,659.94|3731|Acme Corp|WON|USD 8,611.90|Widget A||Q4-2024-Brand Awareness  
+USD 2,201.86|340.00|online|I. Anderson|pending|USD 748,632.40|2821|Acme Corp|LOST|USD 5,026.08|Premium Onboarding|323|Q2-24-Product Launch
+USD 2,126.96|168.0|Affiliate|Frank Wilson|2025-01-19|USD 357,329.28|4046|Acme Corp|Pending|USD 12,322.00|Support Tier 1|429|H1-24-Black Friday
+USD 774.16|164.00|Partner  |I. Anderson|2025-02-04|USD 126,962.24|2694|Acme Corp|Lead|USD 25,997.36|Security Bundle|386|Q1-2023-Black Friday
+USD 2,422.30|2.00|ONLINE|D. Brown|2023-11-19|USD 4,844.60|1280|Acme Corp|Lead|USD 3,051.31|Service Plan Basic|382|H1-23-Holiday Sale
+USD 935.35|247.0||F. Wilson|2024-05-30|USD 231,031.45|4145|Acme Corp|Closed Lost|null|ERP Add-on|357|
+USD 4,253.66|210|Channel Partner|Grace Lee|2023-08-22|USD 893,268.60|593|HealthPlus Pharma|Closed-Lost|N/A|ERP Add-on|81|Q2-2024-Holiday Sale
+USD 3,493.40|398|Call Center|Jake Thomas|2024-05-30|USD 1,390,373.20|1369|Acme Corp|Pending|USD 47,658.96|Service Plan Enterprise|20|Q3-23-Cross-sell  
+USD 691.41|462|Website|E. Martinez|2023-10-27|USD 319,431.42|409|Wonka Enterprises|negotiation|USD 6,638.68|MISC|N/A|FY-2024-Social Push
+USD 4,377.26|88|Field Sales|leo harris|2024-11-30|USD 385,198.88|3876|Acme Corp|CW|USD 19,558.33|Gadget Mini|471|H2-23-Social Push
+USD 454.54|94.00|Partner|M. Clark|2023-08-09|USD 42,726.76|1248|Planet Express|CL|USD 39,182.28|Analytics Dashboard|70|Q4-23-Cross-sell
+USD 4,963.06|370||eva martinez|2024-03-19|USD 1,836,332.20|191|Stark Industries|Lead|USD 14,849.25|Gadget Mini|155|H2-2024-New Year Promo
+USD 966.06|484|Partner|Leo Harris|2024-12-05|USD 467,573.04|2943|PixelForge Studios|Proposal|USD 41,329.91|Premium Onboarding|461|H1-2023-Retention
+USD 374.76|-||bob williams  |2023-10-15|USD 85,226.79|4396|Acme Corp|CW|USD 7,404.90|Support Tier 2|165|Q2-24-Social Push
+USD 4,148.74|414|direct|JOHN SMITH|2024-10-06|USD 1,717,578.36|843|Acme Corp|Closed Lost|USD 47,254.51|API Access|147|H2-2023-Product Launch
+USD 3,878.82|305|Referral|N/A|2024-05-16|USD 1,183,040.10|3738|Acme Corp|CLOSED LOST|USD 8,710.99  |Marketing Suite|178|Q4-23-Webinar Series
+USD 601.84|110.00|Web|frank wilson|2023-05-25|USD 66,202.40|3143|Weyland Corp|Qualified|USD 13,204.57|Marketing Suite|378|H1-2023-Webinar Series
+USD 3,727.93|414.0|DIRECT||2024-05-06|USD 1,543,363.02|1834|Acme Corp|lead|USD 14,614.74|Widget A|69|Q1-2023-Fall Campaign
+USD 3,250.37|210|RETAIL|J. Thomas|2024-02-13|USD 682,577.70|4465|Acme Corp|Negotiation|USD 24,979.61|Marketing Suite|255|Q4-24-Product Launch
+USD 4,988.12|500||I. Anderson|2024-12-02|USD 2,494,060.00|2806|NovaTech Solutions|negotiation|USD 37,811.53|Hardware Unit||Q4-24-Webinar Series
+USD 1,886.31|103.00|email|D. Brown|2024-11-26|USD 194,289.93|-|Acme Corp|CL|USD 33,530.51|Software Subscription|279  |FY-2024-Cross-sell
+null|351.00|Referral|TBD|2024-02-20|missing|1287|Acme Corp|open|USD 34,041.34|Widget A|490|
+USD 1,152.58|383|online|Karen White|2024-06-05|USD 441,438.14  |1308|QuickShip Logistics|negotiation|USD 44,127.91|Cloud Storage 1TB|47|Q4-24-Product Launch
+USD 3,152.56  |115||Jake Thomas|2025-01-15|USD 362,544.40|1414|Acme Corp|Closed-Won|USD 21,692.47|Cloud Storage 5TB|395|H2-2023-Product Launch
+USD 4,642.92|78.00|social|Frank Wilson|2023-05-19|USD 362,147.76|-|Acme Corp|CL|USD 13,158.71|ERP Add-on|426|Q2-23-Trade Show
+USD 4,661.49|303.0|online|Alice Johnson|2024-11-03|USD 1,412,431.47|3432|HealthPlus Pharma|Won|USD 27,061.66|Training Package|78|FY-24-Product Launch
+USD 1,754.89|433|Retail|karen white|2024-06-10|USD 759,867.37|745|Buy N Large|closed won|USD 15,080.92|Hardware Unit|81|H1-2024-Summer Blitz
+USD 4,087.23|105.0|Retail|David Brown|2024-11-14|USD 429,159.15||Acme Corp|closed lost|USD 7,034.71|Software Subscription|66|H1-24-Fall Campaign
+USD 203.92|328|direct|K. White  |2024-10-08|USD 66,885.76|3226|Acme Corp|closed lost|USD 27,779.33|Consulting Hours|370|Q3-2024-Product Launch
+USD 3,407.26|459|Field Sales|I. Anderson|2024-03-22|USD 1,563,932.34|910|Acme Corp|Proposal|USD 11,472.89|Service Plan Enterprise|46|H2-2024-Holiday Sale
+USD 4,226.50|293|social|E. Martinez|2023-10-21  |USD 1,238,364.50|4069|Acme Corp|Qualified|USD 45,230.06|Software Subscription|-|H1-2024-Upsell
+USD 4,400.92|158|E-Commerce|mia clark|2023-07-10|USD 695,345.36|1785|PixelForge Studios|open|USD 2,582.54|Data Pipeline|498|FY-2023-Brand Awareness
+USD 570.26|14|Direct|Alice Johnson|2023-06-12|USD 7,983.64|806|GreenLeaf Energy|Won|USD 17,778.69|Analytics Dashboard|342|FY-2024-Upsell
+USD 2,465.30|460.0|Direct Sales|David Brown|2024-11-30|USD 1,134,038.00||CloudNine SaaS|WON|USD 47,347.46|Support Tier 2|116|Q1-2023-Summer Blitz
+USD 1,511.28|158  |PARTNER|F. Wilson|2024-05-03|USD 238,782.24|392|DataWave Inc|Closed-Won|USD 45,756.90|Data Pipeline|162|H2-23-Social Push
+USD 3,788.07|-|call center|D. Brown|2024-02-21|USD 224,010.68|1617|AgriGrow Corp|CW|USD 46,466.79|Hardware Unit|384|Q1-2024-New Year Promo
+USD 3,676.25|240|online|L. Harris|2023-08-06|USD 882,300.00|2831|PixelForge Studios|CLOSED LOST|USD 2,319.91|Training Package|61|Q1-24-Black Friday
+USD 2,246.06|357.0|Field Sales|L. Harris|2024-04-01|USD 801,843.42|1885|Acme Corp|Lost|N/A|Analytics Dashboard|107|Q3-23-Summer Blitz
+USD 2,623.03|242.00|Web||2024-01-26|USD 634,773.26|3354|Stark Industries|negotiation|USD 39,674.96  |Service Plan Basic|326|FY-23-Webinar Series
+USD 2,150.14|494.0|email|Leo Harris|2023-06-28|USD 1,062,169.16|3695|Acme Corp|Negotiation|-|Cloud Storage 5TB|62|H2-2024-Webinar Series  
+USD 1,067.16|299.00|email|A. Johnson|2023-04-03|USD 319,080.84|3660|Acme Corp|open|N/A|Support Tier 2|281|Q1-2023-Spring Push
+USD 1,822.46|360|DIRECT|alice johnson|2023-08-30|USD 656,085.60|4415|Acme Corp|WON|USD 39,501.66|Security Bundle|474|Q4-23-Webinar Series
+USD 960.05|7.00|phone|John Smith|2024-11-04|USD 6,720.35|4375|Initech Solutions|qualified|USD 5,881.65|API Access|105|Q4-2023-Summer Blitz
+USD 778.86  |139|Call Center|Jane Doe|2024-01-12|USD 108,261.54|1695|Acme Corp|closed lost|N/A|Widget Pro|479|H2-2023-Cross-sell
+USD 3,486.22|446|affiliate|Karen White|2025-02-24  |USD 1,554,854.12|954||Proposal|USD 18,301.02|Gadget X|311|H1-24-Cross-sell
+NA|N/A||Jane Doe|2024-02-18|null  |3113|Acme Corp|in progress|USD 35,555.35|ERP Add-on|221|Q2-2024-Email Blast
+USD 3,940.60|156.0|Retail|jane doe|2024-05-10|USD 614,733.60|2504|Umbrella Ltd|Lead|USD 39,972.30|N/A||Q1-2024-Black Friday
+USD 1,408.91|219|ecommerce|jake thomas|2024-05-05|USD 308,551.29|2289|Acme Corp|closed lost|USD 24,391.01|Gadget X  |183|Q3-23-Product Launch
+USD 833.66|54|ONLINE|Karen White|2024-11-11|USD 45,017.64|3056|Acme Corp|negotiation|-|Marketing Suite|284|Q3-23-Fall Campaign
+USD 4,263.77|446.0||jane doe|2024-03-10|USD 1,901,641.42|4171|Acme Corp|Open|USD 100.80|Widget Pro|172|Q2-2023-Social Push
+USD 2,058.20|337|affiliate|JANE DOE|2023-03-29|USD 693,613.40|3871|Weyland Corp|Closed Lost|USD 9,623.66|API Access|256|
+USD 515.19|73|Online|TBD|2024-08-28|USD 37,608.87|3700|Rekall Inc|closed won|0|Hardware Unit|489|Q3-24-Email Blast  
+USD 1,351.43|152.0|Social Media|Unassigned|2024-04-29|USD 205,417.36|137|Acme Corp|Open|USD 13,130.00|API Access|350|Q3-2024-Trade Show
+USD 3,220.08  |119.0|referral|Carol Davis|2024-06-15|USD 383,189.52|1155|Acme Corp|In Progress|USD 22,638.25|Hardware Unit|358|Q4-24-Cross-sell
+USD 2,659.59|54.00|Referral|Jane Doe|2023-12-22|USD 143,617.86|N/A||Lost|USD 49,349.36|Marketing Suite|381|
+USD 3,194.27|294.0|Telesales|E. Martinez|2024-03-20|USD 939,115.38|1427|Acme Corp|PENDING|USD 11,587.78|Widget A|149|H1-24-New Year Promo
+USD 1,962.97|310.00||Mia Clark|2024-05-08|USD 608,520.70|4704|Acme Corp|Open|N/A|Software License|121|FY-23-Webinar Series
+USD 1,960.66|281.00|ecommerce|carol davis|2024-07-19|USD 550,945.46|1302|Acme Corp|Negotiation|USD 49,189.58|Consulting Hours|125|Q3-23-Summer Blitz
+USD 3,584.05  |43.0|email|Leo Harris|2024-12-27|USD 154,114.15|4071|Cogswell Cogs|CLOSED LOST|USD 16,031.07|Support Tier 2|73|Q1-23-Cross-sell
+USD 615.47|134|ONLINE|K. White|2023-04-22|USD 82,472.98|4215|QuickShip Logistics|pending|USD 48,803.96|Support Tier 2|365|Q4-24-Black Friday
+USD 4,266.42|84|E-Commerce|david brown|2024-12-11|USD 358,379.28||Acme Corp|negotiation|USD 20,188.29|Support Tier 1|22|H2-2024-Summer Blitz
+USD 3,102.10|284.0|partner|N/A|2024-04-05|USD 880,996.40|3058|Acme Corp|Closed Lost|USD 37,769.74|Hardware Unit|235|Q4-2023-Summer Blitz
+USD 892.08|33|Brick & Mortar|Jake Thomas|2023-05-20|USD 29,438.64|3479|Acme Corp|PENDING|0|Service Plan Pro|4|H1-24-Spring Push
+USD 4,825.05|387|referral|Mia Clark|2024-10-30|USD 1,867,294.35|2214||Lead|USD 49,701.70|Marketing Suite|31|Q1-24-Brand Awareness  
+USD 4,099.60|379|referral|Alice Johnson  |pending|USD 1,553,748.40|4488|Acme Corp|Proposal|USD 20,172.44|Consulting Hours|143|Q1-2023-Cross-sell
+USD 3,560.32||social||2025-02-06|USD 115,465.52|2170|Tyrell Corporation|CL|USD 7,193.78|Gadget X|245|Q4-2024-Holiday Sale
+USD 2,442.68|74|Channel Partner|Mia Clark|2023-06-28|USD 180,758.32|1773  |Acme Corp|In Progress|USD 45,509.26|Widget B|201|
+USD 1,422.96|86.0|Brick & Mortar|E. Martinez|2023-11-07|USD 122,374.56|4039|Acme Corp|CW|N/A|Service Plan Basic|369|Q1-23-Social Push
+USD 3,795.12|421.00|Direct|D. Brown|2023-03-11|USD 1,597,745.52|4843|FreshCart|Negotiation|USD 44,498.19|Widget B|239|Q2-2024-Trade Show
+USD 1,150.56|284.0|partner|H. Taylor|2024-07-12|USD 326,759.04|4594|Acme Corp|CLOSED LOST|USD 42,110.00|Hardware Unit|420|H1-2024-Upsell
+USD 1,304.01|75|phone|Grace Lee|2024-07-26|USD 97,800.75|170|Acme Corp|In Progress|N/A|Gadget X|214  |H2-23-Fall Campaign
+USD 2,705.50|198.0|Direct|Henry Taylor|2024-03-04|USD 535,689.00|1434|Wonka Enterprises|in progress|USD 4,200.42|Service Plan Pro|196|H2-23-Trade Show
+|280.0|RETAIL|J. Thomas|2023-03-13||2837|BrightPath Media|Closed-Won|USD 24,843.50|API Access|367|  
+USD 3,485.37|235.0|social  |J. Doe|2023-10-12|USD 819,061.95|1792|Acme Corp|closed lost|USD 41,137.51|Service Plan Basic|66|Q3-24-Upsell
+||||||||||||
+||||||||||||

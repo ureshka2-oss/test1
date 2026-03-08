@@ -1,0 +1,181 @@
+salesChannel	saleDate	quantity	salesRegion	adSpend	conversionCount	dealStatus	leadCount	totalRevenue	productName	salesRep	unitPrice	companyName
+Phone	05-Feb-2024	93.00	Africa	USD 29,829.79	34	pending	29	USD 275,340.45	Gadget X	Frank Wilson	USD 2,960.65	PixelForge Studios
+ecommerce	22-Mar-2025	168.00	Asia Pacific	USD 7,453.10	286	Closed Lost	2018	USD 7,729.68	Software Subscription	mia clark	USD 46.01	Acme Corp
+Partner	04-Jun-2024	278.0	UK	USD 15,887.98	246	Proposal	2558	USD 653,561.32	Analytics Dashboard	E. Martinez	USD 2,350.94	Acme Corp
+Referral	22-Oct-2023	N/A	SA	USD 15,247.32	144	proposal	3130	NA	Support Tier 1	K. White	USD 270.62	Acme Corp
+field	TBD	282.0	APAC	USD 45,348.04	N/A	Closed-Lost	4936	USD 1,072,987.44	Widget Pro	E. Martinez	USD 3,804.92	Dunder Mifflin
+Email Campaign	11-Dec-2024	55.0	Europe	USD 19,027.06	-	Closed-Won	3997	USD 153,236.05	Support Tier 1	Alice Johnson	USD 2,786.11	Cyberdyne Systems
+Referral	15-Jan-2025	479.0	US	USD 48,548.06	N/A	closed won	3817	USD 173,656.66	Service Plan Enterprise	I. Anderson	USD 362.54	Acme Corp
+direct	21-Nov-2023	411	N. America	USD 4,221.76	176	Pending	3020	USD 464,857.44	ERP Add-on	Eva Martinez	USD 1,131.04	Krusty Burger LLC
+Telesales	11-Jul-2024	63.00	Australia	USD 35,079.85	324	Closed Lost	2148	USD 230,725.53	Service Plan Basic	jake thomas	USD 3,662.31	Acme Corp
+online	25-Dec-2023	446.0	Asia	USD 31,211.09	321	proposal	4441	USD 1,754,492.64	Support Tier 1	G. Lee	USD 3,933.84	Acme Corp
+ecommerce	17-Oct-2023	203	Middle East	USD 11,810.29	4	CLOSED WON	2381	USD 260,867.18	Training Package		USD 1,285.06	Wayne Corp
+ecommerce	01-Nov-2023	373		USD 34,923.43	355	Closed-Lost	1696	USD 1,309,983.46	Software License	Iris Anderson	USD 3,512.02	Acme Corp
+Affiliate	17-Sep-2023	219.00	Asia	USD 34,911.05	287	pending	2907	USD 460,278.87	ERP Add-on	Jane Doe	USD 2,101.73	Acme Corp
+call center	19-Jan-2024	289.0	UK		425	lead	890	USD 1,399,898.66	Consulting Hours	JANE DOE	USD 4,843.94	Acme Corp
+affiliate	26-Nov-2023	54.0	South America	USD 14,498.81		Negotiation	377	USD 175,551.30	Cloud Storage 1TB	john smith	USD 3,250.95	Acme Corp
+Retail	24-Jul-2025	153	EU	USD 45,098.08	279	closed lost	3100	USD 343,968.48	Hardware Unit	Jane Doe	USD 2,248.16	Acme Corp
+Call Center	23-Feb-2024	52.0	EMEA	USD 44,610.57	83	Proposal	4239	USD 68,298.36	-	eva martinez	USD 1,313.43	Acme Corp
+Social	01-Jan-2024	101	Europe	USD 21,126.90	104	in progress	3583	USD 448,949.04	Training Package	David Brown	USD 4,445.04	Virtucon
+Direct Sales	19-Mar-2024	94	US	USD 1,893.46	303	Negotiation	4466	USD 327,101.20	ERP Add-on	Alice Johnson	USD 3,479.80	Acme Corp
+DIRECT	24-May-2024	336	US	null	205	closed lost	1373	USD 184,968.00	Training Package	iris anderson	USD 550.50	FreshCart
+RETAIL	27-Feb-2025	306.00	Asia Pacific	USD 1,082.10	259	Closed-Lost	2726	USD 783,265.14	Widget A	eva martinez	USD 2,559.69	Acme Corp
+Referral	28-Dec-2023	338	-	USD 39,661.30	287	closed lost	3759	USD 410,801.82	-	Jane Doe	USD 1,215.39	Acme Corp
+Channel Partner	03-May-2025	250.00	LATAM	USD 4,252.10	20	Negotiation	2036	USD 137,782.50	Gadget Mini	Frank Wilson	USD 551.13	Hooli Inc
+call center	01-Jun-2024	442	South America	USD 38,430.65	215	Negotiation	3744	USD 1,536,308.02	Cloud Storage 5TB	Bob Williams	USD 3,475.81	Acme Corp
+Direct	16-Feb-2024	68.0	Asia	USD 27,495.61	264	lead	3517	USD 184,794.76	Widget A	alice johnson	USD 2,717.57	Acme Corp
+online	17-Jun-2025	333	United Kingdom	USD 33,259.02	30	qualified	2905	USD 417,442.14	Security Bundle	D. Brown	USD 1,253.58	Acme Corp
+In-Store	04-Jan-2024	318	United Kingdom	USD 19,790.99	466	lead	406	USD 76,393.93	Data Pipeline	Alice Johnson	missing	Acme Corp
+e-comm	24-Dec-2023	57.0	ANZ	N/A	247	in progress	1269	USD 4,843.86	Gadget Mini	D. Brown	USD 84.98	Acme Corp
+Retail	28-Mar-2025	476.00	North America	USD 14,107.59	231	CLOSED WON	1842	USD 1,659,916.72	ERP Add-on	Henry Taylor	USD 3,487.22	Acme Corp
+email campaign	24-Nov-2023	200	Africa	USD 1,687.66	358	pending	2970	USD 117,833.72	Cloud Storage 5TB	Jane Doe		Oscorp Technologies
+e-comm	20-Jun-2025	329	Australia	USD 37,365.87	422	LOST	2784	USD 1,100,738.59	Security Bundle	D. Brown	USD 3,345.71	Acme Corp
+e-comm	28-Aug-2025	10	NA	USD 368.44	18	Closed Lost	899	USD 30,039.10	MISC	JANE DOE	USD 3,003.91	Acme Corp
+Online	12-Aug-2024	34	APAC	USD 46,935.40	72	In Progress	678	USD 94,153.14	Service Plan Enterprise	John Smith	USD 2,769.21	Acme Corp
+online	04-Dec-2023	411.0	Australia	USD 36,790.24	183	Negotiation	3467	USD 195,303.09	Hardware Unit	alice johnson	USD 475.19	Stratton Oakmont
+Social	15-Dec-2024	410	N. America	USD 39,512.22	423	open	3489	USD 1,222,923.40		john smith	USD 2,982.74	Acme Corp
+Phone	13-Oct-2023	359.0	Asia	USD 2,976.94		Closed-Lost	N/A	USD 658,187.01	-	H. Taylor	USD 1,833.39	Acme Corp
+Direct	19-Jun-2025	6	ASIAPAC	USD 1,974.95	79	closed lost	2290	USD 19,908.96	Service Plan Enterprise	Henry Taylor	USD 3,318.16	AgriGrow Corp
+online	31-Mar-2024	2.0	North America	USD 7,142.47	51	LOST	2767	USD 4,882.44	ERP Add-on	A. Johnson	USD 2,441.22	Acme Corp
+direct	07-Nov-2023	400	US	USD 38,723.63	-	WON	2079	USD 156,568.00	Support Tier 1		USD 391.42	Acme Corp
+Call Center	28-Nov-2024	458	MEA	USD 857.51	137	CL	1656	USD 764,479.86	Data Pipeline	N/A	USD 1,669.17	
+phone	19-Apr-2024	85.00	ANZ	USD 36,077.51	285	Proposal	4560	USD 45,069.55	Support Tier 1	JOHN SMITH	USD 530.23	Acme Corp
+in-store	20-Dec-2023	449.0	NA	USD 31,508.72	165	Closed Lost	2097	USD 125,746.94	Hardware Unit	grace lee	USD 280.06	Acme Corp
+Reseller	03-Aug-2024	193.0	Middle East	USD 34,822.55	289	Won	3170	USD 627,780.75	Support Tier 1	B. Williams	USD 3,252.75	
+affiliate	12-Oct-2023	201	Asia	USD 48,399.74	354	proposal	1573	USD 83,412.99	Data Pipeline	J. Thomas	USD 414.99	DataWave Inc
+social	18-Jun-2024	320	Africa	USD 47,388.78	85	closed lost	1273	USD 524,432.00	Marketing Suite	H. Taylor	USD 1,638.85	BlueOcean Retail
+Referral	08-Apr-2025	410.00	Unknown	USD 30,585.73	160	Lead	433	USD 529,457.60	Cloud Storage 5TB	M. Clark	USD 1,291.36	Acme Corp
+Call Center	10-Jan-2024	92.0	ASIAPAC	USD 2,085.67	243	negotiation	3596	USD 227,791.08	ERP Add-on	alice johnson	USD 2,475.99	Acme Corp
+field	02-Mar-2025	96.0	Europe	USD 8,612.28	94	qualified	171	USD 180,599.04	Widget Pro	henry taylor	USD 1,881.24	Acme Corp
+call center	26-Oct-2024	185	Britain	USD 9,036.41	223	Closed-Lost	558	USD 5,729.45	Training Package	Karen White	USD 30.97	Acme Corp
+Direct	21-Jan-2024	159	Africa		174	Proposal	4959	USD 248,862.03	Support Tier 2	H. Taylor	USD 1,565.17	Acme Corp
+Call Center	04-Sep-2024	412.0	USA	USD 30,996.03	159	lead	4634	USD 400,987.24	Analytics Dashboard	H. Taylor	USD 973.27	
+Reseller	25-Jan-2024	2.0	Britain	USD 42,144.83	193	Open	N/A	USD 8,621.04	Service Plan Enterprise	jane doe	USD 4,310.52	Acme Corp
+Call Center	13-Sep-2023	275.00	Britain	USD 26,567.10	30	WON	3110	USD 249,843.00	Premium Onboarding	Karen White	USD 908.52	Acme Corp
+ecommerce	25-Feb-2024	35.00	LATAM	USD 31,798.47	67	In Progress	1733	USD 34,305.25	Service Plan Pro	H. Taylor	USD 980.15	Acme Corp
+Affiliate	09-Aug-2024	311.00	MEA	USD 18,987.50	327	Closed-Won	2912	USD 30,841.54	Software Subscription	J. Doe	missing	Acme Corp
+affiliate	06-Sep-2023	440	NA	USD 49,429.71	49	Closed-Lost	3425	USD 1,464,438.80	Software Subscription	karen white	USD 3,328.27	Acme Corp
+email	29-Aug-2024	292.0	Middle East	USD 5,101.69	376	Lost	3436	USD 1,447,779.80	N/A	J. Doe	USD 4,958.15	Acme Corp
+direct	13-Sep-2023	23.0	MEA	USD 25,937.19	388	pending	3380	USD 92,363.86	Service Plan Enterprise	E. Martinez	USD 4,015.82	Acme Corp
+Email	11-Mar-2024	449.00	Asia Pacific	USD 43,515.70	42	Lead	1523	USD 1,442,116.16	Hardware Unit	F. Wilson	USD 3,211.84	Prestige Worldwide
+Referral	14-Oct-2024	443	UK	USD 44,469.34	202	Lead	1610	USD 371,349.18	Hardware Unit	David Brown	USD 838.26	Weyland Corp
+Direct Sales	25-Sep-2023	432.00	Africa	USD 48,421.44	-	qualified	4593	USD 2,135,566.08	Service Plan Enterprise	J. Thomas	USD 4,943.44	Acme Corp
+Retail	19-Apr-2025	-	NA	USD 14,000.17	289	CLOSED WON	1556		MISC	leo harris	USD 2,345.37	Acme Corp
+retail	09-Feb-2024	395	ASIAPAC	USD 49,662.06	228	qualified	2703	USD 1,314,402.00	Analytics Dashboard	JANE DOE	USD 3,327.60	Acme Corp
+ONLINE	09-Feb-2025	305	Asia Pacific	USD 36,152.27	431	PENDING	53	USD 630,334.35	Gadget X	John Smith	USD 2,066.67	Acme Corp
+direct	20-May-2025	452	United States	USD 46,993.50	437	open	4780	USD 1,986,164.84	Service Plan Pro	John Smith	USD 4,394.17	Acme Corp
+phone	15-Nov-2024	361	SA	USD 45,243.80	228	proposal	616	USD 277,143.31	Support Tier 2		USD 767.71	Acme Corp
+Social Media	19-Apr-2025	207.00	USA	USD 47,865.23	264	lead	716	USD 400,143.42	CRM Module	N/A	USD 1,933.06	Acme Corp
+direct	15-Dec-2024	288.0	Latin America	USD 37,904.20	129	negotiation		USD 500,250.24	Support Tier 1	leo harris	USD 1,736.98	Acme Corp
+Online	03-Dec-2024	465	APAC	USD 31,495.92	140	closed won	362	USD 665,145.30	Service Plan Basic	M. Clark	USD 1,430.42	Acme Corp
+Website	27-Nov-2024	169.0	MEA	USD 47,704.82	195	Closed-Won	409	USD 723,240.57	Widget Pro	K. White	USD 4,279.53	Acme Corp
+ecommerce	21-Feb-2024	380	Latin America	USD 43,277.46	418	CW	1336	USD 1,078,052.40	Training Package	iris anderson	USD 2,836.98	Acme Corp
+retail	03-Dec-2023	63	??	USD 36,373.66	318	pending	1796	USD 279,152.37	ERP Add-on	Frank Wilson	USD 4,430.99	Pinnacle Analytics
+Call Center	26-Oct-2024	-	Asia Pacific	USD 23,041.03	278	qualified	4967	null	Widget Pro	L. Harris	USD 2,988.86	Acme Corp
+e-comm	16-Apr-2025	28.00	USA	null	462	in progress	4645	USD 106,167.32	Cloud Storage 1TB	karen white	USD 3,791.69	Acme Corp
+Partner	10-Jun-2024	299.0	LATAM	USD 13,348.04	247	Closed-Lost	4847	USD 177,139.56	Widget Pro	L. Harris	USD 592.44	Dunder Mifflin
+Web	08-Jul-2025	433.00	North America	USD 17,645.04	332	WON	1877	USD 1,600,653.78	Widget B	Jake Thomas	USD 3,696.66	Acme Corp
+Social	15-Jan-2024	33	United Kingdom	USD 5,482.13	430	PENDING	2820	USD 93,980.37	Consulting Hours	jake thomas	USD 2,847.89	Acme Corp
+direct	19-Dec-2024	327.00		USD 19,996.48	354	Qualified	4889	USD 424,985.55	Analytics Dashboard	Eva Martinez	USD 1,299.65	Acme Corp
+phone	pending	151	ASIAPAC	USD 3,629.92		proposal	1975	USD 641,363.44	Data Pipeline	Karen White	USD 4,247.44	Acme Corp
+Telesales	30-Jun-2025	275	United Kingdom	USD 28,270.40	272	lead	1552	USD 1,351,174.00	ERP Add-on	E. Martinez	USD 4,913.36	Acme Corp
+RETAIL	11-Aug-2024	498	ANZ	USD 34,508.14	188	negotiation	1768	USD 1,361,581.80	Gadget X	M. Clark	USD 2,734.10	Acme Corp
+Call Center	18-Aug-2024	470	Middle East	0	496	pending	4072	USD 587,514.10	Service Plan Basic	eva martinez	USD 1,250.03	Weyland Corp
+Website	09-Jan-2025	356.00	Asia	USD 43,617.52	155	Proposal	1608	USD 1,291,820.76	Premium Onboarding	alice johnson	USD 3,628.71	TrueNorth Financial
+social	07-Jun-2025	27	Middle East	USD 23,464.04	430	closed won	213	USD 19,900.62	Widget Pro	Jake Thomas	USD 737.06	Acme Corp
+Email Campaign	22-Oct-2023	365	UK	USD 17,559.32	334	Won	2803	USD 734,916.55	Widget B	Grace Lee	USD 2,013.47	Buy N Large
+partner	N/A	156.0	Middle East	USD 13,702.12	335	CL	4605	USD 112,839.48	Software License	Frank Wilson	USD 723.33	Acme Corp
+Store	01-Oct-2024	280.00	UK	USD 705.39	323	pending	2999	USD 881,944.00	Hardware Unit	alice johnson	USD 3,149.80	Acme Corp
+Telesales	08-Aug-2025	-	Asia	USD 7,793.56	263	Lost	3980	USD 176,131.33	Gadget X	I. Anderson	USD 159.00	Acme Corp
+DIRECT	06-Mar-2024	284.0	SA		395	qualified		USD 131,119.96	Software License	jane doe	USD 461.69	Acme Corp
+Web	28-Mar-2024	374.0	North America	USD 48,931.61	460	closed lost	294	USD 1,193,635.96	ERP Add-on	karen white	USD 3,191.54	Acme Corp
+Web	26-Aug-2025	78.0	EMEA	USD 14,374.13	209	Lead	2072	USD 280,342.14		jane doe	USD 3,594.13	Acme Corp
+Direct	02-Apr-2025	304	UK	USD 35,735.25	418	PENDING	-	USD 23,204.32	Widget A	J. Smith	USD 76.33	Acme Corp
+Reseller	21-May-2025	252	Asia Pacific	USD 4,183.71		Open	1547	USD 238,006.44	Data Pipeline	JOHN SMITH	USD 944.47	Acme Corp
+Telesales	31-Dec-2024	365.0	Africa	USD 31,724.59	310	pending	488	USD 1,666,184.85	Service Plan Enterprise	I. Anderson	USD 4,564.89	Rekall Inc
+direct	23-Jun-2024	161	EU	USD 40,782.40	54	lead	3292	USD 499,971.01	API Access	L. Harris	USD 3,105.41	Acme Corp
+Telesales	09-Nov-2024	265.0	United States	USD 4,845.73	36	Pending	2106	USD 54,632.40	Cloud Storage 5TB	Jake Thomas	USD 206.16	Wayne Corp
+Store		390	North America	USD 9,562.82	216	CW	2561	USD 863,830.50	Service Plan Enterprise	E. Martinez	USD 2,214.95	MomCorp
+ecommerce	21-Jul-2024	72	APAC	USD 10,229.98	127	Open	3524	USD 64,998.00	Training Package	F. Wilson	USD 902.75	Acme Corp
+Phone	08-Mar-2024	262	United States	-	371	Lead	3933	USD 1,185,458.30	Service Plan Basic	Bob Williams	USD 4,524.65	Acme Corp
+DIRECT	19-Apr-2024	359	Unknown	USD 44,238.91	55	CLOSED WON	1915	USD 604,649.34	Service Plan Enterprise	TBD	USD 1,684.26	Acme Corp
+Affiliate	30-Apr-2024	374	Australia	USD 5,439.20		PENDING	4210	USD 174,519.62	Training Package	Henry Taylor	USD 466.63	Acme Corp
+Online	10-May-2025	227.00	Australia	USD 8,084.07	417	CLOSED LOST	961	USD 530,340.10	Training Package	F. Wilson	USD 2,336.30	MomCorp
+RETAIL	28-Nov-2024	342.0		USD 38,941.15	124	Open	1919	USD 848,939.76	Software License	grace lee	USD 2,482.28	Acme Corp
+Reseller	06-Jan-2025	390	United States	USD 8,099.98	171	Negotiation	444	USD 1,301,859.00	Service Plan Enterprise	henry taylor	USD 3,338.10	Cyberdyne Systems
+e-comm	08-Apr-2025	357	United States	USD 10,408.80	38	Qualified	2527	USD 119,357.18	Hardware Unit	Mia Clark	null	Acme Corp
+Store	27-Oct-2023	258.00	Africa	USD 19,093.03	38	CW	4172	USD 131,347.80	Premium Onboarding	iris anderson	USD 509.10	Acme Corp
+Reseller	13-May-2025	357	Australia	USD 14,238.75		Won	2364	USD 1,113,001.05	Premium Onboarding	TBD	USD 3,117.65	Acme Corp
+Call Center	11-Jul-2024	251.00	US	USD 20,801.15	303	Closed-Lost	464	USD 691,326.79	API Access	J. Smith	USD 2,754.29	Acme Corp
+social media	17-Apr-2024	361.00	APAC	USD 37,908.75	447	closed won	1282	USD 1,307,545.61	Support Tier 1	Iris Anderson	USD 3,622.01	Sterling Cooper
+direct	01-Jul-2024	375.00	Britain		-	LOST	1014	USD 201,834.02	Service Plan Basic	david brown	-	Acme Corp
+web	29-Dec-2023	143.0	USA	USD 49,454.81	308	lead	992	USD 252,568.03	API Access	karen white	USD 1,766.21	Acme Corp
+PARTNER	18-Jan-2025	365.00	N/A	USD 42,103.14	205	CL	906	USD 673,143.95	Hardware Unit	J. Doe	USD 1,844.23	Acme Corp
+PARTNER	22-Oct-2024	274.0		USD 36,613.31	3	CL	3148	USD 827,244.36	Cloud Storage 5TB	L. Harris	USD 3,019.14	Acme Corp
+Social Media	04-Oct-2023	440.00	South America	USD 25,654.63	479	Closed-Lost	177	USD 1,202,247.20	Service Plan Pro	David Brown	USD 2,732.38	Acme Corp
+ONLINE	10-May-2024	39	Latin America	USD 14,339.32	495	pending	4782	USD 108,309.63	Service Plan Pro	david brown	USD 2,777.17	Acme Corp
+Telesales	04-Jun-2024	-	USA	USD 26,262.19	465	Negotiation	3559	USD 214,559.36	Security Bundle	J. Thomas	USD 4,890.81	Acme Corp
+Store	22-Dec-2023	374	NA	USD 22,013.38	123	Closed Lost	2146	USD 645,082.68	Security Bundle	Iris Anderson	USD 1,724.82	Initech Solutions
+Field Sales	15-Oct-2023	286.00	APAC	USD 20,405.67	102	Pending	3711	USD 851,084.52	Widget Pro	Henry Taylor	USD 2,975.82	Acme Corp
+DIRECT	17-Sep-2023	353.0	UK	USD 20,989.21	81	Closed-Won	-	USD 494,958.95	Training Package	C. Davis	USD 1,402.15	Acme Corp
+email campaign	02-Feb-2025	370.0	??	USD 47,492.44	-	lead	3577	USD 1,847,972.40	Cloud Storage 5TB	alice johnson	USD 4,994.52	
+Social Media	06-Oct-2023	15.00	Britain	USD 4,454.96	329	pending	298	USD 47,732.70	Service Plan Pro	M. Clark	USD 3,182.18	Acme Corp
+Website	04-May-2024	151.00	United States	USD 6,623.29		Closed Lost	47	USD 503,693.72	Service Plan Basic	Eva Martinez	USD 3,335.72	
+Direct Sales	23-Jan-2025	null	Australia	USD 15,638.47	395	Won	3125	null	Software Subscription	mia clark	USD 672.00	
+Email Campaign	13-Oct-2024	185.0	EU	USD 26,272.59		Closed Won	1194	USD 226,613.90	API Access	eva martinez	USD 1,224.94	Acme Corp
+Online	17-Jul-2024	220	ANZ	USD 42,011.10	95	closed lost	4409	USD 1,068,139.60	Gadget Mini	David Brown	USD 4,855.18	Acme Corp
+ecommerce	22-May-2025	189	EMEA	USD 5,451.87	498	PENDING	2325	USD 288,984.78	Software Subscription	Bob Williams	USD 1,529.02	
+Web	13-Oct-2024	268	ASIAPAC	USD 6,362.68	54	pending	1969	USD 787,027.56	Data Pipeline	G. Lee	USD 2,936.67	Acme Corp
+In-Store	20-Oct-2023	312.0	UK	USD 48,151.56	8	Proposal	1660	USD 1,039,889.76	Hardware Unit	Bob Williams	USD 3,332.98	Acme Corp
+in-store	27-Aug-2024	37.00	Australia	USD 23,763.71	247	Qualified	3164	USD 145,720.80	Hardware Unit	Grace Lee	USD 3,938.40	Sterling Cooper
+Call Center	15-Sep-2023	130.00	??	USD 44,439.63	42	CL	1606	USD 389,409.80	CRM Module	J. Thomas	USD 2,995.46	Bluth Company
+	09-Feb-2024	112	Europe	USD 11,616.45	212	Closed-Won	4588	USD 100,404.64	Analytics Dashboard	K. White	USD 896.47	Acme Corp
+web	11-Jun-2025	433	United Kingdom	USD 44,627.76	476	Qualified	4702	USD 282,705.70	Training Package	JANE DOE	USD 652.90	Acme Corp
+Telesales	27-Aug-2025	122	NA	USD 11,955.80	187	Proposal	4699	USD 356,566.96	ERP Add-on	H. Taylor	USD 2,922.68	
+Direct	28-May-2025	456	Latin America	USD 46,706.32	1	in progress	null	USD 74,145.60	Marketing Suite	eva martinez	USD 162.60	Acme Corp
+Reseller	29-Mar-2025	388.00	USA	USD 23,051.18	114	negotiation	3311	USD 399,422.72	Support Tier 2		USD 1,029.44	Nakatomi Trading
+Reseller	20-Jan-2025	296.0	UK	USD 46,065.11	357	qualified	4002	USD 474,443.60	Support Tier 2	H. Taylor	USD 1,602.85	NovaTech Solutions
+Reseller	31-Aug-2025	56.00	N. America	USD 43,357.52	369	CL	4153	USD 183,750.56	Widget A	iris anderson	USD 3,281.26	Prestige Worldwide
+Retail	01-Apr-2025	313.00	USA	USD 30,431.65	494	in progress	836	USD 743,525.24	Hardware Unit	Grace Lee	USD 2,375.48	Acme Corp
+In-Store	10-Feb-2024	38.00	MEA	-	175	closed won	128	USD 112,926.88	Widget Pro	J. Smith	USD 2,971.76	Acme Corp
+call center	15-May-2025	0	MEA	0	486	Qualified	4790	USD 31,700.89	Widget Pro	I. Anderson	USD 1,379.53	Acme Corp
+ecommerce	29-Mar-2025	353	Middle East	N/A	303	Closed-Won	2481	USD 600,488.30	Support Tier 1	iris anderson	USD 1,701.10	Acme Corp
+RETAIL	31-Mar-2024	141	NA	USD 48,335.68	455	Closed Lost	1028	USD 463,354.20	ERP Add-on	Jane Doe	USD 3,286.20	Stark Industries
+retail	09-Jun-2024	394	MEA	USD 37,865.03		open	1025	USD 888,186.32	Support Tier 2	M. Clark	USD 2,254.28	Prestige Worldwide
+	14-Dec-2023	268.0	Europe	USD 22,515.79	394	Lead	1809	USD 121,674.68	API Access	henry taylor	USD 454.01	Acme Corp
+call center	10-Oct-2024	358.00	N. America	USD 26,753.71	344	WON	1512	USD 160,344.62	Widget A	Jane Doe	USD 447.89	Acme Corp
+Telesales	25-Jan-2025	375	Middle East	USD 15,298.23	262	closed lost	963	USD 1,526,238.75	CRM Module	Jake Thomas	USD 4,069.97	Acme Corp
+Brick & Mortar	07-Jun-2025	96	North America	USD 5,314.03	167	Proposal	1187	USD 213,682.56	Support Tier 1	L. Harris	USD 2,225.86	Acme Corp
+online	15-Oct-2024	249	United States	USD 13,247.30	52	Won	1454	USD 831,465.78	Service Plan Enterprise	John Smith	USD 3,339.22	Acme Corp
+Direct Sales	14-Nov-2023	428.0	??	USD 42,568.38	260	CW	164	USD 156,399.76	Analytics Dashboard	John Smith	USD 365.42	Acme Corp
+web	23-Jan-2024	355	United States	USD 36,899.14	124	WON	1424	USD 38,361.30	Cloud Storage 5TB	carol davis	USD 108.06	Acme Corp
+Channel Partner	18-Feb-2024	396	N/A	USD 43,933.52	386	proposal	4565	USD 740,983.32	CRM Module	JOHN SMITH	USD 1,871.17	Acme Corp
+Web	07-Mar-2024	265	Britain	-	335	Proposal	2014	USD 1,169,619.90	Data Pipeline	Carol Davis	USD 4,413.66	Acme Corp
+e-comm	12-Nov-2024	174	Britain	USD 10,933.81	472	PENDING	343	USD 249,307.20	Service Plan Pro	Eva Martinez	USD 1,432.80	Acme Corp
+Affiliate	16-Nov-2024	33	ANZ	USD 34,715.88	187	Proposal	2231	USD 114,086.61	Cloud Storage 5TB	JOHN SMITH	USD 3,457.17	Cybertruck Co
+email campaign	23-May-2025	243.0	ASIAPAC	USD 656.67	404	CW	632	USD 361,382.31	Training Package	J. Thomas	USD 1,487.17	Acme Corp
+Call Center	24-Nov-2024	351	Asia Pacific	USD 23,498.89	122	Pending	4512	USD 245,859.19	Widget B	john smith	#N/A	Acme Corp
+Web	12-Aug-2025	160	North America	USD 4,335.24	408	in progress	3333	USD 651,201.60	Widget B	G. Lee	USD 4,070.01	BlueOcean Retail
+Social Media	28-Dec-2023	165.00	Britain	USD 40,851.51	245	Closed-Lost	2942	USD 163,397.85	Service Plan Basic	Frank Wilson	USD 990.29	Acme Corp
+Direct Sales	22-Dec-2024	null	USA	USD 41,433.87	218	LOST	2293	USD 238,081.87	Software Subscription	N/A	USD 304.02	Tyrell Corporation
+in-store		454	APAC	USD 18,157.08	178	qualified	-	USD 394,980.00	ERP Add-on	TBD	USD 870.00	Acme Corp
+Partner	23-Dec-2024	164	NA		292	Lost	2965	NA	Analytics Dashboard	Carol Davis		Acme Corp
+in-store	06-Jun-2024	492.0	Asia Pacific	USD 42,170.06	-	WON	1387	USD 1,652,386.92	Security Bundle	karen white	USD 3,358.51	Bluth Company
+reseller	04-Jul-2025	312.00	NA	USD 16,797.20	296	Pending	3042	USD 440,384.88	Service Plan Pro	JANE DOE	USD 1,411.49	Acme Corp
+Referral	29-Mar-2024	354.00	Britain	0	253	closed lost	2757	USD 1,510,107.36	Service Plan Enterprise	Iris Anderson	USD 4,265.84	Acme Corp
+Direct Sales	18-Jan-2024	218	ASIAPAC	null	110	lead	3956	USD 1,014,024.82	API Access	Grace Lee	USD 4,651.49	Acme Corp
+Website	04-Jun-2024	438.0	NA	0	84	Won	4392	USD 1,431,033.60	Marketing Suite	Karen White	USD 3,267.20	Krusty Burger LLC
+Call Center	28-Apr-2025	139	LATAM	USD 5,680.40	235	CL	4119	#N/A	Analytics Dashboard	alice johnson	NULL	
+ecommerce	28-Dec-2023	262.0	LATAM	USD 21,643.34	178	qualified	4278	USD 899,660.84	Service Plan Pro	E. Martinez	USD 3,433.82	Acme Corp
+web	23-May-2025	468.0	ANZ	USD 35,814.94	436	qualified	3120	USD 2,042,366.04	Cloud Storage 1TB	Iris Anderson	USD 4,364.03	Acme Corp
+e-comm	13-Mar-2025	437.0	Middle East	USD 39,802.48	401	Won	798		Security Bundle	Alice Johnson	NULL	Acme Corp
+Reseller	20-May-2024	226.00	Latin America	USD 1,945.00	294	Qualified	594	USD 481,764.20	Widget A	jane doe	USD 2,131.70	NovaTech Solutions
+Affiliate	18-Jan-2025	190.0	Britain	USD 47,441.37	208	Won	4556	USD 47,386.00	Support Tier 1	L. Harris	USD 249.40	NovaTech Solutions
+online	05-Jun-2025	182.0	North America	0	325	PENDING	324	USD 321,399.26	API Access	K. White	USD 1,765.93	Acme Corp
+Email	21-Oct-2024	11	Latin America	USD 48,669.89	82	CLOSED WON	N/A	USD 11,732.71	Hardware Unit	grace lee	USD 1,066.61	Pied Piper
+direct	null	325	Africa	USD 17,130.09	104	Lead	2135	USD 417,400.75	Software Subscription	Frank Wilson	USD 1,284.31	CloudNine SaaS
+	11-Oct-2023	190	US	USD 6,303.58	166	Closed Won		USD 116,633.39	Consulting Hours	K. White	-	Acme Corp
+Affiliate	13-Dec-2024	349	US	USD 18,065.69	138	open	N/A	USD 322,332.91	Gadget X	carol davis	USD 923.59	SummitView Hotels
+email campaign	22-Dec-2024	400.00	MEA	USD 45,784.27	419	lead	1771	USD 1,498,256.00	Marketing Suite	Frank Wilson	USD 3,745.64	Acme Corp
+Telesales	28-May-2024	-	Europe	USD 46,171.38	86	CLOSED WON	3507	USD 180,830.95	MISC	Jane Doe	USD 3,880.64	Vandelay Ind
+Website	03-Jul-2024	365.00	United Kingdom	-	432	Won	4000	USD 275,823.20	Training Package	B. Williams	USD 755.68	Acme Corp

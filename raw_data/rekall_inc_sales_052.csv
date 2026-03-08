@@ -1,0 +1,170 @@
+Status,Date,Product,Campaign,Channel,Sales Rep,Quantity,Region,Revenue,CUR
+Closed-Won,20240123,Widget A,FY-2023-Cross-sell,,E. Martinez,195.0,UK,"500531,85",EUR
+Won,20240517,Gadget X,Q3-24-Black Friday,call center,D. Brown,104.0,Australia,"72493,20",AUD
+CL,20231208,Widget Pro,Q2-23-Holiday Sale,Retail,Carol Davis,21,UK,"20248,41",GBP
+In Progress,20230807,Marketing Suite,,Reseller,Carol Davis,48,USA,"171229,92",AUD
+Won,20230301,Cloud Storage 1TB,FY-24-Spring Push,affiliate,jake thomas,175.00,ANZ,"450957,50",EUR
+In Progress,20230607,Premium Onboarding,H1-2024-Webinar Series,Email Campaign,leo harris,283.0,APAC,"1193416,66",
+CLOSED WON,20240423,Service Plan Enterprise,H2-2023-Cross-sell,social,J. Smith,317,United States,"1086279,75",USD
+lead,20241115,ERP Add-on,Q4-24-Spring Push,Reseller,Leo Harris,185.0,APAC,"249730,13",CAD
+lead,20230223,N/A,,Channel Partner,frank wilson,null,LATAM,"244872,62",CAD
+Closed-Won,20230519,Widget Pro,FY-2024-Holiday Sale,Field Sales,I. Anderson,12.0,EMEA,"45734,28",USD
+Closed-Lost,20240318,Marketing Suite,Q4-23-Cross-sell,Direct Sales,leo harris,399.0,NA,"1648855,53",JPY
+PENDING,20240503,Software Subscription,Q2-24-Social Push,Email Campaign,Bob Williams,152.0,South America,"430790,80",AUD
+Open,20250107,CRM Module,Q4-23-Holiday Sale,direct,D. Brown,118.0,Britain,"436155,14",USD
+Open,20241101,Hardware Unit,H1-2023-Upsell,reseller,B. Williams,376,Europe,"1102074,80",EUR
+Closed Lost,20241231,Hardware Unit,Q3-2023-Email Blast,DIRECT,JOHN SMITH,485,Britain,"1525916,70",AUD
+CW,20230615,Widget B,Q3-2023-Upsell,Store,david brown,N/A,North America,"136076,81",GBP
+Negotiation,20230322,Support Tier 1,Q1-24-Brand Awareness,Direct,grace lee,151.0,Latin America,"447601,75",GBP
+Pending,20230309,Support Tier 2,Q2-23-Black Friday,Direct Sales,Jane Doe,447,United Kingdom,"979837,41",GBP
+Closed Won,20231108,CRM Module,Q1-2023-Retention,online,F. Wilson,73,??,"351257,75",
+open,20240303,Analytics Dashboard,Q1-23-Spring Push,Online,John Smith,105.00,United States,"464819,25",GBP
+proposal,20240725,Training Package,Q1-2023-Black Friday,Channel Partner,david brown,399.0,Asia,"967670,76",GBP
+closed lost,20240801,Support Tier 2,FY-24-Fall Campaign,Channel Partner,iris anderson,482.0,Africa,"2274567,64",USD
+Negotiation,20230507,Other,Q2-2024-Webinar Series,Field Sales,leo harris,15.0,United Kingdom,"58414,65",EUR
+Won,20231226,,FY-23-Brand Awareness,partner,JOHN SMITH,N/A,South America,"162432,24",AUD
+Proposal,20240415,Cloud Storage 1TB,,online,carol davis,160,US,"434892,80",GBP
+CW,20240229,Gadget Mini,H1-2023-Email Blast,affiliate,David Brown,337.0,-,"482988,40",USD
+closed lost,20240712,Widget Pro,FY-2024-Spring Push,Email,alice johnson,497,Australia,"26439,05",AUD
+PENDING,20230930,Widget Pro,H2-23-Webinar Series,,karen white,172.0,Africa,"265487,16",EUR
+CLOSED WON,20230618,Marketing Suite,Q3-2023-New Year Promo,RETAIL,Jake Thomas,null,Middle East,"146578,25",AUD
+Open,20241229,CRM Module,Q1-2023-Brand Awareness,Call Center,john smith,369,APAC,"1044672,21",JPY
+negotiation,20230917,Training Package,H2-2023-Upsell,Call Center,L. Harris,101.00,NA,"70476,79",EUR
+Open,20240907,Analytics Dashboard,H1-23-Product Launch,email campaign,Leo Harris,257,EMEA,"84612,11",CAD
+proposal,20230330,Data Pipeline,Q1-24-Brand Awareness,partner,alice johnson,251.0,United States,"228036,01",GBP
+Negotiation,20240225,Service Plan Basic,FY-23-Product Launch,Reseller,B. Williams,285,ANZ,"230023,50",AUD
+CLOSED LOST,N/A,Cloud Storage 1TB,Q2-23-Product Launch,field,N/A,281.0,ASIAPAC,"1281227,93",
+Closed-Won,20230801,N/A,Q4-2024-Brand Awareness,email,K. White,120,South America,"239500,80",AUD
+Negotiation,20240206,ERP Add-on,Q4-2023-Trade Show,retail,Jane Doe,101,Unknown,"26107,49",JPY
+In Progress,20240124,Service Plan Basic,Q3-24-Spring Push,referral,A. Johnson,71.00,United States,"142436,42",GBP
+Closed-Lost,20240515,Gadget X,Q2-24-Fall Campaign,Direct Sales,eva martinez,198,Latin America,"598415,40",EUR
+Proposal,20230519,Hardware Unit,H2-24-Email Blast,Website,David Brown,246.00,EMEA,"762991,14",AUD
+proposal,20231008,Gadget X,Q4-2023-Brand Awareness,ecommerce,JOHN SMITH,394.00,North America,"290220,40",CAD
+In Progress,20231213,Widget A,H1-23-Black Friday,Social,eva martinez,483,LATAM,"522519,06",USD
+CLOSED LOST,20240416,Marketing Suite,H2-2024-Cross-sell,Partner,JANE DOE,7,ASIAPAC,"28473,55",GBP
+closed won,20230508,Security Bundle,H1-2023-Cross-sell,ecommerce,jake thomas,343,Latin America,"174278,30",USD
+open,20230515,Premium Onboarding,Q4-23-Upsell,social,C. Davis,269,United Kingdom,"163691,84",EUR
+Negotiation,20250105,Support Tier 2,Q1-2023-Holiday Sale,Call Center,Bob Williams,165.0,United States,"578254,05",CAD
+PENDING,20240209,Widget B,Q1-23-Fall Campaign,retail,J. Doe,235.00,LATAM,"114795,15",
+PENDING,TBD,Service Plan Basic,,Brick & Mortar,G. Lee,260.0,EU,"174005,00",AUD
+CW,20240406,CRM Module,Q1-2024-Social Push,DIRECT,TBD,397.0,ASIAPAC,"878858,75",USD
+Won,20240525,CRM Module,,Social Media,leo harris,439,EU,"1652597,94",JPY
+CLOSED WON,20250105,Support Tier 2,H1-2023-Holiday Sale,In-Store,N/A,145.00,Europe,"499197,30",EUR
+Negotiation,20240726,Support Tier 2,H1-24-Brand Awareness,referral,N/A,332.00,NA,"985150,24",GBP
+Closed-Lost,20240410,Gadget Mini,Q1-2023-Summer Blitz,affiliate,K. White,280,ANZ,"795379,20",CAD
+Qualified,20230517,API Access,FY-2023-Cross-sell,referral,Unassigned,155,EU,"228569,20",CAD
+In Progress,20240428,Support Tier 1,FY-2024-Email Blast,Store,JOHN SMITH,234,APAC,"618366,06",USD
+negotiation,20230314,Service Plan Basic,FY-2024-Social Push,Partner,E. Martinez,210.0,Britain,"756243,60",EUR
+Lost,20230630,,H2-2023-Cross-sell,web,JOHN SMITH,257.00,Europe,"839169,25",AUD
+Closed Won,20230331,Cloud Storage 1TB,FY-23-Black Friday,social,leo harris,5,EMEA,"17781,95",AUD
+open,20240914,Cloud Storage 1TB,H1-2023-Social Push,referral,Mia Clark,454,Australia,"897004,12",
+proposal,20240304,Software Subscription,Q3-24-Upsell,RETAIL,bob williams,236.0,EU,"1149754,24",JPY
+closed won,20240208,Training Package,Q4-2023-Product Launch,retail,E. Martinez,218.0,APAC,"965894,78",
+Qualified,20240527,Widget A,Q1-2023-New Year Promo,Brick & Mortar,Carol Davis,-,-,"144249,29",JPY
+proposal,20231223,Cloud Storage 1TB,Q3-2024-Fall Campaign,Web,TBD,199.0,Latin America,"233152,38",CAD
+Won,20240517,Software License,Q3-2024-Upsell,Field Sales,bob williams,409.0,SA,"1469843,75",JPY
+WON,20230128,Cloud Storage 1TB,Q4-24-New Year Promo,email,N/A,273.00,,"9162,45",
+Proposal,TBD,Software Subscription,Q1-24-New Year Promo,Phone,A. Johnson,31,LATAM,"34112,09",USD
+negotiation,20230211,Analytics Dashboard,Q3-2024-Spring Push,ecommerce,Leo Harris,0,Asia,"119492,61",AUD
+CW,20230724,Support Tier 2,Q3-2024-Webinar Series,Partner,Karen White,281.00,SA,"275158,01",CAD
+Closed Lost,20231117,Security Bundle,Q4-2023-Fall Campaign,Store,Grace Lee,3,UK,"10710,81",JPY
+CL,20230328,Security Bundle,Q1-2024-Cross-sell,Referral,Bob Williams,127.00,United Kingdom,"429414,94",EUR
+in progress,20250113,Marketing Suite,FY-2024-Summer Blitz,Affiliate,Karen White,240,SA,"516360,00",
+closed lost,20230324,Gadget X,Q2-23-Upsell,referral,Henry Taylor,357,ANZ,"84467,30",EUR
+proposal,20241008,Marketing Suite,Q2-23-Spring Push,Email,carol davis,428.00,UK,"1489101,88",JPY
+LOST,20240815,Training Package,FY-24-Holiday Sale,direct,Iris Anderson,390,EU,"1947652,20",CAD
+In Progress,,Security Bundle,H2-2023-Social Push,Email,grace lee,461,Asia,"567666,18",USD
+Closed-Lost,20231028,Training Package,H1-2023-Fall Campaign,,Leo Harris,451,UK,"1062934,84",
+in progress,20230201,Software License,Q1-2024-Fall Campaign,field,Henry Taylor,,APAC,NULL,
+in progress,20230518,Consulting Hours,Q3-2023-Trade Show,Channel Partner,john smith,446,Asia Pacific,"1337763,62",GBP
+Open,20230929,Service Plan Basic,H1-2023-New Year Promo,In-Store,TBD,140.0,Asia Pacific,"343480,20",EUR
+Lost,20240321,Software License,FY-23-Fall Campaign,Web,C. Davis,145.00,Australia,"57792,65",JPY
+CLOSED LOST,20241020,MISC,FY-2023-Holiday Sale,Social Media,I. Anderson,464.00,Middle East,"1547027,04",JPY
+CLOSED WON,N/A,Cloud Storage 5TB,Q2-2023-Brand Awareness,Direct Sales,Bob Williams,402.00,NA,"256407,66",JPY
+CL,20231226,Analytics Dashboard,Q3-24-Fall Campaign,Channel Partner,Mia Clark,4.0,United Kingdom,"4934,00",GBP
+Proposal,20240809,Cloud Storage 5TB,Q4-23-Fall Campaign,Channel Partner,Leo Harris,382,Asia Pacific,"465020,06",GBP
+Proposal,20240303,Hardware Unit,H1-24-Holiday Sale,partner,eva martinez,221.00,Asia,"688178,53",AUD
+in progress,20240413,API Access,Q4-2024-Holiday Sale,Direct,N/A,243,UK,"614807,01",JPY
+lead,20240506,Widget Pro,Q1-24-Upsell,E-Commerce,john smith,307,Europe,"1220067,12",JPY
+Closed Lost,TBD,Hardware Unit,H2-2024-Retention,online,frank wilson,111,Britain,"495253,14",AUD
+Qualified,20230609,Premium Onboarding,H1-2023-Email Blast,Phone,frank wilson,204,ASIAPAC,"352267,20",GBP
+Qualified,20240128,Widget B,H2-23-Summer Blitz,Brick & Mortar,TBD,238,APAC,"1235,22",AUD
+CLOSED LOST,20240618,Support Tier 2,FY-23-Social Push,Channel Partner,G. Lee,95,??,"123952,20",CAD
+qualified,20240830,Data Pipeline,Q2-2023-Holiday Sale,,Unassigned,227.0,MEA,"1021711,11",EUR
+Lead,20231119,API Access,Q4-24-Trade Show,Field Sales,N/A,179,Asia Pacific,"570489,11",
+Closed Won,20240729,CRM Module,FY-2024-Spring Push,Email,Alice Johnson,214,EU,"58614,60",AUD
+WON,20230422,ERP Add-on,Q4-23-Webinar Series,Email,grace lee,141,NA,"535145,76",
+Closed-Won,20240304,Consulting Hours,H1-2023-Brand Awareness,Retail,carol davis,368,LATAM,"731503,04",CAD
+negotiation,20230725,Widget A,FY-23-Summer Blitz,ecommerce,JANE DOE,194,USA,"453996,86",USD
+WON,20241115,Other,Q4-2024-Retention,Social Media,Henry Taylor,462.0,MEA,"1620363,36",USD
+closed lost,20231122,-,Q3-2024-Fall Campaign,Social,frank wilson,360.0,Asia Pacific,"688777,20",JPY
+In Progress,20230308,ERP Add-on,H2-24-Spring Push,Social Media,I. Anderson,402.00,United States,"524770,80",EUR
+CLOSED WON,20230708,Hardware Unit,Q1-23-Summer Blitz,call center,David Brown,288,Europe,"132701,76",CAD
+negotiation,20230518,Hardware Unit,FY-2024-Spring Push,Email,I. Anderson,499,ASIAPAC,"2250824,33",CAD
+in progress,20230611,Support Tier 1,,Email,eva martinez,392.0,United Kingdom,"139881,28",GBP
+LOST,20231115,Support Tier 1,H2-23-Retention,E-Commerce,eva martinez,147,MEA,"583516,50",CAD
+CLOSED LOST,20240606,Support Tier 1,Q4-2024-Trade Show,,J. Smith,26,Asia Pacific,"86122,92",JPY
+WON,20241025,Cloud Storage 1TB,Q4-2024-Cross-sell,Field Sales,N/A,176.0,ASIAPAC,"494794,08",EUR
+Closed Won,20241119,Widget A,,,Jane Doe,303,SA,NULL,USD
+Negotiation,20231102,Service Plan Basic,,retail,john smith,167.0,UK,"205508,53",
+Qualified,20230306,Security Bundle,Q1-24-Webinar Series,Channel Partner,David Brown,191,,"584863,01",USD
+Closed-Won,20231228,Support Tier 1,Q3-24-Holiday Sale,Direct,David Brown,248.00,,"1091554,64",USD
+Lead,20240528,Support Tier 1,H1-2023-Product Launch,Phone,J. Doe,418.0,Middle East,"438628,30",AUD
+CLOSED WON,20241230,Service Plan Enterprise,H1-23-New Year Promo,reseller,C. Davis,57,Middle East,"213024,96",CAD
+Closed-Won,20230823,Consulting Hours,Q2-23-Fall Campaign,E-Commerce,karen white,381.0,United Kingdom,"1164724,62",
+CLOSED WON,20230516,Service Plan Pro,Q4-23-Fall Campaign,social media,eva martinez,202,N. America,"393350,56",EUR
+Closed Won,20240129,Premium Onboarding,H2-24-Product Launch,phone,TBD,24.0,EU,"101294,88",AUD
+open,20231121,Cloud Storage 1TB,,Phone,eva martinez,499,Unknown,"859871,81",GBP
+WON,20240418,Support Tier 1,Q4-2024-New Year Promo,social media,,495,Asia,"1573921,80",CAD
+Proposal,20241006,Service Plan Basic,Q3-24-Fall Campaign,online,Jake Thomas,479.0,N. America,"401200,82",JPY
+Qualified,20240420,Software Subscription,Q3-23-Cross-sell,partner,karen white,334,ANZ,"536200,26",EUR
+Closed Lost,20240116,,Q2-2023-Retention,field,H. Taylor,129,Asia Pacific,"351109,62",CAD
+Closed Lost,20230320,Gadget Mini,Q4-24-Social Push,reseller,H. Taylor,2.00,N. America,"7447,10",JPY
+Closed Lost,20230813,Gadget X,,Partner,D. Brown,150,EU,"650727,00",AUD
+closed won,20230206,-,H2-24-Social Push,Store,jane doe,94,EMEA,"78996,66",CAD
+CLOSED LOST,20240626,N/A,Q2-24-Email Blast,retail,Karen White,360,Asia,"637290,00",EUR
+WON,null,Support Tier 1,FY-2024-Email Blast,Store,jane doe,-,Middle East,"56302,20",GBP
+Qualified,20231208,Cloud Storage 5TB,Q1-2023-New Year Promo,referral,E. Martinez,485.0,Australia,"873451,05",JPY
+Negotiation,20231218,Training Package,FY-23-Email Blast,email campaign,iris anderson,131.00,Latin America,"282479,23",CAD
+Closed-Won,20240724,Widget B,Q1-24-Black Friday,online,grace lee,316.00,Middle East,"1081001,24",AUD
+In Progress,N/A,N/A,Q3-23-Brand Awareness,Social,frank wilson,258.00,South America,"533386,62",EUR
+WON,20241118,Widget A,H2-2023-Black Friday,Email Campaign,F. Wilson,82,ASIAPAC,"33192,38",
+in progress,20241018,Support Tier 1,H1-24-New Year Promo,,A. Johnson,477,EMEA,"77717,61",JPY
+Won,20250118,Premium Onboarding,H1-2024-Spring Push,Direct Sales,eva martinez,135.00,EMEA,"178336,35",
+Closed Won,TBD,Analytics Dashboard,H2-2023-Webinar Series,social media,TBD,8.0,USA,"8132,72",CAD
+negotiation,20240115,Gadget X,,Social Media,J. Smith,350.0,USA,"63656,86",GBP
+Lead,20240316,Security Bundle,Q2-24-Holiday Sale,Online,Henry Taylor,295.0,MEA,"261278,55",EUR
+Closed-Lost,20240523,API Access,Q4-24-Email Blast,Retail,,97.00,US,"442942,74",JPY
+WON,20231029,Widget A,H2-2024-Product Launch,Store,D. Brown,91,South America,"240268,21",EUR
+pending,20240906,Data Pipeline,Q1-2023-Retention,direct,grace lee,438,North America,"1487710,80",EUR
+Negotiation,20240202,Training Package,H1-23-Black Friday,Call Center,JANE DOE,287.00,Australia,"1192430,47",JPY
+proposal,20240623,Service Plan Enterprise,Q2-23-Summer Blitz,Website,M. Clark,-,MEA,NULL,
+CL,20240911,Widget A,Q4-23-Holiday Sale,Email Campaign,iris anderson,N/A,North America,"32401,89",CAD
+Lead,20230416,Service Plan Basic,H1-23-Upsell,email campaign,mia clark,86.00,Africa,"277890,94",USD
+Closed Won,20230923,Data Pipeline,H1-23-Cross-sell,PARTNER,mia clark,296,,"1416925,36",CAD
+Won,20230319,Hardware Unit,,online,Carol Davis,323.00,Asia Pacific,"594565,48",CAD
+negotiation,20240904,Software License,H1-2023-New Year Promo,call center,john smith,439,South America,"164638,17",GBP
+PENDING,20231117,Cloud Storage 5TB,Q1-2023-Spring Push,Field Sales,L. Harris,331,Latin America,"619062,68",GBP
+CLOSED WON,20230425,Support Tier 1,Q4-2024-Trade Show,,Leo Harris,452.0,EU,"2057829,44",CAD
+negotiation,20230306,Software Subscription,Q3-2023-Fall Campaign,Telesales,Unassigned,423.00,Asia Pacific,"557069,85",EUR
+LOST,20231229,Widget Pro,H1-2024-Trade Show,Email Campaign,frank wilson,32.00,ASIAPAC,"56829,44",AUD
+Closed Won,20230308,Cloud Storage 5TB,Q3-23-Upsell,social,D. Brown,450.0,Europe,"1926067,50",USD
+CW,20230310,Gadget X,H1-24-Trade Show,PARTNER,jake thomas,32,NA,"99840,64",EUR
+CL,20231219,Widget Pro,Q2-23-Webinar Series,Telesales,john smith,149,Australia,"316580,30",CAD
+Lead,20240320,Widget B,Q2-2024-Fall Campaign,Social,frank wilson,5,South America,"20164,00",JPY
+open,pending,ERP Add-on,Q1-24-Black Friday,Web,B. Williams,N/A,LATAM,"64711,34",USD
+CLOSED LOST,20240330,Support Tier 2,Q1-2023-Spring Push,Referral,Henry Taylor,426,US,"630339,42",JPY
+Proposal,20231112,Gadget Mini,H2-24-Email Blast,email campaign,TBD,14,US,"18796,82",GBP
+PENDING,20240804,Widget B,Q3-24-Trade Show,retail,I. Anderson,416,EU,"178164,48",CAD
+Lead,20230129,Cloud Storage 5TB,Q1-2023-Summer Blitz,affiliate,frank wilson,336.00,UK,"1285704,00",EUR
+CW,N/A,Consulting Hours,Q3-2024-Spring Push,Email Campaign,alice johnson,67,Britain,"151984,14",AUD
+Won,20240316,Support Tier 1,Q4-2024-Webinar Series,Direct Sales,Eva Martinez,270.00,??,"382360,50",USD
+Closed-Won,20230927,Analytics Dashboard,H2-2023-Summer Blitz,referral,Mia Clark,470,MEA,"1410211,50",USD
+LOST,20230802,Software Subscription,,,Carol Davis,119,,"96683,93",EUR
+Closed-Won,20240723,Cloud Storage 1TB,H1-24-Black Friday,Web,D. Brown,237,Australia,"438926,37",GBP
+Lead,20240602,Security Bundle,Q4-2024-Upsell,Retail,M. Clark,,Asia Pacific,"64114,48",EUR
+Lead,20240221,Cloud Storage 5TB,Q4-2023-Holiday Sale,referral,john smith,249,Latin America,"838751,52",JPY
+LOST,20241027,Software License,Q2-2023-Black Friday,Telesales,iris anderson,284.0,USA,"632859,92",AUD
+In Progress,20231112,Gadget X,Q3-2023-Brand Awareness,e-comm,Carol Davis,165,NA,"184879,63",JPY
+proposal,pending,Service Plan Basic,FY-23-Cross-sell,field,alice johnson,488.00,EMEA,"2390716,88",JPY
+Lead,20231020,Support Tier 1,H1-23-Retention,Partner,B. Williams,139.00,Middle East,"601569,76",EUR

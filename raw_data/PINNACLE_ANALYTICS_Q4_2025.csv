@@ -1,0 +1,119 @@
+Datum,Werbeausgaben,Vertreter,Kanal,Produkt,Region,Firma,Kampagne,Umsatz,Leads,Abschluesse,Stueckpreis,Menge
+pending,null,JOHN SMITH,email campaign,API Access,North America,Pinnacle Analytics,Q4-2023-Black Friday,306223.58,59,143,759.86,403
+04/25/2023,37596.04,Henry Taylor,PARTNER,Cloud Storage 5TB,ANZ,Pinnacle Analytics,Q1-24-Trade Show,1034792.00,926,361,2138.00,484
+08/11/2023,21460.05,Karen White,Affiliate,Gadget Mini,Asia Pacific,Pinnacle Analytics,H1-2024-Holiday Sale,403964.44,542,-,3014.66,134
+11/03/2024,20070.88,J. Thomas,Brick & Mortar,Gadget Mini,N. America,Pinnacle Analytics,FY-23-Product Launch,482295.36,709,107,1142.88,422.00
+03/07/2024,44588.52,H. Taylor,Store,Cloud Storage 1TB,N. America,Pinnacle Analytics,FY-24-Summer Blitz,1129517.57,4528,417,4500.07,251.0
+01/17/2024,39134.37,C. Davis,email,Other,South America,PixelForge Studios,H2-23-Black Friday,831591.12,4178,145,4470.92,186.00
+01/11/2024,35475.13,John Smith,email campaign,Widget Pro,EU,Pinnacle Analytics,Q2-24-Email Blast,60037.56,1838,416,1364.49,44
+02/26/2023,38895.55,alice johnson,DIRECT,Service Plan Basic,MEA,Pinnacle Analytics,H1-23-Retention,176427.72,906,192,1089.06,162
+01/16/2025,45218.93,I. Anderson,reseller,API Access,Asia,Pinnacle Analytics,Q2-2024-New Year Promo,82547.40,2813,240,289.64,285
+05/02/2023,N/A,bob williams,In-Store,Premium Onboarding,ASIAPAC,Pinnacle Analytics,H2-2023-Cross-sell,407660.24,4060,482,2018.12,202.0
+08/03/2024,45491.61,Henry Taylor,Affiliate,CRM Module,Unknown,Pinnacle Analytics,,309279.45,2579,260,695.01,445.0
+05/31/2023,11138.01,JANE DOE,Direct Sales,N/A,EU,BrightPath Media,Q2-24-Summer Blitz,1800264.93,4915,386,3905.13,461.00
+09/08/2024,16738.67,TBD,Direct Sales,Widget B,SA,Genco Pura,Q1-2023-Product Launch,607341.56,1619,337,1474.13,412
+03/03/2023,41858.01,Jake Thomas,Direct,Support Tier 2,Britain,Pinnacle Analytics,FY-24-Fall Campaign,1855826.52,2882,369,4593.63,404
+11/18/2023,37346.02,M. Clark,Channel Partner,Widget Pro,ASIAPAC,Pinnacle Analytics,Q3-2024-Black Friday,191109.60,506,457,434.34,440
+10/29/2024,42532.41,TBD,referral,Software License,Middle East,Pinnacle Analytics,Q2-24-Summer Blitz,362214.87,360,305,4069.83,89.0
+09/25/2024,N/A,J. Doe,Email,Hardware Unit,ASIAPAC,AgriGrow Corp,FY-23-Social Push,735460.74,,230,3954.09,186.0
+10/02/2023,6908.23,eva martinez,Email Campaign,API Access,??,Pinnacle Analytics,Q4-23-Trade Show,,3365,477,null,426.0
+12/12/2023,25338.64,E. Martinez,email,Support Tier 2,UK,Pinnacle Analytics,H2-2024-Spring Push,405860.04,1236,82,2652.68,153
+05/07/2024,43146.22,J. Doe,retail,Premium Onboarding,Middle East,Pinnacle Analytics,H2-24-Holiday Sale,634338.84,3287,124,2241.48,283
+09/19/2024,29242.27,H. Taylor,Email,API Access,Latin America,Acme Corp,Q3-24-Social Push,1996714.61,null,229,4100.03,487
+06/14/2023,21425.98,John Smith,Website,Widget Pro,,Krusty Burger LLC,Q2-2023-Trade Show,1905880.20,null,255,4537.81,420.0
+10/03/2023,37767.73,David Brown,Website,Widget A,ANZ,Prestige Worldwide,Q3-2023-Cross-sell,43690.14,null,-,1680.39,26
+04/25/2023,10864.22,M. Clark,web,Security Bundle,ANZ,Pinnacle Analytics,,99906.48,540,234,1447.92,69.0
+04/09/2023,null,B. Williams,Store,Premium Onboarding,Asia Pacific,Pinnacle Analytics,H2-2023-Cross-sell,null,1605,354,857.75,0
+09/11/2023,7800.79,I. Anderson,reseller,Support Tier 1,ASIAPAC,Pinnacle Analytics,Q3-23-Black Friday,1914378.00,4842,,4226.00,453
+09/04/2023,19514.22,A. Johnson,Phone,Widget Pro,Middle East,Pinnacle Analytics,Q2-2024-New Year Promo,2343499.90,1633,264,4986.17,470.00
+09/28/2024,N/A,D. Brown,retail,Data Pipeline,Africa,,H2-23-Brand Awareness,1742290.47,2388,356,4118.89,423.0
+12/09/2023,46578.56,Unassigned,in-store,Data Pipeline,Asia,AgriGrow Corp,,N/A,2514,317,#N/A,264
+04/06/2023,17512.41,L. Harris,social,Cloud Storage 5TB,ASIAPAC,Pinnacle Analytics,FY-23-Social Push,454890.59,1303,310,1101.43,413.0
+09/25/2023,24034.83,david brown,,Widget Pro,NA,Pinnacle Analytics,H1-24-Upsell,625074.89,1806,377,3238.73,193.0
+09/10/2024,813.98,carol davis,Email Campaign,Hardware Unit,United States,Pinnacle Analytics,Q3-2024-Fall Campaign,276940.00,4226,82,3461.75,80
+11/04/2023,13063.76,Carol Davis,Channel Partner,Cloud Storage 1TB,Asia Pacific,CloudNine SaaS,,552591.36,1992,76,1439.04,384
+10/11/2023,1893.48,I. Anderson,Phone,Hardware Unit,North America,Pinnacle Analytics,Q2-24-Summer Blitz,244860.64,1206,109,4409.71,-
+10/29/2024,48370.04,henry taylor,Telesales,Training Package,EU,Pinnacle Analytics,Q3-24-New Year Promo,206543.04,3738,131,4694.16,44.0
+null,44239.98,Eva Martinez,field,Support Tier 2,United Kingdom,Pinnacle Analytics,Q3-23-Brand Awareness,1087227.52,4329,79,3997.16,272.0
+03/18/2024,21896.56,Unassigned,Referral,Service Plan Enterprise,SA,Pinnacle Analytics,,956395.60,2276,105,2427.40,394
+10/14/2023,19679.23,Unassigned,PARTNER,ERP Add-on,Europe,Pinnacle Analytics,Q2-2024-Retention,20826.72,3183,116,867.78,24
+null,16349.46,E. Martinez,DIRECT,Service Plan Basic,US,Pinnacle Analytics,Q1-23-Brand Awareness,1203058.98,304,302,2475.43,486
+04/27/2024,48575.32,David Brown,Website,Marketing Suite,North America,DataWave Inc,Q3-24-New Year Promo,,1718,342,255.21,N/A
+11/13/2023,36889.29,L. Harris,retail,Gadget Mini,N. America,Pinnacle Analytics,H1-23-Email Blast,705356.02,727,303,1964.78,359.00
+07/20/2023,12024.38,L. Harris,in-store,Analytics Dashboard,EU,BlueOcean Retail,Q3-24-Spring Push,517132.64,3598,136,1095.62,472
+06/30/2023,36433.00,jake thomas,Store,ERP Add-on,EU,Pinnacle Analytics,FY-24-Product Launch,69852.24,1967,,239.22,292.00
+03/13/2024,47257.47,D. Brown,DIRECT,Training Package,MEA,Pinnacle Analytics,Q1-2024-Product Launch,722058.48,3320,65,4628.58,156
+07/08/2023,16126.16,I. Anderson,referral,Gadget X,United States,DataWave Inc,Q1-2024-Upsell,181830.87,1053,44,4811.63,null
+09/05/2023,11315.92,Grace Lee,Website,Marketing Suite,NA,Acme Corp,Q2-2023-New Year Promo,316098.85,4754,336,847.45,373.00
+12/06/2023,31328.37,John Smith,Website,MISC,Middle East,Pinnacle Analytics,H1-24-Spring Push,876571.20,1976,273,4058.20,216.0
+01/04/2024,44538.80,bob williams,Store,Training Package,APAC,Pinnacle Analytics,Q1-2023-Cross-sell,645342.72,4066,35,2520.87,256.00
+04/17/2023,10957.58,Henry Taylor,Call Center,Security Bundle,South America,BrightPath Media,H2-2024-Retention,1185700.32,3133,363,4705.16,252
+04/10/2023,N/A,TBD,email campaign,Security Bundle,,Pinnacle Analytics,Q2-2024-Webinar Series,108065.10,1073,,471.90,229.00
+03/08/2023,28271.22,JANE DOE,Phone,Support Tier 1,UK,Pinnacle Analytics,Q2-2023-Brand Awareness,-,null,416,-,106.0
+01/29/2023,47911.86,Jake Thomas,Web,Gadget Mini,Britain,Pinnacle Analytics,H2-24-Social Push,188346.11,4461,62,4812.07,0
+01/17/2024,13724.67,John Smith,call center,Widget A,Britain,Soylent Corp,Q1-24-Trade Show,1882302.35,4406,164,3929.65,479
+05/05/2023,43093.99,jane doe,social,Cloud Storage 5TB,ANZ,Pinnacle Analytics,,93134.37,1012,1,#N/A,76.00
+10/04/2024,15321.28,Alice Johnson,retail,Marketing Suite,SA,Pinnacle Analytics,Q1-2023-Email Blast,888686.24,3264,421,3932.24,226.00
+05/06/2023,32031.18,F. Wilson,E-Commerce,Widget B,SA,Pinnacle Analytics,H1-2023-Brand Awareness,1201684.68,,129,4768.59,252.00
+08/26/2024,41582.83,I. Anderson,ONLINE,Gadget X,EU,Pinnacle Analytics,Q4-24-New Year Promo,1555226.19,,407,3558.87,437
+03/07/2023,46046.96,alice johnson,Direct,Training Package,USA,Pinnacle Analytics,Q4-2024-Product Launch,36922.60,4866,200,3356.60,11
+09/24/2023,8090.50,F. Wilson,Email Campaign,Support Tier 2,USA,Pinnacle Analytics,H2-23-New Year Promo,541658.10,4634,60,1259.67,430
+02/24/2023,1050.36,bob williams,Website,Service Plan Enterprise,Middle East,SummitView Hotels,Q4-2023-Holiday Sale,1220248.40,4341,183,3211.18,380.0
+06/12/2023,null,carol davis,direct,Widget B,Middle East,Soylent Corp,H2-23-Email Blast,38271.08,3310,294,2251.24,17.0
+08/29/2024,49029.19,jake thomas,field,Premium Onboarding,United States,Pinnacle Analytics,H1-23-Trade Show,214630.92,3836,146,3406.84,63
+06/26/2023,15115.80,mia clark,social,Marketing Suite,Latin America,Krusty Burger LLC,Q2-2024-Upsell,989838.61,111,344,3224.23,307.00
+09/10/2023,45622.03,Jane Doe,DIRECT,Service Plan Basic,US,Pinnacle Analytics,Q4-24-Trade Show,796763.66,2926,158,2776.18,287.0
+08/05/2024,,K. White,Store,Marketing Suite,APAC,Wayne Corp,Q2-2024-Retention,1578843.63,1523,140,4498.13,351.0
+09/22/2023,40835.29,Grace Lee,E-Commerce,Consulting Hours,APAC,Pinnacle Analytics,Q2-23-Black Friday,588308.80,3073,103,2736.32,215.00
+10/14/2023,48849.07,Jake Thomas,Social,Service Plan Enterprise,SA,Pinnacle Analytics,FY-23-Trade Show,230555.00,4052,N/A,461.11,500.0
+09/03/2024,27324.50,david brown,,Widget Pro,EMEA,Pinnacle Analytics,H1-24-Brand Awareness,259615.44,1131,265,1030.22,252
+08/17/2023,46398.55,Frank Wilson,retail,ERP Add-on,Europe,Pinnacle Analytics,Q1-23-Retention,296355.92,40,494,1840.72,161.00
+09/22/2023,,Alice Johnson,retail,Consulting Hours,South America,CloudNine SaaS,H2-23-Trade Show,546980.80,2879,428,3418.63,160.0
+12/17/2024,3288.30,L. Harris,Direct,Marketing Suite,LATAM,Pinnacle Analytics,FY-24-Fall Campaign,#N/A,757,428,3730.30,null
+11/04/2024,9255.38,C. Davis,RETAIL,Consulting Hours,Middle East,Vandelay Ind,FY-2023-Black Friday,856582.57,3133,395,2923.49,293.00
+01/08/2025,,JANE DOE,Brick & Mortar,API Access,ASIAPAC,Pinnacle Analytics,Q3-2024-Summer Blitz,874586.25,4979,73,3026.25,289
+11/04/2023,,M. Clark,Social,Security Bundle,United Kingdom,BrightPath Media,Q2-2023-Brand Awareness,2044790.16,2283,284,4233.52,483
+01/14/2024,-,Karen White,ONLINE,ERP Add-on,,Pinnacle Analytics,H1-2023-Spring Push,78214.78,433,326,1596.22,49.0
+10/31/2023,41643.32,leo harris,referral,Widget B,,Pinnacle Analytics,Q3-23-New Year Promo,780133.09,3610,-,3083.53,253
+08/22/2024,7461.29,A. Johnson,referral,Analytics Dashboard,Europe,Pinnacle Analytics,Q1-24-Email Blast,1396978.16,2829,358,3806.48,367
+10/19/2023,19854.44,carol davis,direct,CRM Module,USA,Pinnacle Analytics,Q2-2023-Upsell,216789.66,3201,131,651.02,333
+09/20/2023,16990.77,D. Brown,Direct Sales,Service Plan Basic,Africa,Pinnacle Analytics,Q2-23-Upsell,8542.95,4773,172,131.43,65
+06/23/2023,29230.20,G. Lee,Partner,Cloud Storage 1TB,ANZ,Weyland Corp,Q2-2023-Black Friday,235272.60,912,-,2284.20,103
+07/29/2023,8644.40,J. Smith,Retail,Premium Onboarding,ASIAPAC,Pinnacle Analytics,FY-23-Product Launch,138646.10,4015,229,478.09,290.00
+01/01/2025,43555.92,J. Smith,Reseller,ERP Add-on,ASIAPAC,Pinnacle Analytics,Q1-2024-Social Push,136622.09,1716,379,3680.31,null
+01/19/2025,43361.15,I. Anderson,reseller,Hardware Unit,MEA,Wayne Corp,,849234.03,4103,275,2918.33,291
+07/31/2023,14364.16,Unassigned,,Widget A,APAC,Pinnacle Analytics,Q3-2024-Spring Push,346299.20,4832,N/A,1331.92,260
+03/23/2024,18111.67,JOHN SMITH,Social Media,Gadget Mini,NA,Pinnacle Analytics,Q1-23-Trade Show,398684.24,628,373,1689.34,236
+09/06/2024,49017.70,J. Smith,Social Media,Service Plan Pro,North America,Pinnacle Analytics,Q3-2023-Fall Campaign,24308.70,3323,40,62.33,390
+11/19/2023,7503.33,TBD,social media,Data Pipeline,Britain,Pinnacle Analytics,Q4-2024-Retention,1880948.72,28,432,4394.74,428
+06/11/2024,13193.55,B. Williams,reseller,Training Package,MEA,Pinnacle Analytics,Q3-24-Summer Blitz,86403.78,1525,419,4800.21,18
+02/01/2024,31151.33,jake thomas,Direct Sales,-,US,Pinnacle Analytics,Q3-24-Social Push,356132.64,100,296,1459.56,244
+08/17/2023,45021.50,N/A,affiliate,Training Package,Middle East,Dunder Mifflin,H1-2024-Upsell,191176.92,4703,410,1448.31,132
+12/27/2023,28072.77,iris anderson,In-Store,Widget B,Middle East,Cybertruck Co,Q2-23-Email Blast,524362.52,1538,N/A,4228.73,124
+06/14/2024,N/A,D. Brown,social media,Widget Pro,South America,Pinnacle Analytics,Q1-23-Upsell,163926.27,2149,433,628.07,261.0
+01/19/2024,38365.04,eva martinez,,Cloud Storage 5TB,Middle East,Pinnacle Analytics,H2-2024-Fall Campaign,210124.20,3833,235,1329.90,158
+N/A,25476.78,jake thomas,email campaign,API Access,ASIAPAC,Acme Corp,H1-2023-Spring Push,169506.66,3995,209,4158.98,-
+09/02/2024,5802.88,David Brown,Telesales,Analytics Dashboard,Latin America,Pinnacle Analytics,Q3-24-Holiday Sale,296188.56,3798,,4113.73,72.00
+09/14/2023,44370.05,mia clark,Direct Sales,ERP Add-on,ASIAPAC,Pinnacle Analytics,Q3-2024-Cross-sell,177834.30,3744,241,1559.95,114.0
+10/31/2023,38732.81,Grace Lee,social,API Access,US,Pinnacle Analytics,Q4-23-Social Push,246232.11,722,471,1021.71,241
+03/03/2023,1697.53,J. Thomas,Partner,Service Plan Enterprise,Asia,Vandelay Ind,H1-2023-Social Push,233814.35,-,166,1932.35,121
+03/31/2024,45973.14,david brown,Retail,Analytics Dashboard,EU,Pinnacle Analytics,Q1-2024-Cross-sell,471049.90,,479,2479.21,190
+12/17/2024,35558.29,jake thomas,Affiliate,ERP Add-on,Middle East,Pinnacle Analytics,Q3-2023-Holiday Sale,553295.11,948,191,3713.39,149.0
+10/25/2024,11384.13,G. Lee,email campaign,ERP Add-on,NA,Pinnacle Analytics,Q2-2024-Retention,132495.47,3004,196,2863.88,-
+07/13/2024,46939.58,frank wilson,direct,API Access,APAC,Pinnacle Analytics,Q3-2023-Product Launch,144351.76,2353,465,1223.32,118.0
+02/04/2023,12021.27,david brown,Social Media,Premium Onboarding,United States,Pinnacle Analytics,Q4-2024-Product Launch,7807.20,3574,294,1561.44,5.0
+11/07/2023,22894.50,Frank Wilson,ecommerce,Widget B,Australia,Nakatomi Trading,Q1-2024-Brand Awareness,725269.35,4077,442,1539.85,471
+01/30/2024,14711.01,bob williams,field,Cloud Storage 1TB,EMEA,Pinnacle Analytics,,278277.80,4911,430,2929.24,95
+05/11/2023,11225.00,jane doe,call center,Service Plan Enterprise,Britain,Pinnacle Analytics,Q1-23-Retention,1337237.55,548,161,2701.49,495.00
+08/24/2023,-,K. White,E-Commerce,Premium Onboarding,USA,Pinnacle Analytics,FY-23-Product Launch,347570.80,4211,136,1046.90,332.00
+01/18/2024,47201.01,grace lee,Phone,Training Package,Europe,Pinnacle Analytics,H2-23-Trade Show,2148.48,3662,23,268.56,8
+07/27/2024,30823.37,John Smith,Email Campaign,Widget Pro,UK,Omni Consumer Products,Q3-2023-Brand Awareness,1160774.30,2525,69,4283.30,271.00
+03/02/2023,36526.05,alice johnson,,ERP Add-on,Asia Pacific,Pinnacle Analytics,FY-2024-Cross-sell,43042.02,null,317,2049.62,21.00
+01/11/2025,30745.14,N/A,Email Campaign,Service Plan Basic,EU,Wayne Corp,H1-2024-Email Blast,590785.92,-,236,1546.56,382
+03/15/2023,14949.45,,Reseller,,EU,Pinnacle Analytics,FY-24-Cross-sell,37147.84,2284,,320.24,116.0
+,22677.30,Frank Wilson,e-comm,Service Plan Basic,UK,Pinnacle Analytics,Q3-23-Trade Show,466600.08,,-,1135.28,411.0
+08/17/2024,27652.77,eva martinez,Channel Partner,N/A,EU,Pinnacle Analytics,,350055.20,15,172,3182.32,110.00
+01/01/2025,27427.07,L. Harris,Partner,ERP Add-on,ASIAPAC,Pinnacle Analytics,,1239132.65,4154,35,2901.95,427
+02/21/2024,39610.92,J. Smith,Affiliate,API Access,SA,Pinnacle Analytics,Q4-2024-Fall Campaign,190799.23,1496,393,1521.97,
+03/18/2023,8945.39,Leo Harris,Referral,CRM Module,Australia,Pinnacle Analytics,Q1-23-New Year Promo,358682.22,4942,-,2122.38,169.0
+11/29/2023,28685.71,H. Taylor,reseller,Service Plan Basic,Africa,Pinnacle Analytics,Q2-2023-Email Blast,missing,234,-,NULL,67.00

@@ -1,0 +1,184 @@
+Menge,Produkt,Vertreter,Stueckpreis,Kampagne,Datum,Firma,Region,Leads,Werbeausgaben,Umsatz,Kanal,Status,Abschluesse
+265.0,Cloud Storage 1TB,Unassigned,$2041,,2024-03-03,Planet Express,MEA,2797,$15917,$540992,Telesales,qualified,476
+443.00,Analytics Dashboard,G. Lee,$1890,H2-24-Brand Awareness,2023-08-24,QuickShip Logistics,SA,3418,-,$837221,Online,Lost,128
+403.0,Gadget X,Bob Williams,$4935,H2-24-Brand Awareness,2024-04-27,Planet Express,United States,2670,$14007,$1988608,Direct,CLOSED WON,391
+306,Data Pipeline,D. Brown,$2520,H2-24-Retention,2024-10-15,Planet Express,Asia Pacific,3602,$14890,$771016,Direct,Lost,15
+484,Cloud Storage 5TB,N/A,$2996,H1-2024-Webinar Series,2023-12-16,Planet Express,Australia,1042,$889,$1449899,Direct Sales,Closed-Won,270
+57.0,Gadget X,TBD,$3458,FY-24-Fall Campaign,2023-06-24,AgriGrow Corp,Britain,918,$36544,$197129,Email Campaign,CW,161
+#REF!,ERP Add-on,G. Lee,$1282,Q1-24-Product Launch,2023-11-07,Acme Corp,N. America,2976,$35328,$68923,Field Sales,CW,393
+null,Service Plan Basic,Bob Williams,$1061,FY-23-Product Launch,2025-03-14,Planet Express,Australia,2225,N/A,$161598,Social Media,Closed Lost,466
+79.0,Security Bundle,Frank Wilson,$411,H1-2023-Spring Push,2023-11-29,Bluth Company,North America,780,$28207,$32444,email campaign,CLOSED LOST,106
+428.0,Support Tier 2,karen white,$141,Q2-24-Cross-sell,2024-10-21,Planet Express,US,2817,$7124,$60361,social media,Lost,443
+497,Widget B,eva martinez,$1522,H2-2024-Webinar Series,2024-10-18,Pinnacle Analytics,United Kingdom,N/A,$43981,$756618,,qualified,478
+74,Premium Onboarding,L. Harris,$1793,Q2-23-Black Friday,2023-11-20,Krusty Burger LLC,Australia,1530,$10678,$132686,reseller,proposal,128
+174,Support Tier 2,leo harris,$4104,Q3-2024-Retention,2024-01-23,Planet Express,Latin America,726,$40920,$714086,Affiliate,Won,104
+65,Hardware Unit,L. Harris,$3630,H1-23-Holiday Sale,2024-08-28,Planet Express,EMEA,74,$7123,$235952,call center,LOST,179
+34.0,Cloud Storage 5TB,jane doe,$2447,H2-23-Upsell,2024-09-01,Planet Express,United States,1609,$6341,$83198,social media,Qualified,379
+83.00,Widget Pro,G. Lee,NA,Q3-24-Spring Push,2024-01-05,,??,1064,$8144,$199097,DIRECT,Closed Lost,N/A
+431,Training Package,Jane Doe,$1630,Q4-2024-New Year Promo,2023-05-28,Genco Pura,Asia Pacific,4894,$45434,$702358,Affiliate,Negotiation,2
+405.0,Security Bundle,E. Martinez,$3784,Q1-2024-Social Push,2024-01-23,Planet Express,North America,4166,$21830,$1532488,ecommerce,qualified,288
+352,Data Pipeline,J. Thomas,$1527,FY-2024-Black Friday,2023-10-09,Planet Express,Britain,-,-,$537522,Store,WON,N/A
+289,CRM Module,J. Doe,$973,H1-2023-Trade Show,2024-04-19,Planet Express,Asia,2159,$37102,$281067,Web,Lead,209
+143,N/A,J. Thomas,$634,FY-24-New Year Promo,2024-08-24,Virtucon,USA,3973,$5004,$90688,Social,Pending,287
+102.0,Widget A,Iris Anderson,$4175,FY-24-Holiday Sale,2024-12-01,Planet Express,Middle East,2375,$41737,$425800,Social Media,LOST,97
+390,Widget B,grace lee,$4811,,2023-09-21,Planet Express,ASIAPAC,142,$24015,$1876298,Social Media,Open,131
+489,Analytics Dashboard,B. Williams,$2205,H2-23-Brand Awareness,2024-05-05,Planet Express,Asia Pacific,1640,$43175,$1078445,Field Sales,CLOSED WON,397
+394.0,Training Package,J. Smith,$832,Q4-2023-Cross-sell,2024-03-10,Acme Corp,Britain,1842,$46490,$327879,social media,CLOSED WON,70
+257.0,Gadget Mini,JOHN SMITH,$3241,Q2-2023-New Year Promo,TBD,FreshCart,Europe,N/A,N/A,$832837,field,CL,359
+207.0,CRM Module,carol davis,$3108,,2023-05-16,Planet Express,United Kingdom,32,$48209,$643447,Email,Won,25
+80.00,ERP Add-on,mia clark,$4792,H1-2023-Cross-sell,2023-11-02,HealthPlus Pharma,Middle East,3107,$20854,$383342,email campaign,lead,67
+94.0,MISC,G. Lee,$692,Q2-2024-Cross-sell,2023-10-11,Planet Express,US,1277,$21008,$65041,social media,open,254
+497,Gadget Mini,Alice Johnson,$2807,H2-2023-Fall Campaign,2023-07-20,Planet Express,NA,1723,$21415,$1395089,Referral,Pending,145
+449.00,API Access,leo harris,$777,FY-24-Black Friday,2024-11-01,BlueOcean Retail,EMEA,4753,$16067,$348743,Email,Won,360
+289,Hardware Unit,JANE DOE,$4377,Q2-2024-Summer Blitz,2023-06-09,Planet Express,APAC,1672,$41404,$1265043,Telesales,qualified,
+280.00,MISC,Jake Thomas,$1495,H1-23-Holiday Sale,2023-07-15,Globex Industries,NA,4301,$15585,$418592,e-comm,in progress,314
+24.00,MISC,Mia Clark,$4654,Q4-23-Upsell,2023-08-22,Planet Express,NA,null,$29920,$111702,email,lead,458
+13.0,ERP Add-on,Alice Johnson,$4891,Q3-2023-Holiday Sale,2025-02-11,DataWave Inc,,3808,,$63583,partner,Qualified,363
+401,Widget B,Unassigned,$3036,FY-24-Cross-sell,2023-07-22,Krusty Burger LLC,USA,3748,$27728,$1217256,Partner,CLOSED LOST,358
+439.00,Software License,jane doe,N/A,H2-23-Brand Awareness,TBD,Planet Express,ASIAPAC,2634,$38050,$11762,Social,lead,126
+182.00,API Access,E. Martinez,$1105,,N/A,Planet Express,Africa,484,,$201163,Direct Sales,Closed-Won,494
+415.0,Software Subscription,david brown,#N/A,Q1-2024-New Year Promo,2025-03-15,Planet Express,Unknown,4148,$14908,$62731,Channel Partner,Lead,363
+291,-,C. Davis,$3176,H1-24-Brand Awareness,2023-12-18,Planet Express,UK,1246,$2280,$924321,E-Commerce,In Progress,7
+497,Widget Pro,karen white,$793,Q1-24-Spring Push,2023-12-29,Planet Express,USA,3836,$39555,$394265,Reseller,Won,476
+278.0,Software License,jane doe,$425,Q4-2023-Trade Show,2024-05-19,Planet Express,??,213,$9410,$118036,phone,Closed-Won,306
+244.00,Gadget X,jane doe,$4889,H2-23-Trade Show,2024-03-23,Planet Express,United Kingdom,3416,$3667,$1192997,phone,Won,265
+173,Support Tier 2,F. Wilson,$3519,H2-2023-Fall Campaign,2023-09-25,Planet Express,LATAM,3254,,$608702,,closed lost,477
+498,Security Bundle,Bob Williams,$706,Q2-2024-Fall Campaign,2023-11-28,Planet Express,Australia,1407,$14403,$351618,Web,open,234
+495,Widget B,john smith,$62,FY-2023-Summer Blitz,2023-12-08,Planet Express,ANZ,3313,$13120,$30640,field,pending,42
+null,,Frank Wilson,$1998,Q4-24-Fall Campaign,2025-03-26,Planet Express,United States,1001,$21855,$140930,Reseller,Negotiation,387
+66,Widget A,B. Williams,$4148,H2-2023-Webinar Series,2024-04-10,TrueNorth Financial,US,1735,$44908,$273769,Website,Negotiation,279
+86,Service Plan Enterprise,JOHN SMITH,$3600,Q2-24-Brand Awareness,2024-06-29,Wonka Enterprises,N/A,1762,$4136,$309572,Referral,lead,330
+305,Training Package,N/A,$2701,Q3-2024-Brand Awareness,2024-01-06,Planet Express,Africa,2135,$42020,$823695,e-comm,Closed Won,47
+208.0,CRM Module,John Smith,$351,Q4-23-Brand Awareness,2025-04-20,Planet Express,ASIAPAC,4010,$30568,$73008,Social,in progress,395
+311.0,Security Bundle,JOHN SMITH,$2994,Q3-2023-Social Push,2025-02-13,BrightPath Media,NA,1245,$37508,$931053,e-comm,Lead,244
+396,Software Subscription,Grace Lee,$1556,Q4-2024-Summer Blitz,2025-01-17,Planet Express,ANZ,3044,$36768,$616342,direct,open,267
+289,Widget A,M. Clark,$1487,,2023-05-23,Wonka Enterprises,Latin America,4010,$26200,$429873,social media,open,0
+208.00,Widget Pro,M. Clark,$4926,Q3-23-New Year Promo,2025-02-19,Planet Express,Europe,357,$43991,$1024672,ecommerce,PENDING,389
+434.00,Software License,L. Harris,$3398,Q4-2023-Brand Awareness,2023-08-04,Planet Express,Europe,1454,$7359,$1474637,Online,WON,179
+447.00,Gadget Mini,Grace Lee,N/A,FY-2024-Trade Show,2024-08-02,Globex Industries,North America,212,$48944,$104365,Email Campaign,in progress,N/A
+490,Security Bundle,A. Johnson,$4944,,2024-11-09,AgriGrow Corp,LATAM,4666,$16179,$2422540,Website,pending,447
+283,Security Bundle,JANE DOE,$2960,H2-23-Brand Awareness,2024-05-23,Planet Express,Asia,3292,$46124,$837705,ONLINE,closed lost,133
+462.0,Service Plan Basic,jane doe,-,,2024-09-11,Planet Express,Africa,1127,$21796,$63737,Partner,Lead,180
+57,Software Subscription,Leo Harris,$3414,Q4-2024-New Year Promo,2023-11-07,Planet Express,MEA,4418,$34170,$194611,Direct Sales,Won,415
+325.00,Consulting Hours,K. White,$4447,H2-23-Product Launch,2023-11-29,Planet Express,North America,1702,$44087,$1445372,e-comm,proposal,169
+100.00,Training Package,Iris Anderson,$2251,Q4-2024-Brand Awareness,2023-11-16,Planet Express,N/A,2306,$49081,$225071,Email,pending,289
+210.0,Service Plan Pro,G. Lee,$1256,FY-24-Email Blast,2025-04-17,Omni Consumer Products,Europe,2962,$41438,$263821,reseller,Closed-Lost,-
+338.0,Widget B,john smith,$1437,H1-2024-Brand Awareness,2024-01-27,QuickShip Logistics,United States,830,$36027,$485703,referral,CLOSED WON,268
+27.00,Gadget X,Jane Doe,NA,,2024-02-12,Spacely Sprockets,ANZ,4277,$34586,$97669,partner,Proposal,59
+49.00,Analytics Dashboard,J. Doe,$1558,FY-23-Spring Push,2023-06-02,BlueOcean Retail,,68,$24789,$76321,Reseller,Proposal,75
+,Gadget X,J. Smith,$4861,Q4-2024-Fall Campaign,2025-02-16,Planet Express,LATAM,4205,$7779,$246978,DIRECT,negotiation,138
+108.00,Premium Onboarding,john smith,$3658,Q1-2023-Black Friday,null,Planet Express,APAC,4362,$21576,$395022,Web,Qualified,-
+6,Marketing Suite,bob williams,$567,FY-2024-Spring Push,2024-11-23,Planet Express,North America,676,$9381,$3401,Email Campaign,closed won,262
+178,Service Plan Enterprise,john smith,$3991,H1-24-Brand Awareness,2025-03-05,Planet Express,EMEA,3085,$1444,$710389,call center,open,309
+66,Gadget Mini,Carol Davis,$4642,Q2-2023-Spring Push,2023-09-13,Planet Express,UK,4903,$34599,$306365,Direct,WON,369
+136,Gadget X,john smith,$2604,Q2-23-Retention,2023-09-27,Planet Express,NA,4653,$24940,$354178,affiliate,Closed-Won,175
+#REF!,ERP Add-on,G. Lee,$1282,Q1-24-Product Launch,2023-11-07,Acme Corp,N. America,2976,$35328,$68923,Field Sales,CW,393
+90.00,Support Tier 1,,$3125,H1-2024-Trade Show,2024-07-16,Hooli Inc,USA,602,$31636,$281231,Call Center,negotiation,43
+456,Security Bundle,K. White,$173,H1-24-Social Push,2024-04-01,Planet Express,Britain,2438,$44368,$78842,PARTNER,PENDING,194
+196.00,Hardware Unit,John Smith,$3528,Q3-24-Cross-sell,2025-02-20,Planet Express,EU,3908,$38111,$691535,Email,Closed Won,258
+40,Analytics Dashboard,iris anderson,$2861,Q2-2024-New Year Promo,2024-08-14,Planet Express,Britain,545,$11277,$114432,email campaign,Negotiation,40
+327.0,Premium Onboarding,jane doe,$320,Q2-24-Cross-sell,2024-08-19,Planet Express,ASIAPAC,,$29597,$104486,Store,negotiation,
+228.0,Gadget X,Alice Johnson,$3384,H1-24-Upsell,2023-11-22,BrightPath Media,-,2194,$35585,$771545,e-comm,CL,409
+437,Cloud Storage 1TB,henry taylor,$121,Q3-24-Trade Show,2023-10-29,Planet Express,LATAM,1887,$15507,$52759,Retail,closed won,457
+280,-,Grace Lee,$1600,H1-2023-Fall Campaign,2023-05-18,HealthPlus Pharma,USA,4515,$45714,$448112,direct,PENDING,403
+151,Service Plan Pro,Frank Wilson,$1569,H2-24-Upsell,2024-03-21,Planet Express,Australia,-,,$236916,Call Center,In Progress,473
+252,Gadget Mini,E. Martinez,$2702,,2025-03-09,Pied Piper,UK,1889,$7913,$680907,PARTNER,pending,499
+216.00,MISC,Alice Johnson,$300,Q1-2024-Black Friday,2024-07-19,Planet Express,SA,4231,$20961,$64850,Social Media,Negotiation,362
+N/A,Service Plan Basic,Iris Anderson,$3733,H2-2023-New Year Promo,2025-04-26,Planet Express,APAC,3627,$43539,$165003,Telesales,Lost,N/A
+376,Service Plan Enterprise,A. Johnson,$1764,H2-23-Upsell,2023-09-22,Planet Express,US,2351,$30615,$663185,Telesales,Proposal,414
+477.0,Security Bundle,David Brown,$3565,Q1-23-Upsell,2024-09-05,Planet Express,ANZ,1181,$49726,$1700333,online,Closed-Lost,367
+189.00,API Access,David Brown,$3585,Q2-24-Fall Campaign,2023-07-07,Planet Express,SA,3079,$30800,$677642,direct,LOST,208
+425,Analytics Dashboard,alice johnson,$3622,Q1-2024-New Year Promo,2024-10-17,Oscorp Technologies,South America,1801,$21094,$1539172,in-store,Closed-Won,
+0,Gadget X,Grace Lee,$861,Q4-2023-Product Launch,2025-02-16,Stark Industries,US,null,$17638,$110511,affiliate,PENDING,363
+312,Data Pipeline,carol davis,$1499,Q1-2024-Holiday Sale,2023-08-24,Planet Express,EMEA,2184,0,$467607,RETAIL,Closed-Won,178
+335,Security Bundle,Unassigned,$4853,FY-2023-Retention,2025-04-27,Cyberdyne Systems,SA,1136,$48235,$1625661,Email,Open,121
+216.00,MISC,Alice Johnson,$300,Q1-2024-Black Friday,2024-07-19,Planet Express,SA,4231,$20961,$64850,Social Media,Negotiation,362
+151,Gadget X,A. Johnson,$4026,Q2-2023-Fall Campaign,2024-10-13,Planet Express,??,1842,$14310,$607876,direct,closed lost,142
+247.0,Service Plan Enterprise,F. Wilson,-,Q1-2023-Social Push,2025-01-29,BrightPath Media,??,4028,$18765,$17776,ecommerce,Closed-Won,445
+52,Widget B,E. Martinez,-,,2023-11-17,,EMEA,1210,$4624,$33364,In-Store,Qualified,422
+497,Widget Pro,karen white,$793,Q1-24-Spring Push,2023-12-29,Planet Express,USA,3836,$39555,$394265,Reseller,Won,476
+500.0,CRM Module,Eva Martinez,$1579,Q2-24-Spring Push,2024-03-20,GreenLeaf Energy,Latin America,2152,$44859,$789685,Online,negotiation,362
+477,Software Subscription,Jake Thomas,$2879,H2-2024-Spring Push,2024-07-12,PixelForge Studios,USA,4084,$1032,$1373421,PARTNER,closed lost,103
+308,Widget Pro,John Smith,$24,FY-24-Brand Awareness,2024-08-09,Planet Express,Britain,-,$25900,$7253,e-comm,lead,432
+230.0,Software License,,$166,H1-23-Cross-sell,2023-08-17,Planet Express,SA,2595,$24639,$38267,Email,WON,70
+334.00,Widget B,Bob Williams,$324,Q2-23-New Year Promo,2024-10-23,Planet Express,ANZ,4205,$39737,$108346,partner,lead,195
+480,Gadget X,H. Taylor,$3245,Q2-24-Fall Campaign,2025-01-31,Soylent Corp,North America,3440,$41208,$1557758,Retail,proposal,458
+408,Support Tier 1,mia clark,$2460,,2023-09-01,Planet Express,Asia Pacific,1595,,$1003860,Email,Open,234
+94,MISC,Iris Anderson,$2448,,2024-11-21,Stark Industries,US,1463,$39571,$230115,DIRECT,closed won,492
+336,-,john smith,null,Q2-2023-Spring Push,2025-01-06,Planet Express,N/A,4611,$34735,$57960,partner,Lead,343
+49.00,Analytics Dashboard,J. Doe,$1558,FY-23-Spring Push,2023-06-02,BlueOcean Retail,,68,$24789,$76321,Reseller,Proposal,75
+377.00,Cloud Storage 1TB,carol davis,$2753,H2-23-Fall Campaign,2025-01-06,Planet Express,N/A,3693,$10948,$1037783,direct,LOST,354
+50.00,API Access,F. Wilson,$2326,,2023-05-22,Planet Express,ANZ,3477,$24457,$116290,in-store,CLOSED LOST,313
+295.0,Data Pipeline,Alice Johnson,$1388,H1-2024-Social Push,2024-06-18,Planet Express,South America,1437,$25754,$409525,call center,Closed Won,15
+417.00,Marketing Suite,JOHN SMITH,$4613,Q4-23-Black Friday,2023-12-24,Planet Express,Europe,-,$42644,$1923671,Referral,CW,
+257.0,Gadget Mini,JOHN SMITH,$3241,Q2-2023-New Year Promo,TBD,FreshCart,Europe,N/A,N/A,$832837,field,CL,359
+445.00,Widget Pro,G. Lee,$527,Q3-23-Social Push,2025-03-19,Planet Express,US,3011,$5319,$234733,Channel Partner,Won,386
+137,Marketing Suite,E. Martinez,$4626,Q3-2024-Summer Blitz,2025-03-14,Wayne Corp,EU,2727,$46122,$633818,PARTNER,CW,398
+462,N/A,I. Anderson,$4153,FY-24-Black Friday,2023-05-21,Buy N Large,Asia Pacific,971,$6105,$1918792,E-Commerce,negotiation,88
+-,ERP Add-on,Iris Anderson,$2605,Q3-23-Webinar Series,2023-12-04,Planet Express,Europe,3832,$7831,$47561,Direct Sales,proposal,129
+,Widget B,H. Taylor,$3134,H2-23-Product Launch,2025-02-28,Planet Express,South America,1540,-,$55544,retail,lead,281
+394.0,Training Package,J. Smith,$832,Q4-2023-Cross-sell,2024-03-10,Acme Corp,Britain,1842,$46490,$327879,social media,CLOSED WON,70
+84,Cloud Storage 5TB,I. Anderson,$511,Q3-2023-Spring Push,2024-09-13,Planet Express,US,1812,$1669,$42916,call center,Closed-Lost,
+,Gadget X,J. Smith,$4861,Q4-2024-Fall Campaign,2025-02-16,Planet Express,LATAM,4205,$7779,$246978,DIRECT,negotiation,138
+0,Consulting Hours,D. Brown,$3278,H2-24-Social Push,2024-11-25,QuickShip Logistics,ASIAPAC,2893,$40299,missing,field,negotiation,108
+216.00,MISC,Alice Johnson,$300,Q1-2024-Black Friday,2024-07-19,Planet Express,SA,4231,$20961,$64850,Social Media,Negotiation,362
+114.0,ERP Add-on,David Brown,$3876,Q4-2023-Brand Awareness,2024-02-07,Planet Express,ASIAPAC,469,$26699,$441817,E-Commerce,CL,473
+0,Gadget X,Grace Lee,$861,Q4-2023-Product Launch,2025-02-16,Stark Industries,US,null,$17638,$110511,affiliate,PENDING,363
+493,Analytics Dashboard,A. Johnson,$1643,Q2-24-Spring Push,2024-05-21,Planet Express,SA,4902,$6593,$810004,Referral,WON,67
+247.0,Service Plan Pro,jake thomas,$1771,,2023-10-19,Planet Express,ASIAPAC,1464,$14994,$437442,,Proposal,19
+108.00,CRM Module,karen white,$2397,Q4-24-Fall Campaign,2024-07-19,Nakatomi Trading,APAC,2412,$16186,$258919,field,closed lost,114
+90.00,Support Tier 1,,$3125,H1-2024-Trade Show,2024-07-16,Hooli Inc,USA,602,$31636,$281231,Call Center,negotiation,43
+87.00,Widget Pro,J. Thomas,$4843,Q3-2024-Upsell,2024-03-08,Planet Express,EMEA,4299,$8545,$421366,ecommerce,CLOSED WON,40
+86.00,Software Subscription,B. Williams,$3417,H1-2024-Email Blast,2024-08-26,Planet Express,Australia,4170,null,$293866,Affiliate,negotiation,-
+71.0,Cloud Storage 1TB,B. Williams,$775,Q4-2024-Cross-sell,2024-05-10,Planet Express,MEA,789,$13871,$55034,ONLINE,Closed-Lost,483
+0,Data Pipeline,henry taylor,$1143,Q1-2024-Holiday Sale,2023-11-29,Planet Express,EMEA,345,$37207,$145237,Direct Sales,qualified,
+283,Widget Pro,J. Thomas,$3851,H1-2023-Webinar Series,2023-12-26,Planet Express,NA,3493,$44482,$1089703,online,WON,165
+97.00,ERP Add-on,david brown,$4682,H1-23-Retention,2024-11-30,Planet Express,Middle East,3426,$2806,$454199,affiliate,closed lost,239
+84,Software Subscription,Eva Martinez,$3112,FY-2023-Email Blast,2025-04-02,Genco Pura,Britain,4688,$26425,$261384,Partner,Pending,N/A
+190.00,-,Jake Thomas,$4822,H2-24-Trade Show,2024-02-29,Planet Express,South America,1753,$19997,$916269,Field Sales,Closed Lost,174
+,Gadget X,B. Williams,$4423,FY-23-Email Blast,2023-12-10,Planet Express,Africa,2375,0,$192724,e-comm,CW,133
+174,Support Tier 2,leo harris,$4104,Q3-2024-Retention,2024-01-23,Planet Express,Latin America,726,$40920,$714086,Affiliate,Won,104
+38,Training Package,Iris Anderson,$2961,H1-24-Spring Push,2025-01-31,Cyberdyne Systems,Asia Pacific,3618,$27824,$112531,Store,Pending,359
+491.0,Widget A,mia clark,$362,Q4-2024-Webinar Series,2024-09-25,FreshCart,North America,925,N/A,$177983,Brick & Mortar,Pending,425
+433.00,ERP Add-on,F. Wilson,$4646,H2-23-Product Launch,2024-04-24,Planet Express,ANZ,211,$19503,$2011909,in-store,Open,89
+296,Data Pipeline,Iris Anderson,$4631,Q4-2024-Social Push,2023-10-06,Planet Express,Asia Pacific,4421,$8830,$1370847,email,lead,85
+52.00,Analytics Dashboard,eva martinez,$4157,FY-2023-Spring Push,2023-07-09,BlueOcean Retail,South America,2078,$11567,$216160,social media,open,82
+120,CRM Module,iris anderson,$1838,FY-2024-Cross-sell,2024-10-03,Prestige Worldwide,United Kingdom,118,$31354,$220553,Brick & Mortar,qualified,-
+73.0,Widget A,leo harris,$2717,FY-2023-Summer Blitz,2023-06-20,Planet Express,North America,4591,,$198340,In-Store,WON,440
+490,Security Bundle,A. Johnson,$4944,,2024-11-09,AgriGrow Corp,LATAM,4666,$16179,$2422540,Website,pending,447
+322.0,Support Tier 2,B. Williams,#N/A,Q4-24-Product Launch,2023-06-05,Planet Express,Unknown,1259,$32647,$171348,Social Media,CLOSED LOST,494
+194,Consulting Hours,D. Brown,$481,Q2-2024-Spring Push,2023-10-21,Planet Express,North America,,$16705,$93234,email,Proposal,438
+311.0,Security Bundle,JOHN SMITH,$2994,Q3-2023-Social Push,2025-02-13,BrightPath Media,NA,1245,$37508,$931053,e-comm,Lead,244
+198,Widget A,Karen White,$1101,H1-2024-Webinar Series,,CloudNine SaaS,Unknown,4446,$16801,$217968,Call Center,Negotiation,421
+428,Support Tier 1,L. Harris,$1498,H2-2023-Summer Blitz,2024-09-24,Buy N Large,EU,3219,$10917,$641345,Store,Negotiation,41
+129.00,Gadget X,J. Doe,$2674,,2024-07-23,Massive Dynamic,ANZ,227,$20907,$344893,PARTNER,Closed-Lost,68
+270,Widget Pro,,$1902,Q2-2024-Cross-sell,2024-02-09,Cogswell Cogs,United States,3944,$19363,$513572,Retail,Open,338
+27.00,N/A,Eva Martinez,$334,,2024-04-15,Planet Express,UK,2977,$26063,$9007,In-Store,lead,41
+277.00,Gadget Mini,jane doe,$3110,H2-2023-Email Blast,2023-07-10,Planet Express,Africa,44,$785,$861553,,In Progress,1
+428.0,Support Tier 2,karen white,$141,Q2-24-Cross-sell,2024-10-21,Planet Express,US,2817,$7124,$60361,social media,Lost,443
+225.0,Hardware Unit,john smith,$77,Q1-2023-Black Friday,2023-06-06,Planet Express,United States,4722,$6686,$17215,ecommerce,open,214
+47.00,Other,H. Taylor,$4355,Q2-24-Black Friday,2024-08-15,Planet Express,United States,2437,null,$204669,social,Pending,386
+352,Service Plan Pro,J. Smith,$104,H1-2024-Cross-sell,2024-12-29,Planet Express,United Kingdom,2074,$7334,$36436,,Lead,58
+497,Widget Pro,karen white,$793,Q1-24-Spring Push,2023-12-29,Planet Express,USA,3836,$39555,$394265,Reseller,Won,476
+216,Service Plan Enterprise,alice johnson,$1692,Q2-2024-Summer Blitz,2023-09-13,Planet Express,Australia,1944,$35172,$365373,Call Center,CLOSED WON,369
+143.00,Widget B,Eva Martinez,$2325,Q1-24-Black Friday,2024-09-18,Planet Express,Middle East,1196,$41712,$332462,Social Media,In Progress,292
+375.0,Data Pipeline,david brown,$18,H2-23-Cross-sell,2023-09-08,Planet Express,Britain,3168,$22233,$6848,phone,Closed Won,280
+42,Support Tier 2,JANE DOE,$1055,Q3-2023-Webinar Series,2025-03-25,Planet Express,USA,4434,$7686,$44313,reseller,Pending,151
+425,Analytics Dashboard,alice johnson,$3622,Q1-2024-New Year Promo,2024-10-17,Oscorp Technologies,South America,1801,$21094,$1539172,in-store,Closed-Won,
+28.0,Data Pipeline,david brown,$1793,Q3-2023-Fall Campaign,2024-10-07,Planet Express,Britain,1575,$23883,$50207,online,Open,223
+399,Consulting Hours,eva martinez,$1644,Q2-2024-Summer Blitz,2023-12-10,Planet Express,NA,764,$49054,$656056,,pending,290
+456,Support Tier 1,Henry Taylor,$4017,FY-2023-Upsell,2023-12-16,Brawndo Corp,US,1425,,$1831661,social media,Lead,316
+479,Support Tier 1,K. White,$3069,Q3-24-Summer Blitz,2024-06-04,Planet Express,Latin America,3561,$22744,$1469912,reseller,CL,286
+47,Software License,Karen White,$4528,FY-2023-Brand Awareness,2024-02-11,Planet Express,US,4850,$32418,$212829,email campaign,LOST,463
+195,Widget Pro,B. Williams,$1189,Q4-2023-Summer Blitz,2024-01-24,Planet Express,NA,3545,$17434,$231810,Retail,WON,439
+88.00,Consulting Hours,Frank Wilson,$3004,FY-23-Webinar Series,2024-01-18,Planet Express,United Kingdom,null,-,$264309,web,CW,447
+298,Support Tier 1,D. Brown,$820,Q3-2024-Fall Campaign,2025-04-20,DataWave Inc,ASIAPAC,4045,$1495,$244226,Phone,In Progress,80
+0,Marketing Suite,jake thomas,$1933,Q4-2023-Social Push,2023-05-13,Planet Express,N. America,4671,null,$132763,Email Campaign,proposal,87
+345,Premium Onboarding,leo harris,,Q3-23-Webinar Series,2024-03-07,Planet Express,USA,4165,$16074,$118273,e-comm,Proposal,490
+455.0,Service Plan Basic,Unassigned,$1906,,2023-11-19,TrueNorth Financial,Africa,3882,$6894,$867053,email,pending,
+154,Service Plan Enterprise,bob williams,$2401,FY-23-Spring Push,2024-09-09,Planet Express,N. America,3726,$13607,$369814,call center,CL,13
+344,Software Subscription,Alice Johnson,$4055,Q1-2023-Product Launch,2024-03-27,Planet Express,N. America,3907,$24647,$1394917,field,qualified,40
+251,Gadget Mini,Iris Anderson,$3575,,2024-06-29,Planet Express,APAC,3224,$31509,$897227,ecommerce,Lost,322
+346.00,Support Tier 1,Unassigned,$4082,Q1-24-Upsell,2025-02-19,Planet Express,NA,1723,$39601,$1412341,,CLOSED LOST,295
+7.0,Cloud Storage 5TB,jane doe,$3009,Q3-2024-Retention,2023-05-13,BlueOcean Retail,South America,605,$16829,$21063,Social Media,Closed Lost,271
+65,Premium Onboarding,B. Williams,$3656,Q4-2023-Webinar Series,2024-03-08,Virtucon,Middle East,495,$26765,$237667,ecommerce,Open,151

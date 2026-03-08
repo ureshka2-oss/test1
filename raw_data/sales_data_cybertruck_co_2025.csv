@@ -1,0 +1,41 @@
+Sales Channel,Product / Service,Marketing Leads,Marketing Spend,Units Sold,Closed Deals,Campaign ID,Account Executive,Transaction Date,Total Amount,Deal Status,Company Name,Price Per Unit,Geographic Region
+direct,Gadget X,,N/A,389,303,H1-2024-Black Friday,jake thomas,2023-12-18,"1,505,889.02 USD",Closed Won,Cybertruck Co,"3,871.18 USD",Latin America
+Retail,Data Pipeline,4456,,347.0,497,Q4-23-Retention,karen white,2024-12-17,N/A,CLOSED LOST,Cybertruck Co,,USA
+Email,Service Plan Pro,307,"3,907.46 USD",415,20,Q4-2024-Retention,mia clark,2024-04-06,"1,198,839.55 USD",LOST,Cybertruck Co,"2,888.77 USD",Asia Pacific
+E-Commerce,CRM Module,301,"4,810.25 USD",329.0,396,Q1-2023-Spring Push,mia clark,2025-03-27,"887,540.01 USD",qualified  ,FreshCart,"2,697.69 USD",EMEA
+online,Data Pipeline,2457,0,109.00,445,Q2-24-Upsell,Frank Wilson,2024-02-15,"205,147.81 USD",Negotiation,Dharma Initiative,"1,882.09 USD",North America
+Partner,Support Tier 2,530,"40,560.06 USD",75.0,248,Q4-2024-Upsell,Mia Clark,2025-04-19,"173,433.75 USD",Open,Oscorp Technologies,"2,312.45 USD",LATAM
+Affiliate,Gadget X,1291,"42,739.23 USD",346.0,188,Q2-2024-Trade Show,jake thomas,2024-01-25,"950,309.76 USD",Pending,Cybertruck Co,"2,746.56 USD",North America
+DIRECT,Widget B,807,N/A,N/A,396,Q2-2024-Product Launch,C. Davis,null,"163,146.15 USD",negotiation,Cybertruck Co,"1,526.41 USD",Africa
+Call Center,Cloud Storage 5TB,,"32,570.60 USD",497.0,468,H2-2024-Summer Blitz,Karen White,2024-12-26,"415,606.31 USD",Closed Lost,Cybertruck Co,836.23 USD,South America
+web,Widget B,2764,"33,256.43 USD",85,488,Q3-2023-Holiday Sale,B. Williams,2023-12-02,"45,724.90 USD",LOST,Cybertruck Co,537.94 USD,SA
+phone,Training Package,4454,null,360.0,481,Q1-2024-Cross-sell,L. Harris,2025-05-03,"1,113,573.60 USD",In Progress,Stratton Oakmont,"3,093.26 USD",Africa
+field,Software Subscription,1332,N/A,478,174,FY-23-Upsell,alice johnson,2025-01-26,"387,681.90 USD",Closed Lost,Cybertruck Co,811.05 USD,N. America
+Call Center,Gadget X,,"44,145.18 USD",495.0,206,H1-2024-Social Push,D. Brown,2024-04-06,"1,970,347.50 USD",closed lost,PixelForge Studios,"3,980.50 USD",ANZ
+call center,-,null,N/A,2.0,207,H1-2023-Black Friday,L. Harris,2024-07-14,689.36 USD  ,PENDING,Krusty Burger LLC,344.68 USD,N. America
+Direct Sales,API Access,1403,"18,602.29 USD",467.00,100,FY-2024-Webinar Series,TBD,2023-12-13,"172,523.81 USD",LOST,Cybertruck Co,369.43 USD,Africa
+Email Campaign,Software License,406  ,"2,626.75 USD",118,127,H1-2023-Spring Push,eva martinez,2024-08-10,"226,348.78 USD",CW,Cybertruck Co,"1,918.21 USD",ANZ
+ecommerce,Widget Pro,4311,"32,726.67 USD",423.0,440,Q4-24-Social Push,JANE DOE,2024-06-22,"459,509.13 USD",Closed-Won,Cybertruck Co,"1,086.31 USD",Europe
+in-store,Gadget X,4383,"8,182.50 USD",112.0,N/A,Q3-24-Cross-sell,J. Smith,2025-04-24,"171,644.48 USD",Open,Dunder Mifflin,"1,532.54 USD",UK
+retail,N/A,2073,"26,891.13 USD",483,416,Q4-2023-New Year Promo,K. White,2024-08-15,"2,013,622.17 USD",CW,Cybertruck Co,"4,168.99 USD",South America
+,Cloud Storage 1TB,N/A,"31,059.79 USD",393,410,Q3-2024-Spring Push,John Smith,2024-09-29,"1,215,383.94 USD",pending,Weyland Corp,"3,092.58 USD",NA
+partner,Support Tier 1,4760,"6,137.76 USD",4.0,78,,alice johnson,2024-09-24,"4,343.64 USD",Closed Won,Cybertruck Co,"1,085.91 USD",
+Phone,N/A,2669,"7,574.58 USD",206,457  ,,karen white,2024-05-29,"426,840.24 USD",Proposal,Cybertruck Co,"2,072.04 USD",North America
+call center,ERP Add-on,4914,"15,364.84 USD",198,230,Q3-24-Product Launch,J. Thomas,2025-03-21,"872,249.40 USD",open,Cybertruck Co,"4,405.30 USD",US
+Store,Support Tier 2,2912,589.84 USD,51.00,128,,A. Johnson,2025-11-21,"77,224.75 USD",closed lost,Krusty Burger LLC,missing,NA
+Call Center,Software Subscription,1647,"5,600.53 USD",79,427,Q3-2024-Summer Blitz,grace lee,2023-12-13,"386,460.10 USD",Qualified,Cybertruck Co,"4,891.90 USD",APAC
+,Widget Pro,1456,null,282,232,H1-2024-Trade Show,C. Davis,2025-11-02,"601,844.40 USD",Qualified,BlueOcean Retail,"2,134.20 USD",Europe  
+reseller,Widget B,4765,"7,349.48 USD",145,116,,frank wilson,2024-12-15,"508,342.45 USD",CL,BrightPath Media,"3,505.81 USD",United Kingdom
+DIRECT,-,4089,"6,791.27 USD",466,173,Q3-2023-Spring Push,bob williams,2025-04-20,"1,651,084.60 USD",lead,Globex Industries,"3,543.10 USD",Australia
+Retail,API Access,906,"40,956.91 USD",7,,FY-23-Trade Show,Jane Doe,2025-01-06,"30,829.96 USD",CL,AgriGrow Corp,"4,404.28 USD",SA
+Direct Sales,Hardware Unit,N/A,-,277,382,Q1-2023-Email Blast,M. Clark,2023-12-04,"166,751.23 USD",In Progress,Bluth Company,601.99 USD,MEA
+Referral,Gadget X  ,3878,"28,334.40 USD",221.00,411,Q2-2024-Summer Blitz,JANE DOE,2024-02-08,"971,725.95 USD",Won,Cybertruck Co,"4,396.95 USD",SA
+Email Campaign,Consulting Hours,2514,"11,836.31 USD",311,302,Q1-2024-Black Friday,john smith,2024-09-15,"1,342,670.97 USD",In Progress,Cybertruck Co,"4,317.27 USD",Asia Pacific
+Social Media,Consulting Hours,3951,"24,797.94 USD",352,288,,Jane Doe,2025-07-05,"1,485,700.48 USD",Negotiation,Cybertruck Co  ,"4,220.74 USD",Britain
+Web,Cloud Storage 1TB,27,"18,810.32 USD",98.00,337,H1-23-Holiday Sale,Henry Taylor,2025-10-22,"153,442.52 USD",CL,Cybertruck Co,"1,565.74 USD",Europe
+Retail,ERP Add-on,3028,"47,666.85 USD",458.0,407,H2-2023-Summer Blitz,M. Clark,2025-08-22,"1,469,859.40 USD",Lead,Cybertruck Co,"3,209.30 USD",MEA  
+social,Software Subscription,4995,"2,339.70 USD",439,217,Q3-23-Cross-sell,Frank Wilson,2024-12-13,"1,830,792.43 USD",Open,Cybertruck Co,"4,170.37 USD",EU
+retail,Other,1540,"35,121.29 USD",-,180,Q2-24-Holiday Sale,jane doe,2024-02-18,"35,266.56 USD",Closed-Lost,Acme Corp,"1,761.83 USD",Latin America
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

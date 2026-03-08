@@ -1,0 +1,31 @@
+,,,,,,,,,,,,,
+saleDate,campaignName,salesChannel,totalRevenue,salesRegion,adSpend,quantity,dealStatus,salesRep,companyName,unitPrice,conversionCount,productName,leadCount
+06.02.2024,Q4-2024-Retention,online,833144.84,North America,46272.45,341,Negotiation,G. Lee,Krusty Burger LLC,2443.24,214,Data Pipeline,2196
+06.02.2024,Q4-2024-Retention,online,833144.84,North America,46272.45,341,Negotiation,G. Lee,Krusty Burger LLC,2443.24,214,Data Pipeline,2196
+06.27.2024,Q2-24-Black Friday,affiliate,27341.46,APAC,35475.58,500.00,Lost,Jake Thomas,Genco Pura,NA,431,Analytics Dashboard,2924
+01.21.2025,H2-24-Trade Show,PARTNER,447514.20,EMEA,45718.68,210.0,Won,H. Taylor,Genco Pura,2131.02,102,Support Tier 2,685
+01.11.2024,Q1-2024-Summer Blitz,Field Sales,290941.44,APAC,1259.36,128,CW,J. Thomas,Genco Pura,2272.98,342,Software Subscription,424
+06.03.2024,H1-24-Spring Push,RETAIL,626313.00,South America,30616.27,345,Won,Unassigned,HealthPlus Pharma,1815.40,-,Gadget X,246
+03.31.2024,FY-24-Trade Show,direct,56266.58,N. America,48742.19,#REF!,Won,eva martinez,Genco Pura,112.17,87,Gadget X,2598
+03.03.2023,H1-24-New Year Promo,Call Center,1108888.99,Latin America,null,229.0,WON,J. Doe,Genco Pura,4842.31,374,Widget Pro,4396
+09.22.2023,Q1-2023-Product Launch,Partner,1494663.30,United States,30374.70,351.0,proposal,alice johnson,Genco Pura,4258.30,N/A,Service Plan Pro,3825
+02.14.2023,Q3-2023-Spring Push,,133914.75,ASIAPAC,-,131,Closed Won,M. Clark,Weyland Corp,1022.25,16,Data Pipeline,1550
+11.10.2024,FY-2024-Social Push,direct,163623.00,ANZ,49522.97,#REF!,Lost,frank wilson,Genco Pura,4037.05,155,API Access,164
+08.01.2023,H2-2023-Social Push,Direct,1481325.72,LATAM,44417.33,362,WON,A. Johnson,Planet Express,4092.06,157,Widget A,920
+10.10.2023,Q2-24-New Year Promo,ecommerce,missing,North America,32421.55,,In Progress,alice johnson,Genco Pura,3979.17,71,CRM Module,1421
+04.26.2024,Q2-23-New Year Promo,social media,1434250.14,Latin America,18826.05,466,Pending,mia clark,Genco Pura,3077.79,136,Widget A,3035
+08.17.2023,Q2-2023-Upsell,reseller,334269.78,LATAM,19485.13,78.0,lead,Frank Wilson,Cyberdyne Systems,4285.51,259,Data Pipeline,921
+07.10.2024,Q4-2023-Trade Show,PARTNER,203746.74,United Kingdom,-,166.0,Proposal,iris anderson,Genco Pura,1227.39,235,Service Plan Pro,2111
+TBD,Q1-24-Email Blast,Referral,184064.22,USA,36514.02,N/A,Open,C. Davis,Genco Pura,66.94,183,Gadget Mini,2847
+01.20.2024,Q3-2024-Trade Show,phone,695014.11,,17704.30,399.00,Pending,frank wilson,FreshCart,1741.89,152,Gadget Mini,123
+08.02.2023,H2-2023-Retention,online,349371.63,USA,11519.70,81,LOST,JANE DOE,Genco Pura,4313.23,-,N/A,793
+11.11.2023,,ecommerce,302868.00,NA,14867.20,80,Won,JOHN SMITH,Genco Pura,3785.85,394,Software Subscription,1425
+09.22.2024,Q1-2024-Product Launch,Social,#N/A,ASIAPAC,6155.49,77.0,closed won,Henry Taylor,Genco Pura,NULL,184,Hardware Unit,2434
+04.30.2024,FY-2024-Upsell,,816839.91,Asia,41808.14,291,lead,Henry Taylor,Krusty Burger LLC,2807.01,N/A,Security Bundle,4127
+05.20.2023,Q4-2023-Product Launch,Store,1454551.95,ANZ,39339.31,393.00,Lost,Grace Lee,Genco Pura,3701.15,45,Service Plan Basic,4408
+07.11.2023,H1-2023-Email Blast,PARTNER,61880.16,UK,49496.91,137,Qualified,Jake Thomas,Genco Pura,451.68,203,Cloud Storage 5TB,2588
+07.20.2023,H2-2024-Upsell,Affiliate,399021.92,USA,24637.72,88.0,Closed Won,Leo Harris,Genco Pura,4534.34,82,Service Plan Pro,742
+11.30.2024,FY-2023-Holiday Sale,In-Store,1342737.70,Middle East,13086.05,491.0,LOST,Henry Taylor,Genco Pura,2734.70,371,Premium Onboarding,2448
+03.30.2024,FY-23-Summer Blitz,call center,218444.91,EU,1568.10,N/A,Lead,iris anderson,Genco Pura,4848.70,474,N/A,1173
+09.06.2023,H2-2024-Fall Campaign,RETAIL,56436.08,Asia Pacific,null,19.00,CW,D. Brown,Genco Pura,2970.32,229,Gadget Mini,2778
+09.02.2023,Q4-2023-Brand Awareness,Direct Sales,1038355.69,US,21181.15,317.00,negotiation,J. Thomas,Genco Pura,3275.57,172,Security Bundle,116

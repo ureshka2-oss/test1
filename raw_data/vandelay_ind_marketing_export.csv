@@ -1,0 +1,168 @@
+REGION,CHANNEL,PRODUCT,STATUS,CAMPAIGN,REVENUE,QTY,LEADS,UNIT_PRICE,DATE,CUR
+Australia,retail,ERP Add-on,Closed-Lost,FY-2023-Product Launch,#N/A,N/A,4993,3085.08,2023/02/08,AUD
+MEA,DIRECT,Premium Onboarding,qualified,FY-2023-Trade Show,84777.25,25,2571,3391.09,2023/06/22,CAD
+US,,Training Package,in progress,H1-2023-Email Blast,561435.75,475.00,761,1181.97,2023/11/01,JPY
+ASIAPAC,Social,Hardware Unit,proposal,Q3-2023-Summer Blitz,341549.04,204.0,4394,1674.26,2024/01/11,AUD
+APAC,Channel Partner,Cloud Storage 1TB,Pending,Q2-23-Product Launch,889123.95,451.0,1049,1971.45,2024/05/06,CAD
+ANZ,Call Center,Data Pipeline,qualified,FY-2024-Email Blast,508354.74,186.0,3486,2733.09,2023/10/18,EUR
+North America,Retail,Service Plan Pro,Closed-Lost,Q1-23-Black Friday,145357.06,248.0,591,-,2023/12/09,AUD
+EU,Social Media,Service Plan Basic,in progress,Q2-2023-Fall Campaign,280311.30,93.00,215,3014.10,2023/10/18,USD
+EU,in-store,Widget B,Negotiation,H2-24-Retention,149461.60,152,2951,983.30,2024/12/03,GBP
+EU,Call Center,Marketing Suite,Open,FY-2024-Webinar Series,112426.88,97,2397,1159.04,2024/02/04,EUR
+NA,ecommerce,Widget A,closed lost,Q2-2024-Spring Push,248725.30,85.00,4783,2926.18,2024/08/13,
+??,Direct Sales,Training Package,Negotiation,Q3-24-Retention,33525.09,333.00,N/A,NA,2024/10/28,CAD
+USA,Partner,Hardware Unit,In Progress,,67211.79,N/A,377,2190.08,2024/07/14,CAD
+United States,Store,Support Tier 1,Qualified,Q4-2023-Black Friday,209583.99,459.0,4737,456.61,2023/03/30,EUR
+ASIAPAC,field,Gadget X,closed won,H2-23-Holiday Sale,353168.89,73.00,3374,4837.93,2023/05/22,
+SA,Field Sales,Gadget X,Lead,Q4-24-Fall Campaign,586367.06,391,N/A,1499.66,2024/09/24,CAD
+N. America,,N/A,LOST,H2-2024-Holiday Sale,103323.30,30,792,3444.11,2024/08/18,CAD
+ASIAPAC,Social Media,Widget B,Lead,Q4-24-Retention,112505.12,112.00,3719,1004.51,2024/11/21,CAD
+APAC,RETAIL,Widget B,Proposal,FY-24-New Year Promo,1048163.13,483,144,2170.11,2023/08/04,
+APAC,direct,Hardware Unit,WON,Q3-2023-Product Launch,21026.25,105,2152,200.25,2024/01/07,
+USA,in-store,CRM Module,qualified,Q4-23-Spring Push,118792.31,217.00,3665,547.43,2024/12/19,JPY
+N/A,DIRECT,Other,Closed Won,Q1-23-Retention,NULL,null,1681,2469.61,2024/03/15,
+Middle East,social,API Access,closed won,,304912.58,373.00,N/A,817.46,2025/01/09,GBP
+APAC,,Gadget Mini,Open,Q3-23-Social Push,145640.00,19.0,1867,N/A,2024/09/08,USD
+APAC,Web,Premium Onboarding,Closed-Won,H1-24-New Year Promo,36440.50,155,3838,235.10,2023/07/12,CAD
+Australia,Field Sales,Software License,CLOSED LOST,H1-24-Spring Push,206745.00,50.0,3339,4134.90,2023/11/14,USD
+Asia Pacific,Web,Cloud Storage 1TB,lead,H1-24-Cross-sell,523852.38,411,4271,1274.58,2024/09/22,EUR
+EU,ONLINE,Software License,Negotiation,Q1-2023-Webinar Series,222306.63,91.0,1181,2442.93,2024/07/18,USD
+Britain,e-comm,Marketing Suite,PENDING,Q1-2024-Social Push,32977.98,18,4071,1832.11,2024/09/21,EUR
+Asia,Channel Partner,Hardware Unit,CW,Q4-2023-Retention,1018766.60,230,3308,4429.42,2024/12/12,GBP
+Latin America,Field Sales,Service Plan Basic,Closed Won,Q1-24-Trade Show,1351699.48,316.0,3960,4277.53,2024/01/27,
+EU,email campaign,Service Plan Pro,Closed Lost,Q4-2023-Holiday Sale,86813.85,95,2781,913.83,2023/09/20,CAD
+Latin America,phone,CRM Module,open,H1-24-Trade Show,76550.90,440.00,3240,,2024/11/14,CAD
+MEA,reseller,Support Tier 2,Lead,Q3-23-Cross-sell,316033.70,265,1216,1192.58,2023/03/07,EUR
+??,e-comm,Hardware Unit,LOST,Q2-2023-Fall Campaign,448670.68,127.0,1661,3532.84,2025/01/15,AUD
+??,email,Gadget Mini,CLOSED WON,,2063896.90,470,4515,4391.27,2023/04/15,GBP
+Asia Pacific,Web,Cloud Storage 1TB,lead,H1-24-Cross-sell,523852.38,411,4271,1274.58,2024/09/22,EUR
+ANZ,Brick & Mortar,Widget Pro,In Progress,Q3-24-Summer Blitz,2071629.00,452,4390,4583.25,2023/07/01,
+N. America,Direct,Software Subscription,Closed-Lost,FY-23-Holiday Sale,52337.25,35.0,692,1495.35,2024/09/03,GBP
+North America,Brick & Mortar,Hardware Unit,proposal,FY-2024-Social Push,-,-,230,2198.67,2023/04/30,
+NA,phone,Support Tier 2,PENDING,Q2-2023-Social Push,107685.76,104,3867,1035.44,2024/07/03,
+Australia,Store,Service Plan Basic,Won,Q2-2023-Brand Awareness,973772.28,244,475,3990.87,2023/08/19,GBP
+EMEA,Referral,API Access,Closed Lost,Q2-24-Black Friday,179378.96,37.00,3200,4848.08,2024/03/28,JPY
+South America,Telesales,Service Plan Pro,LOST,,1983062.90,455.00,2418,4358.38,2025/01/14,EUR
+Latin America,online,Analytics Dashboard,Pending,H2-2024-Brand Awareness,446138.14,119,757,3749.06,2023/08/12,EUR
+MEA,call center,Hardware Unit,Closed Won,Q3-23-Fall Campaign,955468.36,308.0,4296,3102.17,2024/03/03,
+Africa,Channel Partner,Gadget X,in progress,Q2-24-Summer Blitz,499880.96,178,2280,2808.32,2023/06/25,CAD
+EMEA,field,API Access,In Progress,H1-2023-Upsell,586087.38,207,2630,2831.34,2023/10/09,USD
+-,In-Store,Service Plan Enterprise,proposal,Q1-2023-Summer Blitz,missing,-,4456,1809.42,2023/02/17,USD
+Middle East,referral,Data Pipeline,Won,H2-23-New Year Promo,223191.40,74,2227,3016.10,2023/06/03,USD
+LATAM,Phone,Cloud Storage 5TB,CLOSED WON,,228012.40,242.0,608,942.20,2023/03/15,CAD
+Asia,Field Sales,Training Package,CLOSED LOST,Q1-24-Black Friday,81193.34,-,2751,1066.07,2023/04/15,
+LATAM,in-store,Widget A,Open,H2-2024-Black Friday,131011.01,null,1833,4927.22,2023/12/20,AUD
+South America,Store,Widget A,Pending,FY-2023-Trade Show,30601.04,23,819,1330.48,2023/06/02,AUD
+Middle East,PARTNER,Data Pipeline,CL,Q4-24-Retention,#N/A,288,1500,#N/A,2023/06/20,CAD
+US,Social,Analytics Dashboard,in progress,,222142.40,85.0,605,2613.44,2024/03/07,CAD
+United States,Retail,Marketing Suite,Pending,Q2-24-Brand Awareness,998980.30,215,3788,4646.42,2023/05/28,EUR
+ASIAPAC,email,Gadget X,Open,FY-23-Social Push,91016.89,,,1738.97,2024/03/17,USD
+,Affiliate,Marketing Suite,Lead,Q2-2023-Upsell,94516.00,200.00,2486,472.58,2024/12/31,
+Latin America,phone,CRM Module,open,H1-24-Trade Show,76550.90,440.00,3240,,2024/11/14,CAD
+UK,Phone,CRM Module,CLOSED WON,,117421.92,56.00,3105,2096.82,2024/07/27,GBP
+APAC,E-Commerce,Widget B,CL,Q3-24-Trade Show,879585.22,226.0,863,3891.97,pending,
+APAC,Brick & Mortar,Service Plan Basic,Closed-Lost,Q3-23-New Year Promo,42444.05,11,2385,3858.55,2024/08/02,CAD
+Europe,email,Cloud Storage 1TB,CW,Q3-24-Email Blast,1839474.63,459.0,726,4007.57,2023/09/19,AUD
+EMEA,email campaign,Service Plan Basic,In Progress,,165008.97,147.0,,1122.51,2024/10/27,JPY
+MEA,retail,Training Package,qualified,Q2-2023-Summer Blitz,211468.79,491,3198,430.69,2023/09/10,JPY
+ANZ,Telesales,CRM Module,Proposal,Q4-2023-Cross-sell,1077996.15,315.0,3482,3422.21,2024/02/19,JPY
+-,e-comm,Data Pipeline,CLOSED LOST,,250264.56,392,4502,638.43,2023/08/29,EUR
+Asia,Call Center,MISC,closed lost,Q2-2024-Upsell,597479.28,136,1119,4393.23,2024/08/21,GBP
+N. America,e-comm,Widget A,Closed-Lost,,250759.77,303,2364,827.59,2023/10/25,GBP
+Asia,,Widget A,CL,H2-2023-Retention,1282868.65,485.0,3869,2645.09,2023/08/06,GBP
+United Kingdom,E-Commerce,Support Tier 1,Lost,H1-2024-Product Launch,487590.36,292.00,2650,1669.83,pending,JPY
+United States,social,Support Tier 2,proposal,FY-2023-Fall Campaign,135973.17,87.0,865,1562.91,2023/08/05,
+EU,Email Campaign,MISC,negotiation,H1-23-Retention,133903.72,254.00,210,527.18,2023/12/13,USD
+Latin America,email,Software License,In Progress,,276610.14,438.00,3630,631.53,2023/10/05,EUR
+Asia,Field Sales,Software License,closed won,H2-23-Spring Push,916979.40,188.00,1264,4877.55,pending,EUR
+N/A,Store,Gadget Mini,closed lost,Q4-2024-Summer Blitz,220703.01,-,3179,569.57,2023/03/12,GBP
+ASIAPAC,Store,Software License,closed won,Q2-23-Webinar Series,55678.72,383.0,1876,N/A,2025/01/11,GBP
+Australia,in-store,Training Package,LOST,Q1-2023-Fall Campaign,44729.38,17,4642,2631.14,2024/05/06,GBP
+Middle East,e-comm,Software License,CW,H2-2023-Holiday Sale,120750.18,,2728,2061.78,2025/01/15,EUR
+-,online,CRM Module,CLOSED LOST,Q4-2024-Retention,197025.60,238,2247,NULL,2023/09/23,AUD
+NA,phone,Support Tier 2,PENDING,Q2-2023-Social Push,107685.76,104,3867,1035.44,2024/07/03,
+N/A,Direct Sales,Service Plan Basic,PENDING,H1-23-Product Launch,65751.48,36,3140,1826.43,2023/12/20,AUD
+ANZ,affiliate,Cloud Storage 5TB,Closed Won,Q3-2023-New Year Promo,1387881.76,488.0,3422,2844.02,2024/09/19,JPY
+South America,Telesales,Service Plan Pro,LOST,,1983062.90,455.00,2418,4358.38,2025/01/14,EUR
+ANZ,reseller,ERP Add-on,Won,Q4-2024-Cross-sell,293790.90,65.00,3197,4519.86,,
+South America,Telesales,Gadget X,PENDING,Q4-2023-Product Launch,16935.94,7,1401,2419.42,2024/11/24,USD
+APAC,direct,Support Tier 2,Negotiation,FY-23-Holiday Sale,814652.28,234,null,3481.42,2024/09/30,EUR
+EU,online,Service Plan Enterprise,LOST,H1-2024-New Year Promo,698550.48,218.00,4630,3204.36,2023/08/10,GBP
+ANZ,Affiliate,Data Pipeline,Closed Won,Q3-2023-Social Push,missing,455.00,641,N/A,2023/06/18,AUD
+United Kingdom,Brick & Mortar,Widget Pro,proposal,Q3-24-Upsell,486606.56,302,-,1611.28,2024/12/29,GBP
+Europe,social media,Hardware Unit,WON,H1-23-Retention,165641.46,178.0,2723,930.57,2024/05/06,
+South America,Store,Service Plan Enterprise,Closed Lost,Q3-24-Trade Show,1695390.80,362,646,4683.40,2024/08/12,CAD
+Asia,Channel Partner,Hardware Unit,CW,Q4-2023-Retention,1018766.60,230,3308,4429.42,2024/12/12,GBP
+NA,phone,Support Tier 2,PENDING,Q2-2023-Social Push,107685.76,104,3867,1035.44,2024/07/03,
+United Kingdom,Channel Partner,Software Subscription,CLOSED LOST,H1-2024-Brand Awareness,849903.00,435,708,1953.80,2023/07/22,EUR
+,Affiliate,Marketing Suite,Lead,Q2-2023-Upsell,94516.00,200.00,2486,472.58,2024/12/31,
+Middle East,online,ERP Add-on,Negotiation,,901128.33,479.0,1616,1881.27,2024/01/07,JPY
+Latin America,Reseller,Hardware Unit,in progress,,210919.00,76.00,4385,2775.25,2023/02/27,USD
+Unknown,Retail,Analytics Dashboard,Qualified,FY-2023-Upsell,823546.68,394.00,684,2090.22,2023/05/15,USD
+North America,e-comm,Premium Onboarding,CLOSED LOST,FY-2023-Social Push,75707.52,172,3614,440.16,2024/11/26,EUR
+SA,social,Marketing Suite,Closed-Won,Q2-2023-Webinar Series,98018.55,259,4746,378.45,2023/12/30,
+APAC,direct,Support Tier 2,Negotiation,FY-23-Holiday Sale,814652.28,234,null,3481.42,2024/09/30,EUR
+USA,Partner,Hardware Unit,In Progress,,67211.79,N/A,377,2190.08,2024/07/14,CAD
+USA,Partner,Hardware Unit,In Progress,,67211.79,N/A,377,2190.08,2024/07/14,CAD
+EMEA,Email Campaign,Consulting Hours,Lead,FY-2023-Webinar Series,809350.62,201.00,3414,4026.62,2025/01/13,CAD
+N. America,,N/A,PENDING,Q4-2023-Cross-sell,456482.97,291,null,1568.67,TBD,EUR
+Latin America,online,Support Tier 1,Qualified,Q2-2023-New Year Promo,#N/A,-,3095,402.40,2024/07/27,CAD
+Latin America,ecommerce,CRM Module,WON,FY-2024-Social Push,751399.68,384.0,476,1956.77,2023/09/20,
+South America,Social,Software License,Closed Won,H2-2023-Fall Campaign,297022.88,112,636,2651.99,2023/03/31,
+Australia,affiliate,Analytics Dashboard,closed lost,Q4-2023-Fall Campaign,254301.00,174.0,4152,1461.50,2023/11/08,EUR
+APAC,Web,Premium Onboarding,Closed-Won,H1-24-New Year Promo,36440.50,155,3838,235.10,2023/07/12,CAD
+ASIAPAC,PARTNER,Widget B,closed won,Q1-2023-Cross-sell,-,24,1071,-,2023/06/03,EUR
+LATAM,Telesales,Cloud Storage 1TB,Closed-Lost,H2-2023-Retention,373511.60,335,4246,1114.96,2023/11/10,GBP
+United Kingdom,partner,Widget B,CLOSED LOST,Q1-2023-New Year Promo,1080945.00,324.0,3659,3336.25,2023/08/17,CAD
+EMEA,DIRECT,Software Subscription,Closed Lost,Q3-2024-New Year Promo,147751.52,406.00,3922,363.92,2024/09/12,GBP
+Middle East,DIRECT,Software Subscription,Closed-Lost,H1-23-Upsell,304015.68,222.0,1226,1369.44,2024/02/13,EUR
+Latin America,Field Sales,Support Tier 2,Closed-Won,H1-24-Brand Awareness,271825.59,57.00,4126,4768.87,2023/09/08,USD
+SA,in-store,Premium Onboarding,Proposal,Q3-2023-Retention,1515227.42,346.0,4867,4379.27,2024/06/27,CAD
+EU,reseller,Cloud Storage 5TB,Negotiation,Q2-2024-Upsell,26236.48,#REF!,1578,3188.45,2024/11/20,EUR
+United Kingdom,social,Cloud Storage 1TB,Lost,,571665.16,236.00,2061,2422.31,2023/07/01,
+APAC,email campaign,Hardware Unit,lead,Q3-2024-Email Blast,587711.55,127.0,4383,4627.65,2024/02/28,JPY
+ASIAPAC,social,Data Pipeline,lead,,1059931.48,262.0,3320,4045.54,2023/08/05,EUR
+Europe,web,Support Tier 2,closed lost,Q3-2023-Holiday Sale,873751.32,234,2676,3733.98,2023/12/14,USD
+ANZ,Email Campaign,Gadget Mini,Closed Won,FY-2023-Email Blast,1533416.67,477.00,3811,3214.71,TBD,
+North America,referral,Widget Pro,Proposal,FY-24-Brand Awareness,34935.05,,4348,4127.73,2024/06/08,AUD
+UK,field,CRM Module,CW,,376974.78,226,4674,1668.03,2024/05/16,EUR
+US,,Training Package,in progress,H1-2023-Email Blast,561435.75,475.00,761,1181.97,2023/11/01,JPY
+North America,online,Widget A,closed won,FY-2023-Holiday Sale,2378233.84,488,-,4873.43,TBD,GBP
+Asia Pacific,e-comm,Hardware Unit,open,H2-24-New Year Promo,329487.24,67.00,1006,4917.72,2024/02/28,AUD
+SA,web,ERP Add-on,lead,Q4-2024-Cross-sell,809103.36,416,4027,1944.96,2024/02/05,GBP
+ASIAPAC,PARTNER,Widget B,closed won,Q1-2023-Cross-sell,-,24,1071,-,2023/06/03,EUR
+N. America,affiliate,Security Bundle,in progress,Q4-2024-Upsell,1193342.72,328.0,null,3638.24,2023/09/06,
+APAC,field,Analytics Dashboard,CLOSED LOST,H1-23-Holiday Sale,1937456.52,426,1714,4548.02,2024/06/22,EUR
+LATAM,ONLINE,Support Tier 2,Closed Won,Q3-23-Upsell,257462.50,430,352,598.75,2024/08/29,JPY
+APAC,,Service Plan Enterprise,Closed Won,Q1-23-Fall Campaign,166725.26,214.00,3222,779.09,2023/07/05,JPY
+Asia Pacific,email,Cloud Storage 1TB,Won,FY-2023-Webinar Series,734845.44,448,356,1640.28,2024/04/24,JPY
+US,Social,Software License,lead,,246602.95,234,2214,missing,2024/10/18,USD
+Britain,Call Center,Security Bundle,closed won,Q2-2023-Cross-sell,174326.18,0,N/A,4174.13,2023/09/12,GBP
+EMEA,Reseller,API Access,closed won,H2-23-Summer Blitz,1072845.50,470.00,3445,2282.65,2023/08/27,JPY
+United States,RETAIL,Support Tier 1,closed won,Q3-2024-Holiday Sale,326901.08,209,4989,1564.12,2024/02/09,USD
+UK,Telesales,Premium Onboarding,CL,Q1-2024-Retention,208097.37,101,1786,2060.37,2023/07/15,AUD
+SA,phone,Software Subscription,pending,FY-2024-Brand Awareness,200095.86,183,1519,1093.42,2023/02/16,JPY
+Australia,in-store,Widget A,closed won,H2-23-Black Friday,1280130.28,326,1556,3926.78,2024/10/23,GBP
+UK,Phone,Software Subscription,negotiation,Q4-2023-Fall Campaign,965018.90,430,739,2244.23,2024/09/25,GBP
+EU,Phone,ERP Add-on,LOST,Q1-2023-Product Launch,175313.37,131,4537,1338.27,2023/03/31,CAD
+EU,DIRECT,Gadget X,negotiation,H2-2024-Email Blast,68557.60,136.00,2583,504.10,2024/03/14,GBP
+SA,Channel Partner,Gadget X,LOST,H2-2024-Email Blast,1763690.22,438,2625,4026.69,2023/09/19,CAD
+Britain,web,Cloud Storage 1TB,pending,Q1-24-Black Friday,1227717.54,378.0,3624,3247.93,2023/07/01,CAD
+N/A,retail,Cloud Storage 5TB,open,Q3-2023-Upsell,83727.12,167.0,4793,501.36,2024/03/14,AUD
+ANZ,online,ERP Add-on,Closed-Lost,Q1-24-Retention,86921.94,21,4659,4139.14,2023/03/27,GBP
+ANZ,Affiliate,Training Package,In Progress,,1733709.67,427.0,4830,4060.21,2024/01/15,AUD
+NA,Reseller,CRM Module,Pending,Q4-2023-New Year Promo,271589.24,346.00,N/A,784.94,2024/11/10,GBP
+NA,ONLINE,Analytics Dashboard,In Progress,H2-2023-Social Push,282924.92,268,1881,1055.69,2024/01/23,
+United States,Affiliate,Software License,Closed Won,H1-23-Black Friday,74027.51,43,4233,1721.57,2024/01/14,
+MEA,e-comm,Cloud Storage 5TB,Lead,Q4-23-Product Launch,1822609.86,471,3768,3869.66,2024/07/30,GBP
+EMEA,Website,Premium Onboarding,CLOSED WON,H2-24-Email Blast,686391.44,422,546,1626.52,2024/10/25,AUD
+United States,Affiliate,Service Plan Pro,CL,,1475640.63,489,3598,3017.67,2024/05/16,
+Britain,Social Media,Cloud Storage 1TB,closed won,Q2-23-Fall Campaign,59311.56,42.0,3205,1412.18,2023/04/24,
+NA,phone,Support Tier 2,PENDING,Q2-2023-Social Push,107685.76,104,3867,1035.44,2024/07/03,
+Asia Pacific,Referral,Marketing Suite,CL,FY-2023-New Year Promo,980830.16,472.0,4033,2078.03,2024/04/23,JPY
+United States,Referral,Security Bundle,Pending,Q4-24-Email Blast,735.49,133.0,145,5.53,2025/01/25,
+North America,Call Center,Support Tier 2,CW,Q3-2024-Email Blast,181467.98,251,4250,722.98,2023/03/17,GBP
+North America,social media,Training Package,Negotiation,Q4-2023-Social Push,1046911.26,467,776,2241.78,2024/03/17,EUR
+US,Field Sales,Analytics Dashboard,in progress,Q2-2024-Upsell,1679555.68,368.0,N/A,4564.01,2023/08/11,
+Asia,,Marketing Suite,pending,FY-2023-Holiday Sale,85201.32,114.00,175,747.38,2023/05/28,GBP
+Europe,web,Widget A,CLOSED LOST,FY-23-Holiday Sale,932605.54,199.00,2980,4686.46,2024/10/05,

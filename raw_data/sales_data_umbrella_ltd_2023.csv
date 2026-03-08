@@ -1,0 +1,87 @@
+Firma,Status,Leads,Stueckpreis,Kanal,Menge,Werbeausgaben,Vertreter,Kampagne,Umsatz,Produkt,Abschluesse,Datum,Region,notes
+Umbrella Ltd,Proposal,3831,4346,,386.0,22430,karen white,Q3-23-Email Blast,1677629,Marketing Suite,16,12-Oct-2023,Unknown,pending approval
+Dunder Mifflin,Won,1149,-,DIRECT,487,12681,JANE DOE,,200731,MISC,N/A,05-Sep-2025,Asia,
+Umbrella Ltd,PENDING,3097,2778,Referral,423.00,17417,Grace Lee,Q4-24-Spring Push,1175326,Support Tier 2,136,30-Apr-2024,LATAM,
+BlueOcean Retail,LOST,3454,1654,social media,465.00,30029,,H2-2023-Fall Campaign,769216,Support Tier 1,139,26-Aug-2025,MEA,returned
+Umbrella Ltd,closed won,4319,1100,E-Commerce,#REF!,23790,jake thomas,H2-2023-Upsell,N/A,Consulting Hours,N/A,10-Apr-2024,NA,
+Umbrella Ltd,Pending,3916,3141,DIRECT,430,4690,H. Taylor,,1350832,Support Tier 2,225,12-Aug-2025,Asia Pacific,
+Umbrella Ltd,WON,2433,2309,Social Media,245,0,,Q4-24-Cross-sell,565844,Cloud Storage 5TB,248,22-May-2025,Asia,
+Umbrella Ltd,Open,N/A,156,email campaign,2.0,27048,J. Thomas,FY-2023-Trade Show,312,Gadget Mini,405,20-Mar-2025,LATAM,
+Umbrella Ltd,closed lost,16,2425,PARTNER,N/A,18395,M. Clark,Q2-23-Spring Push,NA,Gadget X,369,17-Oct-2024,MEA,bulk order
+Umbrella Ltd,PENDING,1594,3488,email,227,4895,David Brown,Q3-2023-Social Push,791787,Security Bundle,406,08-Dec-2023,Latin America,
+Oceanic Airlines,LOST,181,missing,online,,33133,J. Smith,,105279,Software Subscription,493,13-Jun-2024,United Kingdom,
+Umbrella Ltd,Open,3335,1279,E-Commerce,147.0,46299,Alice Johnson,Q2-23-Trade Show,188024,Analytics Dashboard,38,25-Jul-2025,Middle East,
+HealthPlus Pharma,closed won,null,152,Social Media,343,38539,John Smith,FY-2024-Spring Push,52454,Service Plan Basic,161,30-Aug-2024,Britain,
+Umbrella Ltd,lead,1361,4644,Email Campaign,null,N/A,Eva Martinez,,174494,Support Tier 1,31,20-Nov-2024,LATAM,
+Umbrella Ltd,Closed Won,4058,1893,Online,244.00,43585,Eva Martinez,H1-24-Summer Blitz,461950,MISC,,01-Oct-2024,US,
+Umbrella Ltd,In Progress,-,593,Telesales,131,32799,eva martinez,Q3-23-Cross-sell,77787,Support Tier 2,276,18-Jun-2025,Britain,
+Cogswell Cogs,In Progress,N/A,1954,email,71.0,30072,D. Brown,Q1-2024-Summer Blitz,138787,Software License,365,16-Jun-2024,SA,
+Umbrella Ltd,PENDING,2541,2092,Email,397,18920,,FY-24-Retention,830730,Software Subscription,327,null,UK,
+,Lead,3950,4701,Phone,403.0,25969,,H1-23-Email Blast,1894704,ERP Add-on,392,20-Mar-2025,Australia,CEO referral
+Umbrella Ltd,proposal,4340,2784,Email,270,0,henry taylor,Q2-2024-Social Push,751933,Hardware Unit,376,20-May-2025,APAC,
+Umbrella Ltd,Negotiation,345,327,email,479,42555,J. Doe,H1-2023-Brand Awareness,156680,Cloud Storage 5TB,400,16-Aug-2025,ASIAPAC,
+Umbrella Ltd,open,3601,3123,Brick & Mortar,221,15848,david brown,FY-24-New Year Promo,690196,Premium Onboarding,8,01-Aug-2025,North America,
+Umbrella Ltd,Lead,977,2630,Call Center,N/A,3362,D. Brown,Q2-2023-Brand Awareness,-,Analytics Dashboard,405,09-Nov-2023,UK,
+Umbrella Ltd,Pending,4578,4658,online,126.0,26207,Mia Clark,Q1-24-Retention,586938,Hardware Unit,-,25-Dec-2023,N/A,
+,closed lost,4348,1132,e-comm,493,31764,JOHN SMITH,Q1-24-Product Launch,558223,Security Bundle,171,12-Nov-2024,Europe,
+Genco Pura,Open,269,NA,Brick & Mortar,326,16165,karen white,Q4-2024-Retention,207046,N/A,449,05-Mar-2024,Asia Pacific,
+Umbrella Ltd,CLOSED WON,1953,4662,DIRECT,274,23730,frank wilson,,1277651,Software Subscription,7,01-Oct-2024,Africa,
+Umbrella Ltd,proposal,2385,3425,e-comm,362,27422,J. Doe,H2-23-Product Launch,1239922,N/A,-,12-Jul-2025,N. America,
+Umbrella Ltd,lead,767,1646,Direct Sales,116.00,48161,M. Clark,Q2-24-Spring Push,191049,Software Subscription,,13-Apr-2024,MEA,
+Hooli Inc,CLOSED WON,3247,4354,Field Sales,407.0,11646,J. Smith,,1772383,Cloud Storage 5TB,137,20-Aug-2024,US,
+Umbrella Ltd,PENDING,null,2839,email campaign,103.0,7334,carol davis,,292446,Support Tier 1,409,01-May-2024,Europe,
+Wonka Enterprises,closed lost,767,1091,In-Store,416,38179,B. Williams,Q1-24-Black Friday,454088,N/A,-,28-Oct-2023,EU,
+Umbrella Ltd,Proposal,3956,3203,,155.0,16846,alice johnson,H1-2023-Retention,496496,Software License,79,13-Nov-2024,EMEA,
+BrightPath Media,open,2289,1995,email,413,1134,K. White,H1-2024-Webinar Series,824071,Cloud Storage 1TB,276,15-Oct-2023,United States,
+Umbrella Ltd,Lead,,2139,Social Media,101,32282,Frank Wilson,Q3-24-Upsell,216125,Service Plan Basic,480,22-Oct-2024,MEA,
+Umbrella Ltd,negotiation,2020,3223,partner,304,45319,eva martinez,Q4-23-Brand Awareness,980053,Cloud Storage 5TB,70,09-Dec-2023,United Kingdom,
+Umbrella Ltd,Won,3183,4203,direct,271,30256,Karen White,H1-23-Retention,1139031,Marketing Suite,488,19-Apr-2025,Europe,
+Oceanic Airlines,Closed-Lost,57,3843,E-Commerce,50,37140,Henry Taylor,H2-2024-Email Blast,192195,Software Subscription,312,02-Apr-2024,Australia,
+Umbrella Ltd,CL,953,1745,Brick & Mortar,467,23594,david brown,FY-24-Webinar Series,814919,Support Tier 2,311,01-Feb-2025,SA,
+Umbrella Ltd,WON,3964,1168,Social Media,461,,John Smith,H1-23-Retention,538784,Software License,377,31-Dec-2024,ASIAPAC,partial payment
+Umbrella Ltd,Negotiation,1579,3537,,70,-,I. Anderson,Q1-24-Fall Campaign,247639,Widget B,N/A,07-Sep-2024,APAC,CEO referral
+Brawndo Corp,closed lost,2727,3830,Direct,40.0,20641,Mia Clark,,153218,Hardware Unit,462,15-Aug-2024,ANZ,
+Umbrella Ltd,Lead,3828,317,Social Media,null,18377,,H1-2023-Brand Awareness,142818,N/A,68,05-Dec-2023,Africa,
+Genco Pura,Negotiation,91,1258,Social,392,28264,JANE DOE,H1-2023-Trade Show,493202,Cloud Storage 5TB,414,10-Sep-2024,NA,partial payment
+PixelForge Studios,Closed Won,3589,4565,in-store,301.0,227,Iris Anderson,H2-2023-New Year Promo,1374173,Software License,,29-Aug-2024,Latin America,new customer
+Umbrella Ltd,in progress,3534,2222,,296.00,31400,H. Taylor,Q2-24-Fall Campaign,657880,Support Tier 2,226,17-May-2024,Asia,
+Umbrella Ltd,proposal,2868,898,Telesales,342.0,43697,carol davis,Q3-2023-Product Launch,307153,Security Bundle,186,19-Jan-2024,ASIAPAC,
+Prestige Worldwide,negotiation,1232,1400,Online,34.00,5349,alice johnson,,47626,Premium Onboarding,145,15-Feb-2025,United Kingdom,
+Umbrella Ltd,in progress,4988,3249,Channel Partner,77,1434,Jake Thomas,Q2-2023-Webinar Series,250176,Marketing Suite,139,02-Jan-2025,Australia,
+Virtucon,Open,123,541,field,375.0,42471,David Brown,FY-2024-Fall Campaign,203171,Service Plan Basic,72,TBD,Australia,CEO referral
+Umbrella Ltd,Won,,498,referral,55.0,33056,karen white,H1-2024-Trade Show,27392,Software License,458,19-Sep-2024,USA,
+BrightPath Media,Qualified,-,3472,web,372.0,1089,henry taylor,Q2-24-Social Push,1291874,Training Package,495,04-Jul-2025,United Kingdom,
+Umbrella Ltd,pending,2827,4095,Referral,372.0,40532,Karen White,Q3-2024-Summer Blitz,1523596,Other,-,12-Sep-2024,Asia,
+Umbrella Ltd,Closed Won,1078,4281,field,284.00,13136,alice johnson,Q1-2024-Holiday Sale,1216076,Premium Onboarding,7,N/A,LATAM,discount applied
+Umbrella Ltd,Lost,2782,577,email campaign,262.00,17208,G. Lee,H1-23-Trade Show,151187,Widget A,261,17-Jun-2025,LATAM,
+Umbrella Ltd,LOST,2478,4403,Store,264,15996,Henry Taylor,Q2-2023-Summer Blitz,1162473,Gadget X,264,25-Mar-2025,US,pending approval
+Bluth Company,pending,1561,3581,email campaign,210,49415,frank wilson,H2-2023-Social Push,752094,Widget Pro,157,14-Oct-2024,APAC,
+Umbrella Ltd,qualified,25,2622,Phone,440.0,10410,Alice Johnson,Q1-2024-Cross-sell,1153869,Training Package,92,12-Oct-2024,??,
+Prestige Worldwide,Lead,3927,1012,Website,337,16488,JANE DOE,Q1-24-Black Friday,341256,Widget A,275,27-Sep-2024,EU,bulk order
+Umbrella Ltd,Closed-Won,2601,1681,PARTNER,219,40580,J. Thomas,Q4-23-Spring Push,368301,Service Plan Basic,333,06-Jun-2025,North America,
+Umbrella Ltd,Qualified,2231,3007,ecommerce,-,16420,Mia Clark,Q4-23-Retention,47117,Widget Pro,89,29-May-2025,ANZ,escalated
+Umbrella Ltd,closed lost,4461,1073,referral,148,N/A,Henry Taylor,Q3-23-Black Friday,158946,Data Pipeline,222,07-Nov-2023,N. America,bulk order
+Sterling Cooper,Pending,3752,3051,,461.0,13707,H. Taylor,Q1-2023-Upsell,1406727,Hardware Unit,83,02-Nov-2023,NA,
+Umbrella Ltd,Closed-Won,3198,2692,Email,210,13539,Karen White,,565320,Premium Onboarding,117,29-Feb-2024,LATAM,
+Brawndo Corp,Negotiation,722,1228,Field Sales,171,43859,Alice Johnson,Q1-24-Cross-sell,210003,Premium Onboarding,364,21-Sep-2025,APAC,
+Cybertruck Co,pending,2044,2008,,244.0,17488,B. Williams,Q1-24-Summer Blitz,490042,Widget B,120,25-Oct-2023,APAC,escalated
+Umbrella Ltd,Qualified,628,3563,E-Commerce,452,31595,Carol Davis,,1610860,Cloud Storage 1TB,367,16-Aug-2025,N. America,
+Umbrella Ltd,Lead,4261,1139,Brick & Mortar,213.00,15421,C. Davis,Q3-24-Upsell,242736,Service Plan Pro,189,29-Dec-2023,N/A,
+Umbrella Ltd,Closed Lost,1064,2783,referral,279,-,B. Williams,H2-24-Cross-sell,776459,Service Plan Enterprise,291,30-Apr-2024,Unknown,returned
+Hooli Inc,closed won,2858,4269,Website,42,8846,Carol Davis,FY-2023-Retention,179323,Widget B,383,18-Mar-2025,MEA,follow up needed
+Umbrella Ltd,Closed Won,2127,4471,Direct Sales,null,9588,A. Johnson,FY-24-Email Blast,221678,Software License,N/A,31-Jan-2024,ASIAPAC,
+Umbrella Ltd,Qualified,2729,4422,Reseller,156.00,25839,karen white,Q1-23-Black Friday,689983,Support Tier 1,254,13-Aug-2025,Africa,
+Umbrella Ltd,PENDING,,4809,PARTNER,315,23093,B. Williams,FY-24-Retention,1514875,Widget A,266,11-Dec-2023,US,bulk order
+Weyland Corp,closed won,2555,3249,retail,49,N/A,C. Davis,H2-23-Fall Campaign,159243,Software License,N/A,17-Sep-2024,Europe,
+Umbrella Ltd,CW,3359,1042,Social,392,30541,Frank Wilson,Q3-23-Brand Awareness,408507,Other,152,19-May-2024,Europe,escalated
+Umbrella Ltd,Proposal,1428,1229,,128.0,40729,leo harris,,157338,Security Bundle,399,02-Dec-2024,NA,NET30 terms
+Umbrella Ltd,Lost,3319,562,field,499.0,22291,Alice Johnson,H2-24-New Year Promo,280577,Software Subscription,352,07-Nov-2024,United Kingdom,
+SummitView Hotels,Open,56,133,Online,187,9836,iris anderson,FY-23-Cross-sell,24962,API Access,321,07-Oct-2023,EMEA,
+Stratton Oakmont,proposal,4233,1268,in-store,395,,I. Anderson,FY-23-Product Launch,500939,API Access,345,24-Aug-2025,N. America,NET30 terms
+Acme Corp,PENDING,386,4450,Direct Sales,260,31078,L. Harris,Q3-23-Trade Show,1157241,Analytics Dashboard,87,07-Aug-2025,EU,
+BlueOcean Retail,Closed-Lost,1472,608,Social Media,384,30957,Alice Johnson,Q1-23-Product Launch,233610,Software License,14,31-Mar-2025,Britain,
+Umbrella Ltd,Open,624,3265,phone,53.0,45902,John Smith,FY-2024-Email Blast,173072,N/A,164,TBD,Asia Pacific,
+Umbrella Ltd,in progress,3026,2042,partner,343.00,3271,JOHN SMITH,FY-24-Webinar Series,700635,Hardware Unit,223,03-Feb-2025,N. America,new customer
+Umbrella Ltd,Qualified,2402,4917,partner,338,35148,J. Doe,Q2-23-Email Blast,1662016,Hardware Unit,170,14-Aug-2025,APAC,NET30 terms
+Umbrella Ltd,CLOSED WON,304,#N/A,Affiliate,94,12387,E. Martinez,FY-2023-Email Blast,null,Gadget Mini,499,17-Apr-2024,US,
+Umbrella Ltd,Closed-Lost,3673,4556,DIRECT,3.00,2625,H. Taylor,Q2-24-Retention,13669,Software Subscription,124,31-Jan-2025,Middle East,

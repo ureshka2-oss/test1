@@ -1,0 +1,49 @@
+cmpgn,conv,lds,dt,qty,ch,spend,stat,prod,rev,rgn
+Q3-23-Holiday Sale,239,3408,01/01/2024,135,E-Commerce,"$33,200.74",WON,Cloud Storage 1TB,"$442,636.65",MEA
+Q1-2023-Social Push,269,1603,12/19/2023,136,in-store,"$1,164.79",Closed-Lost,Service Plan Enterprise,"$180,895.67",Africa
+FY-24-Cross-sell,2,2260,01/06/2024,405,field,"$7,883.78",Closed-Won,API Access,"$46,307.70",Asia
+Q4-24-Fall Campaign,110,4240,03/04/2024,292.0,e-comm,"$48,671.15",lead,,"$960,452.24",APAC
+,309,80,05/14/2024,215,online,"$46,813.24",CW,Security Bundle,"$339,368.90",Latin America
+H2-24-Trade Show,50,1788,08/08/2025,null,RETAIL,"$39,222.59",Negotiation,Cloud Storage 1TB,missing,USA
+FY-2024-Black Friday,156,3954,02/23/2025,15,,"$45,590.59",Open,Hardware Unit,"$42,199.65",United States
+Q2-2023-Social Push,465,954,10/02/2025,179.00,direct,"$34,329.44",closed won,Gadget X,"$197,553.35",Asia Pacific
+Q2-2024-Cross-sell,266,4880,09/19/2025,383.00,Partner,"$48,827.22",Lead,Training Package,"$30,785.54",N. America
+FY-2024-Trade Show,489,591,09/01/2025,194,in-store,"$18,338.18",LOST,Premium Onboarding,"$682,486.18",EMEA
+Q1-2024-Summer Blitz,-,370,08/06/2025,449.00,in-store,"$6,055.90",Pending,Software License,"$2,106,097.36",MEA
+H2-2024-Summer Blitz,1,538,11/24/2023,228,PARTNER,"$41,104.75",Qualified,Widget Pro,"$441,526.56",NA
+FY-24-Brand Awareness,442,4412,12/20/2024,178.00,ecommerce,"$32,174.98",Closed Won,Analytics Dashboard,"$151,942.58",Latin America
+Q1-24-Spring Push,77,4500,09/08/2025,300,Affiliate,"$48,151.55",Lead,Marketing Suite,"$128,718.00",??
+Q3-24-Spring Push,N/A,1193,08/14/2024,370.0,Partner,"$49,189.50",Lead,Support Tier 2,"$741,087.80",EMEA
+Q1-2023-Holiday Sale,137,931,07/07/2025,383.00,Channel Partner,"$11,132.85",Qualified,Software License,"$1,642,330.81",EU
+Q3-23-Spring Push,345,1589,01/22/2024,426,affiliate,"$41,291.43",Closed-Lost,ERP Add-on,"$1,151,179.80",North America
+Q4-24-Cross-sell,55,2900,04/06/2025,38,referral,"$21,376.71",In Progress,Gadget Mini,"$84,315.92",US
+Q2-24-Email Blast,72,2447,07/12/2024,407.0,,"$23,099.24",Lead,Support Tier 2,"$1,189,604.02",Asia Pacific
+FY-23-Webinar Series,300,-,10/19/2024,347,,"$43,814.86",Pending,Cloud Storage 5TB,"$435,505.82",Asia Pacific
+H2-24-Trade Show,144,4841,04/25/2025,454,Referral,"$49,378.38",CLOSED LOST,Consulting Hours,"$2,115,821.60",EMEA
+FY-2024-Email Blast,215,2022,01/06/2024,307,reseller,"$14,100.71",In Progress,Consulting Hours,"$1,006,370.56",Latin America
+Q3-2024-Black Friday,201,3061,07/12/2024,123,email,"$35,925.79",Lost,Widget Pro,"$2,334.54",United States
+Q4-2023-Summer Blitz,314,1412,05/07/2025,464.0,,"$20,098.66",LOST,Support Tier 2,"$153,442.25",Africa
+Q3-23-Upsell,-,472,11/03/2024,431.00,phone,"$24,645.72",Open,Data Pipeline,"$1,368,261.22",Australia
+H1-2024-Upsell,17,2207,11/29/2023,203.0,ONLINE,"$35,416.73",CL,Widget B,"$519,318.66",Latin America
+H1-23-Webinar Series,245,2257,09/09/2025,427,partner,"$27,124.25",WON,Training Package,"$1,160,022.36",EMEA
+FY-2024-New Year Promo,404,1580,12/31/2024,98.00,ecommerce,"$17,283.32",Open,Other,"$394,473.52",
+H1-24-Social Push,386,2845,05/27/2025,224.00,,"$36,111.96",LOST,N/A,"$513,224.32",USA
+FY-2023-Social Push,417,2938,06/21/2024,493.0,retail,"$40,857.56",lead,Cloud Storage 5TB,"$1,308,737.52",Britain
+H2-2023-Webinar Series,410,4901,N/A,304,Referral,"$31,132.02",Won,Training Package,"$667,504.96",Africa
+Q2-23-Summer Blitz,347,1205,10/12/2024,0,affiliate,"$34,087.84",Proposal,Analytics Dashboard,"$99,228.30",United States
+FY-24-Product Launch,182,N/A,10/24/2023,431,affiliate,"$30,699.14",proposal,ERP Add-on,"$1,542,402.46",Europe
+H1-23-Brand Awareness,169,3238,06/03/2025,343,call center,"$5,004.16",Lead,Security Bundle,"$320,077.31",N/A
+Q2-24-Summer Blitz,239,4955,04/01/2024,212,referral,"$30,128.82",Closed Won,Support Tier 2,"$971,954.28",Australia
+H2-2024-Upsell,82,2089,09/24/2024,N/A,retail,"$24,725.86",Qualified,Service Plan Basic,NA,South America
+Q2-2024-Trade Show,113,3036,05/17/2024,322.0,email,"$40,726.50",Closed-Lost,Support Tier 2,"$881,107.92",United Kingdom
+Q2-2024-Fall Campaign,345,1762,12/14/2024,451,Partner,,CW,Training Package,"$99,089.21",EU
+Q4-2024-Brand Awareness,324,1349,05/28/2024,,ecommerce,-,Open,Cloud Storage 5TB,"$72,380.06",-
+Q3-23-Brand Awareness,254,1418,04/26/2024,467.00,,"$23,405.36",pending,CRM Module,"$568,339.00",United States
+H2-24-Webinar Series,,2081,08/12/2024,62,phone,"$12,519.38",Lost,Software Subscription,"$180,994.74",N. America
+Q1-23-Social Push,464,1398,05/12/2024,183.0,Online,0,closed won,Data Pipeline,"$832,507.26",ASIAPAC
+Q4-2023-Product Launch,327,3373,05/12/2024,169,phone,"$6,168.88",Negotiation,Software Subscription,"$196,923.87",APAC
+H2-23-New Year Promo,251,2492,02/27/2025,419,RETAIL,"$47,252.35",Lead,Widget A,"$7,445.63",Asia
+Q2-23-Trade Show,380,2065,06/29/2025,493.0,Affiliate,"$10,576.53",Lead,CRM Module,"$1,703,768.56",Britain
+H2-23-Product Launch,327,3616,04/28/2024,89,Web,"$18,601.71",Lead,Service Plan Basic,"$40,370.40",EU
+H2-2023-Black Friday,344,3965,11/07/2023,217.0,Channel Partner,"$30,399.24",pending,ERP Add-on,"$967,752.73",Latin America
+Q1-2023-Webinar Series,12,1827,03/26/2024,443,online,"$23,193.09",CLOSED LOST,Support Tier 2,"$1,042,432.16",MEA

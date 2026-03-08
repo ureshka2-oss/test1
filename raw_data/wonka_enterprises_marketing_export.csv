@@ -1,0 +1,65 @@
+sale_date,campaign_name,rep_name,product_name,ad_spend_usd,deal_status,num_conversions,sales_region,total_revenue,sales_channel,num_leads
+pending,H2-23-Fall Campaign,JANE DOE,Gadget X,$24703,WON  ,16,APAC,$1158324,Phone,3132
+11/08/2023  ,,Karen White,API Access,$7954,Closed-Won,203,NA,$221257,email,null
+04/26/2024,,JANE DOE,Software License,$18039,WON,149,ANZ,$222295,Email Campaign,972
+10/30/2024,Q1-2023-Webinar Series,Frank Wilson,Training Package,$45851,Closed Lost,348,North America,$483231,Social Media,4065
+09/11/2024,FY-24-Upsell,Frank Wilson,API Access,$15282,PENDING,289,APAC,$628731,online,2031
+TBD,H2-24-Brand Awareness,Mia Clark,Support Tier 2,N/A,In Progress,272,ASIAPAC,$313682  ,web,3984
+04/05/2024,Q1-24-New Year Promo,alice johnson,Software Subscription,$21813,in progress,159,MEA,$210916,Affiliate,3973
+02/29/2024,Q1-23-Upsell,Jake Thomas,Service Plan Enterprise,$32589,In Progress,77,ASIAPAC,$264684,Affiliate,2979
+03/26/2025,FY-2024-Email Blast,john smith,Data Pipeline,N/A,Negotiation,490,Europe,$228792,,283
+02/28/2024,H2-23-Product Launch,Bob Williams,API Access,$8770,WON,,NA,$532673,social,-
+02/18/2025,FY-2023-Holiday Sale  ,Grace Lee,Premium Onboarding,$44731,Negotiation,382,NA,$382774,,N/A
+01/01/2025,FY-24-Webinar Series,TBD,Data Pipeline,$49863  ,closed lost,9,UK,$184690,social media,4824
+11/19/2023,Q1-24-Fall Campaign,eva martinez,Gadget X,-,Qualified,35,SA,$142837,Store,203
+03/24/2024,FY-2024-Black Friday,David Brown,Support Tier 2,$32906,in progress,257,EMEA,$168148,retail,383
+04/29/2025,Q4-24-Retention,Jake Thomas,Premium Onboarding,$4231,pending,402,Africa,$187599,call center,3207
+05/22/2025,Q1-24-Product Launch,Unassigned,Hardware Unit,$29986,pending,318,??,$52312,Affiliate,3067
+12/31/2024,H2-24-Email Blast,Iris Anderson,Cloud Storage 5TB,$10753,qualified  ,369,US,$5415,Social Media,2914
+09/05/2024,Q1-2023-Brand Awareness,A. Johnson,Support Tier 2,$3135,closed lost,-,Europe,$343109,Affiliate,3161
+06/04/2024,Q1-2023-Black Friday,J. Doe,Gadget X,$36676,In Progress  ,357,NA,$826240,Email Campaign,1145
+07/28/2025,H2-24-Email Blast  ,,Training Package,$26404,LOST,480,Asia,$205871,E-Commerce,3637
+10/16/2024,Q3-2024-Holiday Sale,Jake Thomas,Software Subscription,$7697,proposal,79,Britain,$657567,Web,4609
+01/10/2025,H2-24-Holiday Sale,Grace Lee,Software License,$9365,qualified,390,N. America,$234769,Affiliate,
+07/03/2024,FY-2023-Email Blast,karen white,Service Plan Pro,$15014,pending  ,481,UK,$1411792,Referral,3729
+01/12/2024,Q2-2023-Brand Awareness,J. Doe,Widget Pro,$12433,Closed Won,424,MEA,$262105,,680
+N/A,H1-2023-Trade Show,David Brown,Service Plan Enterprise,$46660,CW,206,United Kingdom,$4688,social  ,3609
+09/23/2024,H2-2023-Webinar Series,I. Anderson,Widget Pro,$9204,CLOSED WON,129,Latin America,$361517  ,retail,4597
+05/30/2024,Q4-2024-New Year Promo,jane doe,API Access,$24423,qualified,158,MEA,$52959,PARTNER,1420
+05/13/2024,Q2-2024-Upsell,J. Thomas,Support Tier 1,$46021,Closed Lost,96,South America,$906859,Online,4654
+03/22/2024,Q3-2024-Black Friday,B. Williams,API Access,0,CLOSED WON,-,ASIAPAC,$20806,Reseller,772
+02/22/2025,Q2-2024-New Year Promo  ,eva martinez,Data Pipeline,$7485,Closed-Lost,412,Africa,$368386,e-comm,1433
+12/18/2023,H2-23-Email Blast,Karen White,Gadget X,$42062,CW,299,United Kingdom,$1599233,referral,798
+,H2-2024-Email Blast,Unassigned,ERP Add-on,$30794,CLOSED WON,69  ,ANZ,$586621,,3062
+12/31/2024,Q3-2024-Black Friday,Unassigned,Data Pipeline  ,$1172,Lost,312,US,$934293,Phone,2976
+02/29/2024,H1-24-Fall Campaign,F. Wilson,Hardware Unit,$32006,CLOSED WON,91,Middle East  ,$1366495,Web,3716
+07/17/2024,Q2-23-Upsell,bob williams,Gadget Mini,$39606,closed lost  ,345,Middle East,$905050,Call Center,2470
+06/17/2024,Q3-2024-Fall Campaign,A. Johnson,Hardware Unit,N/A,CW,,UK,$1067169,Partner,3657
+03/01/2024,H1-24-Retention,Frank Wilson,Gadget Mini,$46685,In Progress,  ,United States,$24000,field,2052
+12/03/2023,H1-2024-Trade Show,Henry Taylor,Widget A,$11688,CLOSED WON,62,United States,$744649,Partner,2954  
+01/15/2025,Q3-2024-Black Friday,Bob Williams,Gadget Mini,$7039,Won,465,UK,$677797,Referral,2005
+12/30/2024,H2-2024-Brand Awareness,Alice Johnson,API Access,$35676,pending,122,SA,$167509,online,3798
+08/01/2024,Q1-2023-Black Friday,F. Wilson,Cloud Storage 1TB,$823,pending,437,Australia,$676988,Partner,96
+03/30/2024,Q2-24-New Year Promo,Unassigned,Marketing Suite,$34847,Closed-Lost,146,Britain,$66981,call center,2138
+02/17/2025,Q4-2024-Holiday Sale,Grace Lee,Hardware Unit,N/A,negotiation,246,Europe,$357607,E-Commerce,N/A
+03/19/2025,H1-2023-New Year Promo,karen white,Service Plan Enterprise,$5762,CL,191,MEA,$89795,Call Center,1748
+06/15/2024,H2-23-Email Blast,Unassigned,Marketing Suite,$8366,CW  ,37,UK,$137755,Email Campaign,3685
+09/13/2024,Q2-23-Black Friday,David Brown,Training Package,$48898,Closed Won,26,United Kingdom,$1114160,call center,2781
+09/09/2024,H1-2024-Summer Blitz,Iris Anderson,Hardware Unit,$37955,lead,,United Kingdom,$670034,,2197
+05/30/2024,FY-2024-Email Blast,Carol Davis,Software Subscription,N/A,CW,N/A,N. America,$245641,Phone,1885
+09/20/2025  ,Q3-24-Summer Blitz,David Brown,Analytics Dashboard,null,Lost,404,US,$217336,online,4733
+11/06/2024,FY-2023-Spring Push,frank wilson,Hardware Unit,N/A,open,212,LATAM,null,Store,3106
+05/17/2024,FY-2024-Summer Blitz,jane doe,Service Plan Pro,null,Closed-Lost,345,Europe,$895205,web,
+01/31/2025,H1-2024-Spring Push,david brown,Support Tier 2,$15782,Open,454,NA,$813007,partner,2234
+05/08/2024,H2-2024-Fall Campaign,Grace Lee,Training Package,$21121,Won,53,Australia,$930242,RETAIL,3682  
+08/25/2024,,david brown,Premium Onboarding,$39632,proposal,8,MEA,$740632,field,2059
+,H1-2024-Webinar Series,Bob Williams,Service Plan Basic,$21503,WON,19,MEA,$68175,Direct Sales,4249
+12/25/2023,FY-2024-Trade Show,Frank Wilson,Service Plan Basic,$49060,Pending,45,Middle East,$32331,,4309
+01/15/2024,H2-24-Social Push,Jake Thomas,Widget B,$5471,Proposal,183,UK,$1259027,ONLINE,74
+11/10/2024,,JANE DOE,Service Plan Pro,-,lead,421,ANZ,$145896,Call Center,1219
+10/26/2025,Q3-23-Trade Show,Jake Thomas,Gadget X,$40591,Qualified,304,Middle East,$69901,RETAIL,4822
+08/21/2025,Q1-24-Spring Push,H. Taylor,ERP Add-on,$2276,closed won,328,UK,$969296,referral,-
+02/08/2024,H1-24-Upsell,,Hardware Unit,$8850,PENDING,94,United States,$1173768,Direct,2928
+04/17/2024,H1-2024-Holiday Sale,J. Smith,Premium Onboarding,,proposal,437,Asia,$1088769,,2466
+,,,,,,,,,,
+,,,,,,,,,,

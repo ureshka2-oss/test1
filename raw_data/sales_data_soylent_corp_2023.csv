@@ -1,0 +1,128 @@
+Exported from Soylent Corp CRM on 2026-03-08;;;;;;;;;;;;
+STATUS;LEADS;DATE;SALES_REP;UNIT_PRICE;AD_SPEND;REGION;CAMPAIGN;REVENUE;CHANNEL;PRODUCT;QTY;COMPANY
+Won;1677;2024/10/31;A. Johnson;1076.27;15322.79;SA;H1-23-Retention;378847.04;Web;Security Bundle;352.0;Soylent Corp
+Proposal;4988;2025/08/03;;4779.72;49025.18;Europe;FY-2024-Trade Show;1362220.20;RETAIL;Service Plan Basic;285;TrueNorth Financial
+CLOSED WON;3888;2025/03/16;C. Davis;1197.67;45705.69;NA;FY-23-Black Friday;397626.44;Telesales;Analytics Dashboard;332.00;
+Closed-Won;3215;2024/01/19;E. Martinez;2883.46;969.20;Middle East;H2-24-Fall Campaign;1268722.40;PARTNER;Widget A;440.00;Soylent Corp
+Won;1551;2024/01/14;Leo Harris;1811.03;49901.49;South America;Q4-24-Social Push;420158.96;Referral;Security Bundle;232;Soylent Corp
+Won;4389;2024/07/11;C. Davis;1952.02;15416.36;Africa;FY-2024-Upsell;911593.34;email campaign;Marketing Suite;467.0;Prestige Worldwide
+Qualified;1524;2024/07/07;A. Johnson;3204.83;null;Middle East;Q1-2024-Holiday Sale;573664.57;e-comm;N/A;179;Initech Solutions
+lead;;2024/02/25;JANE DOE;4550.75;2319.92;UK;H2-2023-Fall Campaign;1847604.50;Retail;Widget Pro;406;Soylent Corp
+Closed-Won;4513;2023/09/15;L. Harris;2562.35;35701.46;Asia Pacific;Q4-24-Social Push;40381.90;affiliate;Widget A;0;Soylent Corp
+lead;2582;2025/02/11;D. Brown;184.32;13188.33;US;Q4-23-Email Blast;53637.12;Brick & Mortar;Hardware Unit;291;Bluth Company
+closed won;4758;2024/10/10;bob williams;4077.18;20859.41;UK;H2-23-Holiday Sale;640117.26;Email Campaign;Gadget X;157;Oceanic Airlines
+proposal;144;pending;mia clark;4882.42;47328.68;APAC;H2-2023-Retention;1459843.58;partner;Data Pipeline;299;Soylent Corp
+PENDING;293;2024/12/15;J. Smith;85.49;44189.86;USA;FY-24-Webinar Series;16328.59;Phone;Data Pipeline;191.00;Soylent Corp
+closed lost;768;2025/06/13;Leo Harris;null;14340.29;Australia;Q3-2024-Summer Blitz;-;Retail;Service Plan Basic;270;Soylent Corp
+PENDING;-;2025/06/30;Bob Williams;4399.46;27272.36;ANZ;Q2-2023-Holiday Sale;1671794.80;web;Hardware Unit;380.0;Soylent Corp
+closed lost;1186;2023/12/14;eva martinez;2272.94;0;North America;Q4-23-Spring Push;750070.20;Affiliate;Widget B;330;Spacely Sprockets
+closed lost;3841;2024/07/02;Henry Taylor;3892.68;27544.84;EU;;1440291.60;affiliate;;370.0;Soylent Corp
+Qualified;3363;2024/08/23;frank wilson;4528.02;3846.37;North America;H1-2024-Trade Show;1657255.32;E-Commerce;Training Package;366;Soylent Corp
+LOST;3608;2024/01/25;John Smith;2511.91;14243.28;MEA;;1185621.52;e-comm;Gadget Mini;472.0;Soylent Corp
+Open;null;2023/10/01;Karen White;2420.20;25020.17;LATAM;FY-23-Email Blast;849490.20;affiliate;API Access;351.00;Soylent Corp
+Closed Lost;1616;;john smith;4427.74;24849.08;Europe;Q1-24-Fall Campaign;500334.62;Brick & Mortar;Data Pipeline;113.0;Wonka Enterprises
+pending;1666;2024/10/20;G. Lee;1433.11;;Middle East;Q3-2024-Fall Campaign;477225.63;Referral;;333;AgriGrow Corp
+Negotiation;3982;2024/02/09;Henry Taylor;254.51;9726.36;EMEA;Q3-24-Summer Blitz;53447.10;;Analytics Dashboard;210.00;Spacely Sprockets
+closed lost;4915;N/A;Iris Anderson;891.80;25468.93;EMEA;H2-24-Spring Push;328182.40;Social;ERP Add-on;368.0;Brawndo Corp
+Lost;4347;;grace lee;4737.78;4114.85;South America;Q3-2024-Product Launch;1606107.42;ONLINE;Analytics Dashboard;339.00;Soylent Corp
+proposal;4691;2024/09/16;mia clark;2267.33;35787.81;EMEA;Q3-2024-Brand Awareness;11336.65;PARTNER;Service Plan Enterprise;5;Soylent Corp
+pending;4926;2024/11/06;I. Anderson;2485.63;19279.69;US;Q3-2023-Webinar Series;984309.48;;ERP Add-on;396.00;Wayne Corp
+PENDING;3315;TBD;Grace Lee;927.76;26360.80;North America;H1-2023-Holiday Sale;340487.92;Partner;CRM Module;367.0;Soylent Corp
+closed lost;3925;2024/10/17;Unassigned;1899.15;8342.18;ASIAPAC;Q4-2023-Retention;605828.85;phone;Gadget Mini;319.0;MomCorp
+WON;3493;2025/06/20;K. White;3613.40;36292.50;-;FY-24-Product Launch;1326117.80;Brick & Mortar;Data Pipeline;367;Soylent Corp
+Pending;2208;2025/02/08;K. White;3042.08;;SA;H2-2023-Webinar Series;1444988.00;Social;ERP Add-on;475.00;Soylent Corp
+Pending;1712;2024/01/16;David Brown;3718.90;872.44;EU;H2-24-Social Push;308668.70;social media;Hardware Unit;83;Planet Express
+Open;1746;2024/01/25;K. White;4550.16;21452.01;??;;136504.80;Referral;Other;30.00;Globex Industries
+Lead;N/A;TBD;alice johnson;1890.26;25535.63;N/A;H1-2024-Brand Awareness;746652.70;email campaign;ERP Add-on;395.0;Buy N Large
+In Progress;2016;2024/10/09;john smith;null;23220.71;-;Q2-2023-Social Push;23442.44;phone;Widget A;367;Soylent Corp
+In Progress;;2024/08/08;karen white;1064.39;48717.56;USA;FY-2023-Summer Blitz;441721.85;Store;CRM Module;415.0;Soylent Corp
+negotiation;1205;N/A;J. Smith;1819.95;36350.17;Latin America;H2-23-Webinar Series;738899.70;online;Software Subscription;406;Soylent Corp
+in progress;177;2024/07/14;mia clark;1393.23;12254.22;UK;Q1-2023-Brand Awareness;502956.03;phone;Service Plan Pro;361;Soylent Corp
+CLOSED WON;41;2025/01/26;Iris Anderson;1197.92;39209.24;Middle East;Q3-23-Summer Blitz;14375.04;ecommerce;Widget A;12.00;Krusty Burger LLC
+closed won;1519;2025/03/06;Jake Thomas;507.53;-;EU;Q1-24-Trade Show;200799.62;Social;Service Plan Enterprise;-;Cybertruck Co
+In Progress;2058;2023/10/09;eva martinez;4832.71;40956.32;Asia;Q3-24-Fall Campaign;1522303.65;Web;Widget Pro;315;GreenLeaf Energy
+negotiation;4525;2025/01/06;David Brown;2863.08;39860.07;Australia;Q4-2024-Summer Blitz;798799.32;E-Commerce;Widget Pro;279;Soylent Corp
+negotiation;4129;2023/12/03;frank wilson;684.85;44738.31;Africa;;38351.60;field;Service Plan Basic;56.0;Soylent Corp
+CW;162;2024/06/10;Iris Anderson;3972.75;13883.30;Latin America;FY-2024-Brand Awareness;754822.50;Direct Sales;API Access;190.00;Soylent Corp
+Open;2561;2024/07/08;K. White;1062.44;9554.35;;Q4-24-Fall Campaign;488722.40;e-comm;Service Plan Pro;460.00;Soylent Corp
+closed won;1167;2023/09/23;frank wilson;2509.20;26769.18;MEA;H2-2023-Upsell;346269.60;web;Consulting Hours;138;Soylent Corp
+Won;4301;2025/02/20;Iris Anderson;820.43;26185.77;US;H1-23-New Year Promo;45944.08;PARTNER;Widget Pro;56.0;Soylent Corp
+Qualified;2390;2025/04/13;Alice Johnson;3164.28;9997.67;US;Q3-2024-Upsell;200128.96;In-Store;Hardware Unit;;Soylent Corp
+Closed Lost;3660;2024/02/07;TBD;1190.33;32722.55;ASIAPAC;Q3-23-Retention;299963.16;Social Media;Training Package;252.0;Soylent Corp
+Closed-Won;4647;2023/11/08;Unassigned;N/A;8495.87;EMEA;Q3-2024-Retention;233865.37;call center;API Access;52;Soylent Corp
+CLOSED LOST;;2024/07/15;Mia Clark;4861.05;17358.74;N. America;H2-2023-Brand Awareness;NULL;PARTNER;Support Tier 2;N/A;Soylent Corp
+In Progress;2200;2025/03/09;Leo Harris;4795.49;23880.71;ASIAPAC;H2-24-Retention;541890.37;web;Widget B;113;Soylent Corp
+Open;2323;2025/05/01;leo harris;NA;41405.95;USA;Q3-2023-Spring Push;222703.20;email;Software License;180;Soylent Corp
+Open;2633;2025/01/04;J. Doe;1023.52;755.96;NA;Q3-2023-Social Push;114634.24;Web;Training Package;112;Genco Pura
+LOST;;null;carol davis;1418.33;41502.43;Britain;Q2-2023-Trade Show;65976.21;PARTNER;Gadget X;-;CloudNine SaaS
+In Progress;4462;2024/02/25;frank wilson;1653.68;19419.30;United States;Q4-2024-Summer Blitz;248052.00;ecommerce;Widget A;150.00;Soylent Corp
+CLOSED WON;4136;2025/04/24;Alice Johnson;328.20;29285.41;Europe;Q1-2024-Cross-sell;110603.40;e-comm;Support Tier 1;337.0;DataWave Inc
+Won;71;2024/09/09;Frank Wilson;1653.84;17320.97;Europe;H1-2023-Webinar Series;555690.24;;Analytics Dashboard;336;Soylent Corp
+Open;3978;2024/02/06;leo harris;1469.10;14035.22;LATAM;H2-24-Retention;274721.70;e-comm;Software Subscription;187;Soylent Corp
+Pending;1674;2025/07/20;J. Doe;3202.74;513.79;EMEA;Q1-24-Spring Push;172947.96;Direct;Data Pipeline;54;Soylent Corp
+Closed-Won;675;2024/08/25;B. Williams;4753.89;14942.93;United Kingdom;Q2-2023-Summer Blitz;342280.08;social;Consulting Hours;72;Soylent Corp
+PENDING;3187;pending;K. White;4601.32;46650.52;Africa;FY-23-Social Push;1265363.00;Affiliate;API Access;275.0;Bluth Company
+Lead;779;2024/12/02;carol davis;2312.97;42351.90;;Q2-2024-Fall Campaign;534296.07;Referral;Support Tier 2;231.0;Soylent Corp
+pending;1729;2025/07/11;J. Thomas;1930.02;38709.14;Britain;Q3-2024-Holiday Sale;897459.30;ecommerce;Widget B;465;Soylent Corp
+Won;3446;2024/03/23;karen white;1435.74;28798.94;APAC;Q4-23-Webinar Series;473794.20;social;Data Pipeline;330.00;Soylent Corp
+proposal;4256;2023/12/23;Henry Taylor;3388.70;24533.72;ASIAPAC;Q1-2023-New Year Promo;1314815.60;in-store;Premium Onboarding;388;Soylent Corp
+WON;3756;2024/04/16;David Brown;23.11;47892.75;APAC;Q3-24-Trade Show;7649.41;Website;Software License;331.0;Soylent Corp
+Pending;2909;2024/06/02;I. Anderson;1999.74;-;Europe;H2-23-Holiday Sale;645916.02;RETAIL;Marketing Suite;323;Buy N Large
+Lost;1526;2023/12/23;L. Harris;2192.00;-;United Kingdom;Q3-24-Email Blast;455936.00;Online;Widget A;208;Soylent Corp
+Closed-Lost;399;2025/06/27;jane doe;1357.23;9291.72;Middle East;Q3-23-Retention;544249.23;ONLINE;Premium Onboarding;401;Pinnacle Analytics
+Closed-Won;1313;2025/07/24;A. Johnson;3268.13;2303.75;SA;Q3-23-Brand Awareness;69108.88;Referral;Service Plan Enterprise;N/A;Soylent Corp
+Proposal;1665;2025/07/22;Unassigned;2478.57;43914.44;NA;Q1-23-Summer Blitz;135200.80;Online;Gadget Mini;#REF!;Soylent Corp
+closed won;2756;2025/02/15;iris anderson;931.17;47178.49;ASIAPAC;Q1-2024-New Year Promo;320322.48;Store;Cloud Storage 1TB;344.0;
+CLOSED LOST;2178;2025/05/17;mia clark;4875.12;1326.70;Britain;H2-2023-Black Friday;682516.80;;Gadget Mini;140.00;AgriGrow Corp
+proposal;1122;2025/04/26;J. Doe;4965.24;25894.12;Britain;Q2-24-Product Launch;2130087.96;Telesales;Cloud Storage 5TB;429;Soylent Corp
+qualified;63;2025/04/13;JANE DOE;745.41;21748.95;Britain;;345124.83;reseller;Widget Pro;463.0;Sterling Cooper
+Closed Won;4335;2023/11/27;H. Taylor;1451.05;27027.17;ASIAPAC;H1-2023-Brand Awareness;21765.75;direct;Premium Onboarding;15.0;Dharma Initiative
+Negotiation;1964;2024/02/12;leo harris;4555.50;41508.05;APAC;Q1-2024-Fall Campaign;1266429.00;Channel Partner;Security Bundle;278.0;Nakatomi Trading
+Lost;3432;2024/04/06;Mia Clark;2056.62;38577.81;United Kingdom;Q4-23-Retention;946045.20;Field Sales;Data Pipeline;460.00;Stark Industries
+CLOSED LOST;694;2024/06/11;jane doe;N/A;30739.53;Australia;Q1-2023-Cross-sell;192614.16;;Cloud Storage 1TB;415;Stark Industries
+In Progress;3081;2024/07/25;John Smith;2384.47;null;APAC;;1092087.26;affiliate;ERP Add-on;458;Soylent Corp
+In Progress;4251;2023/09/20;carol davis;2722.59;-;Asia Pacific;FY-2023-Retention;1287785.07;social;Security Bundle;473.0;Acme Corp
+LOST;1065;2024/02/28;henry taylor;1629.70;;N. America;Q1-2024-Webinar Series;16297.00;Affiliate;Consulting Hours;10;Soylent Corp
+Lead;;2024/06/02;Bob Williams;1092.47;44075.28;United States;Q3-23-Upsell;513460.90;Store;Hardware Unit;470;Soylent Corp
+Won;2906;2024/08/01;carol davis;3737.28;42669.67;Latin America;FY-2023-New Year Promo;null;field;Data Pipeline;#REF!;Soylent Corp
+open;1527;2024/01/09;JOHN SMITH;2384.43;49352.66;Australia;Q4-2023-Cross-sell;102530.49;Store;Security Bundle;43;Soylent Corp
+Pending;4725;2024/10/09;Bob Williams;3610.25;38193.53;Europe;Q2-2024-Cross-sell;1238315.75;;API Access;343;Soylent Corp
+Won;4981;2025/07/20;Jane Doe;2094.38;4286.92;N/A;Q4-24-Brand Awareness;707900.44;Retail;CRM Module;338;Soylent Corp
+Negotiation;2142;2025/09/05;Jake Thomas;2035.56;33885.24;US;Q3-24-Holiday Sale;61066.80;phone;API Access;30;Soylent Corp
+closed lost;N/A;pending;J. Doe;2356.98;N/A;UK;Q2-2023-Upsell;1058284.02;Call Center;API Access;449;Soylent Corp
+qualified;3624;2024/08/22;Frank Wilson;NA;44222.28;US;Q2-24-Webinar Series;#N/A;affiliate;Widget B;299.0;Soylent Corp
+open;2414;2025/04/25;Frank Wilson;1560.34;1945.13;EMEA;H1-2024-Webinar Series;472783.02;social media;Consulting Hours;303;Soylent Corp
+Lost;2472;2025/09/08;M. Clark;1085.43;14631.30;Asia Pacific;Q3-2023-Email Blast;467820.33;field;Gadget Mini;431;DataWave Inc
+Lost;N/A;2025/07/10;B. Williams;2727.90;-;United States;Q3-24-Webinar Series;908390.70;Social;Software Subscription;333.00;Soylent Corp
+LOST;null;2024/03/17;Bob Williams;2108.60;42322.67;United States;;839222.80;Reseller;API Access;398;Soylent Corp
+Closed Lost;3970;2024/11/17;Alice Johnson;NA;29928.47;United States;H1-23-New Year Promo;216521.35;social media;Software License;340;Soylent Corp
+Qualified;null;2025/05/29;jane doe;1819.95;18282.36;United Kingdom;Q2-2024-Black Friday;385829.40;Telesales;;212.0;MomCorp
+CW;833;2024/08/27;Leo Harris;#N/A;38133.48;EMEA;Q2-23-Email Blast;138343.08;referral;Gadget Mini;218.00;Soylent Corp
+pending;2282;2024/10/11;eva martinez;1112.54;18112.62;Europe;H2-23-New Year Promo;97903.52;social;Other;88;Pinnacle Analytics
+in progress;679;2025/03/26;jake thomas;4934.54;4397.84;N. America;Q4-23-New Year Promo;1036253.40;Website;Support Tier 1;210;Soylent Corp
+WON;4627;2024/12/09;Frank Wilson;1404.58;20547.12;APAC;H2-23-Brand Awareness;141862.58;Retail;Widget Pro;101.0;Soylent Corp
+Closed-Won;3049;2025/08/01;David Brown;3899.30;24058.73;UK;;1622108.80;Email Campaign;Training Package;416.0;Soylent Corp
+lead;2094;2025/09/03;henry taylor;2186.78;10426.61;LATAM;Q1-2023-Trade Show;299588.86;Channel Partner;Cloud Storage 5TB;137;Brawndo Corp
+Closed Won;4002;2025/02/14;C. Davis;1889.73;31425.42;Africa;Q1-2023-New Year Promo;26456.22;affiliate;Gadget Mini;14.00;
+Closed-Won;3127;2024/10/31;F. Wilson;3491.98;13931.45;MEA;Q1-23-Brand Awareness;150155.14;Reseller;Training Package;43.00;Soylent Corp
+negotiation;2853;2023/09/14;henry taylor;2796.87;3586.05;EMEA;;444702.33;partner;Security Bundle;159;BlueOcean Retail
+Closed Lost;3170;2023/10/15;;2678.82;47073.98;North America;Q2-2023-Upsell;356283.06;Online;Software License;133;Soylent Corp
+in progress;3616;2024/05/26;Carol Davis;17.28;31297.93;Asia;Q4-2024-Cross-sell;4855.68;referral;Training Package;281.00;Krusty Burger LLC
+CLOSED WON;291;2025/01/24;Alice Johnson;3889.56;40860.68;Africa;Q3-2023-New Year Promo;1462474.56;Reseller;Security Bundle;376.0;FreshCart
+CW;4264;2024/07/24;karen white;2041.64;18362.87;N/A;;122498.40;ONLINE;CRM Module;60;Soylent Corp
+Lost;1387;2024/02/17;Unassigned;2570.36;23805.64;ASIAPAC;H2-2023-Brand Awareness;573190.28;In-Store;Software License;223.0;Soylent Corp
+Closed-Won;1367;2024/11/13;I. Anderson;2758.21;null;Australia;FY-23-Summer Blitz;510268.85;Direct;Premium Onboarding;185;Soylent Corp
+Won;;2025/04/03;mia clark;646.59;33060.12;Unknown;Q1-2024-Social Push;269628.03;reseller;ERP Add-on;417.00;Soylent Corp
+Negotiation;N/A;2025/07/26;Karen White;1517.39;10203.36;USA;Q2-23-Summer Blitz;496186.53;ecommerce;Cloud Storage 5TB;327;Soylent Corp
+CLOSED WON;4984;2025/03/09;Grace Lee;1257.09;null;EMEA;H2-24-Upsell;237590.01;partner;Consulting Hours;189;Umbrella Ltd
+PENDING;4743;2024/12/14;;29.93;13250.05;North America;Q3-2023-Upsell;11313.54;RETAIL;Security Bundle;378.00;FreshCart
+negotiation;4745;2024/12/06;frank wilson;3071.30;4362.11;EMEA;Q2-24-Holiday Sale;null;Reseller;Hardware Unit;N/A;Soylent Corp
+CW;1540;2024/05/24;K. White;4525.86;41700.23;Europe;FY-2023-Brand Awareness;1787714.70;online;Security Bundle;395;Soylent Corp
+CLOSED WON;765;2025/07/17;alice johnson;2161.95;16902.45;Britain;H2-2024-Summer Blitz;224842.80;partner;CRM Module;104;Soylent Corp
+lead;4087;2025/02/12;A. Johnson;3404.44;33469.55;Latin America;;279164.08;Affiliate;-;82;Spacely Sprockets
+Won;3224;2023/11/18;A. Johnson;65.64;40792.45;United States;H2-23-Upsell;4332.24;Brick & Mortar;API Access;66;Soylent Corp
+CLOSED LOST;4284;2025/08/02;john smith;542.91;31285.91;LATAM;Q4-2023-Social Push;169387.92;Email;Service Plan Enterprise;312;Weyland Corp
+proposal;2422;2024/11/20;N/A;1474.90;36228.80;Unknown;;617983.10;Social Media;Widget B;419.0;Stark Industries
+PENDING;3031;2024/05/09;Jane Doe;1869.90;19459.74;APAC;Q4-24-Cross-sell;575929.20;Reseller;API Access;308;
+Qualified;930;2023/09/10;alice johnson;4195.90;10292.87;USA;Q1-2024-Upsell;1955289.40;Store;Cloud Storage 1TB;466.0;Soylent Corp
+PENDING;3524;2025/05/12;john smith;1424.82;16994.31;LATAM;Q4-2024-Retention;272140.62;Email;Support Tier 1;191.00;Soylent Corp

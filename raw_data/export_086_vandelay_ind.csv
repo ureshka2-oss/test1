@@ -1,0 +1,77 @@
+adSpend,salesChannel,unitPrice,companyName,salesRegion,productName,saleDate,quantity,salesRep,totalRevenue,conversionCount,ccy
+"44968,27",field,"392,20",QuickShip Logistics,Britain,Support Tier 1,04/03/2024,377,Bob Williams,"147859,40",200,AUD
+,Store,"4179,68",FreshCart,US,ERP Add-on,06/05/2024,250,bob williams,"1044920,00",110,GBP
+"12036,11",e-comm,"145,60",Weyland Corp,Africa,Support Tier 2,07/31/2024,82,bob williams,"11939,20",48,CAD
+"28872,78",Email Campaign,"1968,11",Vandelay Ind,Asia Pacific,Service Plan Basic,07/15/2023,366.00,iris anderson,"720328,26",270,
+"38093,84",in-store,"18,10",Vandelay Ind,APAC,ERP Add-on,03/06/2024,437.0,Karen White,"7909,70",33,JPY
+"5510,09",retail,"3208,52",Vandelay Ind,EMEA,Software Subscription,01/28/2024,378.00,F. Wilson,"1212820,56",253,EUR
+"42890,37",reseller,"847,65",Vandelay Ind,UK,ERP Add-on,02/03/2024,37.0,frank wilson,"31363,05",86,JPY
+"21067,57",Brick & Mortar,"3587,43",Vandelay Ind,UK,Cloud Storage 5TB,08/09/2023,430.00,Alice Johnson,"1542594,90",22,JPY
+"37913,89",social media,"3944,50",Vandelay Ind,Latin America,Service Plan Basic,04/30/2024,-,Leo Harris,missing,327,EUR
+"26484,93",social media,"3214,33",Vandelay Ind,Asia Pacific,Training Package,03/26/2025,403,karen white,"1295374,99",142,CAD
+"36200,34",Partner,"2578,58",Vandelay Ind,NA,Consulting Hours,01/29/2024,178,Jane Doe,"458987,24",192,EUR
+"39590,66",,"1497,01",Vandelay Ind,N/A,Gadget X,05/07/2025,366,L. Harris,"547905,66",16,JPY
+"11658,77",Direct,"3084,48",Vandelay Ind,LATAM,Software Subscription,10/31/2023,2.0,Henry Taylor,"6168,96",413,USD
+"34321,01",Website,"4712,65",Vandelay Ind,LATAM,Analytics Dashboard,06/26/2024,429,eva martinez,"2021726,85",N/A,USD
+"48998,73",retail,"27,46",Vandelay Ind,EU,Security Bundle,10/13/2024,425,I. Anderson,"11670,50",119,
+"28826,37",,"2492,66",Nakatomi Trading,Britain,Cloud Storage 1TB,11/21/2023,350.0,david brown,"872431,00",358,JPY
+null,web,"2763,04",Vandelay Ind,US,Gadget X,04/13/2024,206.00,Jake Thomas,"569186,24",,USD
+"39174,97",online,"4555,16",,Africa,Service Plan Basic,02/04/2025,440,L. Harris,"2004270,40",36,USD
+"39216,07",Phone,"2565,93",Vandelay Ind,Asia Pacific,ERP Add-on,03/22/2025,21.0,J. Thomas,"53884,53",123,
+"34431,29",e-comm,"4919,09",Vandelay Ind,Latin America,Software Subscription,05/11/2025,310.0,E. Martinez,"1524917,90",318,USD
+"43879,83",Store,"1268,69",Vandelay Ind,United Kingdom,,06/20/2024,,leo harris,"60877,97",401,AUD
+"23928,13",Online,"3860,59",Vandelay Ind,US,Service Plan Enterprise,03/08/2025,177.00,carol davis,"683324,43",155,JPY
+"25472,15",Email,"157,64",Vandelay Ind,SA,Gadget X,01/15/2024,73.0,Bob Williams,"11507,72",154,JPY
+"6228,36",Channel Partner,"3876,95",Stark Industries,EMEA,Analytics Dashboard,11/29/2024,74,Alice Johnson,"286894,30",60,EUR
+null,RETAIL,"1039,16",Vandelay Ind,Britain,Widget A,08/10/2023,120.00,B. Williams,"124699,20",217,GBP
+"36012,12",e-comm,"2731,86",Vandelay Ind,SA,Software License,03/20/2025,356,JOHN SMITH,"972542,16",89,JPY
+"46536,17",Direct,"2951,72",FreshCart,N. America,Service Plan Pro,,340,H. Taylor,"1003584,80",256,EUR
+"34049,42",,"564,24",Vandelay Ind,NA,ERP Add-on,08/10/2024,249.0,bob williams,"140495,76",346,USD
+"32876,30",Reseller,"4327,05",,Australia,Data Pipeline,07/26/2024,399.00,C. Davis,"1726492,95",426,EUR
+"22561,91",reseller,"3632,28",Vandelay Ind,LATAM,Training Package,04/23/2024,170,frank wilson,"617487,60",126,USD
+"19394,96",field,"2431,27",Cybertruck Co,Africa,Support Tier 1,07/06/2024,74,Jane Doe,"179913,98",440,AUD
+"25856,86",Online,"2904,67",AgriGrow Corp,Middle East,Software Subscription,01/30/2024,55,bob williams,"159756,85",236,EUR
+"32598,45",Web,"4594,38",Wayne Corp,USA,,03/18/2024,435,Jane Doe,"1998555,30",435,AUD
+"19614,85",Phone,"4641,67",Vandelay Ind,Asia,Security Bundle,06/21/2024,76,N/A,"352766,92",,AUD
+"27850,66",,NULL,Vandelay Ind,EU,Security Bundle,01/23/2024,15.00,,NULL,386,EUR
+"44951,27",Retail,"732,60",Cybertruck Co,APAC,Security Bundle,01/16/2024,241.0,henry taylor,"176556,60",411,CAD
+"43184,48",call center,"2031,78",Vandelay Ind,South America,Data Pipeline,,370.00,Carol Davis,"751758,60",355,USD
+"44973,42",social media,"4110,23",Vandelay Ind,Australia,Marketing Suite,06/05/2023,342.00,Leo Harris,"1405698,66",433,AUD
+"32529,20",Retail,"4455,63",Vandelay Ind,Africa,Support Tier 1,09/21/2024,83.0,jane doe,"369817,29",,EUR
+"14852,35",,"3152,05",Vandelay Ind,North America,Gadget X,08/17/2023,278,Frank Wilson,"876269,90",42,USD
+"20141,21",field,"2837,49",HealthPlus Pharma,N/A,,04/22/2025,138,david brown,"391573,62",134,EUR
+"33426,93",Phone,"30,79",Vandelay Ind,EMEA,Premium Onboarding,09/10/2023,32,Karen White,"985,28",107,CAD
+"43914,28",Social Media,"1365,94",AgriGrow Corp,United Kingdom,Software License,02/20/2025,2,B. Williams,"2731,88",118,AUD
+-,Phone,"4433,97",Hooli Inc,Latin America,Software Subscription,02/12/2025,391.00,JOHN SMITH,"1733682,27",499,AUD
+N/A,social media,"1400,82",Planet Express,EU,Service Plan Pro,11/22/2023,147,jane doe,"205920,54",374,JPY
+"46815,49",social,"1661,04",Spacely Sprockets,UK,Service Plan Basic,02/08/2025,141,jake thomas,"234206,64",-,AUD
+"29738,87",affiliate,"4387,94",Vandelay Ind,Africa,-,09/10/2024,275.00,B. Williams,"1206683,50",11,GBP
+"13341,07",email campaign,"2968,31",Vandelay Ind,UK,Gadget X,03/22/2025,330.00,David Brown,"979542,30",462,EUR
+"2596,87",web,"4744,84",DataWave Inc,Europe,Widget B,06/28/2023,269.0,leo harris,"1276361,96",311,GBP
+"6279,73",Email,"3481,04",Vandelay Ind,South America,Security Bundle,05/23/2024,,frank wilson,"216450,92",428,GBP
+0,E-Commerce,"2897,73",Vandelay Ind,N. America,Gadget X,05/31/2024,350.00,Grace Lee,"1014205,50",493,JPY
+"3796,87",PARTNER,"1032,70",Vandelay Ind,ASIAPAC,Widget Pro,02/27/2025,286,D. Brown,"295352,20",353,EUR
+"36375,94",reseller,"2504,48",Vandelay Ind,United Kingdom,Consulting Hours,05/03/2024,269,I. Anderson,"673705,12",15,CAD
+"24067,11",,"3911,89",Wayne Corp,South America,Hardware Unit,02/12/2025,115,henry taylor,"449867,35",113,USD
+0,direct,-,QuickShip Logistics,Europe,API Access,02/04/2024,-,,,47,AUD
+"44373,41",Brick & Mortar,"2237,97",,South America,Widget B,03/18/2025,210.00,jake thomas,"469973,70",458,AUD
+"28035,61",affiliate,"4128,79",Vandelay Ind,United States,Service Plan Enterprise,11/23/2023,241.0,Grace Lee,"995038,39",109,JPY
+"24361,92",referral,"4845,41",Vandelay Ind,LATAM,Service Plan Basic,03/17/2025,114.00,David Brown,"552376,74",474,JPY
+"16819,22",social media,"4607,90",Vandelay Ind,Unknown,ERP Add-on,N/A,337.00,alice johnson,"1552862,30",61,CAD
+"14943,72",call center,"1657,29",Cogswell Cogs,,Gadget X,05/02/2024,130.0,J. Doe,"215447,70",145,GBP
+"24919,24",DIRECT,"331,81",Vandelay Ind,EU,Analytics Dashboard,01/20/2024,421.00,Jane Doe,"139692,01",244,GBP
+0,Direct Sales,"3982,83",Vandelay Ind,ANZ,Hardware Unit,11/03/2023,154.0,Carol Davis,"613355,82",-,AUD
+"15055,44",In-Store,"2102,06",Vandelay Ind,ASIAPAC,Data Pipeline,N/A,497,Jake Thomas,"1044723,82",263,GBP
+"2605,16",Store,"545,85",Vandelay Ind,USA,Consulting Hours,03/22/2025,59,Carol Davis,"32205,15",165,EUR
+"6591,12",Direct,"4555,49",Vandelay Ind,Asia,Widget A,07/30/2024,496,frank wilson,"2259523,04",133,EUR
+"8245,05",web,"2739,43",Omni Consumer Products,Unknown,Widget Pro,05/16/2024,#REF!,E. Martinez,"201333,97",275,AUD
+"14640,75",Email,"2062,67",Vandelay Ind,NA,Consulting Hours,04/08/2024,342,C. Davis,"705433,14",400,JPY
+"5706,83",social,"353,57",Vandelay Ind,USA,Security Bundle,04/24/2024,274.0,jane doe,"96878,18",138,EUR
+"44495,57",email campaign,"422,81",Vandelay Ind,South America,Support Tier 1,07/09/2024,130,J. Smith,"54965,30",404,
+"9739,33",e-comm,"140,11",Vandelay Ind,Australia,Gadget Mini,01/05/2024,null,john smith,"244813,21",326,GBP
+"41866,81",Store,"1393,28",Vandelay Ind,Europe,Marketing Suite,02/24/2025,274,F. Wilson,"381758,72",N/A,USD
+"31639,29",Channel Partner,"2779,03",NovaTech Solutions,SA,API Access,11/01/2024,485.00,E. Martinez,"1347829,55",98,USD
+"24393,67",,"1529,66",Vandelay Ind,North America,Analytics Dashboard,03/26/2024,212.00,carol davis,"324287,92",28,USD
+"30452,95",in-store,"4973,08",Vandelay Ind,Europe,MISC,null,32.0,Iris Anderson,"159138,56",440,CAD
+"45318,34",Social,"2826,03",Cyberdyne Systems,South America,Software License,02/21/2025,425.0,,"1201062,75",420,
+,,,,,,,,,,,

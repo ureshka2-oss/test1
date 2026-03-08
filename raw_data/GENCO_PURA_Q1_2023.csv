@@ -1,0 +1,200 @@
+CAMPAIGN,STATUS,COMPANY,QTY,CHANNEL,REVENUE,SALES_REP,AD_SPEND,DATE,LEADS,PRODUCT,CONVERSIONS,UNIT_PRICE,REGION
+,negotiation,DataWave Inc,43,reseller,"76,835.84 USD",iris anderson,"15,402.60 USD",20230313,2786,Hardware Unit,157,"1,786.88 USD",MEA
+Q3-24-Summer Blitz,Closed-Won,Genco Pura,455,phone,"1,518,244.00 USD",J. Doe,"30,901.95 USD",20230918,N/A,Training Package,85,"3,336.80 USD",ASIAPAC
+Q2-23-Product Launch,Pending,Prestige Worldwide,406,Social Media,NULL  ,Alice Johnson,"42,959.40 USD",20241031,4993,Gadget Mini,388,-,Europe
+FY-23-Cross-sell,pending,Genco Pura,457  ,Field Sales,"1,699,340.79 USD",J. Doe,"4,465.24 USD",20241031,4754,Training Package,464,"3,718.47 USD",Asia
+Q4-23-Trade Show,CLOSED WON,Genco Pura,119.00,Partner,"488,685.40 USD",bob williams,-,N/A,3754,Software Subscription,296,"4,106.60 USD",Latin America
+,lead,Genco Pura,205.00,DIRECT,"895,386.70 USD",D. Brown,"32,241.87 USD",20231211,4332,Consulting Hours,295,"4,367.74 USD",US
+Q2-23-Trade Show,negotiation,Genco Pura,414.00,call center,"1,552,822.92 USD",C. Davis,"43,220.02 USD",20240403,2932,Analytics Dashboard,112,"3,750.78 USD",Britain
+H2-2024-Cross-sell,closed won,Cyberdyne Systems,268.0,field,"357,391.40 USD",H. Taylor,"18,730.76 USD",20230424,3265,Support Tier 2,261,"1,333.55 USD",EU
+Q3-2023-Fall Campaign,CLOSED LOST,Genco Pura,395,Brick & Mortar,"1,815,886.10 USD",C. Davis,,20230723,188,ERP Add-on,332,"4,597.18 USD",EMEA  
+FY-23-Fall Campaign,CL,Oceanic Airlines,,Referral,NULL,TBD,731.47 USD,20231223,541,N/A,340,"2,189.13 USD",North America
+Q3-23-Spring Push,Pending,Genco Pura,376,ONLINE,"1,152,218.16 USD",JANE DOE,"15,599.57 USD",20250212,234,Widget Pro,98,"3,064.41 USD",EU
+Q3-23-Social Push,Open,Genco Pura,10,email campaign,"37,786.60 USD",C. Davis,"2,407.43 USD",20231108,1878,Consulting Hours,448,"3,778.66 USD",UK
+FY-2024-Trade Show,Open,Genco Pura,438,Direct,"872,421.54 USD",,0,20250116,757,ERP Add-on  ,64,"1,991.83 USD",EMEA
+Q1-24-Trade Show,Closed-Lost,Genco Pura,165.0,Affiliate,"706,242.90 USD",N/A,"29,636.44 USD",20240419,314,Training Package,-,"4,280.26 USD",United Kingdom
+FY-24-New Year Promo,CW,Cyberdyne Systems,335.0,Direct,"1,009,679.95 USD",grace lee,"40,360.80 USD",20250112,2745,Consulting Hours,155,"3,013.97 USD",Britain  
+Q4-2023-Brand Awareness,WON,Genco Pura,248,Channel Partner,"571,322.56 USD",I. Anderson,-,20240527,1854,Gadget Mini,198,"2,303.72 USD",EMEA
+FY-24-Cross-sell,Closed Won,Cybertruck Co,106,Social,"221,973.54 USD",jake thomas,"42,259.95 USD",20231212,3882,Marketing Suite,476,"2,094.09 USD",USA
+Q3-23-Spring Push,Negotiation,Genco Pura  ,67.0,referral,"29,091.40 USD",TBD,"6,258.54 USD",20241022,1971,Marketing Suite,256,434.20 USD,Unknown
+Q3-2023-Trade Show,LOST,Pinnacle Analytics,99,email campaign,"244,921.05 USD",henry taylor,"22,524.85 USD",20250130,2175,Widget B,175,"2,473.95 USD",Asia
+Q3-2023-Black Friday,open,Buy N Large,54.00,online,"202,428.18 USD  ",Carol Davis,"10,591.71 USD",20231102,2037,Software License,343,"3,748.67 USD",US
+H2-2024-Retention,LOST,Genco Pura,368,Reseller,"1,639,734.40 USD",J. Doe,"25,098.16 USD",20240610,2126,Analytics Dashboard,266,"4,455.80 USD",Africa
+Q1-2023-Fall Campaign,LOST,Genco Pura,442.0,Store,"2,203,613.10 USD",Unassigned,"6,972.70 USD",20231130,2953,Consulting Hours,29,"4,985.55 USD",APAC
+Q1-24-Webinar Series,CW,Genco Pura,,,null,grace lee,"11,764.90 USD",20230902,4851,ERP Add-on,330  ,"1,376.72 USD",Latin America
+Q1-2023-Retention,Lost,Genco Pura,320.00,Social,"1,506,912.00 USD",M. Clark,"1,568.17 USD",20240526,3513,CRM Module,307,"4,709.10 USD",US
+Q1-2024-Webinar Series,negotiation,Genco Pura,29,Referral,"19,704.21 USD",JOHN SMITH,"26,588.62 USD",20230820,4833,Support Tier 1,237,null,United Kingdom
+,LOST,Acme Corp,97.0,affiliate,"35,439.92 USD",John Smith,211.90 USD,20240705,4983,Software License  ,434,365.36 USD,NA
+Q2-23-Fall Campaign,CW,Genco Pura,496.0,in-store,"1,590,200.80 USD",F. Wilson,"15,075.96 USD",20240619,4723,Gadget Mini,54,"3,206.05 USD",United Kingdom
+Q4-2023-Webinar Series,pending,Genco Pura,167,In-Store,"563,755.26 USD",leo harris,"5,940.81 USD",20240202,4635,Cloud Storage 1TB,137,"3,375.78 USD  ",Latin America
+FY-2023-Trade Show,Proposal,Rekall Inc,192,Call Center,"500,651.52 USD",Karen White  ,"45,593.13 USD",20241229,2242,Service Plan Basic,394,"2,607.56 USD",South America
+FY-2024-Email Blast,in progress,Cogswell Cogs,352.00,Brick & Mortar,"143,137.28 USD",David Brown,"36,323.38 USD  ",20230908,1624,Gadget X,283,406.64 USD,EU
+,lead,Genco Pura,399,partner,"1,351,241.43 USD",Henry Taylor,"34,605.72 USD",20241007,4272,Premium Onboarding,314,"3,386.57 USD",United States
+H1-2024-Fall Campaign,WON,Planet Express,170.00,DIRECT,"362,411.10 USD",mia clark,0,20240213,4049,Training Package,330,"2,131.83 USD",LATAM
+H2-2024-Social Push,Lead  ,Genco Pura,217.00,ecommerce,"381,765.93 USD",Jake Thomas,"40,149.03 USD",20230323,960,Other,431,"1,759.29 USD",Asia Pacific
+Q4-24-Email Blast,CLOSED WON,Stratton Oakmont,193.0,Direct,"737,456.86 USD",Jane Doe,"47,027.55 USD",20241028,3865,Widget B,329,"3,821.02 USD",N. America
+Q2-24-Brand Awareness,Lead,CloudNine SaaS,464,Direct,"973,346.72 USD",john smith,"7,598.36 USD",20230804,3966,Hardware Unit,13,"2,097.73 USD",US
+H2-24-Social Push,Pending,Genco Pura,179.0,,"157,890.53 USD",M. Clark,-,20240823,1776,Consulting Hours,90,882.07 USD,-
+Q1-2023-Summer Blitz,qualified,Genco Pura,264.00,social media,"1,166,676.72 USD",mia clark,null,20230316,4479,ERP Add-on,321,"4,419.23 USD",USA
+Q4-2024-Email Blast,Closed-Lost,Genco Pura,411.00,DIRECT,"1,747,810.38 USD",C. Davis,"15,017.18 USD",20240623,278,Training Package,341,"4,252.58 USD",Asia Pacific
+H2-2024-Social Push,CL,Genco Pura,279.0,Social Media,"138,537.45 USD",D. Brown,"47,307.58 USD",20240211,null,Other,276,496.55 USD,N. America
+Q2-2024-Cross-sell,negotiation,Genco Pura,262.00,Direct,"1,278,277.04 USD",B. Williams,null,20241009,null,API Access,13,"4,878.92 USD",N. America
+Q2-2023-Product Launch,CLOSED LOST,Genco Pura,226,Call Center,"853,809.92 USD",bob williams,"36,557.78 USD",20240518  ,2655,N/A,23,"3,777.92 USD",Africa
+Q4-2024-Holiday Sale,CL,Genco Pura,392  ,social media,"1,889,432.16 USD",I. Anderson,"47,725.57 USD",20230529,1468,ERP Add-on,231,"4,819.98 USD",Australia
+Q3-2023-Retention,Closed Won,Genco Pura,366,PARTNER,"1,367,057.58 USD",JANE DOE,"41,696.23 USD",20241111,1210,CRM Module,16,"3,735.13 USD",??
+Q1-2024-Spring Push,Closed Won,Genco Pura,329,Store,"155,988.77 USD",bob williams,0,20241228,null,Service Plan Enterprise,-,474.13 USD,Britain
+Q3-2024-Holiday Sale,closed lost,Genco Pura,6.0,Field Sales,"25,842.90 USD",frank wilson,"21,810.94 USD",20230607,3157,Widget A,116,"4,307.15 USD",Middle East
+H2-2024-Upsell,in progress,Genco Pura,293.00,Direct,"1,211,215.12 USD",Leo Harris,"20,730.90 USD",20231103,344,Gadget X,442,"4,133.84 USD",Middle East
+H1-23-Upsell,CW,Genco Pura,413,ecommerce,"931,418.25 USD",TBD,"23,876.33 USD",20241031,3523,Cloud Storage 1TB,466  ,"2,255.25 USD",EU
+FY-2024-Upsell,WON,Genco Pura,320,DIRECT,"1,194,518.40 USD",Carol Davis,"40,375.97 USD",20231102,1275,Cloud Storage 5TB  ,49,"3,732.87 USD",Europe
+Q3-23-Summer Blitz,CW,Genco Pura,311,in-store,"1,293,959.04 USD",Frank Wilson,0,pending,1739,MISC,111,"4,160.64 USD",North America
+H2-2023-Trade Show,Won,FreshCart,223.0,e-comm,"433,500.85 USD",J. Doe,"3,458.40 USD",20241215,341,Consulting Hours,54,"1,943.95 USD",ANZ
+Q2-2023-Brand Awareness,WON,Omni Consumer Products,126,Email Campaign,"160,008.66 USD",iris anderson,"39,714.15 USD",20230512,526,Service Plan Enterprise,408,"1,269.91 USD",UK
+Q3-24-Black Friday,Pending,Genco Pura  ,0,email,"75,891.29 USD",JANE DOE,"1,341.80 USD",20230523,-,Service Plan Basic,211,"4,023.36 USD",UK
+Q1-2024-Holiday Sale,Proposal,Oscorp Technologies,0,partner,NULL,Karen White,N/A,20240712,null,Support Tier 1,200,"2,554.39 USD",??
+Q3-2023-Product Launch,CW,Genco Pura,97.00,,"209,732.43 USD",M. Clark,"32,036.16 USD",20241212,-  ,Widget Pro,433,"2,162.19 USD",LATAM
+FY-24-Social Push,Closed Lost,Genco Pura,495,Direct Sales,"1,655,463.15 USD",Mia Clark,"38,034.97 USD",20240513,4829,Premium Onboarding,476,"3,344.37 USD",NA
+Q3-24-Retention,Lost,Genco Pura,291,E-Commerce,"95,506.20 USD",M. Clark,0,20240116,289,CRM Module,83,328.20 USD,Middle East
+,open,Genco Pura,424.00,online,"968,861.20 USD",Bob Williams,"29,661.30 USD",20230318,2628,Support Tier 2,144,"2,285.05 USD",Australia
+Q2-24-Summer Blitz,closed won,Genco Pura,316,reseller,"1,059,864.00 USD",A. Johnson,"8,035.68 USD",20250208,2522,Service Plan Enterprise,351,"3,354.00 USD",UK
+Q4-24-Trade Show,qualified,AgriGrow Corp,4  ,email campaign,"11,467.00 USD",TBD,"23,070.97 USD",20241121,4045,Support Tier 1,458,"2,866.75 USD",LATAM
+Q2-24-Social Push,open,Genco Pura,494,,"43,131.83 USD",F. Wilson,"22,988.89 USD",20240518,4973,Consulting Hours,384,null,MEA
+Q3-2024-Product Launch,Lead,Genco Pura,454,email campaign,"747,315.78 USD",,"4,387.18 USD",20240415,3341,Training Package,488,"1,646.07 USD",South America  
+Q4-2024-Trade Show,Won,Genco Pura,448.00,web,"1,556,831.36 USD",D. Brown,"10,475.52 USD",20240307,1535,Service Plan Pro,286,"3,475.07 USD",South America
+Q4-2024-Holiday Sale,Closed Won,Genco Pura,7,Email,"7,453.95 USD",JANE DOE,N/A,20230322,2851,Other,112,"1,064.85 USD",N. America
+H2-2024-Fall Campaign,closed won,Genco Pura,167,phone,"814,883.18 USD",Carol Davis,"40,464.12 USD",20230802  ,4884,Gadget Mini,359,"4,879.54 USD",ANZ
+Q1-24-Trade Show,Closed-Lost,Sterling Cooper,484.00,ecommerce,"712,012.40 USD",A. Johnson,"23,665.61 USD",20240901,1727,Service Plan Basic,258,"1,471.10 USD",SA
+Q3-2023-Webinar Series,Lead,Genco Pura,127.0,web  ,"99,635.31 USD",John Smith,"34,871.40 USD",20240831,3747,Service Plan Basic,174,784.53 USD,Latin America
+H1-2023-Spring Push,Closed-Lost,Genco Pura,333  ,Affiliate,"62,264.34 USD",Frank Wilson,"49,872.23 USD",20240506,4058,Widget A,105,186.98 USD,United Kingdom
+Q1-24-New Year Promo,PENDING,Weyland Corp,225,email campaign,"1,064,470.50 USD",Mia Clark,"4,431.27 USD",20241016,1839  ,CRM Module,43,"4,730.98 USD",NA
+Q4-2023-Black Friday,closed lost,Genco Pura,59.0  ,reseller,"192,347.67 USD",Carol Davis,"33,471.98 USD",20250202,461,ERP Add-on,96,"3,260.13 USD",South America
+Q3-2023-Summer Blitz,closed won,Genco Pura,443.00,in-store,"1,327,126.11 USD",Eva Martinez,"38,009.01 USD",20250214,1672,N/A,311,"2,995.77 USD",ASIAPAC
+H2-23-Fall Campaign,CLOSED LOST,Genco Pura,276,phone,"19,355.88 USD",G. Lee,,20231113,1519,Service Plan Basic,235,70.13 USD,US
+Q2-2023-Holiday Sale,Open,Globex Industries,341,RETAIL,"183,911.53 USD",carol davis,"31,239.82 USD",20241031,353,Other,84,539.33 USD,Africa
+FY-2024-Email Blast,Lost,Genco Pura,420.00,ecommerce,"86,322.60 USD",A. Johnson,"35,390.34 USD",20230714,2389,CRM Module,409,205.53 USD,Unknown  
+Q2-24-Brand Awareness,pending,Genco Pura,356.00,field,"1,361,902.92 USD",John Smith,"8,003.78 USD",20230823,404,Service Plan Pro,487,"3,825.57 USD",ASIAPAC
+H2-2024-Product Launch,proposal,Genco Pura,346.00,,"518,595.18 USD",Iris Anderson,N/A,20240119,1420,Service Plan Basic,414,"1,498.83 USD",APAC
+Q1-2023-Holiday Sale,In Progress,TrueNorth Financial,139,Affiliate,"160,454.65 USD",Unassigned,"47,585.08 USD",20230822,3523,Cloud Storage 1TB,361,"1,154.35 USD",MEA  
+H1-2023-Trade Show,lead,MomCorp,438,Social,"784,549.98 USD",Unassigned,"11,079.71 USD",20240309,790,Software Subscription,237,"1,791.21 USD",EMEA
+H1-2024-Holiday Sale,Closed-Lost,Genco Pura,0,Channel Partner,NA,B. Williams,"35,320.49 USD",20230701,null,Service Plan Basic,455  ,665.72 USD,EU
+FY-2024-Retention,Proposal,Dharma Initiative  ,N/A,PARTNER,"240,401.88 USD",iris anderson,"46,925.49 USD",20241004,1941,Premium Onboarding,168,"2,128.70 USD",United States
+Q1-2023-Upsell,Closed Won,Krusty Burger LLC,413.0,Referral,"1,791,928.53 USD",Mia Clark,,20231202,1788,Support Tier 2,452,"4,338.81 USD",South America
+Q3-2024-Retention,closed won,Genco Pura,43,Reseller,"178,175.66 USD",J. Doe,0,20240528,4930,Software Subscription,324,"4,143.62 USD",Europe
+Q2-24-Holiday Sale,in progress,Genco Pura,464,direct,"832,248.96 USD",John Smith,"38,037.07 USD",20250127,3647,Premium Onboarding,393,"1,793.64 USD",USA
+Q1-24-Fall Campaign,lead  ,Genco Pura,469,,"1,746,105.76 USD",B. Williams,"38,824.56 USD",20240208,1846,Gadget Mini,59,"3,723.04 USD",UK
+Q4-2023-Retention,closed won,Genco Pura,373,Channel Partner,"1,475,382.85 USD",grace lee,"33,141.63 USD",20230529,3038,Training Package,497,"3,955.45 USD",US
+Q4-2023-Spring Push,PENDING,AgriGrow Corp  ,163.0,email,"397,446.16 USD",C. Davis,"16,198.45 USD",20240912,216,Analytics Dashboard,59,"2,438.32 USD",ASIAPAC
+FY-23-Email Blast,LOST,Genco Pura,379,Direct Sales,"700,846.80 USD",david brown,"13,710.14 USD  ",20230407,4492,Data Pipeline,N/A,"1,849.20 USD",UK
+  ,CW,,21.0,email campaign,"100,389.24 USD",Grace Lee,"47,920.40 USD",20240104,27,CRM Module,150,"4,780.44 USD",Africa
+Q1-2024-Webinar Series,negotiation,Genco Pura,29,Referral,"19,704.21 USD",JOHN SMITH,"26,588.62 USD",20230820,4833,Support Tier 1,237,null,United Kingdom
+,proposal,Genco Pura,146,Call Center,"404,117.78 USD",TBD  ,"21,044.91 USD",20230519,4363,,426,"2,767.93 USD",Britain
+,Qualified,Genco Pura,413.00,direct,"497,875.63 USD",carol davis,"46,439.06 USD",20230609,-,Hardware Unit,54,"1,205.51 USD",EMEA
+Q1-24-Product Launch,pending,Genco Pura,76.00,Phone,"64,936.68 USD",A. Johnson,"6,560.32 USD",20240825,2651,Support Tier 1,459,854.43 USD,Britain
+H1-23-Upsell,pending,Genco Pura,87,e-comm,"302,666.91 USD",K. White,"4,577.43 USD",20230926,4247,Widget B,290,"3,478.93 USD",??
+Q3-2023-Holiday Sale,Qualified,Genco Pura,238.00,,"942,879.84 USD",mia clark,"19,445.98 USD",20240808,4874,Software Subscription,289,"3,961.68 USD  ",United Kingdom
+Q2-2023-Brand Awareness,negotiation,Genco Pura,318.0,Online,"1,529,532.30 USD",B. Williams,"40,150.15 USD",20231212,1668,ERP Add-on,375,"4,809.85 USD",United States
+FY-24-Brand Awareness,CW,Pied Piper,453,social media,"1,721,286.75 USD",mia clark,"1,171.77 USD",20240822,1874,Gadget Mini,114,"3,799.75 USD",Europe
+Q2-24-Summer Blitz,CLOSED WON,Genco Pura,235,Brick & Mortar,"895,023.35 USD",JOHN SMITH,"26,607.73 USD",20230522,250,API Access,216,"3,808.61 USD",Asia
+Q3-2024-Summer Blitz,closed won,Acme Corp,213,Call Center,"32,320.62 USD",karen white,"15,835.30 USD",20230622  ,94,Analytics Dashboard,443,151.74 USD,ANZ
+Q4-24-New Year Promo,Closed Lost,Genco Pura,307,Referral,"832,123.50 USD",jane doe,"10,190.83 USD",20240810,711,API Access,72,"2,710.50 USD  ",North America
+FY-2023-Trade Show,Proposal,Rekall Inc,192,Call Center,"500,651.52 USD",Karen White  ,"45,593.13 USD",20241229,2242,Service Plan Basic,394,"2,607.56 USD",South America
+FY-2024-Black Friday,Closed-Won,Genco Pura,319,Social Media,"1,545,701.74 USD",leo harris,"17,593.21 USD",20230411,2224,API Access,N/A,"4,845.46 USD",-
+Q1-23-Holiday Sale,Qualified,Genco Pura,246,DIRECT,"52,998.24 USD",John Smith,"24,712.09 USD",20250205,2242,Widget B,119,215.44 USD,Australia
+Q1-24-Black Friday,Closed-Lost,Genco Pura,192,phone,"702,865.92 USD",JANE DOE,"33,379.29 USD",20240724,3303,Service Plan Enterprise,431,"3,660.76 USD",USA
+Q3-2023-Webinar Series,Won,Genco Pura,300.0,Referral  ,"1,278,369.00 USD",frank wilson,"2,971.75 USD",20240303,2392,Software License,466,"4,261.23 USD",APAC
+H2-2024-Social Push,Won,Genco Pura,455,Social Media,"512,239.00 USD",Alice Johnson,"5,837.97 USD",20230928,2149,Consulting Hours,131,"1,125.80 USD",-
+H2-23-Holiday Sale,Closed-Won,Genco Pura,#REF!,,"47,611.23 USD",Mia Clark,-,20240926,1368,Support Tier 2,2,"4,222.54 USD",South America
+Q3-23-Upsell,open,Genco Pura,462.00,Channel Partner,"1,597,813.14 USD",John Smith,"24,223.38 USD",20240121,4432,ERP Add-on,53,"3,458.47 USD",ANZ
+Q2-2023-Trade Show,open,Genco Pura,0,reseller,"244,022.16 USD",iris anderson,"3,663.17 USD",20230829,748,Widget Pro,126,"2,302.02 USD",Europe
+Q2-23-Trade Show,Qualified,Genco Pura,null,field,"170,933.03 USD",I. Anderson,"29,377.58 USD",20230716,4610,Cloud Storage 1TB,252,"3,256.82 USD",South America
+Q4-24-New Year Promo,CLOSED WON,BrightPath Media,325,email campaign,"241,403.50 USD",A. Johnson,"8,305.90 USD",TBD,587,ERP Add-on,60,742.78 USD,Europe
+Q3-23-Spring Push,Pending,Genco Pura,376,ONLINE,"1,152,218.16 USD",JANE DOE,"15,599.57 USD",20250212,234,Widget Pro,98,"3,064.41 USD",EU
+H1-24-Cross-sell,Closed-Lost,Genco Pura,499,E-Commerce,"1,022,485.93 USD",Mia Clark,"2,812.12 USD",20240224,337,Premium Onboarding,441,"2,049.07 USD",N. America
+FY-24-Retention,in progress,Dharma Initiative,265,Reseller,"59,383.85 USD",frank wilson,"29,265.27 USD",20231223,1573,Premium Onboarding,127,224.09 USD,Africa
+H1-23-New Year Promo,Proposal,Genco Pura,12,Telesales,"42,189.24 USD",Karen White,"20,618.34 USD",20230419,2183,Support Tier 1,455,"3,515.77 USD",UK
+Q3-24-Fall Campaign,CLOSED WON,Initech Solutions,113.0,retail,"465,058.28 USD",D. Brown,,20230501,3159,ERP Add-on,,"4,115.56 USD",MEA
+FY-24-Upsell,CLOSED WON,Genco Pura,110,social media,"381,486.60 USD  ",mia clark,"17,177.60 USD",20230825,null,Support Tier 2,14,"3,468.06 USD",ANZ
+Q3-23-Product Launch,Negotiation,Genco Pura,211,referral,"261,654.77 USD",david brown,"24,614.60 USD",20231026,25,Software Subscription,460,"1,240.07 USD",NA
+,Lost,Genco Pura,340,Web,missing,Frank Wilson,"34,885.93 USD",20230529,2413,Training Package,220,NULL,South America
+Q2-24-Summer Blitz,closed won,Genco Pura,316,reseller,"1,059,864.00 USD",A. Johnson,"8,035.68 USD",20250208,2522,Service Plan Enterprise,351,"3,354.00 USD",UK
+H2-2024-Cross-sell,Closed-Lost,Genco Pura,17,ecommerce,"51,998.92 USD",G. Lee,"28,717.83 USD",20250208,474,Widget A,476,"3,058.76 USD",EU
+FY-2023-Spring Push,closed won,Genco Pura,428.0,ecommerce,"144,561.28 USD",I. Anderson,"18,041.75 USD",20230616,1884,Data Pipeline,299,337.76 USD,Latin America
+FY-2024-Cross-sell,Won,Genco Pura,444,Store,"200,405.44 USD",J. Doe,"31,640.14 USD",20230628,1018,Hardware Unit  ,370,missing,USA
+H1-2023-Summer Blitz,closed won,Genco Pura,405.0,,"418,219.20 USD",Unassigned,"23,457.97 USD",20240818,-,Service Plan Pro,-  ,"1,032.64 USD",Middle East
+Q2-24-Email Blast,Open,Genco Pura,358.0,partner,"965,325.52 USD",I. Anderson,"43,803.08 USD",20240608,827,Security Bundle,418,"2,696.44 USD",NA
+,pending,Oceanic Airlines,248.00  ,Online,"1,221,546.32 USD",Bob Williams,"34,942.71 USD",20240604,2122,CRM Module,44,"4,925.59 USD",ASIAPAC
+H2-2023-Brand Awareness,CLOSED WON,DataWave Inc,256.0,ecommerce,"495,383.04 USD",henry taylor,"37,446.62 USD",20231117,1910,Data Pipeline,57,"1,935.09 USD",Australia
+Q1-23-Email Blast,in progress,Genco Pura,472.0,,"136,700.64 USD",Eva Martinez,"32,265.72 USD",20230414,390  ,Software Subscription,110,289.62 USD,ASIAPAC
+Q3-24-Email Blast,PENDING,Genco Pura,77.0,Web,"120,702.12 USD",Iris Anderson,"36,560.63 USD",20230408,1651,Service Plan Pro,236,"1,567.56 USD",Europe
+Q3-23-Brand Awareness,open,Genco Pura,463.0,Website,"617,989.25 USD",,"13,752.76 USD",20240106,1495,N/A,398,"1,334.75 USD",UK
+Q1-2023-Fall Campaign,pending,Genco Pura,478,Store,"1,167,419.40 USD",JOHN SMITH,"12,236.34 USD",20230914,3168,Cloud Storage 5TB,10,"2,442.30 USD",ASIAPAC
+Q2-24-Product Launch,Lead,Wonka Enterprises,491,,"2,303,462.67 USD",Karen White,"4,794.88 USD",20240601,2577,Widget A,393,"4,691.37 USD",Australia
+FY-24-Product Launch,pending,Genco Pura,366.00,Phone,"318,712.80 USD",Iris Anderson,"31,949.01 USD",20231130,3925,Hardware Unit,490,870.80 USD,ANZ
+Q1-2023-Retention,Lead,Genco Pura,null,Brick & Mortar,,Frank Wilson,"3,132.90 USD",20240613,2707,ERP Add-on,273,492.29 USD  ,Latin America
+FY-24-Upsell,open,Genco Pura,144.00,partner,"34,578.72 USD",alice johnson,null,20230629,1517,API Access,208,240.13 USD,MEA
+Q4-23-Brand Awareness,closed lost,Genco Pura,72.00,RETAIL,"71,153.28 USD",Frank Wilson,"30,567.23 USD",20231129,4808,Widget B,,988.24 USD,UK
+H1-23-Product Launch,open,Genco Pura,451.0,direct,"1,464,000.12 USD",F. Wilson,"47,080.76 USD",20240107,337,Service Plan Enterprise,110,"3,246.12 USD",Middle East
+H1-24-Summer Blitz,Closed-Won,Genco Pura,326.00,web,"1,278,751.30 USD",jake thomas,"26,634.10 USD",20250221,4084,Gadget Mini,153,"3,922.55 USD",United Kingdom
+Q1-23-Brand Awareness,WON,Brawndo Corp,421,Social,"1,699,715.93 USD",henry taylor,"38,027.01 USD",20241221,2772,Widget B,105,"4,037.33 USD",EMEA
+Q3-2023-Spring Push,Lost,Genco Pura,339.0,DIRECT,"1,516,940.25 USD",John Smith,"6,266.66 USD",20240818,4044,Widget B,436,"4,474.75 USD",Latin America
+,Negotiation,Genco Pura,-,,"19,519.92 USD",carol davis,"2,284.26 USD",20250125,3007,Analytics Dashboard,15,#N/A,Australia
+FY-24-Retention,CL,  ,5,Direct Sales,"7,767.45 USD",henry taylor,"1,606.48 USD",20250124,1015,CRM Module,99,"1,553.49 USD",-
+H2-2023-Fall Campaign,Lost,Genco Pura,310.00,retail,"502,268.20 USD",John Smith,"46,276.84 USD",N/A,2734,Gadget X,108,"1,620.22 USD",Middle East
+Q3-23-Product Launch,WON,Umbrella Ltd,422,retail,"1,360,076.46 USD",iris anderson,"28,154.38 USD",20230719,3966  ,Software License,387,"3,222.93 USD",Britain
+Q3-2024-Email Blast,Negotiation,Genco Pura,19,field,"7,624.89 USD",frank wilson,"29,639.08 USD",20230517,2611,Gadget X,313,401.31 USD,APAC
+,CL,Spacely Sprockets,457.00,social,"917,454.92 USD  ",leo harris,"34,393.07 USD",20230811,1440,Widget Pro,358,"2,007.56 USD",US
+Q1-2023-Holiday Sale,Lost,Omni Consumer Products,92.00,Online,"432,607.92 USD",G. Lee,"37,735.89 USD",20230913,632  ,Software License,-,"4,702.26 USD",Europe
+H2-2024-Webinar Series,closed lost,Genco Pura,222,,"762,705.42 USD",I. Anderson,0,20230322,2992,MISC,91,"3,435.61 USD",US
+Q1-2023-Fall Campaign,Closed-Lost,Genco Pura,null,social media,"205,767.55 USD",Leo Harris,,20241019,N/A,Analytics Dashboard,274,"3,017.93 USD",USA
+H2-2024-Cross-sell,closed won,Cyberdyne Systems,268.0,field,"357,391.40 USD",H. Taylor,"18,730.76 USD",20230424,3265,Support Tier 2,261,"1,333.55 USD",EU
+Q3-24-Spring Push,closed won,Genco Pura,23.0,Retail  ,"6,510.15 USD",leo harris,"34,882.73 USD",20231105,4699,CRM Module,-,283.05 USD,South America
+Q4-23-Cross-sell  ,qualified,Genco Pura,387.0,partner,"1,567,059.75 USD",iris anderson,"9,591.98 USD",20240711,4654,Cloud Storage 5TB,8,"4,049.25 USD",-
+Q1-2024-Spring Push,LOST,Genco Pura,376.00,Social,"41,890.16 USD",D. Brown,"35,356.08 USD",20230625,296,Data Pipeline,152,111.41 USD,Britain
+FY-23-Cross-sell,LOST,Genco Pura,484,Direct Sales,,G. Lee,null,pending,3354,Other,487,missing,ANZ
+H1-23-New Year Promo,Pending,SummitView Hotels,72.0,social,"266,401.44 USD",E. Martinez,N/A,20230601,null,Consulting Hours,409,"3,700.02 USD",United Kingdom
+Q1-24-Social Push,Lead,Genco Pura,158.0,Web,"116,005.18 USD",Henry Taylor,"17,737.94 USD",20250110,2071,Cloud Storage 5TB,150  ,734.21 USD,N. America
+Q1-2023-Summer Blitz,CL,Genco Pura,  ,field,"92,745.29 USD",David Brown,-,20230321,2067,Cloud Storage 1TB,N/A,"2,697.49 USD",APAC
+Q2-2024-Holiday Sale,open,Genco Pura,345,Call Center,"1,089,296.10 USD",David Brown,"33,769.19 USD  ",20240610,4705,Support Tier 1,,"3,157.38 USD",United Kingdom
+FY-2024-Spring Push,proposal,Genco Pura,308,Direct Sales,"1,362,995.48 USD",N/A,"49,917.75 USD",20230528,4983,CRM Module,453,"4,425.31 USD",Middle East
+FY-2023-Product Launch,Closed Won,Genco Pura,105,retail,"514,393.95 USD",Iris Anderson,"4,550.42 USD",20230916  ,3225,Marketing Suite,371,"4,898.99 USD",US
+Q2-24-Product Launch,pending,Genco Pura,30,Email,"74,052.30 USD",H. Taylor,"28,888.22 USD",20250311,null,Service Plan Enterprise,223,"2,468.41 USD",Australia
+Q2-24-Black Friday,Qualified,Genco Pura,478.0,Call Center,"1,559,570.60 USD",H. Taylor,"17,770.08 USD",20230804,2027,Security Bundle,190,"3,262.70 USD",LATAM
+Q2-23-Fall Campaign,CLOSED WON,Genco Pura,205.0,field,"646,153.85 USD",Grace Lee,"23,537.43 USD",20230313,3740,Training Package,124,"3,151.97 USD",Africa
+Q4-2024-New Year Promo,Negotiation,Genco Pura,382,Direct,"1,109,904.82 USD",john smith  ,254.68 USD,20230615,3018,Training Package,115,"2,905.51 USD",ANZ
+Q1-2024-Fall Campaign,Closed-Won,Genco Pura,422.00,Channel Partner,"1,371,293.22 USD",David Brown,"19,702.58 USD",20230813,4142,Service Plan Enterprise,411,"3,249.51 USD",ASIAPAC
+Q4-2024-Fall Campaign,closed won,Genco Pura,62,retail,"304,249.50 USD",L. Harris,"49,962.93 USD",20231107,1931,Training Package,6,"4,907.25 USD",MEA
+H1-2024-Trade Show,Lead,Genco Pura,471,Direct,"261,216.60 USD",iris anderson,"20,415.18 USD",20241210,3758,-,450,554.60 USD,Asia Pacific
+H2-2023-New Year Promo,Lead,Genco Pura,104,affiliate,"156,403.52 USD",John Smith,"8,273.60 USD",20250126,1096,Hardware Unit,204,"1,503.88 USD",N/A
+Q3-2023-Email Blast,WON,Genco Pura,123,Social,"372,842.52 USD",Mia Clark,null,20231103  ,,Service Plan Pro,44,"3,031.24 USD",ANZ
+H2-2024-New Year Promo,Negotiation,Genco Pura,181.0,Channel Partner,"658,923.26 USD",Jake Thomas,"5,832.84 USD",20240717,1255,Security Bundle,496,"3,640.46 USD",USA
+,CLOSED LOST,Genco Pura,372,ecommerce,"1,793,523.60 USD",eva martinez,"25,816.91 USD  ",20230414,4257,Widget A,234,"4,821.30 USD",EU
+Q2-2023-Social Push,Negotiation,Genco Pura,299,in-store,"1,454,790.48 USD",grace lee,"10,226.78 USD",20240324,416,Premium Onboarding,-,"4,865.52 USD",Latin America
+Q2-2024-Fall Campaign,Negotiation,Genco Pura,,Partner  ,"145,621.05 USD",J. Thomas,-,20230724,1392,Data Pipeline,216,124.65 USD,LATAM
+Q1-23-Upsell,CLOSED LOST,Genco Pura,206,Website,"799,467.46 USD",M. Clark,"41,117.10 USD",20231111,4433,Support Tier 2,114,"3,880.91 USD",SA
+Q4-2023-Webinar Series,Lead,Genco Pura,114.00  ,Store,"189,968.46 USD",alice johnson,"40,149.52 USD",20231020,934,Cloud Storage 5TB,100,"1,666.39 USD",ASIAPAC
+Q2-24-New Year Promo,WON,Genco Pura,300.00,referral,"1,162,860.00 USD",eva martinez,"24,605.40 USD",20230831,1202,Gadget Mini,204,"3,876.20 USD",Asia
+H1-2024-Brand Awareness,Pending,Genco Pura,null,field,N/A,iris anderson,null,20230601,451,API Access,159,"3,992.95 USD",United Kingdom
+H2-2024-Trade Show,Qualified,Pinnacle Analytics,465,Store,"437,783.55 USD",F. Wilson,"36,026.35 USD",20241110,-,Data Pipeline,142,941.47 USD,MEA
+Q2-24-Spring Push,pending,Genco Pura,295,web,"455,648.15 USD",John Smith,"41,661.73 USD",20241205,1128,ERP Add-on,429,"1,544.57 USD",ANZ
+Q1-23-Retention,qualified,Genco Pura,372,Email Campaign,"828,756.48 USD",F. Wilson,"32,221.73 USD",TBD,3482,-,N/A,"2,227.84 USD",EMEA
+Q1-2024-Summer Blitz,in progress,Genco Pura,83,social media,"90,218.11 USD",B. Williams,"21,005.22 USD",20240213  ,611,N/A,253,#N/A,South America
+Q4-2024-Holiday Sale,PENDING,Pinnacle Analytics,127,affiliate,"576,327.27 USD",Frank Wilson,"26,309.87 USD",20241119,3822,API Access,255,"4,538.01 USD  ",EMEA
+H2-2023-Holiday Sale,Qualified,Genco Pura,N/A,Online,"32,520.47 USD",Jake Thomas,"4,468.51 USD",20241006,2330,Gadget X,152,181.22 USD,LATAM
+H1-2024-Social Push,LOST,Genco Pura,397.0,Partner,"1,552,746.40 USD",B. Williams,"3,611.95 USD",20231213,910,Widget A,287,"3,911.20 USD",ASIAPAC
+H1-2024-Holiday Sale,LOST,QuickShip Logistics,112.0,reseller,"62,166.72 USD",karen white,"40,967.17 USD",20240513,2296,Gadget Mini,151,555.06 USD,APAC
+Q4-2023-Upsell,pending,Genco Pura,463.0,referral,"479,612.44 USD",Frank Wilson  ,"10,382.47 USD",pending,2535,Consulting Hours,230,"1,035.88 USD",APAC
+,Closed Won,Oscorp Technologies,2.00,Social Media,"3,637.26 USD",Mia Clark,"42,921.77 USD",20230915,1874,Cloud Storage 5TB,19,"1,818.63 USD",LATAM
+Q2-2023-Holiday Sale,Open,Genco Pura,179.00,Call Center,"825,206.11 USD",Jane Doe,null,20230918,558,Widget A,434,"4,610.09 USD",EU
+FY-2024-Black Friday,Closed-Won,Genco Pura,319,Social Media,"1,545,701.74 USD",leo harris,"17,593.21 USD",20230411,2224,API Access,N/A,"4,845.46 USD",-
+FY-2024-Black Friday,closed won,Hooli Inc,4.0,Reseller,"12,975.52 USD",John Smith,"35,271.58 USD",20240129,3217,Premium Onboarding,473,"3,243.88 USD",Africa
+H2-24-Product Launch,open,Genco Pura,322.0,field,"1,059,927.40 USD",karen white,"48,132.01 USD",20231011,4026,Service Plan Pro,363  ,"3,291.70 USD",United Kingdom
+Q4-2023-Spring Push,PENDING,Genco Pura,148.00,social media,"427,049.56 USD",Frank Wilson,"14,311.76 USD",20250118,3139  ,Service Plan Enterprise,343,"2,885.47 USD",NA
+Q4-24-Trade Show,Closed Lost,Genco Pura,409,referral,"257,023.78 USD",Unassigned,-,20230702,2789,Support Tier 1,245,628.42 USD,LATAM
+FY-2024-Summer Blitz,CL,Genco Pura,205,Telesales,"597,964.50 USD",K. White,"41,021.85 USD",20240923,1659,Data Pipeline,419,"2,916.90 USD",Middle East
+Q1-2023-Trade Show,in progress,Genco Pura,464.00,Direct,"682,242.40 USD",M. Clark,"38,067.36 USD",20241029,4623,Service Plan Pro,33,"1,470.35 USD",United States
+H1-2023-Holiday Sale,Qualified,Genco Pura,68.0,Direct,"321,083.08 USD",Leo Harris,"24,489.38 USD",20241124,3174,Gadget Mini,480  ,"4,721.81 USD",United States
+H1-2024-Product Launch,Negotiation,Genco Pura,453,in-store,"650,168.25 USD",henry taylor,"22,530.44 USD",20240626,-,Gadget X,179,"1,435.25 USD",Africa
+Q2-2023-Trade Show,open,Genco Pura,0,reseller,"244,022.16 USD",iris anderson,"3,663.17 USD",20230829,748,Widget Pro,126,"2,302.02 USD",Europe
+Q3-23-Product Launch,WON,Umbrella Ltd,422,retail,"1,360,076.46 USD",iris anderson,"28,154.38 USD",20230719,3966  ,Software License,387,"3,222.93 USD",Britain
+Q1-2024-Brand Awareness,WON,Genco Pura,278,online,"415,087.36 USD",henry taylor,"34,808.95 USD",20231206,1839,Widget Pro,377,"1,493.12 USD",ANZ  
+Q2-2023-Brand Awareness  ,Proposal,Genco Pura,128.0,direct,"208,238.08 USD",Bob Williams,"36,554.31 USD",20250201,-,Widget A,268,"1,626.86 USD",EMEA

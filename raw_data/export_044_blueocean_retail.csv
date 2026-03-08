@@ -1,0 +1,34 @@
+saleDate	leadCount	companyName	productName	salesChannel	quantity	unitPrice	totalRevenue	salesRep	salesRegion	adSpend	campaignName
+2024/11/23	3571	BlueOcean Retail	Gadget Mini	Social	123.0	$3483	$428468	eva martinez	United States	$18013	FY-23-Trade Show
+2024/06/27	4335	BlueOcean Retail	Marketing Suite	field	60	$3706	$222382	Jane Doe	ANZ		Q3-23-Holiday Sale
+2025/07/24	3379	BlueOcean Retail	-	ecommerce	490.0	$3900	$1911147	Jane Doe	South America	$9439	Q2-2024-Product Launch
+2024/01/07	2955	BlueOcean Retail	Widget Pro	RETAIL	314	$2451	$769636	E. Martinez	UK	$49133	Q2-23-Trade Show
+2024/08/23	1235	BlueOcean Retail	Data Pipeline	social	299	$1477	$441689	G. Lee	Britain	$40385	Q4-23-Brand Awareness
+2025/05/28	3402	Umbrella Ltd	Cloud Storage 5TB	Store	443.00	$3843	$1702507	bob williams	Latin America	$3769	Q3-2023-Black Friday
+2024/11/24	3012	BlueOcean Retail	Service Plan Basic	in-store	279.0	$1977	$551703	G. Lee	United States	$47911	Q4-2024-Summer Blitz
+2024/04/23	3616	BlueOcean Retail	Widget A	Email	169.0	$228	$38464	Karen White	N. America	$20606	Q2-2024-Upsell
+2024/05/20	4539	BlueOcean Retail	Gadget Mini	Retail	78	$4367	$340633	David Brown	LATAM	$30039	H2-23-Brand Awareness
+2023/11/29	4852	BlueOcean Retail	API Access	Call Center	166.00	$1254	$208182	iris anderson	APAC	$33518	Q3-24-Product Launch
+2024/03/09	389	BlueOcean Retail	Widget A	phone	283.00	$2653	$750686	Iris Anderson	UK	null	H2-24-Fall Campaign
+2025/10/21	4835	BlueOcean Retail	Service Plan Basic	Phone	396.00	$2783	$1101945	karen white	Britain	$8170	Q4-2024-Holiday Sale
+2024/07/12	3722	BlueOcean Retail	Software License	email	410	$4038	$1655728	TBD	EU	$43091	Q2-2023-New Year Promo
+2024/11/17	1922	BlueOcean Retail	Software Subscription	Partner	396.0	$2604	$1031382	G. Lee	North America	$22525	Q2-2024-Black Friday
+2024/09/27	2566		Service Plan Pro	web	379.0	$3917	$1484729	J. Thomas	Latin America		Q4-24-Trade Show
+2025/09/05	396		Premium Onboarding	retail	69	$1133	$78210	A. Johnson	Africa	$6575	
+2025/10/20	2093	BlueOcean Retail	Gadget X	e-comm	50.0	$1614	$80714	G. Lee	United States	$28788	Q3-24-Summer Blitz
+TBD	2849	Spacely Sprockets	Widget B	DIRECT	372	$4937	$1836594	M. Clark	Africa	$24540	H1-23-Product Launch
+2024/08/03	360		Service Plan Basic	in-store	326.00	$2283	$744248	iris anderson	Latin America		FY-2024-Summer Blitz
+2025/07/25	1180	Globex Industries	Cloud Storage 5TB		132	$2021	$266732	frank wilson	United Kingdom	N/A	Q4-24-New Year Promo
+2025/04/05	2671	DataWave Inc	Cloud Storage 1TB	Retail		$4086	$29015	frank wilson	Latin America	$1562	H2-2023-Social Push
+2024/03/21		BlueOcean Retail	Consulting Hours	referral	266.00	$3916	$1041648	bob williams	Britain	$29023	Q2-2023-New Year Promo
+2025/08/04	744	BlueOcean Retail	Marketing Suite	ONLINE	191	null	$239009	henry taylor	ANZ	$22655	
+2024/05/27	26	Acme Corp	Service Plan Enterprise	Online	204	$1829	$373102	Eva Martinez	UK	$19909	Q1-23-Trade Show
+2025/11/19	1407	BlueOcean Retail	Premium Onboarding	PARTNER	188	$2774	$521604	D. Brown	Latin America	$16782	H1-24-Webinar Series
+2025/03/21	3582	BlueOcean Retail	Software Subscription	Channel Partner	9.00	NA	$203959	carol davis	Australia	$44028	
+2024/02/15	3090	Cogswell Cogs	Other	RETAIL	338.00	$4160	$1406073	A. Johnson	LATAM	$39220	
+2024/04/23	3616	BlueOcean Retail	Widget A	Email	169.0	$228	$38464	Karen White	N. America	$20606	Q2-2024-Upsell
+2024/08/05	-	BlueOcean Retail	Marketing Suite	E-Commerce	398	$4461	$1775490	mia clark	EMEA	$41431	FY-24-Fall Campaign
+2025/11/21	972	Bluth Company	Cloud Storage 1TB	Retail	193	$316	$60996	David Brown	N/A	$11834	Q4-24-Product Launch
+											
+											
+											

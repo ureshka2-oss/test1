@@ -1,0 +1,136 @@
+|||||||||
+ad_spend_usd|product_name|sales_region|unit_price|campaign_name|rep_name|total_revenue|sales_channel|sale_date|CUR
+17,912.66 USD|Service Plan Basic|ANZ|2,279.13 USD|Q3-2023-Spring Push|frank wilson|133,495.03 USD|RETAIL|06/10/2023|GBP
+14,477.29 USD|Cloud Storage 1TB|South America|4,251.49 USD|Q3-23-Summer Blitz|Mia Clark|1,479,518.52 USD|affiliate|null|CAD
+46,259.68 USD|Widget B|MEA|4,747.62 USD|H2-24-Cross-sell|I. Anderson|954,271.62 USD|ecommerce|18/03/2024|AUD
+7,881.71 USD|Software Subscription|NA|3,962.90 USD|H2-2024-Upsell|alice johnson|1,494,013.30 USD|Referral|06/06/2024|AUD
+8,466.33 USD|Security Bundle|South America|4,192.84 USD|Q4-23-Holiday Sale|I. Anderson|1,190,766.56 USD|PARTNER|22/11/2024|AUD
+36,228.30 USD|Security Bundle|United States|4,333.94 USD|Q2-24-Spring Push|Unassigned|1,703,238.42 USD|affiliate|01/05/2024|GBP
+1,952.67 USD|Support Tier 2|US|2,305.71 USD|H2-23-Brand Awareness|Jane Doe|931,506.84 USD|PARTNER|16/05/2025|GBP
+16,772.62 USD|API Access|US|2,608.88 USD|Q1-24-Holiday Sale|N/A|866,148.16 USD|In-Store|16/04/2024|GBP
+6,716.81 USD|Premium Onboarding|N/A|1,129.17 USD|H1-2023-Retention|G. Lee|284,550.84 USD|email|15/05/2024|AUD
+32,949.07 USD|Marketing Suite|NA|1,686.69 USD|FY-2024-Black Friday|Carol Davis|153,488.79 USD|Brick & Mortar|01/03/2024|CAD
+7,140.96 USD|CRM Module|United Kingdom|2,980.95 USD|H1-2023-Trade Show|H. Taylor|816,780.30 USD|email|24/07/2024|JPY
+20,578.97 USD|Cloud Storage 5TB|UK|3,069.30 USD|Q1-2024-Email Blast|bob williams|751,978.50 USD|social|16/04/2025|AUD
+19,585.17 USD|ERP Add-on|ANZ|1,729.45 USD|H2-2023-Spring Push|jane doe|221,369.60 USD|email|06/06/2024|EUR
+8,865.27 USD|ERP Add-on|LATAM|3,399.60 USD||mia clark|537,136.80 USD|Channel Partner|10/12/2024|
+48,830.57 USD|Cloud Storage 5TB|N/A|2,370.09 USD|Q4-23-New Year Promo|D. Brown|850,862.31 USD|In-Store|06/01/2025|EUR
+8,865.27 USD|ERP Add-on|LATAM|3,399.60 USD||mia clark|537,136.80 USD|Channel Partner|10/12/2024|
+8,568.20 USD|Hardware Unit|US|2,900.46 USD|H1-2023-Summer Blitz|karen white|922,346.28 USD|retail|02/05/2024|EUR
+11,610.99 USD|Service Plan Enterprise|ANZ|4,066.77 USD|Q2-2023-Fall Campaign|iris anderson|1,655,175.39 USD|Channel Partner|25/06/2024|
+48,775.23 USD|Marketing Suite|Middle East|728.91 USD|Q3-2023-Webinar Series|E. Martinez|312,702.39 USD|direct|24/02/2024|CAD
+23,384.20 USD|Service Plan Pro|Unknown|1,429.99 USD|Q1-2023-Email Blast|mia clark|298,867.91 USD|Reseller|29/01/2025|EUR
+3,661.28 USD|Gadget X|US|4,000.90 USD|H1-2024-Product Launch|B. Williams|924,207.90 USD|web|23/05/2024|JPY
+36,890.57 USD|Service Plan Enterprise|Unknown|2,882.69 USD|H2-24-Email Blast|frank wilson|1,274,148.98 USD|email|16/08/2023|CAD
+47,109.44 USD|Security Bundle|Africa|617.03 USD|H2-24-Fall Campaign|Frank Wilson|225,215.95 USD|direct|03/11/2024|JPY
+5,906.26 USD|Service Plan Pro|North America|4,361.85 USD|FY-23-Trade Show|Leo Harris|1,862,509.95 USD|ONLINE|31/07/2024|GBP
+14,928.61 USD|Software Subscription|United States|4,485.96 USD|Q2-2024-Holiday Sale|Leo Harris|1,063,172.52 USD|DIRECT|25/03/2024|
+null|Widget B|EMEA|1,927.59 USD|Q1-2023-Black Friday|B. Williams|304,559.22 USD|social media|30/09/2023|
+42,839.31 USD|Support Tier 1|Europe|943.58 USD|Q3-24-Trade Show|JANE DOE|344,406.70 USD|E-Commerce|20/03/2024|EUR
+-|Widget A|LATAM|4,272.18 USD|FY-24-Summer Blitz|Mia Clark|180,731.25 USD|call center|04/09/2023|EUR
+7,224.26 USD|Data Pipeline|SA|3,064.35 USD|Q1-23-Summer Blitz|H. Taylor|1,320,734.85 USD|web|27/03/2024|EUR
+7,328.62 USD|Service Plan Basic|Europe|2,393.26 USD|Q3-2023-Black Friday|Jane Doe|143,595.60 USD|Referral|28/06/2024|USD
+3,885.34 USD|Widget A|ASIAPAC|2,331.91 USD|Q1-24-Upsell|K. White|564,322.22 USD|ecommerce|24/09/2023|AUD
+46,769.00 USD|Cloud Storage 1TB||583.55 USD||E. Martinez|260,263.30 USD|online|13/09/2024|GBP
+1,234.57 USD|CRM Module|MEA|2,909.63 USD||J. Doe|194,945.21 USD|email campaign|24/01/2024|GBP
+9,108.43 USD|Widget Pro|N. America|null|Q3-24-Product Launch|John Smith|176,856.52 USD|Channel Partner|06/05/2025|USD
+44,391.58 USD|Software License|North America|4,042.05 USD||John Smith|1,257,077.55 USD|Phone|07/01/2025|
+3,910.87 USD|Consulting Hours|NA|4,650.32 USD|Q3-24-New Year Promo|carol davis|2,032,189.84 USD|social|03/08/2023|AUD
+14,617.98 USD|Software License|South America|3,927.70 USD|Q4-24-Summer Blitz|Eva Martinez|600,938.10 USD|email|16/03/2025|USD
+29,443.30 USD|Cloud Storage 1TB|US|564.20 USD||A. Johnson|215,524.40 USD|social media|22/12/2024|GBP
+43,489.20 USD|Training Package|APAC|4,445.40 USD|H1-2024-Product Launch|Henry Taylor|920,197.80 USD|Referral|TBD|JPY
+15,658.48 USD|API Access|??|NULL|Q3-2023-Social Push|karen white|#N/A|Social Media||GBP
+11,138.95 USD|Security Bundle|APAC|2,896.58 USD|Q4-23-Brand Awareness|JANE DOE|434,487.00 USD|Referral|22/09/2023|EUR
+|Software Subscription|Australia|4,382.64 USD|Q2-2024-Holiday Sale|Jake Thomas|1,481,332.32 USD|Call Center|22/12/2023|JPY
+0|Widget A|SA|806.62 USD|Q1-2023-Product Launch|john smith|-|Call Center|24/08/2024|EUR
+22,253.17 USD|Hardware Unit|EU|4,794.47 USD|Q1-2024-Upsell|G. Lee|51,948.20 USD|social|28/05/2024|
+12,133.76 USD|Consulting Hours|N. America|1,360.88 USD|Q3-2023-Upsell|J. Thomas|536,186.72 USD|Website|21/12/2023|CAD
+16,786.01 USD|API Access|Europe|491.99 USD|Q1-24-Brand Awareness|J. Smith|38,605.20 USD|ecommerce|10/01/2025|AUD
+0|Service Plan Enterprise|Asia Pacific|4,324.02 USD|Q3-2023-Social Push|Unassigned|903,720.18 USD|Field Sales|24/11/2024|USD
+4,454.04 USD|Software License|Australia|3,112.78 USD|Q4-24-Cross-sell|jane doe|1,083,247.44 USD|call center|24/10/2024|
+37,817.58 USD|Training Package|United Kingdom|763.67 USD||leo harris|219,173.29 USD|web|18/10/2024|AUD
+28,386.35 USD|Cloud Storage 1TB|USA|4,939.23 USD|Q3-2023-Product Launch|G. Lee|849,547.56 USD|reseller|11/09/2024|EUR
+39,373.86 USD|Data Pipeline|US||Q1-2024-Cross-sell|grace lee|219,734.36 USD|Direct|28/08/2024|CAD
+5,495.65 USD|Service Plan Pro||-|Q2-24-Summer Blitz|eva martinez|27,400.13 USD|Direct Sales|25/03/2025|USD
+39,568.66 USD|Cloud Storage 1TB|APAC|855.70 USD|H2-2023-Summer Blitz|G. Lee|251,575.80 USD|||JPY
+45,493.27 USD|Service Plan Enterprise|EU|2,386.38 USD|Q4-24-Email Blast|Leo Harris|377,048.04 USD|Affiliate|04/12/2024|USD
+0|Service Plan Enterprise|NA|3,573.25 USD||frank wilson|861,153.25 USD|referral|19/12/2024|
+7,319.28 USD|Software License|APAC|1,852.91 USD|Q1-24-Spring Push|JANE DOE|531,785.17 USD|social|07/08/2024|JPY
+13,557.13 USD|Analytics Dashboard|Latin America|1,935.08 USD|Q4-23-Black Friday|L. Harris|246,125.34 USD|Call Center|20/08/2023|EUR
+21,393.09 USD|Premium Onboarding|ASIAPAC|3,374.22 USD|H1-2023-Upsell|karen white|1,207,970.76 USD|Brick & Mortar|14/02/2025|GBP
+20,715.47 USD|Service Plan Pro|ASIAPAC|581.84 USD|Q4-2023-New Year Promo|Frank Wilson|149,532.88 USD|Direct Sales|21/10/2023|USD
+32,972.21 USD|Cloud Storage 5TB|UK|N/A|Q1-23-Spring Push|david brown|144,881.16 USD|Telesales|26/07/2023|
+27,767.76 USD|Software Subscription|NA|777.31 USD|Q4-2024-Summer Blitz|alice johnson|309,369.38 USD|ecommerce|12/06/2025|CAD
+11,394.98 USD|Service Plan Pro|South America|1,487.47 USD|H2-2024-Email Blast|L. Harris|557,801.25 USD|Field Sales|19/10/2024|USD
+29,517.75 USD|Premium Onboarding|Asia Pacific|634.73 USD|H2-2023-Trade Show|J. Doe|55,856.24 USD|email campaign|26/06/2024|JPY
+6,947.69 USD|ERP Add-on|North America|2,027.85 USD|FY-24-Fall Campaign|C. Davis|553,603.05 USD|social media|06/03/2025|
+48,591.24 USD|ERP Add-on|Africa|3,194.64 USD|H2-23-Brand Awareness|J. Smith|1,447,171.92 USD|call center|16/12/2024|GBP
+23,590.84 USD|Security Bundle|Unknown|N/A|FY-24-New Year Promo|G. Lee|32,637.12 USD|ecommerce|30/07/2023|EUR
+37,975.77 USD|Security Bundle|UK|4,099.98 USD|H1-2024-Cross-sell|D. Brown|1,914,690.66 USD|In-Store|20/10/2023|CAD
+46,169.22 USD|API Access|Latin America|4,451.76 USD|Q2-24-Spring Push|J. Doe|609,891.12 USD|Email|11/02/2024|GBP
+38,355.58 USD|Service Plan Pro|APAC|1,736.49 USD|Q3-24-Social Push|N/A|823,096.26 USD|Referral|10/03/2025|CAD
+3,961.48 USD|Gadget X|Africa|1,340.86 USD|Q1-23-Black Friday|L. Harris|441,142.94 USD|DIRECT|13/08/2023|JPY
+20,764.67 USD|Premium Onboarding|Asia Pacific|4,406.66 USD|Q1-23-Product Launch|Unassigned|326,092.84 USD|Channel Partner|25/02/2025|AUD
+5,238.51 USD|-|Latin America|2,402.89 USD||john smith|43,252.02 USD|Field Sales|13/12/2023|USD
+42,839.31 USD|Support Tier 1|Europe|943.58 USD|Q3-24-Trade Show|JANE DOE|344,406.70 USD|E-Commerce|20/03/2024|EUR
+33,159.78 USD|API Access|Asia Pacific|1,764.52 USD||J. Doe|128,809.96 USD|Phone|01/01/2025|AUD
+22,253.17 USD|Hardware Unit|EU|4,794.47 USD|Q1-2024-Upsell|G. Lee|51,948.20 USD|social|28/05/2024|
+30,253.84 USD|Software License|United Kingdom|1,701.04 USD||Eva Martinez|139,400.22 USD|call center|23/06/2024|EUR
+37,596.19 USD|Consulting Hours|US|1,780.71 USD|Q2-2023-Fall Campaign|Unassigned|414,905.43 USD|Online|04/03/2024|AUD
+20,832.97 USD|Widget B|Asia Pacific|2,357.43 USD|Q1-2023-Spring Push|iris anderson|280,534.17 USD|social|13/01/2025|GBP
+12,861.54 USD|Widget Pro|Latin America|N/A|Q3-2023-Webinar Series|Jane Doe|84,035.96 USD|Direct|13/08/2024|GBP
+24,365.01 USD|Widget Pro|MEA|34.22 USD|Q3-2024-Black Friday|D. Brown|12,284.98 USD|online|17/10/2023|USD
+3,518.35 USD|Analytics Dashboard|EU|4,525.58 USD|Q2-2024-Black Friday|jake thomas|2,072,715.64 USD|E-Commerce|14/06/2024|EUR
+32,384.21 USD|Support Tier 2|LATAM|2,789.59 USD|Q3-2023-Cross-sell|Frank Wilson|493,757.43 USD|PARTNER|09/09/2023|EUR
+8,198.49 USD|ERP Add-on|EU|1,164.29 USD|Q1-2023-Spring Push|J. Thomas|169,986.34 USD|Retail|21/01/2025|GBP
+15,775.36 USD|Training Package|UK|4,371.08 USD|H1-24-Brand Awareness|mia clark|900,442.48 USD|Email|04/10/2023|GBP
+21,431.29 USD|Gadget Mini|Latin America|522.82 USD|H2-23-Email Blast|K. White|124,431.16 USD|in-store|25/05/2025|AUD
+7,807.96 USD|Software License|United Kingdom|2,022.15 USD|H1-23-Brand Awareness|F. Wilson|825,037.20 USD|Phone|15/09/2023|EUR
+37,039.17 USD|Premium Onboarding|United Kingdom|1,268.48 USD|FY-2023-Trade Show|jane doe|313,314.56 USD|social|09/04/2025|
+7,120.52 USD|Widget B|South America|4,468.81 USD|FY-2024-Retention|A. Johnson|48,096.92 USD|online|24/04/2025|JPY
+21,039.31 USD|Analytics Dashboard|Asia Pacific|2,683.93 USD|Q1-23-Cross-sell|leo harris|751,500.40 USD|retail|14/03/2025|EUR
+14,910.71 USD|Service Plan Pro|Asia|2,913.46 USD|Q2-23-Webinar Series|Jane Doe|949,787.96 USD|DIRECT|null|CAD
+38,222.49 USD|Service Plan Enterprise|EMEA|3,993.79 USD|H2-23-New Year Promo|frank wilson|662,969.14 USD|RETAIL|25/01/2024|
+28,800.81 USD|Service Plan Basic|South America|1,636.28 USD|H2-2023-Summer Blitz|henry taylor|679,056.20 USD|Web|13/06/2025|JPY
+39,063.55 USD|Support Tier 1|EMEA|35.35 USD|FY-24-Upsell|B. Williams|12,690.65 USD|Call Center|30/04/2025|EUR
+28,332.17 USD|Security Bundle|ANZ|1,100.74 USD|H2-2024-Brand Awareness|J. Doe|217,946.52 USD|e-comm|26/01/2025|CAD
+46,038.38 USD|Hardware Unit|South America|4,965.97 USD|FY-2023-Email Blast|D. Brown|1,772,851.29 USD|social|12/01/2024|USD
+16,520.98 USD|N/A|United Kingdom|4,758.56 USD|Q2-24-Spring Push|J. Doe|2,307,901.60 USD|In-Store|11/07/2023|CAD
+28,386.35 USD|Cloud Storage 1TB|USA|4,939.23 USD|Q3-2023-Product Launch|G. Lee|849,547.56 USD|reseller|11/09/2024|EUR
+22,052.73 USD|ERP Add-on|UK|1,836.22 USD|Q4-23-Holiday Sale|M. Clark|532,503.80 USD|Referral|27/03/2025|JPY
+3,961.48 USD|Gadget X|Africa|1,340.86 USD|Q1-23-Black Friday|L. Harris|441,142.94 USD|DIRECT|13/08/2023|JPY
+4,794.88 USD|Gadget Mini|Britain|2,580.21 USD|Q2-2024-Trade Show|Grace Lee|1,070,787.15 USD|Brick & Mortar|19/11/2024|USD
+43,825.80 USD|Cloud Storage 1TB|N/A|240.23 USD||leo harris|95,131.08 USD|affiliate|08/04/2024|GBP
+49,994.34 USD|Security Bundle|UK|2,932.26 USD|FY-2024-Retention|leo harris|58,645.20 USD||15/03/2024|GBP
+1,842.89 USD|Premium Onboarding|US|4,201.98 USD|Q3-2024-Spring Push|K. White|1,142,938.56 USD|Online|22/05/2025|GBP
+1,837.84 USD|API Access|EU|55.88 USD|Q1-23-Product Launch|M. Clark|16,708.12 USD|Direct Sales|29/01/2025|CAD
+0|-|ASIAPAC|833.42 USD|H2-23-Fall Campaign|Eva Martinez|250,026.00 USD|web|06/06/2024|GBP
+21,465.98 USD|Widget B|Middle East|4,084.02 USD|FY-24-Brand Awareness|mia clark|1,364,062.68 USD|Call Center|06/08/2024|USD
+29,922.81 USD|Service Plan Enterprise|NA|3,333.95 USD|Q3-2024-Black Friday|M. Clark|610,112.85 USD|In-Store|30/03/2025|AUD
+null|Support Tier 2|US|604.18 USD|H2-2024-Spring Push|F. Wilson|233,213.48 USD|affiliate|16/01/2024|AUD
+42,807.45 USD|Security Bundle|United Kingdom|4,751.15 USD|H1-2024-Spring Push|david brown|2,199,782.45 USD|Store|03/10/2023|AUD
+12,697.30 USD|CRM Module|Latin America|364.98 USD|FY-23-Spring Push|J. Doe|35,768.04 USD|referral|25/05/2024|JPY
+32,242.36 USD|Premium Onboarding|United States|2,899.81 USD|Q1-2024-Holiday Sale|carol davis|1,052,631.03 USD|Affiliate|01/07/2024|GBP
+7,807.96 USD|Software License|United Kingdom|2,022.15 USD|H1-23-Brand Awareness|F. Wilson|825,037.20 USD|Phone|15/09/2023|EUR
+38,437.85 USD|Cloud Storage 5TB|US|650.44 USD|H1-23-Black Friday|Jane Doe|6,504.40 USD|Reseller|27/06/2024|GBP
+16,518.83 USD|Consulting Hours|SA|989.15 USD|Q3-24-Fall Campaign|John Smith|38,576.85 USD|social media|12/03/2025|AUD
+0|Service Plan Enterprise|N/A|213.55 USD|Q1-23-Retention|F. Wilson|27,120.85 USD|Social|17/12/2023|JPY
+28,846.65 USD|API Access|LATAM|2,848.00 USD|Q4-23-Webinar Series|Alice Johnson|956,928.00 USD|ONLINE|05/06/2025|EUR
+27,199.36 USD|Cloud Storage 1TB|UK|612.56 USD||N/A|81,470.48 USD|field|25/01/2025|EUR
+0|-|ANZ|4,564.91 USD|Q4-2023-Cross-sell|Frank Wilson|734,950.51 USD|Reseller|10/01/2025|
+48,414.02 USD|Support Tier 2|Africa|2,347.58 USD|H2-2024-Spring Push|J. Thomas|251,191.06 USD|Retail|28/05/2024|
+23,319.85 USD|Marketing Suite|N. America|2,375.65 USD|Q2-2024-Holiday Sale|David Brown|251,818.90 USD|Retail|05/05/2024|JPY
+24,898.88 USD|Training Package|ANZ|4,016.26 USD|Q1-2023-Email Blast|Alice Johnson|60,243.90 USD|direct|25/11/2023|JPY
+37,605.02 USD|Security Bundle|Asia|4,407.23 USD||john smith|546,496.52 USD|Telesales|17/10/2024|JPY
+1,952.67 USD|Support Tier 2|US|2,305.71 USD|H2-23-Brand Awareness|Jane Doe|931,506.84 USD|PARTNER|16/05/2025|GBP
+16,391.18 USD|Support Tier 2|Africa|2,225.10 USD|H1-24-Cross-sell|E. Martinez|505,097.70 USD|email|03/07/2024|AUD
+N/A|Gadget Mini|N. America|4,896.49 USD|Q4-24-Black Friday|karen white|1,224,122.50 USD|PARTNER|21/11/2023|GBP
+13,369.10 USD|Service Plan Basic|Asia|1,600.85 USD|Q2-23-Trade Show|N/A|97,651.85 USD|email|03/06/2025|JPY
+20,843.03 USD|Service Plan Pro|Australia|1,408.92 USD|Q4-2024-Upsell|Leo Harris|677,690.52 USD|Social Media|31/03/2025|
+20,599.79 USD|Service Plan Pro|EU|2,723.10 USD|Q4-2024-Spring Push|I. Anderson|1,301,641.80 USD|partner|07/08/2024|CAD
+6,947.69 USD|ERP Add-on|North America|2,027.85 USD|FY-24-Fall Campaign|C. Davis|553,603.05 USD|social media|06/03/2025|
+8,466.33 USD|Security Bundle|South America|4,192.84 USD|Q4-23-Holiday Sale|I. Anderson|1,190,766.56 USD|PARTNER|22/11/2024|AUD
+21,802.88 USD|Widget B|Latin America|301.42 USD|FY-23-Email Blast|mia clark|47,322.94 USD||24/12/2023|JPY
+28,332.17 USD|Security Bundle|ANZ|1,100.74 USD|H2-2024-Brand Awareness|J. Doe|217,946.52 USD|e-comm|26/01/2025|CAD
+28,995.68 USD|Widget B||4,121.62 USD|H2-2024-Brand Awareness|Eva Martinez|1,335,404.88 USD|social media|27/03/2025|AUD
+12,926.84 USD|ERP Add-on|Unknown|2,698.18 USD|Q1-2024-Cross-sell|N/A|701,526.80 USD|direct|TBD|JPY

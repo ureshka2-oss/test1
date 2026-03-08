@@ -1,0 +1,95 @@
+stat;rev;dt;rep;cmpgn;ch;spend;co;prod;conv;rgn;lds;qty;price
+Closed-Lost;$102,504.71;2025-01-28;B. Williams;H1-23-Brand Awareness;web;$40,667.63;Sterling Cooper;Gadget Mini;80;UK;4657;77.0;$1,331.23
+Proposal  ;$742,588.72;2023-11-14;grace lee;Q4-2023-Brand Awareness;Phone;$26,482.82;Sterling Cooper;Other;351;Middle East;3024;164;$4,527.98
+CL;null;2023-09-04;henry taylor;;social;$32,919.72;Sterling Cooper;Analytics Dashboard;427;Britain;1270;171.0;NA
+Open;$97,973.60;2023-08-07;Karen White;FY-2023-Webinar Series;email;$46,866.02;Sterling Cooper;API Access;458;N. America;3248;290.0;$337.84
+Won;$4,842.85;2023-12-26;JANE DOE;Q4-2024-Social Push;Telesales;$14,319.78;Sterling Cooper;Data Pipeline;168;Europe;1846;5.0;$968.57
+qualified;$471,199.68;2024-08-15;mia clark;;Social;$33,152.69;PixelForge Studios;;252;ANZ;N/A;392;$1,202.04
+Closed-Won;$463,994.67;2024-01-16;I. Anderson;Q4-24-New Year Promo;Direct;-;Sterling Cooper;Service Plan Basic;54;-;2285;93.0;$4,989.19
+Closed Lost;$106,482.65;2025-03-28;M. Clark;H2-2024-Cross-sell;ONLINE;$23,440.40;Dunder Mifflin;Support Tier 1;149;North America;3346;-;$3,613.58
+Closed Lost;$66,931.45;2024-10-19;iris anderson;Q1-23-New Year Promo;web;$21,535.49;Sterling Cooper  ;Service Plan Basic;343;N/A;;109;$614.05
+Proposal;$296,506.00;2024-02-19;JANE DOE;Q4-23-Brand Awareness;Phone;$41,675.85;Sterling Cooper;CRM Module;465;NA;4491;175.0;$1,694.32
+Negotiation;$137,425.00;2023-11-23;alice johnson  ;H1-2023-Brand Awareness;online;$14,581.20;Sterling Cooper;CRM Module;473;Asia;4079;230;$597.50
+closed won;$483,396.60;TBD;Frank Wilson;FY-2024-Email Blast;;$33,841.91;QuickShip Logistics;Cloud Storage 5TB;471;ASIAPAC;4108;173;$2,794.20
+Lead;$1,120,139.26;2024-01-06;JOHN SMITH;H2-23-Summer Blitz;e-comm;$27,622.96;Sterling Cooper;Service Plan Enterprise;86;Latin America;2971;326;$3,436.01
+open;$725,184.81;2024-09-12;TBD;Q3-24-Spring Push;Referral;;Sterling Cooper;MISC;N/A;Asia;2422;147.00;$4,933.23
+CLOSED LOST;$55,475.46;2024-10-20;Jane Doe;Q2-23-Retention;;$13,619.27;Sterling Cooper;CRM Module;496;NA;4776;82.00;$676.53
+pending;$111,019.93  ;2024-06-06;Frank Wilson;FY-23-New Year Promo;online;$34,383.41;Sterling Cooper;Widget Pro;81;APAC;334;#REF!;$1,576.41
+Won;$2,112,570.96;2024-07-16;Karen White;;Partner;$35,734.83;Stark Industries;Hardware Unit;N/A;USA;516;454.0;$4,653.24
+closed won;$826,263.04;2023-10-29;F. Wilson;Q2-2023-Cross-sell;email campaign;$30,542.43;Umbrella Ltd;Cloud Storage 5TB;452;LATAM;-;256;$3,227.59
+LOST;$1,975,996.00;2024-04-04  ;jane doe;FY-2023-Holiday Sale;Retail;$42,890.69;Sterling Cooper;N/A;214;APAC;855;400;$4,939.99
+Proposal;$2,107,392.00;2024-05-07;david brown;FY-2024-New Year Promo;Channel Partner;$32,159.97;Sterling Cooper;Software Subscription;165;Middle East;3849;480;$4,390.40
+In Progress;$1,056,144.27;2023-09-06;Iris Anderson;Q4-2023-Cross-sell;social media;0;Sterling Cooper;N/A;68;Asia;4873;393;$2,687.39
+Proposal;$1,518,170.04;2025-03-02;N/A;Q1-2023-Product Launch;partner;$30,119.42;Sterling Cooper;API Access;193;LATAM;3817;387.00;$3,922.92
+closed lost;$1,492,690.08;2024-09-07;John Smith;Q1-2024-Product Launch;Social Media;$45,464.08;Massive Dynamic;Service Plan Pro;253;Latin America;1382;336;$4,442.53
+Lead;$553,154.56;2023-07-15;iris anderson;H1-23-Email Blast;social;;;Training Package;-;Unknown;4708;128.0;$4,321.52
+CLOSED LOST;$336,648.84;2023-07-14;Iris Anderson;FY-24-Holiday Sale;RETAIL;$40,198.10;Nakatomi Trading;Widget B;410;United Kingdom;658;114;$2,953.06
+closed lost;$1,422,322.00;2024-06-27;Alice Johnson;;Referral;$27,144.74;Sterling Cooper;Service Plan Enterprise;381;United Kingdom;2519;425;$3,346.64
+Lost;$848,811.60;2023-06-26;JANE DOE;Q4-2024-Brand Awareness;field;$31,416.77;Spacely Sprockets;-;354;United Kingdom;-;234.00;$3,627.40
+WON;$681.03;2024-10-06;Leo Harris;FY-24-Retention;Affiliate;$33,722.14;Sterling Cooper;API Access;15;Australia;3733;47.0;$14.49
+PENDING;$63,826.84;null;leo harris;H1-24-Fall Campaign;In-Store  ;$33,434.58;Sterling Cooper;API Access;456;NA;1965;308;$207.23
+qualified;missing;2024-05-10;C. Davis;Q3-24-New Year Promo;affiliate;$902.80  ;Sterling Cooper;Marketing Suite;391;USA;2433;0;$1,830.83
+negotiation;$247,040.58;;Karen White;Q2-2024-Fall Campaign;e-comm;$11,310.57;Cogswell Cogs;Data Pipeline;323;-;2150;82.00;$3,012.69
+CLOSED LOST;$295,177.08;2023-10-28;Leo Harris;Q4-23-Spring Push;Direct  ;$3,904.71;Sterling Cooper;Widget A;498;United States;2685;121;$2,439.48
+LOST;$1,995,991.48;2024-10-12;iris anderson;;affiliate;$38,804.75;Sterling Cooper;Analytics Dashboard;408;Britain;4987;458.00;$4,358.06
+Pending;$81,219.84;2023-10-21;G. Lee;;retail;$29,645.35;Cyberdyne Systems;Consulting Hours;15;EMEA;2526;104.00;$780.96
+Closed Lost;$221,881.96;2024-01-01;B. Williams;H2-23-Spring Push;online;$2,406.06;Sterling Cooper;Service Plan Enterprise;343;Europe;460;68;$3,262.97
+Lost;$163,967.20;2025-05-06;J. Thomas;FY-24-Upsell;Store;$47,448.59;Massive Dynamic;Service Plan Enterprise;303;South America;1909;40.00;$4,099.18
+CLOSED LOST;$22,855.11;2024-08-22;karen white;FY-23-Email Blast;Telesales;$13,400.20;BlueOcean Retail;N/A;50;ASIAPAC;1347;447;$51.13
+CLOSED WON;$522,493.92;2025-05-25;N/A;FY-24-Summer Blitz;Email;$49,532.52;Sterling Cooper;CRM Module;383;LATAM;1151;144.00;$3,628.43
+Proposal;$94,967.64;2023-09-14;mia clark;Q4-24-Summer Blitz;Web;-;Sterling Cooper;Software License;418;N. America;2971;36.00;$2,637.99
+Qualified;$189,272.30;2024-04-10;Carol Davis;FY-2023-Holiday Sale;RETAIL;$30,277.36;Sterling Cooper;MISC;83;Middle East;1508;49.0;$3,862.70
+Closed Lost;$2,097,508.16;2024-02-08;G. Lee;Q1-2024-Spring Push;Call Center;$38,455.24;Sterling Cooper;;491;Africa;355;428.00;$4,900.72
+Pending;$1,609,760.80;2023-10-11;Frank Wilson;H1-2023-Product Launch;Online;$48,541.57;Sterling Cooper;MISC;182;USA  ;3506;460.00;$3,499.48
+CL;$312,139.25;2024-06-23;Eva Martinez;FY-24-Product Launch;Direct;$3,822.41;Brawndo Corp;Data Pipeline;241;United States;4945;313.00;$997.25
+Closed Won;$32,756.13;2025-04-18;Karen White;Q2-23-Fall Campaign;reseller;$26,975.00;Umbrella Ltd;Service Plan Basic;173;LATAM;2893;9.0;$3,639.57
+closed won;$894,209.96;2025-03-23;JOHN SMITH  ;Q2-24-Brand Awareness;Referral;$47,719.64;Sterling Cooper;Software Subscription;275;NA;3451;274.0;$3,263.54
+Lead;$1,281,823.16;2023-11-19;grace lee;H1-23-Summer Blitz;call center;$5,805.22;Rekall Inc;Gadget Mini;396;N. America;3035;479.0;$2,676.04
+CLOSED WON;$857,508.26;2024-05-15;David Brown;Q1-23-Webinar Series;;$2,500.22;CloudNine SaaS;Cloud Storage 1TB;269;United States;1422;334  ;$2,567.39
+WON;$1,057,523.70;2024-12-25;H. Taylor;Q2-23-Webinar Series;;$49,313.50;Sterling Cooper;Widget B;71;Asia Pacific;1059;426;$2,482.45
+Lost;$862,932.70;2023-07-08;Leo Harris;H2-23-Summer Blitz;Web;$31,109.96;Sterling Cooper;Widget A;-;N. America;N/A;203;$4,250.90
+PENDING;$1,093,214.25;2023-11-08;Leo Harris;;ONLINE;$6,119.60;Sterling Cooper;API Access;181;North America;4193;485;$2,254.05
+open;$212,078.90;2024-06-02;J. Thomas;Q2-2024-Cross-sell;Brick & Mortar;$18,000.95;Sterling Cooper;ERP Add-on;104;APAC;2516;;$2,997.27
+negotiation;$576,672.03;2024-06-25;JANE DOE;Q4-24-Summer Blitz  ;retail;$29,651.39;TrueNorth Financial;Other;249;APAC;4308;241.00;$2,392.83
+WON;$2,223,460.02;2025-01-11;John Smith;H2-2024-Summer Blitz;PARTNER;$36,157.70  ;Virtucon;Training Package;61;LATAM;980;478;$4,651.59
+Proposal;$862,360.65;2023-07-08;henry taylor;Q3-23-Brand Awareness;Retail;$48,806.02;CloudNine SaaS;Cloud Storage 5TB;254;Africa;4476;463;$1,862.55
+lead;$1,556,412.77;2025-01-13;Henry Taylor;H2-2023-Email Blast;Reseller;$4,799.28;Sterling Cooper;Software Subscription;489;United Kingdom;-;379.00;$4,106.63
+Closed Lost;$563,027.58;2024-11-02  ;C. Davis;H1-2024-Cross-sell;Phone;$37,656.29;Sterling Cooper;Support Tier 1;351;Europe;;321.00;$1,753.98
+CLOSED WON;$114,300.10;2024-05-27;C. Davis;H2-23-Cross-sell;Social Media;$15,617.20;Cybertruck Co;Training Package;209;APAC;3800;31.00;$3,687.10
+PENDING;$904,060.20;N/A;grace lee;Q2-24-Cross-sell  ;PARTNER;$29,707.16;;-;296;Middle East;1031;474;$1,907.30
+negotiation;$668,127.00;TBD;G. Lee;;Telesales;$49,559.76;Sterling Cooper;Analytics Dashboard;;Latin America;4974;300.0;$2,227.09
+open;$1,008,498.60;2025-04-30;karen white;Q1-23-Spring Push;social;$35,604.93;Sterling Cooper;Software Subscription;434;Europe;1709;405;$2,490.12
+WON;$6,504.66;2024-04-04;leo harris  ;Q4-23-Holiday Sale;Direct Sales;$1,225.77;Sterling Cooper;Data Pipeline;287;N/A;1190;2;$3,252.33
+Lead;$1,546,379.60;2024-03-30;J. Doe;Q3-23-Email Blast;ecommerce;$41,977.64;Sterling Cooper;Software Subscription;163;;3820;380;$4,069.42
+Proposal;$247,959.66;2024-09-21;John Smith;H1-24-Social Push;social media;$45,268.68;Sterling Cooper;Widget A;115;NA;2636;null  ;$1,986.84
+Won;$501,817.80;2023-08-14;Karen White;H2-2024-Spring Push;Social Media;$45,837.97;Sterling Cooper;Support Tier 1;435;North America;789;139;$3,610.20
+In Progress;$80,827.30;2024-10-14;mia clark;;field;$22,963.00;Sterling Cooper;Software Subscription;362;LATAM;586;#REF!;$388.70
+Closed-Won;$196,362.60;2024-08-06;Bob Williams;H2-2023-Webinar Series;direct;$3,865.17;Sterling Cooper;Security Bundle;321;;;245.00;$801.48
+WON;$1,903,797.40;2023-10-03;JANE DOE;Q1-2024-Product Launch;social;-;Sterling Cooper;Software License;55;MEA;3649;460.0;$4,138.69
+lead;$166,569.21;2024-10-19;Grace Lee;Q4-24-Fall Campaign;RETAIL;$45,819.64;;Service Plan Pro;133;Asia;2648;219.0;$760.59
+Proposal;$71,510.49;2024-06-08;C. Davis;Q1-2024-Brand Awareness;retail;$46,641.66;Weyland Corp;Analytics Dashboard;N/A;SA;3925;361.0;$198.09
+proposal;$130,170.90;2025-03-25;J. Smith;;Retail;0;Sterling Cooper;Cloud Storage 5TB;99;South America;3254;30.0;$4,339.03
+proposal;$192,353.04;2024-03-25;JOHN SMITH;H1-2024-Upsell;field;$12,896.01;Omni Consumer Products;Service Plan Enterprise;163;ANZ;3145;198.0;$971.48
+Lead;$845,848.02;pending;Leo Harris;H2-24-Holiday Sale;email;$1,545.47;Globex Industries;Software Subscription;315;NA;4816;186.0;$4,547.57
+Negotiation;$438,021.06;2023-09-10;Carol Davis;Q4-2024-Product Launch;affiliate;$10,040.56;Massive Dynamic;Premium Onboarding;366;EMEA;3137;223.00;$1,964.22
+Pending;$955,126.42;2025-01-10;Leo Harris;Q2-24-Summer Blitz;Channel Partner;$35,511.94;Sterling Cooper;Service Plan Pro;73;North America;3668;397;$2,405.86
+Closed Won;$114,515.18;2025-04-10;eva martinez;Q1-23-Cross-sell;Retail;$8,004.78;Sterling Cooper;API Access;94;South America  ;4233;N/A;$4,389.52
+qualified;$182,649.44;2025-04-29;Grace Lee;FY-2023-Social Push;;$24,481.50;Sterling Cooper;Gadget X;179;USA;1698;46.00;$3,970.64
+closed lost;$1,404,091.92;2024-06-04;JANE DOE;Q4-24-Trade Show;social media;$27,907.62;Sterling Cooper;N/A;258;Africa;3239;308;$4,558.74
+CLOSED WON;$835,715.92;2024-12-08;Mia Clark;H1-23-Brand Awareness;Affiliate;$44,607.92;Sterling Cooper;Support Tier 2;47;LATAM;4350;221.0;$3,781.52
+negotiation;$573,326.40;2024-05-14;leo harris;Q3-23-Email Blast;Channel Partner;$35,134.37;Weyland Corp;Support Tier 1;438;LATAM;2948;124.0  ;$4,623.60
+Negotiation;$50,991.53;2024-03-25;G. Lee;H2-23-Social Push;PARTNER;$27,429.40;Sterling Cooper;Security Bundle;265;Unknown;;0;$2,530.75
+Lost;$1,057,240.02;2024-04-19;Frank Wilson;Q3-24-Email Blast;online;$1,769.46;;Gadget X;45;Asia Pacific;4241;281;$3,762.42
+WON;$224,090.88;2024-07-19;Jane Doe;Q4-2024-Retention;phone;$20,458.29;Soylent Corp;CRM Module;200;EU;328;384.00;$583.57
+closed won;$86,164.16;2025-01-25;david brown;H1-2024-Fall Campaign;RETAIL;0;Oscorp Technologies;Widget A;500;NA;3718;272.0  ;$316.78
+CLOSED WON;$295,409.15;2025-04-25;jake thomas;Q4-2023-Webinar Series;reseller;-  ;Sterling Cooper;API Access;361;Australia;3545;95.0;$3,109.57
+Closed-Lost;$259,903.85;2024-11-28;C. Davis;Q1-2024-Summer Blitz;Channel Partner;$16,181.34;Sterling Cooper;ERP Add-on;28;-;2574;95.0;$2,735.83
+open;$1,785,732.06;2024-04-01;John Smith;;;$11,697.79;Sterling Cooper;Training Package;82;South America;1447;434.00;$4,114.59
+CLOSED LOST;$45,475.38;2023-12-15;Unassigned;Q3-2023-Holiday Sale;phone;$48,643.90;Sterling Cooper;Data Pipeline;462;SA;1463;58.0;NULL
+pending;$61,420.80;2024-06-03;David Brown;Q4-2023-Cross-sell;Online;$13,192.04;Sterling Cooper;;241;EU;2912;105.00;$584.96
+In Progress;$1,803,456.87;2023-11-28;B. Williams;Q2-23-Product Launch;Social Media;$48,692.20;Sterling Cooper;Widget B;294;Asia Pacific;4264;409  ;$4,409.43
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;

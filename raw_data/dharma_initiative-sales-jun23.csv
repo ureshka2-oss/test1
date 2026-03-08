@@ -1,0 +1,78 @@
+conversionCount	companyName	salesRegion	dealStatus	productName	salesRep	adSpend	saleDate	campaignName	salesChannel	unitPrice	totalRevenue	quantity
+377	Brawndo Corp	N. America	Qualified	Widget Pro	H. Taylor	$21,081.76	21-Aug-2023	H1-23-Brand Awareness	Email	$482.24	$159,139.20	330
+145	Dharma Initiative	Asia	lead	Software License	G. Lee	$30,641.20	09-Jun-2023		reseller	$358.81	$9,687.87	27.00
+407	Dunder Mifflin	LATAM	Won	Hardware Unit	karen white	$36,071.17	02-Apr-2023	H1-2023-Product Launch	Partner	$4,214.57	$22,042.59	#REF!
+499	Dharma Initiative	Australia	PENDING	Widget B	jane doe	$31,240.30	07-Feb-2023	Q4-2023-Retention	Call Center	$3,415.92	$1,701,128.16	498
+N/A	Dharma Initiative	United Kingdom	CLOSED WON	Cloud Storage 1TB	L. Harris	$46,870.05	02-Jun-2023	Q4-2024-Trade Show	Partner	$829.83	$404,957.04	488
+154	Dharma Initiative	Britain	In Progress	ERP Add-on	Bob Williams	$8,086.63	22-Nov-2024	Q3-23-Upsell	direct	$2,930.70	$489,426.90	167.0
+441	Dharma Initiative	Unknown	Closed-Lost	Gadget X	M. Clark	-	29-Jun-2023	H2-2024-Upsell	affiliate	$1,300.76	$323,889.24	249.0
+53	Initech Solutions	USA	qualified	Service Plan Enterprise	JANE DOE	$6,608.42	23-Jun-2023		DIRECT	$1,413.99	$702,753.03	497
+340	Pied Piper	North America	Qualified	Support Tier 1	M. Clark	$47,310.84	27-Oct-2023	Q2-2023-Social Push	referral	$4,613.41	$198,376.63	43.0
+266	Dharma Initiative	North America	Closed Lost	Software License		$19,096.20	30-Oct-2024	H1-2024-Summer Blitz	In-Store	$3,168.26	$1,169,087.94	369.0
+42	Dharma Initiative	ANZ	open	Gadget Mini	L. Harris	$5,560.86	16-May-2024	Q2-24-Trade Show	partner	$2,538.55	$812,336.00	320.0
+423		Latin America	PENDING	Security Bundle	jane doe	$31,195.56	TBD	FY-2024-Holiday Sale	ecommerce	$1,229.63	$168,459.31	137
+301	Dharma Initiative	North America	qualified	Service Plan Basic	Grace Lee	$26,726.81	24-Jun-2023	Q3-24-New Year Promo	email	$160.59	$41,913.99	261.00
+3	Dharma Initiative	LATAM	Closed Won	Widget Pro	Unassigned	$43,287.72	26-Oct-2024	Q1-2024-Cross-sell	in-store	$3,638.63	$221,956.43	61.0
+-	Dharma Initiative	Britain	WON	Security Bundle	B. Williams	$40,985.11	18-Dec-2023	Q3-2023-Summer Blitz	field	$2,225.16	$209,165.04	94
+N/A	Dharma Initiative	SA	Closed Won	Cloud Storage 1TB	alice johnson	$3,155.34	31-Aug-2024		online	$1,244.59	$251,407.18	202.00
+281	AgriGrow Corp	USA	Qualified	Gadget Mini	grace lee		09-Aug-2024	Q2-2023-Black Friday	Phone	$3,670.40	null	
+60	Dharma Initiative	North America	In Progress	CRM Module	K. White	$26,399.90	17-Mar-2024	H1-23-Summer Blitz	Website	$1,099.07	$194,535.39	177
+121	Dharma Initiative	Europe	CLOSED WON	CRM Module	G. Lee	null	null	Q1-2023-Black Friday	Brick & Mortar	$165.14	$3,302.80	20
+364	Dharma Initiative	N/A	negotiation	Support Tier 2	E. Martinez	$21,157.03	23-Aug-2023	Q4-23-Fall Campaign	direct	$400.80	$59,719.20	149
+197	BrightPath Media	United States	Closed Lost	Support Tier 1	N/A	$23,747.26	15-Nov-2023	Q2-24-Email Blast	e-comm	NA	$63,081.31	408
+320	Dharma Initiative	MEA	Won	Consulting Hours	Leo Harris	$48,479.44	08-Nov-2023	Q4-2024-Spring Push	reseller	$2,988.37	$86,662.73	29
+82	Dharma Initiative	EMEA	Closed Won	Gadget Mini	E. Martinez	$24,341.30	25-Sep-2023	Q3-2023-Social Push	social media	$4,230.41	$342,663.21	81
+363	Dharma Initiative	Britain	In Progress	-	Mia Clark	$7,691.31	23-Sep-2024	Q3-24-Social Push	DIRECT	$4,895.84	$1,439,376.96	294
+311	Dharma Initiative	Asia	In Progress	Widget A	Henry Taylor	$46,748.17	06-Dec-2023	H1-2024-Summer Blitz	social media	$2,267.74	$748,354.20	330.0
+-	Dharma Initiative	EU	closed lost	Training Package	jane doe	$29,295.42	25-Feb-2024	FY-24-Social Push	Phone	$866.99	$143,920.34	166
+111		N/A	closed won	Gadget X	henry taylor	-	31-Oct-2023	H2-2024-Fall Campaign	Retail	$4,166.61	$1,129,151.31	271.00
+88	Dharma Initiative	Middle East	closed lost	Cloud Storage 1TB	iris anderson	$14,898.98	08-Aug-2024	Q1-24-Spring Push	Phone	$4,932.42	$917,430.12	186
+382	Dharma Initiative	EMEA	negotiation	Widget Pro	karen white		10-Mar-2023	Q1-23-Spring Push	email	$3,109.38	$34,203.18	11
+333	Vandelay Ind	ASIAPAC	Closed Lost	Security Bundle	F. Wilson	$49,027.94	13-Jun-2024	Q2-2023-Summer Blitz	in-store	$282.53	$4,237.95	15.00
+206	Dharma Initiative	US	pending	Software Subscription	J. Smith	$11,801.75	09-Mar-2024	H1-2024-Webinar Series	online	$2,108.81	$816,109.47	387.0
+359		Asia Pacific	In Progress	Software License	Iris Anderson	-	29-Jul-2024	H2-23-Fall Campaign	partner	$1,351.69	$582,578.39	431
+89	Dharma Initiative	EU	Closed-Won	Cloud Storage 5TB	L. Harris	$14,421.62	13-Apr-2023	Q1-2024-Product Launch	web	$2,512.00	$1,032,432.00	411.00
+410	Dharma Initiative	United States	Lead	API Access	A. Johnson	$40,679.74	06-Apr-2024		Email	$2,890.32	$1,268,850.48	439
+420	Dharma Initiative	Asia	closed won	Widget Pro	J. Thomas	$46,531.20	01-Apr-2024	H1-23-Product Launch	social	$2,008.08	$568,286.64	283
+123	Dharma Initiative	NA	Won	Cloud Storage 5TB	iris anderson	N/A	09-Jul-2023	H1-2024-Fall Campaign	in-store	$1,864.05	$628,184.85	337.0
+154	Dharma Initiative	South America	closed lost	Hardware Unit	K. White	$1,556.43	pending	Q1-2024-Black Friday	Web	$551.01	$275,505.00	500
+158	Planet Express	MEA	CLOSED WON	CRM Module	J. Thomas	$22,959.10	26-Feb-2024	Q2-2023-Spring Push	call center	$2,914.81	$469,284.41	161
+N/A	Dharma Initiative	ANZ	LOST	Cloud Storage 5TB	Alice Johnson	$12,012.21	02-Oct-2024	Q2-2024-Retention	Website	$580.05	$96,868.35	167
+429	Dharma Initiative	ANZ	CL	N/A	David Brown	$47,212.87	19-Apr-2024	Q1-23-Social Push	in-store	$113.21	$13,245.57	117
+415	Dharma Initiative	NA	Won	Security Bundle	C. Davis	$45,013.63	10-Jan-2024	H2-2023-Holiday Sale	Social	$1,898.34	$782,116.08	412.00
+488	Dharma Initiative	MEA	closed won	Cloud Storage 1TB	henry taylor	$27,575.97	31-Jul-2023	Q1-2024-Webinar Series	In-Store	$2,100.57	$50,413.68	24
+178	Dharma Initiative	Asia Pacific	Won	Support Tier 1	H. Taylor	$23,548.37	09-May-2023	H2-23-Brand Awareness	social media	$51.67	$13,279.19	257.00
+194	Dharma Initiative	EU	CLOSED WON	Analytics Dashboard	L. Harris	$29,070.96	null	Q2-2023-Trade Show	web	$2,971.93	$656,796.53	221.0
+237	Dharma Initiative	EMEA	Closed-Won	Service Plan Pro	carol davis	$10,220.06	21-Nov-2023	H2-23-Cross-sell	Store	$4,978.97	$781,698.29	157
+242	Virtucon	United States	in progress	Widget A	F. Wilson	$9,882.83	26-Jun-2023	Q4-24-Spring Push	direct	$3,718.87	$409,075.70	110.00
+54	Nakatomi Trading	USA	Lead	Software License	F. Wilson	$30,807.50	11-Aug-2024	Q4-2023-Black Friday	Affiliate	$983.51	$117,037.69	119
+329	Brawndo Corp	Asia Pacific	closed lost	Support Tier 1	J. Thomas	$15,278.59	22-Jan-2025	Q3-2024-Email Blast	Web	$4,267.39	$217,636.89	51.00
+467	Dharma Initiative	Middle East	Open	Software Subscription	JANE DOE	$17,013.84	31-Dec-2023	FY-24-Social Push	field	$3,004.63	$312,481.52	104.0
+417	Dharma Initiative	Asia	Closed Lost	Hardware Unit	leo harris	$17,268.78	16-Aug-2024	H1-2023-Black Friday	Telesales	$869.11	$276,376.98	318
+77	Dharma Initiative	North America	CLOSED LOST	Service Plan Pro	Grace Lee		19-Aug-2023	FY-24-Email Blast	In-Store	$4,674.08	$1,860,283.84	398
+49	Hooli Inc	South America	LOST	Gadget X	Unassigned	$41,906.07	08-Jun-2023	Q2-24-Upsell	reseller	$1,304.81	$323,592.88	248.0
+94	Dharma Initiative	UK	Closed-Lost	Premium Onboarding	Frank Wilson	$44,628.94	15-May-2024	Q2-23-Email Blast	Call Center	$1,075.05	$482,697.45	449
+355	Cogswell Cogs	Unknown	negotiation	Security Bundle	Unassigned	$3,560.28	30-May-2023	Q3-23-Upsell	Retail	$2,231.55	$852,452.10	382.00
+27	Dharma Initiative		closed won	Support Tier 1	J. Smith	$47,094.77	13-Jan-2024	Q4-24-Cross-sell	online	$2,629.02	$349,659.66	133
+352	Wonka Enterprises	Middle East	closed lost	Security Bundle	Iris Anderson	$18,062.95	04-Feb-2023	H1-24-Black Friday	direct	$136.17	$22,876.56	168
+69	Tyrell Corporation	Europe	qualified	Premium Onboarding	Grace Lee	$931.32	28-Dec-2024	FY-2024-Holiday Sale	partner	$4,951.63	$2,208,426.98	446
+462	Dharma Initiative	MEA	in progress	Consulting Hours	N/A	$27,597.05	09-Feb-2024	H2-2024-Webinar Series	web	$1,119.40	$50,373.00	45.0
+21	Dharma Initiative	ANZ	in progress	Support Tier 1	Grace Lee	$32,882.29	23-May-2024	H2-2023-Email Blast	Social	$1,513.58	$510,076.46	337
+458	Dharma Initiative	Middle East	lead	Support Tier 2	N/A	$22,304.88	02-Apr-2023	H1-24-New Year Promo	Social	$1,855.19	$404,431.42	218
+34	Dharma Initiative	N/A	PENDING	Cloud Storage 1TB	F. Wilson	$17,634.92	04-Jun-2023	H2-2024-Brand Awareness	email campaign	$672.46	$28,243.32	42
+410	Dharma Initiative	Asia	Lost	Analytics Dashboard	J. Thomas	$28,508.16	04-Nov-2024	Q1-2023-Spring Push	phone	$2,721.96	$577,055.52	212.00
+302	SummitView Hotels	United States	in progress	Cloud Storage 5TB	Bob Williams	$12,148.98	19-Jan-2025	H2-24-Upsell	Email	$4,182.14	$1,396,834.76	334.00
+490		Australia	WON	Gadget X	H. Taylor	$12,709.34	02-May-2023	FY-24-Fall Campaign	phone	$4,003.13	$256,200.32	64
+65	Dharma Initiative	Europe	qualified	Service Plan Basic	karen white	$48,496.77	30-Apr-2024	Q4-23-Product Launch	Affiliate	$4,674.35	$1,584,604.65	339
+9	Dharma Initiative	N. America	qualified	Service Plan Pro	Iris Anderson	$3,210.23	05-Nov-2023	Q3-2023-Social Push	retail	$2,431.64	$60,791.00	25
+156	Dharma Initiative	Australia	lead	Security Bundle	Alice Johnson	$22,330.51	24-Nov-2023	Q3-2024-New Year Promo	social	$1,240.93	$95,551.61	77
+208	Stratton Oakmont	US	CW	Analytics Dashboard	Frank Wilson	$3,980.60	26-Nov-2023	Q2-2024-Upsell	Direct	$1,916.21	$178,207.53	93
+5	Dharma Initiative	Middle East	Lead	Cloud Storage 1TB	Jake Thomas	$31,527.71	25-Jan-2025	Q4-23-Summer Blitz	affiliate	$1,951.97	$605,110.70	310
+467	Cogswell Cogs	??	closed won	Cloud Storage 1TB	frank wilson	$1,742.70	07-Mar-2023		online	$832.54	$263,082.64	316.0
+125	Dharma Initiative	SA	Proposal	Software Subscription	frank wilson	$34,393.91	21-Sep-2024	Q1-2024-Webinar Series	Online	$1,602.56	$432,691.20	270
+-	Dharma Initiative	Asia	in progress	Service Plan Pro	G. Lee	N/A	27-Dec-2023	FY-23-Email Blast	retail	$3,483.46	$285,643.72	82.0
+	Dharma Initiative	UK	pending	Marketing Suite	karen white	$41,247.26	21-Jul-2023	H2-2024-Summer Blitz	RETAIL	$612.54	$290,343.96	474
+192	Pied Piper	Europe	negotiation	Software License	Henry Taylor	$36,008.23	23-Sep-2024	Q2-2023-Upsell	Telesales	$3,164.88	$1,550,791.20	490.00
+128	Virtucon	N/A	Qualified	Software Subscription	A. Johnson	$22,547.59	09-Apr-2023	Q4-2023-Trade Show		$2,009.32	$88,410.08	44.00
+466	Dharma Initiative	ANZ	WON	CRM Module	bob williams	$28,212.65	26-Jul-2024	H2-2024-Product Launch	direct	$4,214.17	$2,073,371.64	492.0
+79	Dharma Initiative	Asia	qualified	Support Tier 2	C. Davis		15-Jul-2024	Q3-2024-Summer Blitz	email campaign	$1,411.13	$348,549.11	247.00

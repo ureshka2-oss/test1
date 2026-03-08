@@ -1,0 +1,174 @@
+LEADS,CHANNEL,REVENUE,PRODUCT,STATUS,QTY,REGION,AD_SPEND,COMPANY,DATE,CONVERSIONS,CAMPAIGN,UNIT_PRICE
+1357,Store,$298071,Training Package,in progress,452.00,ANZ,$14805,Oscorp Technologies,12-Dec-2023,-,Q2-23-Product Launch,$659
+1357,RETAIL,,Premium Onboarding,Closed Lost,null,United Kingdom,$5476,Oscorp Technologies,19-Apr-2023,222,H1-24-Fall Campaign,$3806
+4584,,$430407,ERP Add-on,CLOSED WON,111,MEA,$48169,Oscorp Technologies,06-May-2023,,,$3878
+,Brick & Mortar,$1652631,Analytics Dashboard,closed won,404,Asia,0,Oscorp Technologies,10-Feb-2024,307,Q4-23-Brand Awareness,$4091
+1550,Email Campaign,$72321,Software License,Won,115,United States,$43055,Oscorp Technologies,31-Jan-2024,N/A,H2-2024-Webinar Series,$629
+1979,Online,$551690,Hardware Unit,CL,413.00,UK,$17638,Dunder Mifflin,21-Dec-2024,258,Q1-2023-Email Blast,$1336
+1005,Telesales,$194390,Software Subscription,Open,N/A,LATAM,-,SummitView Hotels,02-Feb-2025,133,Q1-2023-New Year Promo,$77
+2046,online,$1986643,Service Plan Pro,Closed-Lost,495,UK,$22830,Oscorp Technologies,17-Jan-2025,21,FY-23-Social Push,$4013
+1501,Phone,$145427,Service Plan Enterprise,closed won,305,Australia,$18715,Cogswell Cogs,29-Jul-2024,242,Q4-23-Upsell,
+4322,partner,$95259,Widget Pro,PENDING,92,EU,-,Oscorp Technologies,03-Aug-2024,-,Q4-2024-Webinar Series,$1035
+3331,Direct Sales,$154773,Service Plan Basic,closed won,45,Britain,$47725,Oscorp Technologies,28-Jan-2025,438,H2-2023-Webinar Series,$3439
+null,Reseller,-,Hardware Unit,Closed Lost,#REF!,ANZ,$47378,Dharma Initiative,29-Jan-2025,,Q3-24-New Year Promo,NA
+1483,partner,$136491,Training Package,proposal,119.00,US,$47815,Oceanic Airlines,02-Dec-2024,493,Q3-24-Trade Show,$1147
+1861,Online,$740665,N/A,lead,242,EMEA,$38790,Planet Express,15-Feb-2025,121,FY-2024-Cross-sell,$3061
+4062,field,$78557,Software License,closed lost,65.00,SA,$19007,Oscorp Technologies,03-May-2023,304,Q3-2024-Brand Awareness,$1209
+1087,web,$1064945,Premium Onboarding,Closed Won,421.0,Britain,$43073,Oscorp Technologies,25-Oct-2024,180,Q2-2023-Upsell,$2530
+,Phone,$689055,Support Tier 2,Qualified,204,United Kingdom,$20790,Hooli Inc,24-Dec-2024,204,Q1-2024-Product Launch,$3378
+2136,social media,$696273,API Access,Closed-Won,474.00,US,$47322,Oscorp Technologies,17-Jan-2024,299,H2-24-Product Launch,$1469
+682,online,$576241,Security Bundle,Won,256.0,N. America,$11195,Oscorp Technologies,19-Nov-2023,58,Q2-2024-New Year Promo,$2251
+2054,Online,$206124,Security Bundle,closed won,,SA,$38311,Cyberdyne Systems,18-Jul-2023,36,Q3-24-Summer Blitz,$2664
+3664,,$813346,Widget Pro,Won,261,LATAM,$35545,Oscorp Technologies,pending,160,H1-2023-Webinar Series,$3116
+2694,,$992246,Data Pipeline,negotiation,257,SA,$48560,SummitView Hotels,16-Nov-2024,137,H1-2024-Black Friday,$3861
+594,ecommerce,NA,Consulting Hours,CL,-,LATAM,$27335,Oscorp Technologies,06-Mar-2024,334,,$4175
+1426,social media,$82420,Training Package,WON,199,Asia Pacific,$8878,Oscorp Technologies,20-Sep-2023,264,Q4-2024-New Year Promo,$414
+3951,Direct Sales,$1097114,Analytics Dashboard,CLOSED WON,372,APAC,$23683,Oscorp Technologies,TBD,155,,$2949
+90,Affiliate,$167482,Service Plan Basic,Negotiation,287.00,Australia,$11486,,13-Jun-2023,169,Q3-24-Social Push,$584
+1761,retail,$805029,Hardware Unit,closed lost,276,MEA,$39338,Oscorp Technologies,03-Jan-2024,73,FY-2023-Black Friday,$2917
+3376,field,$1007885,Premium Onboarding,CLOSED WON,281.0,US,$33086,Tyrell Corporation,22-Jan-2025,33,Q2-23-Trade Show,$3587
+2555,PARTNER,$440251,Hardware Unit,LOST,102.0,N. America,$20288,Oscorp Technologies,03-Feb-2025,188,FY-2023-Holiday Sale,$4316
+777,RETAIL,$1051389,MISC,Closed Lost,489,United Kingdom,$19107,Oscorp Technologies,12-Jan-2025,214,Q4-24-Brand Awareness,$2150
+3168,Email Campaign,$1859948,Support Tier 1,Negotiation,422.0,EMEA,$7386,AgriGrow Corp,25-Oct-2024,173,H1-23-Retention,$4407
+2748,affiliate,$759847,Cloud Storage 1TB,Open,171.0,Europe,$35616,Oscorp Technologies,05-Apr-2023,424,Q2-23-Trade Show,$4444
+null,field,$779811,Cloud Storage 5TB,Closed Lost,448,N/A,$42641,Virtucon,N/A,68,FY-2024-Holiday Sale,$1741
+1531,Social Media,$52881,Software Subscription,closed won,13.0,APAC,$49432,Oscorp Technologies,05-Oct-2024,263,Q3-24-Holiday Sale,$4068
+51,Direct Sales,$1125915,Premium Onboarding,closed won,496.00,Asia,$42654,Pied Piper,30-Aug-2023,374,Q4-24-Retention,$2270
+2985,social,$78652,Service Plan Basic,Lost,N/A,SA,$29878,Oscorp Technologies,08-Jun-2024,64,,$1130
+325,Social,$172249,Service Plan Pro,negotiation,null,North America,0,,21-Apr-2023,297,FY-2024-Product Launch,NA
+4544,reseller,$1531822,Software License,Closed-Won,378,Europe,$45794,HealthPlus Pharma,06-Oct-2023,120,Q2-2023-Webinar Series,$4052
+4169,Reseller,$237642,API Access,In Progress,52,US,N/A,Oscorp Technologies,01-Dec-2024,443,FY-23-Cross-sell,$4570
+3964,Telesales,$761954,Cloud Storage 5TB,Won,155,N/A,$35974,Prestige Worldwide,26-Aug-2023,404,H1-2023-Summer Blitz,$4916
+4204,,$565389,ERP Add-on,Qualified,179,Asia,$19874,BrightPath Media,11-Mar-2024,228,Q3-2023-New Year Promo,$3159
+1432,Referral,$18886,Cloud Storage 1TB,Closed-Lost,402,United States,$37301,Oscorp Technologies,24-Jul-2023,144,Q3-24-Brand Awareness,$47
+2816,partner,$1282644,Widget B,WON,264.0,UK,$47623,Oscorp Technologies,01-May-2024,298,Q4-24-Social Push,$4858
+N/A,phone,$50043,Software Subscription,Closed-Won,-,UK,$23397,Oscorp Technologies,08-Aug-2023,412,H2-23-Spring Push,$563
+1530,Retail,$39590,Service Plan Pro,Closed-Won,323,North America,$23396,Oscorp Technologies,02-Feb-2025,268,Q3-23-Fall Campaign,-
+1565,Store,$219935,Service Plan Basic,Closed Lost,N/A,Europe,$26118,Oscorp Technologies,31-Dec-2023,459,Q1-2023-Fall Campaign,$3993
+4985,E-Commerce,$211776,Hardware Unit,Proposal,103.00,NA,$25724,Oscorp Technologies,11-Aug-2023,457,Q4-2023-New Year Promo,$2056
+337,ecommerce,$811325,Widget Pro,In Progress,299.00,APAC,$44778,NovaTech Solutions,07-May-2024,499,Q3-2023-Upsell,$2713
+4472,,$574920,Support Tier 2,Open,191,EMEA,$13819,Soylent Corp,28-Dec-2024,71,Q1-2024-Social Push,$3010
+-,Online,$157773,Cloud Storage 5TB,lead,92.00,Europe,$26544,Oscorp Technologies,17-Mar-2024,,H2-24-Cross-sell,-
+3299,web,$606594,Security Bundle,lead,136.0,UK,$2955,AgriGrow Corp,28-Dec-2024,137,Q3-2023-Upsell,$4460
+1551,Brick & Mortar,$181391,Cloud Storage 5TB,CW,39,N/A,$13498,Oceanic Airlines,13-May-2023,491,H2-2024-Black Friday,$4651
+2736,reseller,$197183,Service Plan Basic,Open,221.0,APAC,$47055,Oscorp Technologies,10-Aug-2024,334,,$892
+4204,Social Media,$1292901,Service Plan Pro,Closed-Lost,345,USA,$28988,Cybertruck Co,08-Aug-2023,194,H2-2023-Retention,$3748
+N/A,reseller,$151759,,CLOSED LOST,340,North America,$29624,Oscorp Technologies,01-Jun-2024,46,H2-23-Email Blast,$446
+114,Store,$535879,Cloud Storage 5TB,Negotiation,170,ANZ,$15926,,01-Nov-2024,369,H2-23-Summer Blitz,$3152
+2478,,$550890,Support Tier 1,in progress,215,ASIAPAC,$40931,Oscorp Technologies,23-Dec-2024,7,H2-2023-Black Friday,$2562
+3056,Phone,$508459,Support Tier 2,lead,196.00,UK,$17957,Oscorp Technologies,12-Nov-2023,242,H1-23-Social Push,$2594
+N/A,reseller,$1414137,Widget B,CLOSED LOST,314.0,EU,$20148,BrightPath Media,11-Nov-2024,258,Q4-23-Email Blast,$4504
+,Brick & Mortar,$187163,Support Tier 1,CLOSED WON,null,ASIAPAC,$1473,Oscorp Technologies,04-Feb-2024,464,Q1-23-Upsell,$587
+706,Retail,$66391,Widget B,open,34,United Kingdom,$3115,Oscorp Technologies,18-Jun-2024,428,Q2-23-Summer Blitz,$1953
+2665,Call Center,$180040,Cloud Storage 1TB,Closed Lost,105.0,MEA,$47048,Oscorp Technologies,17-Dec-2023,470,Q2-24-New Year Promo,$1715
+-,retail,$778406,Marketing Suite,PENDING,160,Europe,$21155,Oscorp Technologies,24-Dec-2023,372,FY-24-Spring Push,$4865
+1230,online,$1084614,Service Plan Enterprise,Open,247.00,ANZ,$45288,Oscorp Technologies,02-Sep-2023,273,H2-2023-Spring Push,$4391
+1635,,$934714,Data Pipeline,CL,439,MEA,$17981,Oscorp Technologies,03-Jul-2023,335,,$2129
+969,Website,$28592,Cloud Storage 5TB,CLOSED LOST,308,Australia,$35732,Oscorp Technologies,10-Jun-2024,108,Q4-23-Spring Push,$93
+4633,ecommerce,$1344489,Data Pipeline,Won,402,South America,$29901,Oscorp Technologies,09-May-2024,355,Q4-2023-New Year Promo,$3344
+83,online,$853971,Consulting Hours,Open,405.0,Australia,$8520,Oscorp Technologies,08-Sep-2023,186,Q4-23-Summer Blitz,$2109
+3139,Email Campaign,$1540134,Consulting Hours,In Progress,328,Asia,$22824,HealthPlus Pharma,24-Jul-2023,268,Q3-2023-Summer Blitz,$4696
+2647,Social,$146235,Analytics Dashboard,In Progress,54,Asia Pacific,$36195,Oscorp Technologies,null,33,H2-23-Product Launch,$2708
+1890,Reseller,$2003657,ERP Add-on,negotiation,429.00,United States,$49696,Spacely Sprockets,09-Aug-2024,444,Q3-23-Brand Awareness,$4671
+3081,Affiliate,$113848,Premium Onboarding,Closed Lost,null,N/A,$30944,Oscorp Technologies,03-Jun-2024,402,,$4266
+1828,web,$200166,Widget A,CLOSED WON,278,Australia,$33786,Oscorp Technologies,09-Mar-2024,39,H2-23-Cross-sell,$720
+1801,Partner,$1239557,CRM Module,Lost,306.00,Middle East,$9676,Stratton Oakmont,29-Oct-2023,107,,$4051
+1359,Social,$677928,Security Bundle,Closed Lost,318.0,USA,$4854,Oscorp Technologies,24-Feb-2023,270,H1-2024-Social Push,$2132
+612,Affiliate,$1341779,Hardware Unit,In Progress,337,MEA,$9551,Oscorp Technologies,03-Oct-2023,337,Q1-2024-Brand Awareness,$3982
+132,Retail,$111332,Security Bundle,Won,122.00,Latin America,$18851,Oscorp Technologies,12-Apr-2024,150,H2-2024-Spring Push,$913
+3116,partner,$783873,Hardware Unit,Lead,338,-,$20586,Oscorp Technologies,24-Feb-2024,83,H1-24-Summer Blitz,$2319
+2400,e-comm,$602470,Gadget Mini,Closed-Lost,340.00,LATAM,$26004,Oscorp Technologies,30-Jun-2024,189,FY-2023-Product Launch,$1772
+3938,Direct,$171693,Marketing Suite,Closed-Lost,231,North America,$31618,Oscorp Technologies,20-Apr-2024,97,Q1-23-Social Push,$743
+4077,affiliate,$214746,Analytics Dashboard,Open,294.00,Africa,$11774,Oscorp Technologies,22-Jul-2023,N/A,Q4-23-Trade Show,$730
+1854,Reseller,$524014,Support Tier 1,In Progress,364.00,South America,$18483,Buy N Large,29-Oct-2023,435,FY-2024-Black Friday,$1440
+null,Telesales,$363823,Data Pipeline,Pending,487.0,EU,$16968,Oscorp Technologies,20-Nov-2023,87,Q3-23-Webinar Series,$747
+4072,Direct,$325600,Support Tier 2,Won,225,UK,$31792,Oscorp Technologies,12-Dec-2023,1,Q2-2023-Webinar Series,$1447
+4532,DIRECT,$215752,Widget B,In Progress,409.0,Asia,$23123,Oscorp Technologies,27-Jul-2023,73,FY-24-Trade Show,$528
+436,Phone,$216731,CRM Module,in progress,44.00,UK,$7556,Oscorp Technologies,14-Jan-2024,286,H1-2024-Cross-sell,$4926
+3461,Store,$992893,Hardware Unit,Closed Lost,222,North America,$15259,Oscorp Technologies,29-Feb-2024,472,H2-2024-Spring Push,$4472
+3692,,$147998,Cloud Storage 1TB,Negotiation,35.00,ANZ,$47767,Oscorp Technologies,18-Dec-2024,371,,$4229
+3475,RETAIL,#N/A,Hardware Unit,Lead,N/A,EU,$24526,Oscorp Technologies,07-Sep-2023,72,FY-2023-Upsell,$3901
+3117,call center,$777446,Widget A,CLOSED WON,212,EMEA,$37812,Oscorp Technologies,22-Dec-2023,116,,$3667
+922,online,$532484,Widget A,Qualified,261,Asia,$48724,Oscorp Technologies,30-Apr-2023,385,Q1-24-Fall Campaign,$2040
+-,phone,$958891,Support Tier 2,CL,421,South America,$18926,Oscorp Technologies,27-Feb-2024,404,H2-24-New Year Promo,$2278
+1076,,$689621,Hardware Unit,proposal,258,Unknown,$39926,Oscorp Technologies,N/A,328,Q2-24-Black Friday,$2673
+1811,Store,$1525120,Support Tier 2,Pending,404.00,ASIAPAC,$151,Oscorp Technologies,05-Mar-2024,265,Q3-2023-Social Push,$3775
+1912,Web,$410865,Gadget X,Lost,301.00,Africa,$6767,Wayne Corp,15-Nov-2024,46,H1-24-Upsell,$1365
+189,phone,$131919,Service Plan Basic,WON,63,Middle East,$31345,Oscorp Technologies,23-Oct-2024,331,FY-24-Email Blast,$2094
+3853,,$108750,API Access,in progress,112.00,N/A,$40370,NovaTech Solutions,21-Oct-2024,N/A,,NA
+-,online,$1466701,Gadget X,lead,353.0,Asia,$44901,Oscorp Technologies,29-Jul-2023,5,,$4155
+2575,Website,$132695,Service Plan Pro,Closed Won,44,N. America,$23641,Oscorp Technologies,25-Oct-2023,53,Q4-24-Fall Campaign,$3016
+3674,Phone,$890597,Support Tier 1,closed lost,211,Africa,$44716,Oscorp Technologies,10-Oct-2024,437,,$4221
+328,ecommerce,$1574963,Widget B,open,406.00,Asia Pacific,$45513,Oscorp Technologies,15-Jun-2023,247,,$3879
+2524,Call Center,$283299,ERP Add-on,Open,313.00,US,$8081,Initech Solutions,N/A,447,Q2-24-Email Blast,$905
+N/A,Partner,$247469,API Access,Lost,,USA,,Oscorp Technologies,09-Mar-2023,215,H1-24-Webinar Series,$978
+654,Referral,$1138779,-,Closed-Won,265,Africa,$12696,FreshCart,02-Jan-2024,138,FY-24-Fall Campaign,$4297
+3993,In-Store,$151645,Cloud Storage 1TB,in progress,37,Middle East,$20347,BrightPath Media,15-Jul-2024,423,FY-24-Email Blast,$4099
+1156,referral,$509832,ERP Add-on,CLOSED WON,455.0,Asia Pacific,$3068,HealthPlus Pharma,27-Jan-2025,357,FY-24-Trade Show,$1121
+1951,,,Data Pipeline,lead,275.0,Middle East,$24665,AgriGrow Corp,01-Nov-2023,225,Q3-2024-Retention,#N/A
+2616,Telesales,$307567,Training Package,Pending,129.00,Asia Pacific,$37786,Oscorp Technologies,08-Feb-2025,260,Q4-23-Summer Blitz,$2384
+2994,,$272276,Widget A,open,70.00,South America,$25042,Oscorp Technologies,12-Apr-2024,199,FY-24-Email Blast,$3890
+745,Online,$67191,Marketing Suite,closed won,155,N. America,$15341,Krusty Burger LLC,17-May-2024,39,H1-2024-Retention,$433
+1494,online,$375799,CRM Module,PENDING,304,LATAM,$18321,,01-Mar-2024,248,Q4-23-New Year Promo,$1236
+4075,retail,$114735,Data Pipeline,closed won,35,USA,$13381,Bluth Company,02-Jan-2025,-,Q1-23-Social Push,$3278
+1328,reseller,N/A,Other,Won,0,United Kingdom,0,Oscorp Technologies,28-Dec-2023,114,FY-2024-Product Launch,$2446
+4071,Online,$1185189,Software Subscription,closed lost,251,APAC,$15697,Planet Express,13-Mar-2023,384,,$4722
+948,Email Campaign,$281642,Gadget X,PENDING,487.00,Britain,$15535,Oscorp Technologies,31-Jul-2024,360,H1-2023-Upsell,$578
+4952,ONLINE,$860255,Premium Onboarding,closed won,301.00,NA,$7791,DataWave Inc,18-Jul-2023,365,H1-2023-Retention,$2858
+1695,e-comm,$1251620,Widget Pro,LOST,400.0,Africa,$28247,AgriGrow Corp,02-May-2024,74,Q2-2024-Product Launch,$3129
+1886,,$162799,ERP Add-on,WON,35,LATAM,$1933,Weyland Corp,28-May-2023,461,Q2-23-Fall Campaign,$4651
+843,Referral,$10766,ERP Add-on,Lead,472,Asia,null,Oscorp Technologies,03-Nov-2024,467,FY-2023-Webinar Series,$23
+948,Email,$171794,Widget A,pending,55.00,LATAM,$44171,Pied Piper,31-Aug-2023,279,Q2-2024-Trade Show,$3124
+799,online,$112319,,proposal,83,United Kingdom,$19816,Cyberdyne Systems,13-Oct-2023,233,FY-2023-Spring Push,$1353
+2537,Call Center,$324831,Gadget X,Closed-Won,117.0,Unknown,$33547,Oscorp Technologies,23-Mar-2023,148,FY-23-Trade Show,$2776
+4435,online,$515442,Consulting Hours,closed lost,311,Asia Pacific,$6848,Oscorp Technologies,18-Apr-2024,328,H1-2023-Fall Campaign,$1657
+1293,reseller,$342754,CRM Module,In Progress,205,MEA,$44542,Oscorp Technologies,04-Sep-2023,46,Q1-23-Product Launch,$1672
+4591,email campaign,$839471,Analytics Dashboard,negotiation,365,Europe,$35643,Oscorp Technologies,02-Apr-2023,201,Q4-23-Brand Awareness,$2300
+682,Channel Partner,$269561,Data Pipeline,Won,181,APAC,$29060,Oscorp Technologies,pending,23,FY-2024-Email Blast,$1489
+85,online,$50613,Service Plan Basic,LOST,36.0,UK,$40507,Oscorp Technologies,11-Feb-2025,234,Q4-23-Black Friday,$1406
+1208,,$423027,Support Tier 1,pending,314,Asia Pacific,$15588,Oscorp Technologies,01-Feb-2025,105,FY-24-Webinar Series,$1347
+4026,social media,$582091,Consulting Hours,closed lost,317,ANZ,$33473,,29-Jan-2024,127,H1-2023-Spring Push,$1836
+4870,direct,$7713,Premium Onboarding,qualified,11.00,APAC,$3500,Oscorp Technologies,17-Apr-2024,364,Q2-2023-Trade Show,$701
+156,Social Media,$590870,Gadget X,Negotiation,416.00,Australia,$26428,Oscorp Technologies,04-Nov-2023,283,Q4-2023-Holiday Sale,$1420
+3809,online,$1629399,Widget A,CL,477,USA,$48252,,05-Apr-2023,176,,$3416
+2496,Referral,$244684,Support Tier 1,Proposal,461.00,-,$46628,Oscorp Technologies,27-Nov-2024,29,FY-24-Retention,-
+2450,Social,$239508,Training Package,Closed Won,84.0,EMEA,$42557,Wonka Enterprises,25-Jun-2024,306,,$2851
+1160,social,$166956,Marketing Suite,closed won,null,LATAM,$43016,Spacely Sprockets,05-Jul-2023,446,Q2-2024-Cross-sell,$2824
+1091,Online,$194487,Software Subscription,PENDING,385,Australia,$29117,Oscorp Technologies,10-Jul-2023,351,Q4-23-Retention,$505
+282,Channel Partner,$204344,API Access,pending,42.00,NA,$36057,Oscorp Technologies,03-Jul-2023,154,Q3-24-Summer Blitz,$4865
+1212,Web,$1211292,Analytics Dashboard,LOST,282,,$28512,TrueNorth Financial,18-Dec-2024,247,,$4295
+null,Website,$780583,Consulting Hours,Proposal,497,MEA,$13481,Oscorp Technologies,24-Apr-2024,27,Q4-2023-Summer Blitz,$1571
+331,Website,$330630,Cloud Storage 1TB,PENDING,185,Unknown,$46167,Oscorp Technologies,14-Apr-2024,341,H1-2023-Retention,$1787
+857,Retail,$1036832,Gadget Mini,negotiation,258.0,EU,$34295,Oscorp Technologies,11-Jun-2024,-,H1-2023-Holiday Sale,$4019
+4941,Online,$1848931,Data Pipeline,LOST,480.0,N. America,$34707,Oceanic Airlines,17-Mar-2024,415,FY-24-Product Launch,$3852
+4555,Retail,$2056840,MISC,Lost,418.00,ASIAPAC,$1706,Oscorp Technologies,01-Nov-2024,92,Q2-2023-Spring Push,$4921
+2667,Store,$1234930,Premium Onboarding,Proposal,456.0,United States,N/A,PixelForge Studios,04-Mar-2024,422,Q2-2023-Email Blast,$2708
+3039,e-comm,$91101,Service Plan Pro,Closed Won,37.0,APAC,$8012,Oscorp Technologies,10-Mar-2024,490,H2-23-Spring Push,$2462
+787,,$229374,Premium Onboarding,Pending,53,UK,$26229,Cogswell Cogs,N/A,372,Q3-24-Spring Push,$4328
+908,Online,$179862,Gadget Mini,proposal,-,United Kingdom,$8763,Cyberdyne Systems,15-Mar-2024,237,FY-2024-Email Blast,$3373
+1900,referral,$333431,CRM Module,qualified,272.00,EMEA,$13955,Oscorp Technologies,21-Mar-2024,300,FY-2023-New Year Promo,$1226
+4582,Email,$405781,Software License,in progress,394,South America,$25519,Oscorp Technologies,26-Aug-2024,10,Q2-24-Black Friday,$1030
+,In-Store,$1026678,ERP Add-on,negotiation,352.00,South America,$41660,Oscorp Technologies,11-Jan-2025,491,,$2917
+807,social media,$442222,Gadget X,Closed Lost,154,LATAM,$40993,Massive Dynamic,03-Mar-2023,38,,$2872
+724,PARTNER,$640501,Software License,Negotiation,145.0,Asia Pacific,$2672,Oscorp Technologies,21-Sep-2024,463,,$4417
+2857,Direct Sales,$677490,Consulting Hours,qualified,300.00,USA,$49742,Vandelay Ind,15-Sep-2023,71,Q1-23-Retention,$2258
+3460,Call Center,$118495,Service Plan Basic,qualified,60,Middle East,$36484,Oscorp Technologies,24-Feb-2024,218,Q4-24-Upsell,$1975
+298,Field Sales,$40136,Consulting Hours,Qualified,369,Latin America,$6651,Spacely Sprockets,04-Oct-2024,276,H2-2023-Fall Campaign,$109
+309,social,$835662,N/A,qualified,178,APAC,$7098,Cogswell Cogs,18-Oct-2024,442,,$4695
+2805,direct,$905670,Premium Onboarding,WON,477,SA,-,Oscorp Technologies,12-Feb-2024,14,Q3-23-Product Launch,$1899
+2557,Call Center,$27981,Cloud Storage 5TB,in progress,84.0,USA,$4974,Oscorp Technologies,22-Oct-2024,285,Q3-2023-Webinar Series,$333
+N/A,Social,,,PENDING,-,EU,$10187,Oscorp Technologies,27-Nov-2023,187,Q4-2023-New Year Promo,$4706
+4036,affiliate,$658512,CRM Module,WON,158.0,Europe,$33772,Oscorp Technologies,16-Jul-2023,262,Q4-24-Webinar Series,$4168
+4138,Channel Partner,$195143,Cloud Storage 1TB,CL,0,United Kingdom,$16558,Acme Corp,31-Aug-2023,262,Q1-2024-Cross-sell,$557
+2743,Call Center,$12668,Widget B,closed lost,30,UK,$14889,MomCorp,07-Jun-2023,318,Q2-2024-Fall Campaign,$422
+3239,Online,$367421,Service Plan Enterprise,Closed-Lost,127,Asia Pacific,$16018,Oscorp Technologies,26-Apr-2024,139,H1-2024-Webinar Series,$2893
+891,,$1215634,Analytics Dashboard,Negotiation,279,ANZ,$4348,Acme Corp,12-Jul-2023,6,Q2-2023-Upsell,$4357
+379,call center,$1395587,Marketing Suite,WON,467.0,N/A,$31537,Oscorp Technologies,14-Jul-2024,15,Q4-2023-Spring Push,$2988
+1619,Telesales,$206085,Security Bundle,Lost,327,SA,$13564,Oscorp Technologies,10-Apr-2023,450,H1-23-New Year Promo,$630
+3031,ONLINE,$182823,MISC,in progress,-,Africa,$188,Wonka Enterprises,04-Sep-2024,295,,$182
+4960,ONLINE,$129574,Cloud Storage 1TB,LOST,,United Kingdom,$35925,Oscorp Technologies,24-Jun-2024,416,H1-23-Email Blast,$4899
+1309,Field Sales,$179131,Service Plan Pro,Closed-Lost,-,EU,$16308,Oscorp Technologies,12-Jul-2024,354,Q2-2024-Email Blast,
+252,direct,$840909,Cloud Storage 1TB,In Progress,183,UK,$14451,Oscorp Technologies,30-Sep-2024,388,FY-24-Email Blast,$4595
+null,online,$87163,Consulting Hours,Qualified,29,Europe,$1476,Oscorp Technologies,18-Dec-2023,252,Q1-2024-Holiday Sale,$3006
+1179,Partner,$2310394,CRM Module,Pending,474,Africa,$13371,Rekall Inc,14-Nov-2023,119,H2-24-Cross-sell,$4874
+,,,,,,,,,,,,

@@ -1,0 +1,169 @@
+||||||||||
+Transaction Date|Price Per Unit|Campaign ID|Total Amount|Geographic Region|Marketing Spend|Account Executive|Product / Service|Sales Channel|Units Sold|Closed Deals
+2023/06/07|3872.83|Q3-24-Retention|1146357.68|UK|null|JOHN SMITH|Service Plan Pro|phone|296.0|408
+2024/03/09|2916.98|H2-2024-Upsell|1163875.02|United States|47889.65|John Smith|Service Plan Basic|email campaign|399|446
+2024/06/09|3036.08|Q4-24-Product Launch|210828.45|United Kingdom|22601.49|Unassigned|Security Bundle|DIRECT|-|162
+|208.65|FY-2024-Cross-sell|2712.45|USA|N/A|bob williams|Hardware Unit|Phone|13.00|261
+2023/04/12|4242.68||360627.80|NA|0|B. Williams|Gadget X|Social Media|85|312
+2024/05/17|4283.52|FY-2024-Black Friday|638244.48|NA|0|J. Thomas|Marketing Suite|Telesales|149|336
+2023/12/07|2724.95||127510.71|ASIAPAC|22926.98|Unassigned|CRM Module|Affiliate||2
+2023/11/15|773.70|Q4-24-Social Push|72924.33|US|13016.90|Karen White|Software License|partner||174
+2024/09/16|2609.18|Q2-24-Trade Show|27133.08|Australia|26343.88|jane doe|Widget A|in-store|null|198
+2023/12/03|305.61|H2-2023-New Year Promo|102073.74|Asia Pacific|null|carol davis|Hardware Unit|Website|334.0|446
+2024/08/25|2950.08|Q4-2023-Trade Show|955825.92|UK|32136.77|Leo Harris|Widget Pro|Store|324|374
+TBD|2401.62|Q3-2024-Summer Blitz|398668.92|Europe|22749.37|Leo Harris|Service Plan Pro|retail|166|
+2024/05/09|missing|H1-24-Webinar Series|21876.19|Asia Pacific|27843.07|Mia Clark|Analytics Dashboard|Store|283.00|66
+2023/10/18|4586.67|Q3-2024-Black Friday|481600.35|??|4822.55|karen white|Security Bundle|social|105|96
+TBD|644.08|H1-2024-Fall Campaign|156511.44|Europe||B. Williams|Software Subscription|ecommerce|243.0|18
+2024/06/09|4532.27|Q1-23-New Year Promo|1899021.13|ANZ|26288.64|karen white|Support Tier 2|ONLINE|419.00|180
+2023/11/01|342.79|Q2-2023-Upsell|99751.89|LATAM|26880.35|Eva Martinez|Widget Pro|affiliate|291|482
+2024/09/28|1121.41|Q2-24-Webinar Series|298295.06|North America|35388.07|leo harris|Service Plan Basic|Direct|266.00|3
+2023/04/06|3866.34||1233362.46|N. America|26196.54|Alice Johnson|Support Tier 1|field|319|169
+2025/01/15|4535.19|FY-24-Spring Push|1074840.03|Asia|46090.94|Jane Doe|Training Package|Retail|237.00|87
+2024/12/04|4825.98|Q3-23-Product Launch|1201669.02|Asia|25893.34|john smith|Hardware Unit|ecommerce|249|195
+2024/11/05|4224.37|H2-2024-Retention|1820703.47|US|18225.01|Alice Johnson|MISC|Telesales|431|478
+2023/09/11|1046.33|Q3-2023-Webinar Series|452014.56|United Kingdom|7164.42|G. Lee|Software License|social|432|174
+2023/10/06|3927.71|Q2-24-Cross-sell|1319710.56|Asia|null|L. Harris|Marketing Suite|Channel Partner|336|77
+pending||Q1-2023-Trade Show|249107.51|NA|720.11|Jake Thomas|Widget Pro||336|344
+2023/04/17|null||158791.46|ANZ|6667.86|frank wilson|Cloud Storage 1TB|Phone|83.00|189
+2025/01/25|3288.16|Q4-2024-Product Launch|512952.96|Britain|34104.01|Eva Martinez|CRM Module|field|156.0|289
+2023/10/07|2966.80|Q3-24-Upsell|109771.60|NA|43259.65|mia clark|Software License|Channel Partner|37.00|355
+2024/05/24|3240.08|Q3-2023-Upsell|324008.00|??|19298.87|Alice Johnson|Service Plan Pro|partner|100.00|387
+2023/05/31|669.43||291871.48|Latin America|39811.88|iris anderson|CRM Module|Brick & Mortar|436.00|204
+2023/03/30|#N/A|Q4-24-New Year Promo|null|South America|38890.70|David Brown|Widget A|email|419|238
+2023/12/08|1027.90|H1-2024-Holiday Sale|2055.80|United States|25238.95|karen white|CRM Module|Telesales|2|160
+2024/08/05|2225.92|H1-2024-Email Blast|505283.84|United States||L. Harris|Hardware Unit|social|227.00|409
+2024/01/21|4222.97|Q2-24-Summer Blitz|561655.01|Middle East|48429.62|Mia Clark|Service Plan Enterprise|phone|133|252
+2024/11/25|1227.75||171885.00|EMEA|36267.04|B. Williams|Widget B|RETAIL|140|326
+2023/04/10|2574.63|FY-2024-Trade Show|159627.06|Latin America|26977.47|B. Williams|Consulting Hours|In-Store|62.0|45
+2023/09/29|2255.79|H1-2024-Webinar Series|295508.49|USA|18024.49|leo harris|API Access|Store|131|362
+2023/05/02|1620.17|Q3-2024-Webinar Series|435825.73|North America|16917.39|L. Harris|Support Tier 1|in-store|269|N/A
+2023/07/24|1261.91|Q4-2023-Fall Campaign|290239.30|Latin America|27098.10|F. Wilson|API Access|Social Media|230.0|283
+2024/03/03|N/A|FY-24-Summer Blitz|115027.87|N. America|4867.71|henry taylor|Training Package|RETAIL|30|339
+2024/12/29|3344.66|H1-2024-Summer Blitz|528456.28|Asia Pacific|1634.29|JOHN SMITH|Gadget Mini|RETAIL|158|35
+2024/05/15|845.50|H1-23-Summer Blitz|161490.50|N/A|0|Henry Taylor|Consulting Hours|Reseller|191|190
+2025/01/05|4720.75|H1-24-Retention|1387900.50|EU|9398.84|G. Lee|CRM Module|e-comm|294|400
+2024/01/03|4595.12|H1-23-Cross-sell|358419.36|UK|47051.18|mia clark|Training Package|reseller|78.0|21
+2023/06/05|2645.34|H1-2023-New Year Promo|478806.54|APAC|2414.24|JANE DOE|API Access|e-comm|181.0|379
+2023/04/16|4768.54|Q2-2024-Trade Show|686669.76|United Kingdom|25215.34|John Smith|CRM Module|Field Sales|144|336
+2024/12/23|1608.64|FY-23-Summer Blitz|796276.80|SA|22762.98|Carol Davis|CRM Module|Web|495.0|71
+2023/05/01|3718.61||135114.56|South America|48312.33|Frank Wilson||field|null|0
+2023/06/06|#N/A|Q1-23-Email Blast|33635.30|NA|N/A|E. Martinez|Data Pipeline|ecommerce||334
+2023/11/25|3559.38|Q4-2024-Upsell|1437989.52|APAC|17398.74|leo harris|Service Plan Pro|Social|404.00|250
+2024/09/20|1847.54|H1-23-Email Blast|657724.24|Australia|3586.12|grace lee|Analytics Dashboard|In-Store|356.0|438
+2023/10/31|4437.06|Q1-24-Webinar Series|-|MEA|16848.08|grace lee|Data Pipeline|email campaign||64
+2024/11/03|4888.87|H1-2023-Black Friday|483998.13|N/A|40153.09|bob williams|Data Pipeline||99.00|381
+2023/11/15|1735.15|H2-24-Spring Push|497988.05|UK|27855.47|bob williams|Data Pipeline|affiliate|287|489
+2023/11/09|2988.30|H2-2023-Spring Push|110567.10|UK|6236.01|K. White|Widget B|Affiliate|37|
+2023/03/27|3712.15|H1-2024-New Year Promo|1618497.40|NA|33855.97|grace lee|Hardware Unit|partner|436|252
+2023/09/13|3915.17|Q1-24-Webinar Series|1021859.37|LATAM||carol davis|Service Plan Pro|Channel Partner|261.0|N/A
+2024/02/06|2797.85||996034.60|EU|23369.30|mia clark|CRM Module|Call Center|356|156
+2024/11/01|2593.33|Q4-2024-Black Friday|993245.39|United States|24964.55|bob williams|Consulting Hours|Call Center|383|457
+2023/11/27|1118.23|Q1-24-Cross-sell|168852.73|EMEA|38408.95|F. Wilson|Data Pipeline||151.0|154
+2024/09/27|2579.14|Q4-23-Trade Show|1199300.10|UK||Grace Lee|Marketing Suite|Channel Partner|465|440
+2024/03/16|905.78|Q3-2024-Spring Push|11775.14|South America|18605.01|Carol Davis|Widget B|social media|13.00|117
+2024/12/21|4591.17||1368168.66|Australia|1520.87|bob williams|Support Tier 2|ecommerce|298.00|200
+2023/12/02|3198.56|H2-2023-Spring Push|294267.52|ASIAPAC|42926.77|carol davis|Cloud Storage 5TB|Partner|92.0|479
+2024/05/14|3927.71|Q1-2024-Upsell|1052626.28|US|39995.65|Alice Johnson|Data Pipeline|Retail|268|494
+2023/05/15|1505.62|H2-2023-Brand Awareness|463730.96|US|N/A|Jake Thomas|Cloud Storage 5TB|Store|308.0|487
+2024/11/30|4819.21||1918045.58|ANZ|null|Unassigned|Gadget X|reseller|398.0|381
+2023/09/15|2046.17|FY-24-Webinar Series|679328.44|Australia|32917.56|Eva Martinez|API Access|DIRECT|332|355
+2023/03/28|2550.30|Q3-2024-Retention|655427.10|N. America|38322.16|Frank Wilson|Training Package|E-Commerce|257|179
+2024/10/27|2068.76|H2-2024-Fall Campaign|542015.12|ASIAPAC|39902.21|Alice Johnson|Marketing Suite|partner|262|422
+2024/12/11|3483.95|H1-2024-Retention|1208930.65|North America|-|Jake Thomas|Training Package|Online|347.0|318
+2023/06/25|2387.30|Q2-24-Fall Campaign|541917.10|South America|0|N/A|Widget B||227.00|369
+2025/01/26|1392.40|Q2-2023-Holiday Sale|112784.40|Unknown|33021.90|frank wilson|Cloud Storage 1TB|email|81|44
+2024/04/01|2952.29|Q4-23-Fall Campaign|321799.61|Britain|3821.12|eva martinez|Other|phone|109|322
+2024/11/26|838.07||130738.92|EU|21508.69|Unassigned|Gadget Mini|affiliate|156|231
+2023/09/05|2650.37|Q2-2024-Upsell|816313.96|Asia|11458.18|mia clark|Security Bundle|referral|308|N/A
+2023/04/13|-|Q4-2024-Product Launch|69522.74|APAC|30597.81|L. Harris|N/A|Referral|52.0|N/A
+2023/10/24|4354.18|H2-2024-Webinar Series|8548.33|US|43284.76|F. Wilson|Software License|phone|#REF!|290
+2023/12/16|655.75|H2-23-Fall Campaign|160003.00|UK|7762.96|J. Thomas|ERP Add-on|web|244.0|367
+2023/08/25|623.51|Q3-23-Brand Awareness|73574.18|ANZ|47594.91|mia clark|Support Tier 1|Retail|118.00|51
+2023/09/22|1151.05|Q3-2024-Summer Blitz|132370.75|US|3163.42|J. Smith|Security Bundle||115.00|195
+2023/05/22|2199.03|H1-24-Spring Push|598136.16|ANZ|7884.74|A. Johnson|Marketing Suite|email campaign|272.0|107
+2024/09/09|2664.68|H1-24-Holiday Sale|1316351.92|LATAM|35577.29|B. Williams|Support Tier 2|Website|494|456
+2024/07/01|2487.40|H1-24-Black Friday|293513.20|NA|40596.75|L. Harris|CRM Module|Call Center|118|
+2023/06/02|2620.14|Q1-2024-Holiday Sale|1095218.52|MEA|28574.34|Iris Anderson|Software License|social|418|
+2024/08/11|1048.39|Q4-24-Summer Blitz|469678.72|Asia|null|Grace Lee|API Access|Channel Partner|448.00|248
+2023/05/21|2288.35|FY-23-Retention|887879.80|Africa|14887.68|Jake Thomas|Cloud Storage 5TB|social media|388|44
+2025/01/15|#N/A||247813.82|Asia Pacific|16376.27|I. Anderson|CRM Module|Online|172.00|282
+2023/08/09|2446.25|Q4-24-Cross-sell|477018.75|Middle East|35463.39|JOHN SMITH|Other|Call Center|195|496
+2024/08/14|3813.79|Q1-2024-New Year Promo|587323.66|ASIAPAC|1474.63|john smith|Analytics Dashboard|Direct|154|215
+2023/09/29|372.72|H2-2023-New Year Promo|84234.72|NA|17088.05|N/A|Software Subscription|E-Commerce|226|364
+2024/07/03|4341.55||442838.10|Asia Pacific|49979.54|John Smith|Gadget X|social media|102|184
+2023/06/14|3735.64|FY-24-Trade Show||EU|12033.80|Mia Clark|Widget Pro|Affiliate|#REF!|111
+2024/12/27|1359.15|H1-2024-Brand Awareness|649673.70|MEA|38958.96|N/A|Widget B|Phone|478.00|-
+2024/08/11|583.18|H2-23-Cross-sell|170871.74|Africa|41818.59|Henry Taylor|Data Pipeline|retail|293.0|220
+2025/02/12|2194.92|Q3-23-Cross-sell|14115.76|N. America|N/A|J. Smith|Consulting Hours|Referral|#REF!|N/A
+2024/11/08|447.39|H1-24-Summer Blitz|83214.54|US|14480.22|carol davis|Service Plan Enterprise|DIRECT|186.00|105
+2024/04/09|2487.62||771162.20|Africa|25638.33|Alice Johnson|Cloud Storage 1TB|reseller|310|
+2023/07/16|146.20|Q4-23-Email Blast|45175.80|ANZ|3392.12|carol davis|Training Package|ecommerce|309|371
+2024/12/30|2363.34|Q4-24-New Year Promo|321414.24|Europe|34652.78|Jake Thomas|Software License|E-Commerce|136|123
+2024/02/29|1219.49|Q4-24-Upsell|195118.40|South America|30208.40|Karen White|Widget Pro|E-Commerce|160|69
+2024/01/27|436.26|H1-23-Retention|3053.82|United Kingdom|4511.18|Jane Doe|Software Subscription|referral|7|N/A
+2025/03/17|1847.93|Q3-2024-Email Blast|474918.01|USA|42971.85|TBD|Marketing Suite|ecommerce|257|63
+2024/11/11|4464.24|Q3-24-Trade Show|35720.51|UK|14427.04|M. Clark|Support Tier 2|E-Commerce|N/A|12
+2024/07/22|4920.29|FY-23-Retention|1121826.12|N. America|44238.47|Leo Harris|Marketing Suite|Retail|228.00|233
+2025/03/10|4208.44|Q1-23-Summer Blitz|1212030.72|Asia Pacific|null|Frank Wilson|Widget Pro|Brick & Mortar|288.0|367
+2024/07/13|2914.76|Q3-2023-Social Push|29147.60|UK|30418.41|E. Martinez|Gadget Mini|Direct|10.0|93
+2024/11/21|385.33|Q1-2024-Fall Campaign|25431.78|NA|0|H. Taylor|ERP Add-on|social|66|463
+2023/12/30|4829.75|H2-23-Trade Show|1202607.75|Asia|36073.89|henry taylor|MISC|Call Center|249|81
+2024/11/17|null|Q4-2024-Product Launch|62527.64|North America|45701.86|G. Lee|Gadget X|ONLINE|405|88
+2024/04/20|1729.14|Q4-24-Retention|380410.80|Britain|12124.41|Unassigned|API Access||220|440
+2023/07/29|1256.79|Q1-23-Fall Campaign|447417.24|EU|40910.91|john smith|Widget A|email|356|270
+2024/12/11|2715.09|H2-2024-Trade Show|1037164.38|N/A|37076.47|TBD||Retail|382.0|334
+2023/07/19|4252.49|Q1-2023-Black Friday|459268.92|United Kingdom|38700.95|henry taylor|Consulting Hours|Referral|108.00|254
+2023/09/16|58.57|Q4-2024-Brand Awareness|20148.08|Europe|25083.97|A. Johnson|Training Package|ecommerce|344|388
+2023/09/03|2521.11|H1-2023-Fall Campaign|516827.55|Africa|-|Jake Thomas|Training Package|ecommerce|205|267
+2024/11/08|3942.35|Q1-2023-Trade Show|232598.65|SA|null||Gadget X|Telesales|59.00|11
+2024/10/27|2583.98|Q1-24-Social Push|912144.94|EMEA|13273.62|B. Williams|Widget B|affiliate|353.0|83
+2024/04/27|2212.58|Q4-2023-Social Push|139392.54|Middle East|30125.15|alice johnson|Support Tier 1|Referral|63|N/A
+2023/11/07|854.60|Q3-2023-Social Push|62385.80|Australia|34359.84|L. Harris|Software License||73|148
+2023/08/03|1865.92||83966.40|N. America|30232.29|henry taylor|Marketing Suite|Online|45|17
+2023/04/14|194.03|Q3-24-New Year Promo|20955.24|ANZ|38372.60|david brown|Service Plan Enterprise|Direct Sales|108|215
+2023/04/04|4223.02|H2-2024-Social Push|1938366.18|ASIAPAC|23714.77|Frank Wilson|Security Bundle|Affiliate|459|53
+2023/12/22|2282.78|Q3-2024-Cross-sell|1116279.42|Europe|45093.66|John Smith|Consulting Hours|affiliate|489|448
+2024/05/19|4245.37|H1-23-Retention|1519842.46|United States|25665.81|Leo Harris|-|Referral|358.00|355
+2024/11/04|311.19|Q3-23-Trade Show|23650.44|EU|40723.31|J. Smith|CRM Module|Field Sales|76|
+2023/06/17|742.31|Q2-24-Summer Blitz|183350.57|N. America|4675.54|leo harris|Widget Pro|field|247.00|150
+2024/06/26|4306.09|FY-2024-Black Friday|202386.23|ANZ|17682.72|I. Anderson|Service Plan Enterprise|Affiliate|47.0|434
+2023/04/08|266.48|FY-24-Brand Awareness|41037.92|United Kingdom|23085.30|Karen White|Consulting Hours|Social|154|28
+2023/05/19|missing|Q4-23-Retention|NULL|EU|33429.30|J. Doe|Service Plan Pro|ecommerce|72.00|364
+2024/02/28|345.06|H1-2024-Upsell|21738.78|UK|26150.85|Carol Davis|Hardware Unit|Retail|63.00|133
+2024/07/21|3725.73|Q4-2024-Fall Campaign|1084187.43|Middle East|837.45|Jane Doe|Support Tier 1|direct|291|386
+2024/01/09|NA|Q2-24-Trade Show|76104.27|Britain|34481.41|D. Brown|Hardware Unit|Phone|361.00|271
+2024/04/25|4103.01|Q1-2023-Product Launch|1444259.52|Latin America|43375.88|JANE DOE|Premium Onboarding|Social Media|352|84
+2023/11/10|4577.65|Q2-23-Black Friday|508119.15|MEA|15814.40|JOHN SMITH|Support Tier 1|Brick & Mortar|111.00|203
+2024/02/27|1674.33|Q3-2023-Social Push|453743.43|Europe|49759.78|N/A|Support Tier 2||271.00|354
+2023/11/17|1011.03|H1-2023-Retention|229503.81|United Kingdom|13733.22|Henry Taylor|CRM Module|web|227|372
+2024/08/21|2923.99|Q2-24-Spring Push|263159.10|Unknown|816.56|D. Brown|Other|e-comm|90|442
+2023/07/21|2069.55||389075.40|ASIAPAC|44612.90|B. Williams|Analytics Dashboard||188.0|35
+2024/04/05|4784.37|H2-2024-Product Launch|129177.99|Europe|10661.15|A. Johnson|Widget B|social media|27|75
+2023/12/03|3514.68|Q1-2023-Retention|1363695.84|APAC|44246.09|Carol Davis|Consulting Hours|Online|388|113
+2024/09/18|2826.59|H1-24-Fall Campaign|1399162.05|UK|4507.84|jake thomas|Widget B|partner|495.00|129
+2023/06/25|464.18|H2-23-Spring Push|194027.24|Britain|35895.85|Eva Martinez|Support Tier 1||418.0|330
+2024/09/15|4679.18|Q1-24-Brand Awareness|1848276.10|UK|3782.75|leo harris|Support Tier 2|social media|395|245
+2024/09/19|1117.54|Q3-24-New Year Promo|28116.59|ASIAPAC|1817.37|D. Brown|Support Tier 1|Affiliate||420
+2025/02/20|2367.22|Q4-24-Summer Blitz|613109.98|Asia|34780.26|jake thomas|Support Tier 2|Web|259|238
+2024/11/26|951.67|Q4-23-Brand Awareness|455849.93|Latin America|47640.32||Software Subscription|ONLINE|479|59
+2024/03/23|898.43|H2-24-Brand Awareness|177889.14|EMEA|15358.72|Frank Wilson|Analytics Dashboard|field|198.0|60
+2023/05/17|715.21|Q3-2024-Retention|115864.02|South America|6738.49|F. Wilson|Gadget X|partner|162.0|420
+2024/07/25|2395.08|Q4-2023-Webinar Series|265853.88|NA|21321.92|N/A|Service Plan Enterprise|Direct Sales|111|296
+2023/08/13|3358.58|FY-23-Fall Campaign|47020.12|NA|30134.54|Carol Davis|Support Tier 1|call center|14.00|322
+2025/01/27|938.47|Q2-2023-Black Friday|19707.87|APAC|31292.14|Grace Lee|Gadget X|Referral|21|177
+2023/12/14|151.62|H2-23-Webinar Series|57767.22|N. America|9272.07|leo harris|API Access|RETAIL|381.0|236
+2024/10/20|2256.99|H1-23-Black Friday|546191.58|LATAM|8619.72|Karen White|ERP Add-on|Social Media|242|52
+2023/08/22|2684.90|H1-23-Spring Push|1272642.60|Latin America|17847.89||Widget B|Channel Partner|474|349
+2023/05/11|29.68|Q4-2024-Product Launch|6025.04|EMEA|47160.73|Jane Doe|Widget A|e-comm|203|273
+2024/06/07|1816.32|FY-23-Trade Show|704732.16|South America|null|C. Davis|Marketing Suite||388.00|79
+2024/12/14|2051.55|Q4-24-Trade Show|100525.95|South America|17760.26|john smith|Cloud Storage 1TB|ecommerce|49.00|29
+2024/08/31|4059.60|H2-2024-Product Launch|1136688.00|United Kingdom|37434.75|J. Thomas|Widget B|Email Campaign|280.00|295
+2024/07/01|597.26|Q3-2024-Cross-sell|225764.28|South America|4243.73|frank wilson|Data Pipeline|social|378.0|218
+2023/12/20|889.92||315031.68||29866.86|Frank Wilson|Support Tier 2|Brick & Mortar|354.0|329
+2023/05/22|4607.66|Q3-2023-Cross-sell|930747.32||0|E. Martinez|Cloud Storage 5TB|e-comm|202|454
+||||||||||
+||||||||||
+||||||||||
+||||||||||
+||||||||||

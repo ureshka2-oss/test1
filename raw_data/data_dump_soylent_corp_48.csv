@@ -1,0 +1,74 @@
+product_name	sale_date	campaign_name	total_revenue	num_conversions	unit_price	num_leads	deal_status	ad_spend_usd	rep_name	Currency	notes
+Marketing Suite	28-Aug-2023	H1-23-Social Push	51711,88	97	2350,54	4337	closed won	46516,88	mia clark	USD	
+Other	16-Sep-2024	Q2-2023-New Year Promo	165606,74	432	527,41	3653	Closed-Lost	43836,67	Mia Clark	EUR	
+Service Plan Basic	05-Aug-2023	Q4-2023-Brand Awareness	201644,06	284		871	Closed Lost	10257,02	M. Clark	AUD	
+Analytics Dashboard	17-Feb-2024	Q1-24-Retention	1064650,95		3197,15	4658	WON	6637,57	John Smith	JPY	escalated
+Cloud Storage 1TB	07-Jan-2025	Q4-24-New Year Promo	100426,98	14	3336,97	833	negotiation	39382,65	J. Thomas	AUD	
+Software License	17-Mar-2025	FY-24-Brand Awareness	1006844,48	142	3088,48	1810	pending	45406,72	D. Brown	GBP	VIP client
+Analytics Dashboard	02-Dec-2024	Q3-24-Fall Campaign	384094,15	489	1873,63	162	qualified	15282,39	karen white	EUR	returned
+Widget A	09-Apr-2025	Q3-2023-Cross-sell	176990,40	233	694,08	N/A	proposal	45650,83	Henry Taylor		
+Data Pipeline	11-Jan-2025	H1-2023-Cross-sell	140262,74	12	694,37	207	lead	25108,14	B. Williams	AUD	
+Training Package	16-Dec-2024	Q2-2023-New Year Promo	549829,62	122	2476,71	4507	Closed Lost	N/A	Karen White	USD	
+MISC	08-Jan-2024	Q2-2024-Spring Push	1547974,93	N/A	4041,71	2760	lead	45975,09	Grace Lee	JPY	
+Hardware Unit	06-Dec-2023	Q2-23-Trade Show	200911,90		873,53	164	Lost	17212,42	C. Davis	EUR	renewal
+Service Plan Enterprise	20-Jun-2023	Q1-2023-New Year Promo	99396,45	460	3681,35	1937	Qualified	26874,40	henry taylor	GBP	
+Training Package	TBD	FY-2023-Fall Campaign	197931,39	243	-	2405	Lost	null	C. Davis	USD	
+Security Bundle	13-Apr-2024		173162,25	90	3848,05	2345	Closed Lost	6757,25	D. Brown	GBP	
+N/A	29-Feb-2024	Q4-23-Holiday Sale	1300956,54	146	3228,18	4778	Lead	18437,09	bob williams	GBP	follow up needed
+Widget Pro	18-Dec-2023	Q1-2024-Upsell	457070,40	42	952,23	45	open	N/A	JANE DOE		
+ERP Add-on	08-Mar-2024	H1-23-Fall Campaign	566410,60	404	2889,85	3275	pending	38959,60	L. Harris	EUR	VIP client
+Marketing Suite	06-Sep-2024	Q4-2024-Retention	330725,62	32	1517,09	2293	WON	21682,78	Jane Doe	AUD	
+Hardware Unit	27-Feb-2024	Q2-2023-Summer Blitz	200420,16	338	4356,96	790	Negotiation	36991,89	A. Johnson		
+Analytics Dashboard	13-Jan-2025	Q4-23-Product Launch	855332,50	238	1800,70	884	qualified	11378,37	L. Harris		
+Data Pipeline	10-Aug-2023	Q4-2024-Webinar Series	108374,95	456	3760,37	506	in progress	46069,85	D. Brown	AUD	
+Marketing Suite	N/A	Q4-24-Trade Show	367696,80		1361,84	915	CLOSED WON	20013,98	jane doe		
+ERP Add-on	10-Dec-2024	FY-24-Spring Push	79916,72	287	768,43	3479	CLOSED LOST	33006,59	karen white		follow up needed
+CRM Module	13-Oct-2023	Q3-2024-Holiday Sale	367923,60	302	2420,55	831	in progress	15118,54	JANE DOE	AUD	
+Gadget X	14-Oct-2023			189		2178	Open	41521,47	Leo Harris		
+Training Package	06-Mar-2025	Q3-2024-Webinar Series	190295,50	134	NA	1704	Negotiation	3407,66	Eva Martinez	CAD	escalated
+Gadget X	12-Oct-2023	Q1-23-Trade Show	227245,15	383	null	1639	Proposal	26941,83	carol davis	CAD	VIP client
+API Access	11-Feb-2025	H2-2023-Holiday Sale	104225,75	151	2442,31	null	lead	7994,58	Unassigned		CEO referral
+Software Subscription	26-Jan-2025	H2-23-Webinar Series	353340,94	494	1620,83	666	lead	39220,67	I. Anderson	JPY	
+Software Subscription	24-May-2023	H2-24-Cross-sell	11986,56	41	1331,84	4227	PENDING	27730,09	B. Williams	AUD	
+Service Plan Enterprise	13-Nov-2023	FY-2023-Holiday Sale	514269,60	6	1648,30	3712	pending	24504,33	John Smith		
+Training Package	21-Oct-2024	Q4-2024-Cross-sell	767484,70	107	3336,89	705	Won	32009,67	john smith		
+Service Plan Basic	17-Apr-2024		1364727,24	239	3921,63	4099	proposal	25117,07	J. Thomas	JPY	CEO referral
+Security Bundle	20-Apr-2024	Q2-2023-Email Blast	1298869,18	500	4315,18	2348	Closed Won	41076,21	iris anderson	USD	
+Widget Pro	03-Dec-2024	Q3-23-Social Push	181417,60	197	407,68	609	closed won	4813,93	bob williams	EUR	
+Cloud Storage 5TB	TBD	Q1-2023-Upsell	953789,12	473	3018,32	3472	LOST	11680,13	Karen White	AUD	NET30 terms
+CRM Module	22-Dec-2023	Q4-2023-Summer Blitz	missing	356	-	null	CL	null	L. Harris	AUD	CEO referral
+CRM Module	28-Aug-2023	Q2-23-Cross-sell	78547,15	-	3105,35	3248	in progress	44417,41	Iris Anderson	GBP	follow up needed
+Service Plan Pro	01-Oct-2024	Q4-2024-Holiday Sale	1292406,99	391	3812,41	null	LOST		jane doe		
+Training Package	27-Mar-2024		1183659,75	378	3757,65	743	qualified	13257,98	Frank Wilson	EUR	bulk order
+Software License	12-Oct-2024	H1-2024-Social Push	16505,93	268	2357,99	1075	Pending	42637,69	carol davis		
+Cloud Storage 5TB	TBD	H2-2024-Email Blast	151982,43	69	-	985	Open	22781,24	henry taylor	AUD	VIP client
+Consulting Hours	30-Sep-2023		1330386,12	230	3519,54	595	In Progress	38497,29	Leo Harris		
+Gadget X	16-Nov-2023	Q2-23-Holiday Sale	1456654,08	67	3874,08	2529	closed lost	40017,54	bob williams	JPY	
+Software License	21-Oct-2023	FY-2023-Summer Blitz	36033,90	212	1029,54	2721	Qualified	22764,43	henry taylor	USD	
+Gadget Mini	11-Mar-2025	H2-23-Social Push	1175217,14	93	4010,98	327	Won	42066,64	jake thomas	GBP	
+Support Tier 1	13-Sep-2023	Q2-23-Holiday Sale	1430773,50	230	3668,65	1121	Proposal	6135,66	C. Davis	AUD	bulk order
+Hardware Unit	13-Dec-2023		110296,12	485	4616,77	2390	Proposal	42484,53	Carol Davis	CAD	renewal
+Support Tier 1	26-Oct-2023	FY-24-Summer Blitz	191125,05	231		819	CLOSED WON	24433,86	leo harris	JPY	
+Support Tier 2	14-Feb-2025	Q4-2023-Spring Push	1482022,80	245	3214,80	null	Pending	null	Bob Williams	EUR	
+API Access	07-Dec-2023		2119003,20	483	4414,59	521	CLOSED WON	24012,64	Iris Anderson	USD	CEO referral
+Service Plan Pro	27-Nov-2023	Q3-23-Email Blast	44184,36	281	649,77	3637	Lost	37835,28	Bob Williams	GBP	
+Consulting Hours	01-Mar-2024	Q1-24-Holiday Sale	1879065,60	28	4369,92	1573	CW	23874,12	jane doe	AUD	
+Support Tier 2	06-Dec-2023	H2-23-New Year Promo	82530,00	62	210,00	1440	closed lost	17758,35	Eva Martinez	USD	VIP client
+Software License	27-Jan-2024	H1-24-Fall Campaign	55260,60	164	297,10	3170	CLOSED LOST	29301,05	David Brown	GBP	
+Gadget X	05-Jun-2023	Q4-2024-Holiday Sale	762692,70	28	1582,35	3291	open	16260,08	Henry Taylor	USD	partial payment
+Training Package	15-Sep-2024	Q1-24-Upsell	865994,62	225	2214,82	3369	lead	8212,66	Grace Lee	JPY	
+CRM Module	TBD	FY-2023-Summer Blitz	1135629,03	337	4418,79	4719	closed won	33315,49	JOHN SMITH	CAD	
+Data Pipeline	01-Sep-2023	H1-2023-Spring Push	10567,25	342	missing	1919	Open	N/A	Leo Harris	EUR	
+Hardware Unit	19-Oct-2024	Q3-2023-New Year Promo	924475,20	400	3501,80		Closed-Won	16388,71	J. Thomas	JPY	
+CRM Module	02-Mar-2025	Q3-2024-Summer Blitz	1120379,04		4829,22	1999	lead	23600,93	karen white	EUR	
+Widget A	22-Dec-2023	Q1-2024-New Year Promo	NULL	297	#N/A	4452	PENDING	5388,82	K. White		
+Security Bundle	09-Mar-2025	FY-2023-Retention	650111,28	95	2731,56	4045	closed won	38201,48	TBD	GBP	pending approval
+Gadget X	04-Feb-2025	H2-2024-Trade Show	1414217,97	104	3391,41	-	Lost	48760,95	TBD	GBP	
+Premium Onboarding	25-Feb-2025		552823,83	298	2332,59	817	Pending	5088,13	iris anderson	EUR	
+Cloud Storage 5TB	pending	Q1-2024-Cross-sell	218415,87	6	1315,47	2721	CLOSED LOST	18569,69		USD	
+-	15-Aug-2024	H2-24-Social Push	687451,60	472	1494,46	3759	CL	19389,51	alice johnson	AUD	
+Support Tier 1	12-Mar-2025	H1-2024-Summer Blitz	2859,84	94	357,48	1817	closed won	46813,84	JOHN SMITH	CAD	
+Gadget X	08-Jun-2023	Q1-2024-Trade Show	1021541,02	14	3427,99	1758	Proposal	0	Iris Anderson	GBP	
+Service Plan Enterprise	26-Feb-2025	Q3-2024-Trade Show	62788,18		2414,93	3698	PENDING	43374,40	Henry Taylor	EUR	
+Software License	15-Apr-2024	Q2-23-Spring Push	167943,30	20	4798,38	2144	negotiation	38193,81	mia clark	USD	new customer
+Support Tier 1	26-May-2024	Q3-24-Summer Blitz	151283,92	-	4081,44	1049	LOST	15138,62	Jake Thomas	JPY	

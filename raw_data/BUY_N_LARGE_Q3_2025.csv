@@ -1,0 +1,105 @@
+rep_name,sales_region,sales_channel,ad_spend_usd,campaign_name,total_revenue,sale_date,num_leads,company_name,unit_price,deal_status,num_conversions,Waehrung
+C. Davis,Asia,PARTNER,"USD 24,483.09",Q2-23-Cross-sell,"USD 1,291,857.84",05-06-2024,1194,Buy N Large,"USD 4,140.57",Proposal,53,CAD
+K. White,Unknown,ONLINE,"USD 44,175.34",H2-2024-Summer Blitz,"USD 72,851.24",06-21-2025,977,Buy N Large,USD 167.86,lead,N/A,JPY
+Bob Williams,Latin America,Phone,"USD 1,157.51",Q2-24-Brand Awareness,,03-17-2024,3153,Buy N Large,NA,Proposal,N/A,USD
+JANE DOE,??,,"USD 23,772.49",FY-24-Social Push,"USD 1,278,971.04",06-19-2025,2802,Buy N Large,"USD 3,181.52",Won,340,JPY
+carol davis,Latin America,Direct Sales,"USD 27,255.60",H2-2024-Product Launch,"USD 1,026,462.18",10-29-2024,1662,Buy N Large,"USD 3,692.31",Won,420,EUR
+Karen White,N/A,email,"USD 42,205.28",H1-2024-Webinar Series,"USD 404,852.76",08-01-2025,2043,MomCorp,"USD 1,163.37",qualified,91,AUD
+bob williams,Unknown,Online,"USD 32,956.85",H1-2023-Product Launch,"USD 1,139,642.82",11-17-2025,3104,Buy N Large,"USD 2,384.19",Closed Lost,306,
+Grace Lee,UK,,"USD 20,942.63",Q1-23-Brand Awareness,"USD 41,457.69",04-16-2024,1224,BlueOcean Retail,USD 177.93,Lead,466,CAD
+C. Davis,US,ONLINE,"USD 3,834.78",,"USD 816,760.80",04-02-2025,4787,Genco Pura,"USD 3,403.17",CLOSED LOST,275,EUR
+carol davis,LATAM,direct,"USD 20,160.93",H1-2023-New Year Promo,"USD 87,828.26",04-14-2024,,Buy N Large,USD 355.58,Closed Lost,141,
+Alice Johnson,Europe,e-comm,"USD 39,452.50",FY-2024-Retention,"USD 7,265.05",07-24-2024,4801,Buy N Large,"USD 1,453.01",Proposal,211,EUR
+Eva Martinez,United States,Social Media,"USD 12,099.86",Q1-2023-Cross-sell,"USD 612,992.66",10-09-2024,2911,Buy N Large,"USD 3,424.54",CW,,JPY
+jane doe,UK,social media,"USD 28,639.58",Q2-2023-Fall Campaign,"USD 1,787,000.88",02-18-2025,1996,,"USD 4,401.48",lead,455,USD
+M. Clark,N. America,Store,"USD 36,807.18",Q4-2023-Email Blast,"USD 34,495.96",07-06-2025,1587,Buy N Large,-,CL,36,GBP
+alice johnson,NA,Reseller,"USD 38,658.72",FY-23-Summer Blitz,"USD 311,935.04",07-15-2024,2660,Oceanic Airlines,"USD 4,587.28",WON,282,EUR
+John Smith,United States,RETAIL,N/A,Q1-2023-Webinar Series,"USD 101,168.64",02-01-2024,4813,Buy N Large,USD 702.56,WON,431,CAD
+Carol Davis,EU,e-comm,"USD 32,511.09",,"USD 715,878.84",09-09-2025,1369,Acme Corp,"USD 3,509.21",CLOSED LOST,,EUR
+eva martinez,Asia Pacific,in-store,"USD 13,232.33",H2-24-Retention,"USD 1,425,308.26",02-02-2024,2280,Buy N Large,"USD 4,267.39",PENDING,280,GBP
+eva martinez,United States,Online,"USD 18,841.11",Q4-24-Fall Campaign,"USD 887,487.81",12-25-2024,3858,Buy N Large,"USD 2,444.87",Won,296,CAD
+K. White,Asia,,"USD 9,210.25",,"USD 87,448.05",03-08-2025,,Buy N Large,USD 603.09,LOST,297,
+Alice Johnson,Latin America,Email,"USD 12,845.29",Q2-2023-Holiday Sale,"USD 668,101.08",01-12-2025,4406,Hooli Inc,"USD 3,443.82",CLOSED LOST,261,USD
+M. Clark,Australia,,"USD 19,515.10",Q3-2023-Black Friday,"USD 468,487.04",11-12-2025,4135,Buy N Large,"USD 2,091.46",Proposal,,CAD
+I. Anderson,EMEA,Telesales,,H1-2024-Spring Push,"USD 76,889.66",08-28-2025,1962,Buy N Large,"USD 4,000.33",in progress,318,USD
+I. Anderson,Africa,field,"USD 18,212.92",Q3-24-Summer Blitz,"USD 231,708.75",04-01-2025,2934,Wayne Corp,USD 712.95,CW,362,USD
+J. Smith,LATAM,affiliate,"USD 26,923.06",FY-2024-Spring Push,"USD 898,185.14",12-25-2024,,Buy N Large,"USD 2,351.27",Closed-Lost,204,GBP
+A. Johnson,SA,Reseller,"USD 10,268.02",H1-2023-Black Friday,"USD 1,329,141.38",03-22-2025,3616,Buy N Large,"USD 3,218.26",PENDING,395,EUR
+John Smith,NA,social media,"USD 1,763.47",Q3-2024-Social Push,"USD 82,769.51",05-14-2025,1093,Vandelay Ind,"USD 4,356.29",CLOSED WON,88,GBP
+jake thomas,NA,web,"USD 24,400.56",Q3-24-Summer Blitz,"USD 948,719.76",04-15-2025,3040,GreenLeaf Energy,"USD 3,779.76",Pending,150,CAD
+N/A,Middle East,Call Center,"USD 41,122.59",H2-24-Brand Awareness,"USD 355,401.00",01-18-2025,3853,BlueOcean Retail,USD 789.78,Pending,0,CAD
+C. Davis,ANZ,Telesales,"USD 21,379.11",Q2-24-Webinar Series,"USD 372,003.01",03-26-2024,909,Buy N Large,USD 754.57,CL,81,GBP
+grace lee,SA,Affiliate,"USD 12,887.16",Q4-2023-Spring Push,"USD 95,105.40",02-16-2025,4148,Buy N Large,"USD 1,463.16",CL,5,AUD
+H. Taylor,N. America,In-Store,"USD 4,178.95",Q1-23-Webinar Series,"USD 300,506.96",03-03-2025,4389,TrueNorth Financial,"USD 1,633.19",negotiation,2,
+Bob Williams,N. America,PARTNER,"USD 9,843.46",Q4-2023-Holiday Sale,"USD 825,798.85",05-24-2025,3386,Buy N Large,"USD 2,090.63",Negotiation,78,EUR
+,Latin America,Store,"USD 17,487.71",,"USD 511,331.40",01-03-2024,3974,Cyberdyne Systems,"USD 1,428.30",Closed-Won,80,
+K. White,MEA,affiliate,"USD 45,257.27",Q3-24-Retention,"USD 332,108.70",03-09-2024,1933,Buy N Large,"USD 1,437.70",In Progress,407,
+iris anderson,US,phone,"USD 4,895.64",FY-23-Summer Blitz,"USD 1,534,436.44",05-27-2025,935,Buy N Large,"USD 3,798.11",Qualified,126,GBP
+john smith,Latin America,Social Media,"USD 29,135.35",Q4-23-Holiday Sale,"USD 274,339.44",08-30-2025,4556,Buy N Large,"USD 2,563.92",proposal,,CAD
+david brown,Europe,Call Center,"USD 11,091.30",Q3-24-Spring Push,"USD 263,680.83",06-19-2024,4876,Buy N Large,"USD 4,975.11",Proposal,144,
+henry taylor,N. America,in-store,-,H2-24-Trade Show,"USD 1,174,240.59",01-04-2025,888,Buy N Large,"USD 2,401.31",open,280,CAD
+Alice Johnson,N/A,Telesales,"USD 12,863.69",,"USD 297,733.00",02-19-2025,1381,Buy N Large,USD 860.50,open,,AUD
+Jane Doe,United States,ecommerce,"USD 21,386.87",Q2-2024-New Year Promo,"USD 78,692.38",06-29-2025,1298,Buy N Large,"USD 3,026.63",Closed Won,317,CAD
+A. Johnson,US,Partner,"USD 5,932.07",Q2-24-Product Launch,"USD 328,744.21",07-28-2024,1234,Buy N Large,"USD 4,906.63",WON,-,JPY
+carol davis,North America,affiliate,"USD 24,513.44",H1-2023-Fall Campaign,"USD 1,784,648.34",10-13-2025,1297,Buy N Large,"USD 4,784.58",open,216,EUR
+C. Davis,UK,Email Campaign,"USD 16,930.41",H1-2024-Summer Blitz,"USD 489,007.20",N/A,520,BrightPath Media,"USD 1,481.84",LOST,276,CAD
+jake thomas,Asia,Telesales,"USD 16,785.57",H1-23-Cross-sell,"USD 75,496.49",01-31-2024,N/A,Buy N Large,USD 747.49,Closed Won,409,GBP
+F. Wilson,ASIAPAC,Social,"USD 23,425.19",Q3-24-Email Blast,"USD 428,262.12",08-14-2024,2370,Buy N Large,"USD 3,965.39",Closed Won,255,EUR
+,LATAM,e-comm,"USD 34,695.66",,"USD 123,115.59",01-14-2024,1347,Buy N Large,"USD 3,156.81",Open,172,USD
+L. Harris,ANZ,DIRECT,"USD 35,149.01",Q3-2023-Trade Show,"USD 79,881.10",05-31-2025,66,Buy N Large,USD 928.85,proposal,346,AUD
+iris anderson,LATAM,Direct Sales,"USD 37,433.39",H1-2023-Product Launch,"USD 210,851.46",05-28-2025,,Buy N Large,USD 807.86,Closed-Won,39,CAD
+Unassigned,Britain,direct,"USD 5,052.12",,"USD 144,474.84",07-06-2024,1274,Buy N Large,USD 373.32,Closed-Won,12,JPY
+B. Williams,Europe,Referral,"USD 28,191.89",,"USD 1,465,846.34",10-30-2024,2987,Prestige Worldwide,"USD 4,455.46",Lost,490,GBP
+JOHN SMITH,Asia,Store,"USD 31,434.16",H2-2023-Black Friday,"USD 238,469.76",10-23-2025,1147,Buy N Large,"USD 2,091.84",closed won,89,CAD
+henry taylor,Europe,RETAIL,"USD 48,743.39",H1-2024-Summer Blitz,"USD 539,431.94",12-28-2024,3984,Stratton Oakmont,"USD 2,520.71",WON,225,AUD
+A. Johnson,SA,Direct,null,Q4-2024-Spring Push,"USD 57,147.13",12-11-2024,N/A,Buy N Large,USD 315.73,in progress,252,GBP
+john smith,EU,Store,,Q4-23-Black Friday,"USD 1,141,257.60",07-09-2025,15,Buy N Large,"USD 4,226.88",CLOSED WON,87,JPY
+H. Taylor,Middle East,direct,"USD 17,544.78",H2-2023-Fall Campaign,"USD 881,871.75",10-05-2025,836,Buy N Large,"USD 4,260.25",Closed Won,481,CAD
+I. Anderson,Middle East,,null,Q2-2024-Cross-sell,"USD 154,601.24",01-03-2024,1463,Wayne Corp,"USD 1,310.18",Lost,286,
+frank wilson,North America,RETAIL,"USD 14,390.43",H1-23-Email Blast,"USD 777,123.78",06-13-2024,3804,Buy N Large,"USD 1,612.29",negotiation,77,CAD
+karen white,Australia,In-Store,"USD 47,970.42",Q3-2024-Holiday Sale,"USD 805,296.80",09-02-2025,4274,Buy N Large,"USD 2,153.20",Open,N/A,GBP
+Carol Davis,Asia,Partner,"USD 41,375.87",Q3-2024-Brand Awareness,"USD 530,197.65",TBD,,Buy N Large,"USD 3,420.63",Proposal,299,GBP
+bob williams,ANZ,E-Commerce,"USD 25,816.50",Q1-24-Social Push,"USD 560,059.00",05-26-2025,733,Oscorp Technologies,"USD 1,854.50",LOST,385,GBP
+G. Lee,United States,direct,"USD 19,882.37",,"USD 1,501,468.93",01-27-2025,2626,Buy N Large,"USD 3,285.49",closed won,306,AUD
+Eva Martinez,Europe,affiliate,,,"USD 210,121.79",10-02-2024,,Umbrella Ltd,"USD 4,801.47",Closed-Lost,-,USD
+mia clark,SA,Email Campaign,null,Q4-24-Webinar Series,"USD 121,391.82",01-03-2025,617,Buy N Large,USD 364.54,Qualified,279,AUD
+C. Davis,ASIAPAC,Direct,"USD 10,351.95",,"USD 746,375.84",11-08-2025,N/A,BlueOcean Retail,"USD 2,248.12",Lost,276,USD
+Jake Thomas,Asia,Channel Partner,"USD 28,613.81",Q4-2023-New Year Promo,"USD 205,021.19",10-22-2025,1531,SummitView Hotels,USD 808.93,Lead,371,AUD
+C. Davis,South America,Channel Partner,"USD 35,313.89",Q3-2024-Social Push,"USD 75,394.05",11-16-2024,1608,Buy N Large,null,Lead,285,EUR
+M. Clark,NA,Direct,"USD 21,019.97",Q2-2023-Product Launch,"USD 2,121,683.61",12-12-2024,7,Buy N Large,"USD 4,582.47",Lead,153,EUR
+Frank Wilson,Europe,Phone,"USD 38,477.80",Q3-24-Cross-sell,"USD 80,079.52",02-03-2025,2112,Prestige Worldwide,USD 160.48,Proposal,290,GBP
+frank wilson,MEA,Direct Sales,"USD 43,823.66",Q4-2024-Retention,"USD 816,636.80",05-25-2024,3657,Hooli Inc,"USD 2,551.99",CL,421,JPY
+G. Lee,Africa,online,"USD 39,421.09",H2-2024-Cross-sell,"USD 368,939.27",12-24-2024,4689,PixelForge Studios,USD 948.43,Pending,191,JPY
+John Smith,Africa,call center,"USD 45,660.71",FY-2023-Spring Push,"USD 35,987.00",06-23-2024,702,Buy N Large,USD 102.82,Closed-Won,463,AUD
+L. Harris,ANZ,Reseller,"USD 38,431.29",Q3-2024-Brand Awareness,"USD 577,957.26",09-16-2024,2,Buy N Large,"USD 2,148.54",in progress,N/A,EUR
+E. Martinez,Europe,DIRECT,N/A,Q1-2023-Upsell,"USD 89,849.97",07-26-2024,920,QuickShip Logistics,"USD 4,278.57",qualified,166,GBP
+iris anderson,South America,call center,-,Q1-24-Social Push,"USD 1,558,453.12",02-23-2025,4078,QuickShip Logistics,"USD 3,344.32",Closed-Lost,156,JPY
+John Smith,Africa,Social Media,"USD 43,846.22",H1-24-Social Push,"USD 19,198.07",10-08-2025,1795,Virtucon,USD 757.48,CLOSED WON,63,CAD
+N/A,ASIAPAC,e-comm,-,Q3-2024-New Year Promo,"USD 76,037.76",02-16-2024,242,Buy N Large,USD 264.02,WON,437,GBP
+Leo Harris,N. America,ONLINE,"USD 49,294.06",Q3-2023-Cross-sell,"USD 259,852.80",09-27-2024,1929,Acme Corp,"USD 1,286.40",Proposal,-,USD
+N/A,ANZ,Email,"USD 23,693.95",H1-24-Black Friday,"USD 196,303.25",09-23-2025,3814,Oceanic Airlines,USD 713.83,qualified,494,AUD
+leo harris,EU,web,"USD 9,779.48",Q2-23-Holiday Sale,"USD 155,500.32",08-16-2024,,Buy N Large,"USD 1,340.52",LOST,378,GBP
+Leo Harris,??,email campaign,"USD 12,306.07",Q2-23-Cross-sell,"USD 201,747.77",04-24-2024,641,Buy N Large,"USD 3,592.66",CL,-,USD
+John Smith,NA,ecommerce,"USD 32,119.73",Q1-2024-Email Blast,"USD 1,233,038.70",N/A,4327,Buy N Large,"USD 4,566.81",Closed Lost,10,USD
+,Asia Pacific,field,"USD 17,056.09",H1-24-Brand Awareness,"USD 1,178,797.60",08-15-2024,2344,Buy N Large,"USD 2,754.20",pending,397,EUR
+K. White,ASIAPAC,PARTNER,"USD 23,613.53",FY-2023-Webinar Series,"USD 569,545.92",01-25-2024,36,Buy N Large,"USD 3,955.18",in progress,306,CAD
+iris anderson,United States,Affiliate,"USD 12,199.37",Q2-2023-Holiday Sale,"USD 98,528.45",11-13-2025,2220,Buy N Large,"USD 2,096.35",closed lost,484,GBP
+jake thomas,Europe,Field Sales,"USD 27,790.71",FY-23-Brand Awareness,"USD 1,235,713.38",10-28-2024,2353,FreshCart,"USD 3,778.94",Qualified,441,AUD
+E. Martinez,LATAM,social media,"USD 42,976.24",,"USD 297,445.92",08-04-2024,966,Buy N Large,USD 947.28,Closed Won,189,USD
+D. Brown,EMEA,online,"USD 41,206.27",Q1-23-Holiday Sale,"USD 401,009.64",12-24-2024,3400,Massive Dynamic,"USD 4,266.06",Won,57,
+Leo Harris,ANZ,Partner,N/A,Q4-2023-Brand Awareness,"USD 39,355.23",02-26-2025,3000,MomCorp,"USD 2,461.71",lead,N/A,EUR
+carol davis,Asia Pacific,Retail,"USD 25,224.10",H2-24-Brand Awareness,"USD 560,302.49",11-07-2024,null,Buy N Large,"USD 2,996.27",closed lost,177,AUD
+Iris Anderson,United Kingdom,reseller,"USD 19,622.72",H2-2023-Summer Blitz,"USD 5,073.24",12-15-2023,2645,Buy N Large,USD 422.77,CL,164,GBP
+B. Williams,APAC,ONLINE,"USD 45,108.43",,"USD 178,776.73",10-03-2024,1406,Buy N Large,USD 358.27,lead,140,USD
+N/A,Asia Pacific,retail,"USD 27,427.00",Q1-23-Brand Awareness,"USD 368,613.75",06-07-2024,4196,Buy N Large,"USD 4,914.85",Pending,430,CAD
+J. Doe,Britain,Referral,"USD 42,095.05",FY-2023-Social Push,"USD 808,302.80",12-11-2024,4277,Bluth Company,"USD 4,392.95",Won,198,AUD
+J. Doe,United Kingdom,phone,"USD 33,998.14",Q2-2024-Retention,"USD 414,295.16",03-02-2024,4292,Buy N Large,"USD 3,571.51",closed lost,256,USD
+M. Clark,ANZ,Social,null,H2-23-Email Blast,NULL,06-17-2025,2058,Buy N Large,USD 840.85,Won,107,JPY
+Iris Anderson,,field,"USD 39,673.17",FY-2023-Fall Campaign,"USD 1,431,402.30",04-29-2025,876,Buy N Large,"USD 4,724.10",pending,476,
+john smith,Europe,email campaign,"USD 32,637.11",,"USD 1,020,648.20",02-29-2024,null,Vandelay Ind,"USD 4,639.31",Closed Lost,161,EUR
+karen white,United States,Direct,"USD 49,726.26",H1-24-New Year Promo,"USD 42,878.76",N/A,1993,Buy N Large,NULL,Qualified,209,CAD
+,LATAM,Affiliate,"USD 43,323.72",Q2-24-Cross-sell,"USD 197,438.79",07-27-2025,1953,Buy N Large,USD 610.33,Qualified,225,GBP
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

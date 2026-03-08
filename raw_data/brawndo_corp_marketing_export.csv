@@ -1,0 +1,132 @@
+Umsatz,Abschluesse,Stueckpreis,Status,Firma,Werbeausgaben,Kampagne,Kanal,Vertreter,Produkt,Menge,Datum,Leads,Region,CUR
+831545,318,2253,Closed Won,Brawndo Corp,5235,Q1-2024-Cross-sell,in-store,,Service Plan Enterprise,369,20241107,4935,Africa,CAD
+82480,498,358,Qualified,Brawndo Corp,18175,H1-2024-Summer Blitz,Brick & Mortar,jane doe,Service Plan Enterprise,230.00,20241228,4186,ANZ,EUR
+79648,250,278,CLOSED LOST,Brawndo Corp,4067,Q4-2023-New Year Promo,retail,Frank Wilson,Widget B,286.00,20240301,3355,Africa,GBP
+715037,383,1659,Proposal,Brawndo Corp,20432,Q2-2024-Holiday Sale,Social,C. Davis,Service Plan Basic,431,20241002,768,N. America,
+189238,2,1931,Qualified,Brawndo Corp,7125,FY-2023-Spring Push,Direct Sales,Jane Doe,Gadget Mini,98.0,20241010,63,Middle East,AUD
+15826,-,177,WON,Brawndo Corp,17590,FY-2023-Trade Show,Reseller,Mia Clark,Security Bundle,89.0,20250810,351,United States,USD
+72380,16,731,WON,Brawndo Corp,4931,H1-2024-Summer Blitz,Referral,M. Clark,Widget Pro,99.00,20231115,1249,Latin America,JPY
+225412,194,655,CLOSED LOST,Brawndo Corp,3486,H1-23-Social Push,Reseller,Carol Davis,Support Tier 2,344.00,20240117,3782,North America,CAD
+NULL,95,2951,Closed Lost,Brawndo Corp,N/A,FY-24-Fall Campaign,affiliate,Jane Doe,Premium Onboarding,#REF!,20240909,3776,N. America,CAD
+#N/A,,#N/A,LOST,Weyland Corp,3939,H1-2024-Cross-sell,,Jane Doe,ERP Add-on,106,20250221,3740,EU,GBP
+458510,339,1200,closed won,Brawndo Corp,19768,H2-24-Brand Awareness,social,Henry Taylor,Cloud Storage 1TB,382,20240919,2225,EU,AUD
+7090,393,1012,PENDING,Brawndo Corp,43739,Q2-2024-Brand Awareness,affiliate,Jane Doe,Software License,7,20231123,1811,ANZ,JPY
+465731,320,2631,Closed Lost,Brawndo Corp,14394,H1-24-Brand Awareness,online,JOHN SMITH,Cloud Storage 5TB,177,20240515,,North America,EUR
+193530,492,-,pending,Cybertruck Co,47008,Q2-23-Product Launch,e-comm,Iris Anderson,Widget A,478,20241204,2524,Unknown,JPY
+1387784,-,3197,Closed Lost,FreshCart,22751,Q1-23-Fall Campaign,Channel Partner,E. Martinez,Analytics Dashboard,434.00,20241216,4586,Latin America,USD
+120470,92,4461,Negotiation,Brawndo Corp,7580,H1-2023-New Year Promo,Call Center,Frank Wilson,Widget B,27.00,20250420,-,Asia Pacific,AUD
+1273849,6,4095,CLOSED WON,Brawndo Corp,24339,,social,henry taylor,Gadget X,311.00,20250314,3547,US,CAD
+270233,205,1019,closed won,Globex Industries,28518,Q2-2024-Retention,Retail,Jake Thomas,Security Bundle,265,TBD,2462,United Kingdom,
+1368310,448,4801,proposal,Brawndo Corp,32760,,Social,jane doe,Service Plan Basic,285,20251006,2749,Europe,AUD
+640131,406,4414,WON,Stratton Oakmont,47568,H1-24-Retention,Call Center,Iris Anderson,CRM Module,145.0,20240627,3006,Unknown,CAD
+37794,59,561,closed lost,Brawndo Corp,17552,Q1-2024-Brand Awareness,,Iris Anderson,Marketing Suite,#REF!,20250603,,United Kingdom,AUD
+13534,1,30,CLOSED LOST,FreshCart,31469,Q2-2023-Summer Blitz,in-store,alice johnson,API Access,441.00,20250413,3608,EMEA,
+1522932,N/A,4573,WON,Brawndo Corp,14510,Q3-24-Holiday Sale,Web,N/A,Consulting Hours,333.0,20240320,2134,-,USD
+29515,395,3689,Qualified,Brawndo Corp,6462,H1-2024-Black Friday,Phone,L. Harris,Consulting Hours,8,20251101,828,Latin America,JPY
+442594,139,3882,Closed Lost,PixelForge Studios,N/A,FY-24-Brand Awareness,In-Store,John Smith,Support Tier 1,114,20240415,1295,United States,
+1483157,471,4414,closed won,Brawndo Corp,1253,FY-23-Fall Campaign,social,Frank Wilson,Cloud Storage 1TB,336.00,20240131,4640,UK,CAD
+396006,444,1760,proposal,Spacely Sprockets,21607,H1-23-Summer Blitz,ONLINE,H. Taylor,Hardware Unit,225.00,20250430,,N/A,
+179376,18,4270,Pending,NovaTech Solutions,46162,Q2-2023-Retention,ONLINE,henry taylor,Training Package,42,20250501,1649,MEA,AUD
+16278,159,1808,Lead,Brawndo Corp,36932,FY-2023-Retention,email,JOHN SMITH,Support Tier 2,9.00,20251005,2501,N. America,AUD
+1328515,413,4087,Closed Lost,Brawndo Corp,46999,H1-2023-Product Launch,Social,frank wilson,Software License,325.0,20250117,1634,North America,EUR
+597874,441,2657,pending,Dunder Mifflin,44773,FY-2023-Retention,Retail,JANE DOE,Premium Onboarding,225.0,20250923,-,USA,GBP
+132187,337,617,lead,Brawndo Corp,8464,Q4-2023-Spring Push,email,A. Johnson,Gadget Mini,214,20240922,2598,??,EUR
+167894,159,4537,Qualified,Brawndo Corp,30447,FY-24-Trade Show,email campaign,JOHN SMITH,Consulting Hours,37,20240820,3981,LATAM,JPY
+37952,167,NA,PENDING,Sterling Cooper,4075,Q3-24-Holiday Sale,online,John Smith,Support Tier 2,33,20250414,3599,Australia,
+809581,290,3174,pending,Soylent Corp,-,Q4-23-Holiday Sale,Reseller,Unassigned,Premium Onboarding,255,20231210,1094,N/A,EUR
+788833,142,4066,Lead,Bluth Company,44535,H1-2024-Webinar Series,ONLINE,carol davis,API Access,194,20240823,2609,US,
+532728,276,3832,Won,Brawndo Corp,5000,Q4-24-Holiday Sale,Retail,Unassigned,Service Plan Basic,139,20240903,2192,EMEA,EUR
+1107444,414,2899,closed lost,Umbrella Ltd,30049,FY-2023-Product Launch,referral,john smith,Software License,382,20250928,3127,North America,GBP
+759875,48,2093,Won,Brawndo Corp,26990,Q3-24-Social Push,Retail,Iris Anderson,Analytics Dashboard,363,20240606,2914,APAC,CAD
+413157,212,3755,pending,Brawndo Corp,24723,Q4-24-Retention,social,Eva Martinez,API Access,110.00,20240729,1713,MEA,JPY
+740761,247,2581,CW,Genco Pura,37419,,affiliate,bob williams,Gadget Mini,287.0,20250824,4985,EU,
+382188,168,2852,CW,,18552,Q4-23-Retention,social media,C. Davis,Widget A,134.0,20250214,2999,EMEA,CAD
+90396,372,1158,open,Oscorp Technologies,1928,Q1-2024-Black Friday,Telesales,TBD,Premium Onboarding,78.0,20241022,2741,Latin America,AUD
+187566,436,1786,Pending,Brawndo Corp,36566,Q3-2024-Retention,Field Sales,jane doe,Software Subscription,105,20240118,2998,South America,EUR
+191200,325,4345,Negotiation,FreshCart,46635,FY-23-Brand Awareness,Direct Sales,Henry Taylor,Service Plan Enterprise,44.0,20241009,846,NA,EUR
+901356,246,2177,open,Brawndo Corp,3048,H2-2024-Black Friday,retail,G. Lee,CRM Module,414.0,20250323,3841,??,EUR
+249659,-,1229,WON,Brawndo Corp,-,,email campaign,I. Anderson,Gadget Mini,203,20251026,4777,ASIAPAC,USD
+174116,162,3660,lead,Initech Solutions,25713,Q1-24-Product Launch,Online,Alice Johnson,Widget A,null,20240802,743,Latin America,GBP
+475622,306,1186,proposal,Brawndo Corp,47494,H2-23-Holiday Sale,phone,grace lee,Service Plan Basic,401.00,N/A,1667,South America,GBP
+160973,175,,Closed-Lost,Brawndo Corp,-,Q3-2023-Spring Push,RETAIL,I. Anderson,Cloud Storage 1TB,204.0,20251024,428,UK,CAD
+1217788,-,4428,pending,Brawndo Corp,28563,Q2-24-New Year Promo,Email Campaign,Carol Davis,Service Plan Pro,275,20250104,4647,UK,USD
+8502,67,1268,PENDING,Brawndo Corp,9009,,PARTNER,leo harris,Hardware Unit,#REF!,20240123,1056,EU,AUD
+592928,465,2080,CLOSED WON,Brawndo Corp,28093,Q1-2023-Product Launch,,F. Wilson,Support Tier 2,285.00,20240504,231,Asia Pacific,AUD
+276428,-,564,Lead,NovaTech Solutions,27348,Q4-2024-Upsell,Referral,frank wilson,,490,20251021,null,USA,
+639941,236,4210,Qualified,Cyberdyne Systems,44926,FY-24-Upsell,Call Center,eva martinez,Cloud Storage 1TB,152,20250113,154,Asia,JPY
+60268,495,3766,Closed Lost,Brawndo Corp,41608,Q1-2024-Summer Blitz,Brick & Mortar,H. Taylor,Hardware Unit,16.00,20231224,2193,LATAM,
+720895,209,2720,proposal,DataWave Inc,33344,Q1-24-Brand Awareness,Store,Eva Martinez,Software Subscription,265,null,4228,ANZ,
+227476,96,2916,Qualified,Brawndo Corp,33075,FY-24-Cross-sell,,henry taylor,Training Package,78.0,20250802,1757,North America,EUR
+361378,473,1481,closed won,Wayne Corp,4211,H2-2023-Trade Show,direct,frank wilson,Hardware Unit,244.0,20240501,3556,N. America,JPY
+1264310,,3208,open,Brawndo Corp,33697,,Brick & Mortar,B. Williams,CRM Module,394,20250716,717,-,JPY
+missing,197,2886,LOST,Brawndo Corp,9149,Q4-24-Fall Campaign,field,Unassigned,Gadget X,#REF!,20250201,3400,United Kingdom,USD
+1516,326,505,Closed Lost,Brawndo Corp,35789,H1-2024-Social Push,Social,N/A,Security Bundle,3,20250922,3863,MEA,JPY
+85316,280,682,closed won,Brawndo Corp,25308,H2-2023-Holiday Sale,DIRECT,john smith,Hardware Unit,125,20240507,1853,Britain,EUR
+2035,139,11,Closed-Lost,Brawndo Corp,15344,H2-2023-Email Blast,e-comm,karen white,Premium Onboarding,174,20240528,923,United Kingdom,GBP
+295880,119,3216,Closed-Lost,Brawndo Corp,23161,FY-23-Summer Blitz,social,leo harris,Cloud Storage 5TB,92.00,20240829,2463,LATAM,AUD
+1996960,341,4379,proposal,Brawndo Corp,44789,Q2-2023-Brand Awareness,Email,J. Thomas,Widget B,456.00,20240830,1144,-,JPY
+null,232,4316,lead,Brawndo Corp,26465,Q2-24-Brand Awareness,Field Sales,David Brown,Cloud Storage 5TB,,20241126,2155,ANZ,CAD
+411759,6,897,PENDING,Brawndo Corp,7087,Q2-23-Upsell,Call Center,david brown,Software License,459,20250720,2675,Asia Pacific,AUD
+1235815,220,3602,open,Brawndo Corp,12540,H1-2023-Black Friday,In-Store,B. Williams,-,343,20240714,-,,EUR
+183673,84,590,Closed-Won,Brawndo Corp,11167,Q4-2024-Webinar Series,Affiliate,mia clark,Cloud Storage 5TB,311,20250821,1940,APAC,AUD
+18093,125,NA,Closed-Won,Brawndo Corp,46905,H1-2023-Holiday Sale,retail,M. Clark,API Access,444.0,20250208,-,N/A,CAD
+59905,87,348,negotiation,Brawndo Corp,48425,Q3-24-Upsell,Direct Sales,B. Williams,Data Pipeline,172.0,20250616,4553,APAC,AUD
+1191911,400,2642,Negotiation,Brawndo Corp,28120,Q2-2023-Upsell,,,Gadget Mini,451,20240212,310,US,EUR
+65665,473,2432,pending,BlueOcean Retail,N/A,Q3-2023-Retention,call center,Grace Lee,Analytics Dashboard,27.00,20251012,3306,Asia Pacific,GBP
+704374,67,2317,Qualified,Brawndo Corp,582,Q1-24-Retention,,D. Brown,Service Plan Pro,304,20240719,248,United Kingdom,JPY
+2949,228,79,In Progress,Brawndo Corp,3203,H1-23-Summer Blitz,Referral,grace lee,API Access,37,20240126,1964,APAC,USD
+699840,205,1422,In Progress,Spacely Sprockets,44350,Q2-2024-Email Blast,referral,I. Anderson,Cloud Storage 1TB,492.00,20250318,3125,USA,CAD
+585589,421,1818,Lost,Buy N Large,6336,,Direct Sales,G. Lee,Cloud Storage 5TB,322,20241007,3689,United Kingdom,USD
+116128,321,439,CL,Pied Piper,44549,H1-23-Brand Awareness,affiliate,Carol Davis,Widget A,264.0,20250916,2028,South America,JPY
+88515,60,351,Proposal,Brawndo Corp,39936,H2-2024-Summer Blitz,PARTNER,alice johnson,Cloud Storage 1TB,252,20250316,4704,US,CAD
+219436,26,#N/A,Lost,Brawndo Corp,36125,FY-24-Summer Blitz,Channel Partner,henry taylor,Widget A,463,20250205,4153,Asia Pacific,USD
+617574,345,3489,Lost,Brawndo Corp,21852,Q2-24-Trade Show,Call Center,J. Doe,Data Pipeline,177.00,20240920,2110,ASIAPAC,AUD
+252371,404,2628,Pending,PixelForge Studios,9708,Q4-24-Social Push,Partner,Eva Martinez,Gadget X,96.0,20250422,2301,North America,CAD
+684320,140,3760,Closed-Lost,Brawndo Corp,14692,FY-2023-Summer Blitz,Reseller,Jake Thomas,-,182,20250320,2193,NA,GBP
+null,155,4609,PENDING,Tyrell Corporation,null,H2-23-Social Push,,Iris Anderson,Security Bundle,0,20240407,4706,UK,EUR
+106719,298,576,Closed-Lost,Cyberdyne Systems,23960,FY-24-Product Launch,Social,Iris Anderson,Service Plan Pro,185.0,20240805,1747,Asia Pacific,GBP
+1364009,182,2889,Lead,Brawndo Corp,7277,,Direct Sales,iris anderson,Premium Onboarding,472.00,20240507,3067,Asia,
+616708,242,1666,Closed Lost,Brawndo Corp,27494,Q4-23-Black Friday,RETAIL,David Brown,CRM Module,370,20250302,624,United Kingdom,AUD
+207476,195,3989,Open,Brawndo Corp,29834,H2-24-Summer Blitz,Retail,N/A,Cloud Storage 5TB,52.0,20240811,235,LATAM,GBP
+283870,173,1272,Proposal,,12932,Q4-23-Retention,online,Unassigned,Consulting Hours,223,20240403,1567,UK,AUD
+33571,312,987,Closed Won,SummitView Hotels,5767,H2-2024-Retention,email,I. Anderson,Software License,34.0,20250528,2430,Middle East,JPY
+467269,187,979,proposal,Brawndo Corp,36801,Q3-2023-Cross-sell,ecommerce,Iris Anderson,CRM Module,477,20240625,-,APAC,AUD
+1154821,279,3357,Qualified,Brawndo Corp,null,H1-2024-New Year Promo,social,iris anderson,API Access,344,20250125,,Britain,EUR
+78434,227,3734,qualified,Oceanic Airlines,null,Q1-2023-Spring Push,Reseller,karen white,Software License,21,20251008,N/A,Middle East,AUD
+745922,-,3044,Qualified,Brawndo Corp,23218,Q2-24-Email Blast,social media,K. White,CRM Module,245.00,20240716,1499,ANZ,USD
+1022489,232,3126,Closed Lost,Brawndo Corp,1424,Q1-23-Retention,,john smith,Service Plan Basic,327,20240403,2722,US,
+153014,206,-,CLOSED WON,Brawndo Corp,3840,Q2-2023-Social Push,Retail,J. Thomas,-,367,20240730,1536,Latin America,JPY
+1525858,137,3573,Qualified,Brawndo Corp,0,,Affiliate,bob williams,Gadget X,427.00,20250426,3395,??,USD
+#N/A,464,130,in progress,Cyberdyne Systems,21522,FY-2023-Email Blast,ecommerce,K. White,-,null,pending,4516,UK,AUD
+142835,393,3758,CL,Prestige Worldwide,28977,H2-2023-Upsell,DIRECT,Eva Martinez,CRM Module,38,20240904,,Britain,USD
+25585,85,4349,Negotiation,Brawndo Corp,5150,Q2-23-Trade Show,partner,jake thomas,Consulting Hours,N/A,20250505,138,UK,JPY
+231128,361,2027,Closed-Lost,Brawndo Corp,28768,Q3-2024-Social Push,Phone,henry taylor,Support Tier 2,114.00,,N/A,??,GBP
+1975225,282,4551,proposal,Cyberdyne Systems,0,H1-24-Upsell,Call Center,bob williams,Security Bundle,434,20251104,4554,EU,CAD
+219081,208,4762,LOST,Brawndo Corp,9788,H2-24-Brand Awareness,Referral,D. Brown,Analytics Dashboard,46.0,20250723,2197,ASIAPAC,
+177815,268,1422,negotiation,Brawndo Corp,27196,H1-23-Cross-sell,in-store,Jane Doe,Analytics Dashboard,125.00,20250730,15,Britain,
+721326,377,2661,qualified,Brawndo Corp,36202,,reseller,mia clark,Widget A,271,20250315,1458,US,GBP
+221367,425,2151,Lost,Brawndo Corp,1431,Q3-2024-Spring Push,Field Sales,JOHN SMITH,Marketing Suite,-,20240725,129,US,USD
+45509,447,3250,open,Oceanic Airlines,47431,Q4-24-Summer Blitz,Phone,frank wilson,Gadget X,14.0,20241025,1651,Middle East,USD
+112865,169,362,LOST,Dharma Initiative,5866,FY-2024-Product Launch,Telesales,K. White,Widget Pro,311.00,20241028,3213,Asia,JPY
+2418,326,1403,CL,Brawndo Corp,38344,Q3-23-Product Launch,web,Karen White,Gadget X,N/A,20250521,238,North America,JPY
+210358,33,1113,LOST,Brawndo Corp,20849,H1-2023-Email Blast,Website,G. Lee,ERP Add-on,189.00,20240915,N/A,United States,AUD
+null,270,1727,Won,Brawndo Corp,48299,H2-2023-Social Push,web,Jane Doe,Premium Onboarding,0,20240428,3423,USA,USD
+903454,395,4562,open,TrueNorth Financial,45257,FY-2023-Email Blast,Social Media,C. Davis,API Access,198.00,20250819,73,United Kingdom,USD
+368292,450,4003,PENDING,Cybertruck Co,20182,,e-comm,J. Thomas,Gadget Mini,92.0,20250618,3512,Latin America,JPY
+1210280,59,4007,In Progress,Brawndo Corp,40069,FY-24-Cross-sell,Field Sales,B. Williams,Service Plan Enterprise,302.00,20240922,N/A,USA,EUR
+1714262,478,4452,Closed Lost,BrightPath Media,23321,,Retail,Henry Taylor,Training Package,385.00,20250825,3660,SA,AUD
+1038499,133,2520,CW,Brawndo Corp,44079,Q1-2024-Black Friday,ecommerce,Unassigned,MISC,412.00,20240217,,North America,GBP
+436548,291,1280,Closed Won,Brawndo Corp,47006,H2-24-Spring Push,call center,Iris Anderson,Service Plan Enterprise,341,20240522,1029,United Kingdom,EUR
+505614,N/A,3348,CLOSED WON,Omni Consumer Products,1736,,DIRECT,jake thomas,Software Subscription,151.0,20250813,null,NA,GBP
+NULL,114,N/A,open,Brawndo Corp,24892,Q1-23-Fall Campaign,direct,Jane Doe,Marketing Suite,485.0,20250111,1523,ANZ,AUD
+68119,311,1946,Proposal,Brawndo Corp,30192,H1-24-Summer Blitz,Reseller,N/A,Consulting Hours,35.00,20241121,4883,Europe,USD
+1424170,70,3327,Won,Brawndo Corp,49054,Q1-23-Social Push,online,D. Brown,Analytics Dashboard,428,20240416,84,NA,USD
+79450,379,2895,CLOSED LOST,Brawndo Corp,19326,Q4-24-Holiday Sale,social media,John Smith,Premium Onboarding,,N/A,3505,Asia Pacific,USD
+237977,218,-,CW,Brawndo Corp,N/A,Q2-23-Email Blast,,David Brown,Service Plan Pro,89,N/A,3478,N. America,
+243800,,1434,PENDING,TrueNorth Financial,44408,Q1-2024-Upsell,call center,,Premium Onboarding,170,20250109,2988,United States,GBP
+292115,333,611,Negotiation,Brawndo Corp,5087,H1-23-Black Friday,reseller,Carol Davis,Cloud Storage 1TB,478,20240509,3561,Latin America,CAD
+1747839,441,4380,closed lost,Brawndo Corp,-,Q3-2024-Summer Blitz,field,john smith,Security Bundle,399,20250830,3816,Asia Pacific,GBP
+124325,9,535,Pending,Brawndo Corp,44605,H1-2024-Summer Blitz,Social,Bob Williams,Security Bundle,#REF!,20250312,2193,N. America,
+572770,431,1397,CW,Brawndo Corp,17759,Q1-2023-Product Launch,E-Commerce,M. Clark,CRM Module,410,20240221,4683,US,GBP
+168024,133,1377,PENDING,Brawndo Corp,6771,H1-23-Social Push,E-Commerce,Iris Anderson,Widget Pro,122,20250319,600,EU,CAD
+622858,30,3278,WON,Soylent Corp,20110,,PARTNER,Jane Doe,Security Bundle,190,20240123,3688,EU,EUR

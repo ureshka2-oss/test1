@@ -1,0 +1,34 @@
+SALES_REP,LEADS,CONVERSIONS,CHANNEL,QTY,CAMPAIGN,REVENUE,COMPANY,UNIT_PRICE,DATE,AD_SPEND,STATUS,REGION,ccy
+N/A,2648,26,email campaign,#REF!,Q3-23-Summer Blitz,,Rekall Inc,"1539,38",07-15-2024,"14036,70",Closed Won,Africa,USD
+mia clark,786,469,email,440,H2-23-Upsell,"501432,80",Rekall Inc,"1139,62",04-08-2025,"29534,38",Lost,United States,
+frank wilson,1331,484,e-comm,277,Q3-2023-Email Blast,"590835,46",Rekall Inc,"2132,98",09-19-2023,"30675,55",Won,UK,
+JANE DOE,3044,351,affiliate,458,Q1-2023-Fall Campaign,"792555,26",Rekall Inc,"1730,47",09-02-2023,"3572,33",closed lost,Asia Pacific,EUR
+john smith,427,-,call center,170,H2-24-Trade Show,"335802,70",,"1975,31",07-18-2023,"10834,56",In Progress,N. America,USD
+bob williams,2938,451,,null,H2-2024-Retention,"122762,12",Rekall Inc,"1921,73",09-29-2023,"32979,00",CL,Britain,CAD
+bob williams,1518,-,partner,293.0,H1-24-New Year Promo,"187083,43",Rekall Inc,"638,51",11-23-2023,"38925,93",pending,USA,GBP
+mia clark,1479,356,in-store,408.0,Q4-2023-Social Push,"1166272,08",Rekall Inc,"2858,51",04-21-2024,"49098,37",Lead,N/A,
+A. Johnson,3937,77,reseller,437.0,FY-2023-Product Launch,"1212124,38",Rekall Inc,"2773,74",07-27-2023,"32670,04",Lead,US,GBP
+F. Wilson,2235,266,online,234.00,FY-2024-Summer Blitz,"766359,36",Rekall Inc,"3275,04",09-11-2023,"16100,52",CLOSED LOST,US,EUR
+jane doe,2916,365,ONLINE,212.00,FY-2023-Summer Blitz,"30846,00",Rekall Inc,"145,50",TBD,"25632,45",Pending,South America,AUD
+N/A,3865,354,direct,193,Q3-24-Upsell,"392899,75",Rekall Inc,"2035,75",02-05-2024,"24619,73",Lead,APAC,GBP
+henry taylor,3170,249,In-Store,362.00,H2-24-Spring Push,"925898,26",Rekall Inc,"2557,73",01-20-2025,"12866,58",Closed-Won,APAC,EUR
+G. Lee,-,344,call center,336,Q3-2023-Black Friday,"204187,20",Rekall Inc,"607,70",07-12-2024,0,CL,LATAM,JPY
+john smith,22,477,affiliate,0,,"229593,50",Rekall Inc,"3085,12",06-14-2024,"3507,61",Closed Lost,South America,JPY
+Alice Johnson,2903,294,referral,178,Q3-24-Upsell,"796475,24",Rekall Inc,"4474,58",04-17-2025,"29726,66",CLOSED WON,ASIAPAC,EUR
+Frank Wilson,2422,421,retail,182.00,Q3-2024-Email Blast,"464771,58",Rekall Inc,"2553,69",11-21-2024,,Proposal,MEA,AUD
+henry taylor,,329,Field Sales,462,,"2218958,28",,"4802,94",02-21-2024,"17303,97",in progress,UK,EUR
+leo harris,1654,143,Online,137,Q4-2023-Brand Awareness,"455882,57",Tyrell Corporation,"3327,61",N/A,"4139,05",Negotiation,Australia,CAD
+carol davis,2964,312,DIRECT,N/A,H1-2023-Black Friday,"141120,43",Rekall Inc,"2501,29",01-27-2024,"21328,53",negotiation,Britain,EUR
+D. Brown,4398,67,,384,Q4-24-Cross-sell,"96072,96",Rekall Inc,"250,19",02-06-2025,"3532,78",Closed-Lost,NA,AUD
+Iris Anderson,1223,409,Telesales,182.0,Q3-2023-Black Friday,-,Pied Piper,N/A,04-28-2024,"35147,95",CLOSED LOST,Middle East,
+J. Doe,3082,149,Email,254,FY-2023-Product Launch,"594801,96",Rekall Inc,"2341,74",11-21-2024,"5058,64",lead,South America,JPY
+Bob Williams,3124,445,Channel Partner,312,Q2-24-Summer Blitz,"963147,12",Massive Dynamic,"3087,01",09-07-2023,"27157,56",CLOSED WON,NA,USD
+david brown,1769,355,DIRECT,377,Q2-2023-Cross-sell,"676021,32",Rekall Inc,"1793,16",10-26-2023,"2742,68",Won,N/A,GBP
+JOHN SMITH,103,249,Phone,76.0,,"151221,76",Cogswell Cogs,"1989,76",10-28-2024,"43760,85",CL,N. America,USD
+J. Doe,4326,390,PARTNER,159,Q1-2023-Spring Push,"500082,03",Rekall Inc,"3145,17",10-13-2023,"9293,73",PENDING,SA,AUD
+Eva Martinez,3341,18,DIRECT,172,Q2-24-Spring Push,"708325,24",Rekall Inc,"4118,17",12-12-2024,"13400,89",CLOSED WON,NA,
+John Smith,14,431,Website,372,,"1727047,20",Rekall Inc,"4642,60",07-06-2024,"1390,97",negotiation,SA,USD
+John Smith,1737,279,Field Sales,-,H2-2023-Product Launch,"246502,25",Rekall Inc,missing,02-05-2024,"21939,91",Negotiation,USA,AUD
+David Brown,1549,71,social,291.00,FY-24-Upsell,"1011742,98",Oscorp Technologies,"3476,78",12-23-2023,"48790,08",CL,Middle East,CAD
+Eva Martinez,912,322,online,290,H1-2024-New Year Promo,"495183,70",Pinnacle Analytics,"1707,53",04-27-2025,"23783,84",CW,N. America,GBP
+Jake Thomas,163,251,Web,373,H1-2023-Fall Campaign,"7262,31",Rekall Inc,"19,47",01-06-2024,"5659,36",negotiation,Australia,CAD

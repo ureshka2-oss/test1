@@ -1,0 +1,78 @@
+QTY,REGION,REVENUE,DATE,SALES_REP,LEADS,UNIT_PRICE,CONVERSIONS,COMPANY,AD_SPEND,CAMPAIGN,PRODUCT,STATUS,CHANNEL,Waehrung
+308,Middle East,936298,28-Oct-2023,Karen White,3209,3039,27,Dunder Mifflin,5725,H1-2023-Retention,Widget A,LOST,e-comm,CAD
+223,NA,450448,01-Nov-2023,John Smith,4350,2019,346,,11390,Q3-2024-Summer Blitz,Marketing Suite,CLOSED LOST,ONLINE,GBP
+325,Asia Pacific,1056558,02-Jul-2024,JOHN SMITH,3559,3250,313,BrightPath Media,37058,H2-2024-Webinar Series,MISC,LOST,Direct Sales,EUR
+188.0,UK,N/A,11-Aug-2024,Jake Thomas,973,NA,201,Cybertruck Co,37772,H1-23-Retention,,WON,Affiliate,AUD
+379,Britain,1873188,07-Jul-2024,Jane Doe,4879,4942,396,BrightPath Media,22582,H1-23-Product Launch,Marketing Suite,Negotiation,Email Campaign,GBP
+43.0,United Kingdom,81833,11-Apr-2024,david brown,2209,1903,44,BrightPath Media,20461,,Widget Pro,In Progress,Field Sales,
+156,United Kingdom,543801,11-Jan-2024,eva martinez,401,3485,133,BrightPath Media,42744,H1-2024-Summer Blitz,Gadget Mini,Won,,
+N/A,APAC,12682,19-Jan-2024,Henry Taylor,4694,1208,438,BrightPath Media,37287,,Widget B,Open,Website,
+251,ANZ,805775,22-Apr-2024,mia clark,1507,3210,277,MomCorp,,H2-2023-Trade Show,N/A,qualified,web,JPY
+449,EU,661130,24-Jan-2024,Bob Williams,2749,1472,113,Stratton Oakmont,44353,H1-24-Brand Awareness,Cloud Storage 1TB,closed won,Email,AUD
+204,Africa,978524,30-Jul-2024,J. Doe,259,4796,N/A,BrightPath Media,35171,,ERP Add-on,Qualified,E-Commerce,AUD
+363.00,South America,1259366,28-May-2025,mia clark,1043,3469,0,Oceanic Airlines,38564,Q2-24-Social Push,CRM Module,Closed Lost,E-Commerce,CAD
+#REF!,ANZ,90117,20-Nov-2024,john smith,N/A,4371,87,DataWave Inc,36680,Q3-2024-Summer Blitz,Hardware Unit,closed lost,social media,
+122,ANZ,519147,11-Jun-2025,Carol Davis,N/A,4255,394,BrightPath Media,23356,H1-24-Trade Show,Software Subscription,Pending,ecommerce,USD
+40.0,N. America,196479,25-Dec-2023,mia clark,3658,4911,,BrightPath Media,5490,,API Access,CL,reseller,CAD
+266,United Kingdom,433212,05-Oct-2023,iris anderson,2902,1628,444,BrightPath Media,30542,Q2-24-Retention,Software Subscription,proposal,in-store,JPY
+149.00,Australia,682777,29-Sep-2023,david brown,4270,4582,153,BrightPath Media,36787,H2-23-Retention,Training Package,in progress,phone,GBP
+155.00,Africa,444310,02-May-2024,Henry Taylor,3321,2866,472,Stratton Oakmont,31971,Q3-2024-Holiday Sale,Cloud Storage 1TB,WON,email,GBP
+193.0,N. America,463209,24-Aug-2024,,857,2400,,BrightPath Media,,H1-23-Webinar Series,N/A,In Progress,retail,USD
+-,USA,95479,29-Apr-2025,Grace Lee,3748,2504,441,Krusty Burger LLC,49333,Q1-2023-Brand Awareness,Premium Onboarding,proposal,retail,CAD
+386.0,-,1238932,N/A,mia clark,1240,3209,315,Wonka Enterprises,7086,H2-23-Black Friday,Consulting Hours,Qualified,direct,JPY
+440.0,ANZ,218064,16-May-2024,David Brown,4955,495,96,Buy N Large,37998,FY-2023-Retention,Widget Pro,CLOSED LOST,Reseller,EUR
+322.00,N. America,958677,25-Feb-2024,Jake Thomas,2262,2977,469,DataWave Inc,39106,Q2-2024-Upsell,Premium Onboarding,Won,call center,
+335,APAC,82386,21-Sep-2023,Mia Clark,76,245,338,BrightPath Media,35066,Q1-2023-New Year Promo,Gadget X,pending,In-Store,
+458,Asia,113034,N/A,John Smith,3504,246,352,Stratton Oakmont,46643,H2-24-New Year Promo,Security Bundle,lead,Web,CAD
+N/A,United Kingdom,167895,11-Apr-2025,bob williams,961,4024,386,BrightPath Media,10305,H1-24-Trade Show,Hardware Unit,Open,DIRECT,GBP
+468.0,Middle East,1258873,01-Oct-2024,J. Doe,4326,2689,39,BrightPath Media,45154,H1-2024-Fall Campaign,Cloud Storage 5TB,Pending,in-store,JPY
+499.00,UK,1740262,14-Nov-2023,Unassigned,2955,3487,,BrightPath Media,10063,,Software Subscription,CLOSED WON,ecommerce,GBP
+0,Middle East,166722,04-Jan-2024,Unassigned,-,1869,146,,33734,Q2-2023-Social Push,Gadget Mini,Closed Lost,phone,GBP
+333.0,NA,279073,04-Dec-2024,jane doe,4839,838,291,BrightPath Media,17994,,API Access,lead,affiliate,USD
+445,MEA,766570,14-Nov-2023,john smith,3301,1722,311,BrightPath Media,43959,Q1-23-Social Push,Training Package,Closed Won,DIRECT,GBP
+459,APAC,211245,13-Sep-2024,carol davis,2157,460,137,BrightPath Media,4925,FY-23-Trade Show,Analytics Dashboard,closed won,phone,CAD
+15.0,Europe,65647,,M. Clark,3017,4376,258,HealthPlus Pharma,0,Q4-2024-Email Blast,Analytics Dashboard,LOST,Direct Sales,JPY
+361,Australia,1034557,04-Feb-2025,David Brown,1039,2865,67,Dunder Mifflin,33844,H1-24-Cross-sell,Hardware Unit,CLOSED WON,Website,CAD
+461,Asia Pacific,1864477,22-Mar-2025,Unassigned,2524,4044,202,BrightPath Media,3744,H2-2023-Retention,Widget Pro,pending,,CAD
+5.00,Europe,7307,30-Oct-2023,henry taylor,1600,1461,279,BrightPath Media,-,,ERP Add-on,qualified,Online,GBP
+275,Middle East,449154,15-Nov-2023,karen white,3183,1633,300,BrightPath Media,8709,FY-24-Social Push,Widget Pro,Negotiation,ecommerce,EUR
+437,LATAM,552250,09-Oct-2024,jane doe,-,1263,304,BrightPath Media,,Q3-24-Email Blast,ERP Add-on,negotiation,Social Media,GBP
+356,North America,658069,11-Jan-2025,J. Doe,3755,1848,357,BrightPath Media,10969,Q2-23-New Year Promo,Software Subscription,Lost,e-comm,AUD
+401.0,South America,1160686,30-Apr-2024,mia clark,3114,2894,348,BrightPath Media,9620,Q4-2024-Product Launch,Support Tier 2,PENDING,Affiliate,
+425,Britain,527603,11-Oct-2024,JANE DOE,1941,1241,377,BrightPath Media,31675,Q2-2024-Email Blast,Widget B,open,direct,AUD
+462.00,United States,757929,13-Apr-2024,henry taylor,4074,1640,N/A,Pied Piper,2528,H1-23-New Year Promo,Gadget X,CL,Direct Sales,JPY
+192,South America,490861,10-Jun-2024,karen white,1419,2556,250,BrightPath Media,31008,Q1-23-Fall Campaign,Support Tier 1,Open,affiliate,CAD
+99,Africa,164020,31-Dec-2024,D. Brown,1582,1656,438,BrightPath Media,16463,Q1-2024-Fall Campaign,Service Plan Enterprise,Closed Won,Brick & Mortar,CAD
+267.0,ASIAPAC,451894,26-May-2024,frank wilson,N/A,1692,67,BrightPath Media,6245,FY-2023-Product Launch,Software License,proposal,Web,AUD
+304.00,North America,1122316,27-Jan-2024,J. Thomas,4612,3691,428,Krusty Burger LLC,8860,,-,Closed Lost,,CAD
+400,North America,1466404,17-Aug-2024,I. Anderson,,3666,261,BrightPath Media,18447,Q1-2023-Holiday Sale,Widget A,closed won,Online,EUR
+347.0,Latin America,1613536,19-Jul-2024,Henry Taylor,3318,4649,95,BrightPath Media,null,Q4-23-Product Launch,N/A,CW,web,AUD
+192.0,North America,741667,14-Mar-2025,J. Doe,1160,3862,175,BrightPath Media,23860,H2-23-Black Friday,Widget B,Qualified,online,
+89.00,USA,404236,pending,Leo Harris,3375,4541,245,BrightPath Media,10052,H1-2024-Cross-sell,Analytics Dashboard,Qualified,,CAD
+436.0,United States,1991028,31-Jan-2025,Unassigned,1526,4566,492,BrightPath Media,0,Q1-24-New Year Promo,ERP Add-on,Open,e-comm,
+359,North America,771494,04-May-2025,N/A,3645,2149,-,BrightPath Media,34732,Q2-23-Summer Blitz,Gadget X,Won,DIRECT,EUR
+197,Africa,177085,19-Sep-2023,Eva Martinez,2620,898,39,BrightPath Media,2728,H1-2023-Product Launch,Hardware Unit,Lead,DIRECT,GBP
+280,,1068149,N/A,,3260,3814,321,Spacely Sprockets,4213,H1-2024-New Year Promo,Widget Pro,PENDING,Retail,AUD
+458.00,SA,752581,12-Nov-2024,E. Martinez,4175,1643,362,BrightPath Media,0,Q4-24-Trade Show,Data Pipeline,in progress,,CAD
+93,EMEA,256005,31-Mar-2025,Mia Clark,null,2752,71,BrightPath Media,35790,Q1-23-Upsell,Support Tier 1,Open,social media,CAD
+422,EU,1448721,17-Mar-2024,,3632,3432,47,Nakatomi Trading,47119,,Support Tier 2,qualified,affiliate,USD
+26.0,??,69096,25-Mar-2025,leo harris,42,2657,500,BrightPath Media,43932,Q2-24-Black Friday,Widget B,proposal,call center,EUR
+33.0,Middle East,51962,27-Sep-2024,Mia Clark,780,1574,372,BrightPath Media,19305,H1-2023-Spring Push,Service Plan Basic,PENDING,affiliate,
+193,Europe,702025,04-Aug-2023,A. Johnson,762,3637,,BrightPath Media,18687,Q1-2023-Retention,Support Tier 1,CLOSED WON,Web,CAD
+393,APAC,1433585,03-Feb-2024,F. Wilson,4417,3647,440,BrightPath Media,26489,Q2-2023-Trade Show,Other,Pending,Telesales,CAD
+392,Middle East,113127,11-Feb-2024,Unassigned,2125,288,207,BrightPath Media,28644,H2-2024-Cross-sell,Cloud Storage 1TB,Negotiation,DIRECT,
+499.00,Latin America,1755816,28-Apr-2024,H. Taylor,22,3518,,QuickShip Logistics,47477,Q1-2023-Social Push,Service Plan Enterprise,Pending,Direct,GBP
+480,APAC,2116252,01-Feb-2025,Iris Anderson,4233,4408,346,BrightPath Media,22507,Q2-2024-Trade Show,Widget B,CL,Social,CAD
+,Europe,148495,09-Feb-2025,Leo Harris,4613,3509,346,Nakatomi Trading,21579,,Cloud Storage 5TB,Proposal,Email,JPY
+279.00,United States,480842,pending,David Brown,null,1723,392,BrightPath Media,12468,H1-2023-Trade Show,Service Plan Enterprise,open,PARTNER,GBP
+77,Europe,71107,16-Jul-2025,Henry Taylor,4607,923,213,BrightPath Media,10246,Q4-24-Summer Blitz,Service Plan Pro,closed won,Social,AUD
+N/A,United States,139928,31-Aug-2024,David Brown,4039,3896,85,BrightPath Media,3938,Q2-23-Upsell,Hardware Unit,Won,Online,CAD
+195.00,MEA,321956,08-Jul-2024,Eva Martinez,1645,1651,90,Vandelay Ind,31681,FY-2024-Black Friday,Support Tier 1,LOST,call center,EUR
+364,Australia,890362,04-Jul-2025,N/A,1377,2446,289,Cybertruck Co,28678,H1-24-Retention,Widget B,proposal,Telesales,EUR
+327.0,Asia,831937,12-Apr-2025,JOHN SMITH,3722,2544,392,BrightPath Media,35824,FY-2024-Spring Push,ERP Add-on,Qualified,phone,GBP
+315.0,United Kingdom,206892,03-Aug-2023,M. Clark,908,656,440,BrightPath Media,33140,Q3-24-Black Friday,Service Plan Basic,Proposal,email campaign,CAD
+255,United Kingdom,1023842,05-Aug-2024,Grace Lee,N/A,4015,8,Pinnacle Analytics,14830,Q2-23-Upsell,Cloud Storage 1TB,Open,Social,GBP
+15.0,MEA,12280,08-Jul-2025,Leo Harris,164,818,495,BrightPath Media,32403,Q1-2024-New Year Promo,Software Subscription,negotiation,Social Media,GBP
+462,N. America,2050508,15-Sep-2023,iris anderson,269,4438,435,Pinnacle Analytics,41052,Q1-24-Fall Campaign,Marketing Suite,qualified,Social,AUD
+246.00,South America,1148532,24-Jul-2025,frank wilson,1199,4668,147,BrightPath Media,32833,Q2-2024-Email Blast,Analytics Dashboard,negotiation,E-Commerce,AUD
+118.00,ANZ,204620,28-Jan-2025,Unassigned,128,1734,34,BrightPath Media,35193,,Support Tier 1,Pending,in-store,

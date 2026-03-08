@@ -1,0 +1,63 @@
+Price Per Unit,Deal Status,Geographic Region,Campaign ID,Sales Channel,Closed Deals,Marketing Spend,Total Amount,Marketing Leads,Company Name,Product / Service,Transaction Date,Units Sold,Account Executive,CUR
+4084,CW,EU,Q3-2024-Cross-sell,E-Commerce,61,13805,200149,null,DataWave Inc,Training Package,08/05/2023,49,B. Williams,JPY
+3293,Lead,ANZ,Q2-2024-New Year Promo,Phone,449,20782,948525,1452,Initech Solutions,Other,09/08/2024,288.0,N/A,JPY
+4982,lead,MEA,H2-2023-Black Friday,ONLINE,230,32068,1913191,1153,DataWave Inc,Support Tier 2,24/01/2025,384.0,Grace Lee,JPY
+469,WON,LATAM,Q1-2024-Product Launch,Call Center,336,47976,19229,2310,,Service Plan Enterprise,17/01/2024,41,henry taylor,GBP
+1419,WON,United Kingdom,,email campaign,304,42562,701420,3110,GreenLeaf Energy,Gadget Mini,27/07/2024,494.00,John Smith,GBP
+4650,open,Latin America,Q2-2023-Trade Show,Channel Partner,-,19830,832518,3793,DataWave Inc,Data Pipeline,07/08/2023,179,iris anderson,AUD
+2144,Closed Won,ASIAPAC,H2-2023-Cross-sell,online,310,0,761187,3981,DataWave Inc,Software License,17/05/2023,355.00,grace lee,AUD
+479,Won,Australia,Q2-2024-Cross-sell,Web,229,7768,214959,1124,DataWave Inc,Service Plan Enterprise,13/06/2024,448.0,david brown,
+2642,In Progress,Latin America,Q2-23-Spring Push,In-Store,3,45862,1252706,1393,DataWave Inc,Hardware Unit,02/02/2024,474,K. White,AUD
+3468,open,Asia,Q4-24-Brand Awareness,Call Center,70,29874,1654379,4640,DataWave Inc,Widget A,01/06/2023,477.0,Jake Thomas,AUD
+N/A,Closed Won,US,Q2-2024-Trade Show,E-Commerce,39,29010,127248,3979,DataWave Inc,Service Plan Pro,08/06/2024,121,John Smith,USD
+3910,Proposal,Middle East,H2-24-Spring Push,Direct,395,N/A,293295,4577,DataWave Inc,Data Pipeline,30/04/2024,75,mia clark,AUD
+4528,LOST,EMEA,Q4-23-Social Push,Call Center,-,N/A,339672,3994,DataWave Inc,Analytics Dashboard,20/02/2024,75,A. Johnson,
+3750,CW,N. America,FY-2024-Holiday Sale,Affiliate,345,17678,1758782,802,,Support Tier 2,02/11/2023,469,Karen White,CAD
+3145,Qualified,Middle East,H1-23-Product Launch,,184,13147,742333,3999,DataWave Inc,Premium Onboarding,10/06/2024,236.00,Karen White,EUR
+261,Lost,United States,Q3-2023-Social Push,Partner,430,48933,91898,4233,DataWave Inc,Premium Onboarding,26/09/2023,351,eva martinez,JPY
+451,In Progress,Latin America,Q1-24-Black Friday,web,145,4105,166884,1918,DataWave Inc,Widget B,08/08/2023,370,C. Davis,CAD
+2048,Lead,United Kingdom,FY-2024-Brand Awareness,phone,379,5341,512130,1164,DataWave Inc,Gadget Mini,05/07/2023,250.0,mia clark,GBP
+90,Qualified,UK,FY-24-Black Friday,online,432,20807,24271,1085,DataWave Inc,Service Plan Basic,24/12/2023,269,Unassigned,GBP
+4999,Negotiation,LATAM,Q3-24-Webinar Series,ecommerce,414,6668,2414681,2136,DataWave Inc,Cloud Storage 1TB,10/08/2023,483.00,Bob Williams,JPY
+521,Won,US,H1-2024-New Year Promo,,391,33275,218449,2502,Wonka Enterprises,Training Package,,419.0,Carol Davis,
+2872,Closed-Won,LATAM,Q4-24-Holiday Sale,DIRECT,499,14581,14362,2170,SummitView Hotels,Data Pipeline,25/09/2023,5.0,Unassigned,GBP
+662,qualified,Middle East,,E-Commerce,467,16385,42403,null,Bluth Company,Service Plan Basic,21/08/2024,64.0,E. Martinez,USD
+2207,Proposal,USA,,Email Campaign,71,44705,N/A,740,AgriGrow Corp,Hardware Unit,26/05/2023,0,Leo Harris,
+2673,lead,MEA,Q1-2023-Trade Show,call center,120,6397,#N/A,4693,DataWave Inc,Service Plan Enterprise,05/11/2023,N/A,Henry Taylor,GBP
+2884,CW,Middle East,Q2-24-New Year Promo,ecommerce,292,42629,204832,2584,DataWave Inc,Security Bundle,10/01/2024,71.0,david brown,USD
+3412,LOST,SA,Q2-24-Cross-sell,Store,107,,1419416,1466,DataWave Inc,Widget B,27/07/2024,416.0,I. Anderson,
+null,Closed Lost,Asia,Q2-24-Holiday Sale,Phone,1,N/A,19855,4859,DataWave Inc,Support Tier 2,05/09/2023,149.0,Unassigned,EUR
+4876,qualified,USA,Q4-23-Cross-sell,Field Sales,198,,1555568,477,CloudNine SaaS,Software Subscription,13/01/2024,319.0,karen white,JPY
+2634,Closed Lost,LATAM,Q2-2024-Summer Blitz,partner,-,36444,453139,786,DataWave Inc,Consulting Hours,06/12/2023,172.0,karen white,AUD
+3472,in progress,N. America,H1-2023-Black Friday,referral,419,35655,350769,1741,DataWave Inc,Cloud Storage 1TB,16/12/2024,101,Leo Harris,USD
+3255,closed won,Europe,H1-2023-Trade Show,DIRECT,257,38246,1246990,3503,DataWave Inc,ERP Add-on,18/10/2024,383,A. Johnson,GBP
+220,Pending,EMEA,Q3-23-Summer Blitz,retail,277,25017,81033,2392,DataWave Inc,Support Tier 2,25/08/2023,368.00,alice johnson,JPY
+1408,Closed Won,Africa,Q4-2023-Webinar Series,Brick & Mortar,422,6590,312713,1569,Pied Piper,Widget B,05/10/2023,222,henry taylor,CAD
+2184,Proposal,North America,Q1-23-Trade Show,Telesales,190,33729,#N/A,1218,DataWave Inc,Support Tier 2,01/03/2024,N/A,D. Brown,AUD
+4112,Closed-Lost,Africa,Q3-2023-Summer Blitz,E-Commerce,400,9499,1883483,4527,DataWave Inc,Data Pipeline,08/10/2023,458.0,E. Martinez,GBP
+1584,In Progress,ASIAPAC,Q4-2023-Black Friday,email campaign,226,43154,80830,1308,DataWave Inc,Support Tier 2,29/09/2023,51,karen white,CAD
+3405,pending,NA,Q1-23-Cross-sell,,11,47520,173669,3714,DataWave Inc,Data Pipeline,17/08/2023,51.0,grace lee,
+2185,Lost,APAC,H1-2024-Product Launch,Brick & Mortar,387,1397,152963,3418,DataWave Inc,Service Plan Basic,04/02/2024,70.00,JANE DOE,AUD
+3070,Closed Won,Australia,,social media,90,2038,1179152,null,DataWave Inc,Gadget X,23/02/2024,384.0,JOHN SMITH,AUD
+3776,open,Middle East,H1-23-Cross-sell,email,N/A,39741,1253705,2345,Rekall Inc,Premium Onboarding,,332.0,Karen White,EUR
+328,In Progress,South America,Q4-2024-New Year Promo,Phone,425,32356,68568,4826,Planet Express,Support Tier 2,18/04/2024,209.00,Eva Martinez,
+272,negotiation,Middle East,Q3-24-Webinar Series,retail,297,11705,124916,4571,DataWave Inc,Service Plan Enterprise,16/07/2023,459.00,G. Lee,AUD
+751,proposal,,H2-23-Fall Campaign,,333,20917,105947,4238,DataWave Inc,Security Bundle,10/04/2024,141,Carol Davis,AUD
+698,closed lost,NA,Q1-2024-Holiday Sale,Referral,24,3580,119416,2248,DataWave Inc,API Access,17/05/2024,171.0,,
+3159,Closed Won,ASIAPAC,H2-2023-Webinar Series,In-Store,413,8824,1330246,851,DataWave Inc,Training Package,03/07/2024,421.0,L. Harris,
+2120,Lead,Africa,Q1-2024-Summer Blitz,Call Center,489,502,502662,2236,DataWave Inc,Data Pipeline,18/05/2024,237.0,alice johnson,JPY
+4511,Open,South America,Q1-24-Product Launch,call center,255,-,1055681,741,Wayne Corp,Software License,24/11/2023,234,Frank Wilson,
+4970,CLOSED WON,Middle East,FY-2024-Spring Push,Partner,464,8410,1013886,1939,Stratton Oakmont,Consulting Hours,16/05/2024,204,G. Lee,JPY
+2132,negotiation,MEA,Q3-23-New Year Promo,Direct Sales,436,31899,223951,3025,DataWave Inc,Data Pipeline,23/02/2024,105,jake thomas,
+1993,open,MEA,Q4-2023-Product Launch,Email,259,6207,966658,2570,Umbrella Ltd,Service Plan Basic,15/11/2024,485.0,Grace Lee,
+224,Closed-Lost,EU,H2-23-Holiday Sale,call center,203,24339,67904,3428,DataWave Inc,Marketing Suite,23/03/2023,302,henry taylor,CAD
+978,proposal,ASIAPAC,Q2-2024-Brand Awareness,Retail,93,10234,482242,490,DataWave Inc,Training Package,18/12/2023,493.00,frank wilson,GBP
+4744,in progress,SA,,Email Campaign,225,38507,479206,1745,Globex Industries,Cloud Storage 1TB,N/A,101.0,D. Brown,USD
+NA,Closed-Won,LATAM,,RETAIL,198,17593,176105,1669,Dharma Initiative,Other,04/10/2024,118.0,JOHN SMITH,GBP
+1140,Won,Asia,,ONLINE,164,27292,183593,3069,DataWave Inc,CRM Module,03/04/2023,-,Grace Lee,EUR
+139,qualified,Latin America,Q3-2023-Fall Campaign,e-comm,289,11888,62496,1427,DataWave Inc,Gadget Mini,null,449,david brown,USD
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

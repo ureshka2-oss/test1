@@ -1,0 +1,142 @@
+SALES_REP,AD_SPEND,REGION,PRODUCT,UNIT_PRICE,LEADS,CHANNEL,COMPANY,QTY,REVENUE,DATE,CONVERSIONS,CAMPAIGN,STATUS
+F. Wilson,$31714,United States,Widget A,$386,4647,ONLINE,Pinnacle Analytics,250.00,$96545,2023/10/02,279,,PENDING
+David Brown,$31941,MEA,N/A,$3580,3703,Reseller,Pinnacle Analytics,270  ,$966511,2024/08/04,191,Q1-2024-Trade Show,CLOSED WON
+F. Wilson,$49851,USA,Cloud Storage 1TB,$4454,,DIRECT,Wonka Enterprises,482,$2146804,2024/09/12,478,Q1-24-Upsell,LOST
+henry taylor,$29832,UK,MISC,missing,3996,Web,Pinnacle Analytics,-,$178302,2024/10/15,331,Q4-2023-Brand Awareness,In Progress
+mia clark,$7610,USA,Consulting Hours,$3084,3329,Online,Cyberdyne Systems,#REF!,$246593,2024/03/31,49,,Proposal
+G. Lee,$23286,EU,Marketing Suite,$230,,social,Oceanic Airlines,283,$65161,2024/07/08,152,H2-23-Trade Show,Negotiation
+alice johnson,$5956,Asia Pacific  ,Hardware Unit,$3004,4048,in-store,Prestige Worldwide,-,missing,2024/02/29,105,FY-24-Webinar Series,Negotiation
+Grace Lee,$32761,United States,Service Plan Basic,$2461,1622,Phone,Pinnacle Analytics,N/A,NA,2024/07/21,414,Q3-23-Brand Awareness,in progress
+Leo Harris,$49478,US,Other,$4419,3023,Call Center,Pinnacle Analytics,0,$67682,2024/07/04,320,FY-24-Holiday Sale,Proposal
+Carol Davis,$43988,EMEA,Service Plan Pro,$2026,2359,Direct,Pinnacle Analytics,318,$644195,2024/06/18,352,Q3-2023-Fall Campaign,Closed-Won
+karen white,$4613  ,Europe,Premium Onboarding,$3329,529,PARTNER,PixelForge Studios,460,$1531363,2025/07/22,494,FY-2024-Holiday Sale,closed lost
+J. Doe,$31299,Europe,Cloud Storage 1TB,$4607,301,email,Pinnacle Analytics,389,$1792275,2024/04/23,256,H1-2024-Cross-sell,Proposal
+John Smith,$1298,USA,Software Subscription,$4433,3151,ecommerce,Bluth Company,152,$673793,2023/10/25,39,Q1-24-Social Push,CLOSED WON
+bob williams,$37444,North America,Marketing Suite,$2415,1209,Channel Partner,Pinnacle Analytics,71,$171451,2025/07/11,91,Q1-24-Upsell,CL
+bob williams,$30147,Britain,API Access,#N/A,-,Social Media,Pinnacle Analytics,420,null,2025/08/14,73,Q1-24-Cross-sell,negotiation
+B. Williams,$6908,EU,Service Plan Basic,$2113,345,affiliate,Pinnacle Analytics,287,$606428,2024/07/23,32,Q4-24-Cross-sell,Negotiation
+J. Doe,$33686,Asia,Hardware Unit,$2526  ,3949,Brick & Mortar,Pinnacle Analytics,402,$1015315,2025/02/23,14,Q3-23-Trade Show,closed lost
+C. Davis,$2448,Unknown,Service Plan Basic,$4716,4124,,Pinnacle Analytics,52.0,$245209,2024/02/17,132,FY-24-Trade Show,closed won
+Mia Clark,$38147,MEA,Analytics Dashboard,,3646,Partner,Pinnacle Analytics,462.00,#N/A,2025/05/25,356,Q1-23-Black Friday,CW
+Jane Doe,$29324,Middle East,Widget A,$433,,ONLINE,Pinnacle Analytics,86,$37247,2023/12/30,492,Q4-23-Trade Show,Lost
+J. Smith,-,EU,Widget A,$535,359,Referral,PixelForge Studios,303.0,$162050,2024/01/12,-,FY-2023-Webinar Series,CLOSED WON
+eva martinez,0,United States,Software License,$3600,4797,Online,Pinnacle Analytics,253,$910856,2025/04/06,255,Q3-2023-New Year Promo,Negotiation
+Henry Taylor,$4385,Asia Pacific,Data Pipeline,$2765,3593,Call Center,Pinnacle Analytics,265.0,$732807,2024/04/11,255,FY-24-Black Friday,Closed Lost
+TBD,$38730,LATAM,Widget B,$3180,2127,Partner,Wayne Corp,267,$849127,2025/02/14,232,Q2-2024-Black Friday  ,CLOSED LOST
+K. White,N/A,,Consulting Hours,$611,3569  ,Website,Weyland Corp,329,$201170,2024/12/18,132,Q1-2023-Spring Push,CLOSED LOST
+JANE DOE,$21247,EU,Gadget Mini,$2454,3012,online,Initech Solutions,442,$1084818,2024/12/03,122,Q4-24-Cross-sell,negotiation
+Eva Martinez,$9377,EMEA,Training Package,$155,2575,Field Sales,Pied Piper,272,$42038,2025/07/01,119,Q4-24-Upsell,CW
+Grace Lee,$7303,Africa,Data Pipeline,$4739,4334,in-store,Pinnacle Analytics,226.0,$1071095,2025/06/22,487,FY-23-Summer Blitz,Won
+carol davis,$13821,MEA,-,$3901,908,email,Pinnacle Analytics,431.00,$1681434,2024/07/10,N/A,FY-2024-Product Launch,Won
+Karen White,$33703,North America  ,,$940,null,Reseller,FreshCart,471,$442749,2024/06/07,315,H2-23-Trade Show,CLOSED LOST
+E. Martinez,$28652  ,Latin America,Service Plan Pro,$1875,3222,call center,Dharma Initiative,#REF!,$205027,2023/10/13,264,Q2-2023-Webinar Series,Qualified
+Alice Johnson,$10174,Australia,Service Plan Enterprise,$3237,3880,Phone  ,Pinnacle Analytics,446,$1443805,2025/02/09,77,H1-23-Trade Show,Closed Lost
+N/A,$39392,EMEA,Service Plan Enterprise,$4554,3050,phone,Spacely Sprockets,91,$414386,2024/03/10,66,Q2-23-Webinar Series,LOST
+,$9851,EMEA,Consulting Hours,-,3828,field,Pinnacle Analytics,497.00,$169607,2024/08/26,83,FY-2023-Brand Awareness,Closed Lost
+E. Martinez,$8100,ASIAPAC  ,Software License,$673,4006,Social,Pinnacle Analytics,98,$65928,2025/09/05,431,Q2-2023-Summer Blitz,Qualified
+F. Wilson,$19573,EMEA,Service Plan Basic,$832,4850,Phone,MomCorp,263.00,$218753,2025/08/11,362,Q1-2024-Holiday Sale,closed won
+L. Harris,$32532,N. America,Support Tier 2,$65,4905,E-Commerce,NovaTech Solutions,N/A,null,2024/03/05,323,H2-2024-Black Friday,Closed-Won
+jake thomas,$25480,US,Consulting Hours,$1017,3334,online,Pinnacle Analytics,461,$468736,2024/09/28,345,FY-2024-New Year Promo,open
+carol davis,$1847,LATAM,Analytics Dashboard,$3265,0,ONLINE,Pinnacle Analytics,66.00,$215486,2024/07/27,295,Q3-24-Upsell,Open
+TBD,$8619,North America,Cloud Storage 1TB,$2142,4000,Affiliate,NovaTech Solutions,7.00,$14997,2024/12/19,85,FY-2023-Summer Blitz,CLOSED LOST
+Frank Wilson,-,Asia Pacific,Service Plan Pro,$1672,4866,email,Pinnacle Analytics,258,$431384,2024/04/14,112,Q1-24-Holiday Sale,CLOSED WON
+Unassigned,$11729,N. America,Training Package,$2446,1407,reseller,Cyberdyne Systems,0,#N/A,2024/03/09,,Q2-24-Product Launch,qualified
+grace lee,$7108,South America,Training Package,$4931,3284,Email Campaign,Pinnacle Analytics,396.00,$1952593,2023/11/21  ,160,H2-23-Retention,Pending
+L. Harris,$21931,SA,Gadget X,$2182,850,online,Pinnacle Analytics,305,$665571,2024/09/26,278,,Pending
+Iris Anderson,$21702,EMEA,Software License,$388,3712,Call Center,Pinnacle Analytics,108.0,$41895,2025/03/06,492,Q4-24-Social Push,in progress
+A. Johnson,$34389,UK,Gadget X,$3000,4089,Direct Sales,Soylent Corp,220,$660013,2025/05/21,398,Q3-2024-Product Launch,Pending
+John Smith,$7759,EMEA,Security Bundle,$846,3621,email campaign,Pinnacle Analytics,274,$231919,2024/03/09,26,Q1-23-Trade Show,CW
+G. Lee,$4738,Asia,ERP Add-on,$4056,1270,phone,Pinnacle Analytics,47.00,$190628,2025/04/08,N/A,Q2-24-Email Blast,Closed Lost
+carol davis,$17658,Latin America,Hardware Unit,$506,426,RETAIL,Cyberdyne Systems,449,$227410,2024/08/15,160,Q1-2024-Holiday Sale,PENDING
+Jake Thomas,,United States,Widget Pro,$3954,3786,Partner,Pinnacle Analytics,330,$1304820,2023/10/23,55,Q4-23-Holiday Sale,Closed-Lost
+bob williams,$4453,MEA,Gadget X,$1861,N/A,Referral,Pinnacle Analytics,302.00  ,$562052,2024/09/14,389,H2-2024-Spring Push,WON
+Frank Wilson,$18984,Unknown,Gadget X,$1580,null,e-comm,,456,$720270,2024/08/19,358,Q2-24-Brand Awareness,In Progress
+david brown,$8969,SA,Gadget Mini,$906,N/A,Social Media,Pinnacle Analytics,252.0,$228345,2024/03/08,308,,Closed-Lost  
+alice johnson,$27442,Middle East,Training Package,$4922,3203,Direct,GreenLeaf Energy,373,$1835917,2024/03/11,405,FY-2023-Email Blast,negotiation
+David Brown,0,Europe,Support Tier 2,$718,1499,Partner,Pinnacle Analytics,80.00,$57411,2025/08/13,367,FY-2024-New Year Promo,in progress
+Mia Clark,-,,Hardware Unit,$3237,1539  ,field,Pinnacle Analytics,447.00,$1447136,2024/09/05,232,FY-2023-Social Push,WON
+David Brown,$30559  ,APAC,Service Plan Pro,$1572,3622,Social Media,Pinnacle Analytics,156.00,$245218,2025/08/27,199,H2-2024-Retention,Open
+Unassigned,$45905,Australia,Service Plan Pro,$2215,1312,email campaign,CloudNine SaaS,444,$983371,2025/08/11,41,Q4-23-Webinar Series,CL
+C. Davis,$46081,Africa,Data Pipeline,$4633,1211,referral,Pinnacle Analytics,30.0,$138989,2025/08/15,430,Q1-2023-Cross-sell,negotiation
+Unassigned,$37323  ,APAC,Other,$228,1118,referral,Pinnacle Analytics,130.0,$29634,2024/11/02,241,FY-2024-Fall Campaign,qualified
+eva martinez,$22479,Asia Pacific,Support Tier 2,$4231,4127,retail,Pinnacle Analytics,450.0,$1904044,2025/09/07,31,H2-2024-Webinar Series,qualified
+iris anderson,$47634,??,Gadget X,$2526,2576,Referral,Pinnacle Analytics,339.00,$856467,2024/12/30  ,220,H2-23-Brand Awareness,proposal
+Iris Anderson,$26146,Australia,Software License,$1184,739,ecommerce,Pinnacle Analytics,371,$439275,2024/10/20,478,Q2-2023-Fall Campaign,CW
+carol davis,,UK,Software License,$4299,1263,reseller,Pinnacle Analytics,93.00,$399801,2023/10/03,152,Q3-2024-Product Launch,lead
+L. Harris,$41405,Unknown,Data Pipeline,$741,4701,in-store,Dharma Initiative,256,$189796,2024/07/09,423,FY-2024-Webinar Series,Proposal  
+L. Harris,$28474,NA,Service Plan Basic,$3668,4405,web,Pied Piper,92,$337415,2024/03/07,62,Q1-2023-Retention,proposal
+G. Lee,$36898,UK,Widget Pro,$265,2029,Phone,Pinnacle Analytics,393,$104121,2024/08/27,126,Q4-2024-Brand Awareness,negotiation
+Eva Martinez,$8333,ASIAPAC,Gadget Mini,$3809,3604,,Pinnacle Analytics,135,$514216,2024/06/25,239,Q4-2023-Brand Awareness,LOST
+mia clark,$13969,Asia,Support Tier 1,$1811,670,online,Pinnacle Analytics  ,266,$481606,2024/06/16,100,Q3-2023-Cross-sell,in progress
+Henry Taylor,$32670,APAC,Training Package,$4209  ,1595,E-Commerce,Pinnacle Analytics,500.00,$2104680,TBD,54,,In Progress
+I. Anderson,$23178,ANZ,Software Subscription,$2833,3360,web,Prestige Worldwide,465.00,$1317229,2025/05/31,307,Q2-2023-Fall Campaign  ,CW
+L. Harris,$41186,LATAM,Widget B,$1729,1380,phone,Pinnacle Analytics,360.00,$622289,2023/09/17,487,,pending
+JANE DOE  ,$36281,Asia Pacific,Cloud Storage 5TB,$1507,2607,field,TrueNorth Financial,274,$412833,2023/10/26,164,Q4-24-Spring Push,negotiation
+David Brown,$31406,,Gadget X,$665,2772,Website,Pinnacle Analytics,330,$219526,2023/09/23,245,Q1-24-Cross-sell,Open  
+B. Williams,$49900,Australia,Analytics Dashboard,$3844,69,Direct,Oceanic Airlines,155,$595753,2025/08/01,6  ,H1-2024-Email Blast,Closed-Lost
+iris anderson,$7513,MEA,Gadget Mini,$3817,4784,in-store,QuickShip Logistics,126,$480892,2024/11/22,451,H1-24-Brand Awareness,PENDING
+Jake Thomas,$16188,North America,ERP Add-on,$3138,1253,,Wonka Enterprises,201,$630830,N/A,324,Q3-2024-Holiday Sale,in progress
+C. Davis,N/A,NA,Cloud Storage 5TB,$4676,597,Email Campaign,Pinnacle Analytics,304,$1421392,2024/11/25,,Q4-24-Social Push,Lead
+A. Johnson,$29522,Unknown,Service Plan Pro,$1860,4004,,Pinnacle Analytics,,$75885,2024/07/02,289,Q3-23-Brand Awareness,qualified
+Leo Harris,$12165,Latin America,Software Subscription,missing,3456,,Pinnacle Analytics,418,$214767,2023/09/24,440,Q2-2024-New Year Promo,open
+frank wilson,$47020,Britain,Software Subscription,N/A,318,ecommerce,Pinnacle Analytics,98.0,$182619,2024/03/28,394,H2-24-Retention,negotiation
+leo harris,$10165,Asia,Support Tier 1,$2940,2022,call center,Pinnacle Analytics,295,$867158,2025/01/08,451,Q3-24-Product Launch,In Progress
+G. Lee,$21401,LATAM,Security Bundle,$2595,4801,reseller,Wonka Enterprises,499,$1294950,2024/10/21,176,Q3-2024-Social Push,Proposal
+Mia Clark,$8707,Australia,Security Bundle,N/A,3130,Social Media,Pinnacle Analytics,126,N/A,2025/06/13,465,Q1-23-New Year Promo,negotiation
+K. White,$37905,LATAM,Cloud Storage 1TB,$2799,152,Telesales,Pinnacle Analytics,331.0,$926459,2025/09/03,454,Q1-24-Product Launch,open  
+C. Davis,$34245,North America,Consulting Hours,$1313,3256,PARTNER,Sterling Cooper,15,$19690,2024/11/01,N/A,Q4-24-Upsell,Negotiation
+Unassigned,$35100,N. America,CRM Module,$1890,247,Retail,Pinnacle Analytics,357,$674880,2024/01/29,380,H1-24-Brand Awareness,CL
+E. Martinez,$18858,North America,Widget Pro,$1070,4544,Direct,Pinnacle Analytics,118.00,$126216,,145,Q3-2024-Black Friday,Lead
+eva martinez,$25431,Middle East,CRM Module  ,missing,2403,PARTNER,HealthPlus Pharma,224.00,missing,2024/08/30,318,H2-2023-Cross-sell,pending
+grace lee,$36785,Middle East,Consulting Hours,$2055,1627,partner,NovaTech Solutions,434.0,$891666,,331,Q2-2023-Brand Awareness,CW  
+jane doe,$46339,Asia,Premium Onboarding,$4369,867,Email Campaign,Cybertruck Co,78,$340791,2025/04/02,60,Q3-2024-Webinar Series,CLOSED LOST
+B. Williams,$6386,Britain,API Access,$342,1523,ONLINE,Pinnacle Analytics,7,$2397,2024/03/25,183,H1-2024-Fall Campaign,pending
+J. Smith,$1707,United Kingdom,CRM Module,$2690,4701,PARTNER,Pinnacle Analytics,391  ,$1051919,2025/08/12,291,H2-24-Summer Blitz,Closed-Won
+Jane Doe,$8293,South America,Gadget Mini,$1019,877,Brick & Mortar  ,,445,$453495,2024/10/08,-,Q3-24-Summer Blitz,Open
+C. Davis,$2473,,Consulting Hours,$4715,3867,email,Pinnacle Analytics,138,$650709,2023/11/01,49,H2-2024-Black Friday,LOST
+Eva Martinez,0,ANZ,Hardware Unit,$4931,3969,Email Campaign,Pinnacle Analytics,339,$1671602,2025/01/08,463,Q4-24-Upsell,CW
+I. Anderson,$41160,US,Support Tier 2,$3689,671,Channel Partner,Pinnacle Analytics,366,$1350126,2025/04/18,206,H1-23-Email Blast,closed lost
+E. Martinez,$15046,EMEA,Widget Pro,$2516,4389,Direct Sales,Oceanic Airlines,106.0,$266731,2023/12/21,367,Q1-24-New Year Promo,CLOSED WON
+Unassigned,$32066,South America,Widget A,$342,1016,Channel Partner,Pinnacle Analytics,436,$149212,2025/08/14,103,Q2-2023-Holiday Sale,Proposal
+jake thomas,$6402  ,Australia,Support Tier 2,$3495,1002,Brick & Mortar,Pinnacle Analytics,416.00,$1453849,2025/08/14,115,,proposal
+J. Doe,$6464,Britain,Support Tier 2,$4798,3391,email campaign,CloudNine SaaS,58.0,$278292,2025/01/11,275,H1-2024-Product Launch,CLOSED WON
+Jane Doe,$32349,Asia Pacific,Consulting Hours,$4417,406,affiliate,Pinnacle Analytics,367,$1621178,2023/12/24,167,Q2-2023-New Year Promo,Closed Won
+Frank Wilson,$22185,Africa,Widget Pro,$4263,-,retail,Pinnacle Analytics,460,$1960837,2024/11/06,462,H2-24-Product Launch,Closed-Lost
+Henry Taylor,$18439,EU,Service Plan Basic,$3108,2175,Partner,Pinnacle Analytics,22,$68365,2024/09/04,50,Q3-2023-Retention,CW
+frank wilson,N/A,Australia,ERP Add-on,$1204,1262,affiliate,Stratton Oakmont,205.0,$246861,2025/05/18,N/A,Q4-23-Social Push,Closed-Lost
+jake thomas,,US,Widget A,$1242,306,Channel Partner,Prestige Worldwide,29,$36013,2024/09/09,162,Q4-24-Upsell,Won
+Alice Johnson,,Latin America,Data Pipeline,$3515,null,Email,CloudNine SaaS,248,$871762,2025/05/09,337,Q2-2024-Spring Push,Open
+john smith,$45910,,Gadget X,$660,3400,direct,Pinnacle Analytics,467,$308047,2025/04/21,313,,CLOSED LOST
+F. Wilson,-,Britain,Hardware Unit,$1118,3242,  ,Pinnacle Analytics,437.00,$488688,2023/10/13,157,FY-23-Cross-sell,Closed Lost
+N/A,$8339,Unknown,Cloud Storage 1TB,$3175,87,Channel Partner,Cyberdyne Systems,161,$511209,2024/07/18,346,H2-2023-Product Launch,Closed Won
+grace lee,$36420,SA,Support Tier 2,$2307,3239,ONLINE,AgriGrow Corp,71.00,$163824,2025/05/22,362,,in progress
+david brown,$33596,Latin America,N/A,null,4037,referral,Pinnacle Analytics,415,NA,2025/05/14,65,FY-24-Webinar Series,LOST
+E. Martinez,$34030,,Security Bundle,$2111,1368,,Genco Pura,103.0,$217465,2024/09/27,202,Q1-2024-Holiday Sale,Won
+J. Thomas,$42681,South America,Software Subscription,$945,N/A,Channel Partner,Pinnacle Analytics,380.0,$359039,2024/01/02,113,Q1-23-Black Friday,WON
+,$8762,APAC,Security Bundle,missing,2113,Phone  ,Pinnacle Analytics,356.0,null,2024/12/07,500,H2-2024-Product Launch,In Progress
+H. Taylor,$42616,USA,Widget Pro,$123  ,764,Store,CloudNine SaaS,414.0,$51050,2025/02/06,493,H2-24-Brand Awareness,Qualified
+J. Thomas,$28231,NA,,$1205,69,Direct,Pinnacle Analytics,327.00,$394189,2024/03/20,498,H2-2023-Black Friday,CL
+A. Johnson,$39410,SA,Software License,$3027,901,reseller,Pinnacle Analytics,332.00,$1004864,2024/09/25,74,Q2-24-Spring Push,Won
+jake thomas,-,EU  ,ERP Add-on,$4894,1688,Store,Pinnacle Analytics,9,$44045,2024/03/08,371,Q2-23-Summer Blitz,pending
+H. Taylor,-,N. America,Software Subscription,$3676,1251,RETAIL,Pinnacle Analytics,217,$797685,2024/02/28,246,,WON
+David Brown,$27300,USA,Consulting Hours,$3513,4924,Web,Pinnacle Analytics,310,$1089011,2024/07/30,108,FY-23-New Year Promo,closed lost
+TBD,$42788,ANZ,Service Plan Pro,$646,189,social media,Pinnacle Analytics,90,$58103,null,482,FY-24-Product Launch,Lead
+Iris Anderson,$20595,North America,Security Bundle,$2463,3855,DIRECT,Omni Consumer Products,5.00,$12314,2024/03/18,429,Q2-24-Webinar Series,CL  
+alice johnson,$26923,Latin America,Widget A,$4840,2369,retail,,257,$1243808,2023/12/04,348,Q3-2024-Upsell,qualified
+JOHN SMITH,$14816,US,Support Tier 2,$279,4911,Email Campaign,,null,$108017,2024/01/18,317,Q3-2023-Brand Awareness,PENDING
+C. Davis,$10244,Britain,Gadget Mini,$3743,488,partner,Cyberdyne Systems,398.00,$1489587,2024/11/14,282  ,Q4-2024-Holiday Sale,qualified
+alice johnson,$19630,APAC,Training Package,$2352,2330,online,Pinnacle Analytics,351.00,$825461,2025/01/24,13,H2-24-Product Launch,Won
+B. Williams,$28884,Unknown,Other,$1891,1021,Social Media,Pinnacle Analytics,397.00,$750687,2024/11/13,267,Q3-2023-Social Push,Closed-Won
+karen white,$11546,NA,Service Plan Pro,$947,3492,,Dharma Initiative,258,$244429,2023/12/24,118,Q4-23-Spring Push,PENDING
+john smith,$48881,UK,Service Plan Enterprise,$1591,2713,in-store,QuickShip Logistics,169.0,$268898,2024/12/07,113,Q4-24-Fall Campaign,Pending
+bob williams,$5828,United Kingdom,Widget Pro,$2592,1036,Affiliate,Pinnacle Analytics,16.00,$41478,2024/01/12,223,Q4-2024-New Year Promo,Closed-Won  
+bob williams,$8766,EMEA,Widget Pro,$265,3826,In-Store,Pinnacle Analytics,36.0,$9550,2023/11/15,495,Q3-23-Summer Blitz,LOST
+JANE DOE,$24208,North America,Marketing Suite,$1253,2497,Social Media,Brawndo Corp,174,$217949,2024/09/26,N/A,Q3-2023-Spring Push,LOST
+bob williams,$24443,Asia Pacific,Software License,$3833,881,Channel Partner,Pinnacle Analytics,53,$203171,2024/06/23,490,H1-23-New Year Promo,In Progress
+Grace Lee,$33515,NA,Support Tier 2,$1495,2432,Partner,Pinnacle Analytics,141.0,$210822,2023/12/04,467,Q4-2023-Retention,Qualified
+david brown  ,$40359,Britain,Software Subscription,$622,4976,Web,Dharma Initiative,54.0,$33583,2024/04/24,495,H1-23-Brand Awareness,open
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

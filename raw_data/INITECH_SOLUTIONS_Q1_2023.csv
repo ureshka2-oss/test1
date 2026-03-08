@@ -1,0 +1,63 @@
+dealStatus,companyName,unitPrice,salesRegion,salesRep,totalRevenue,leadCount,conversionCount,adSpend,productName,quantity,saleDate,campaignName
+In Progress,Pinnacle Analytics,297.62 USD,Europe,David Brown,"129,167.08 USD",3154,499,"48,600.83 USD",ERP Add-on,434.0,2024-06-11,Q2-24-Webinar Series
+PENDING,BrightPath Media,"4,450.89 USD",SA,Frank Wilson,"364,972.98 USD",3704,416,"11,180.96 USD",Software Subscription,82.0,2025-04-22,H2-2024-Spring Push
+Closed-Lost,Initech Solutions,"3,217.68 USD",??,Bob Williams,"472,998.96 USD",1,302,"40,052.35 USD",Security Bundle,147.00,2024-08-05,Q2-24-Holiday Sale
+CLOSED LOST,Omni Consumer Products,"2,460.50 USD",South America,Unassigned,"863,635.50 USD",3425,246,"30,630.08 USD",Marketing Suite,351.0,2024-01-26,H1-23-Cross-sell
+Closed Lost,Initech Solutions,"3,445.12 USD",North America,H. Taylor,"189,481.60 USD",3810,199,,Software License,55,2024-04-05,Q4-2024-Retention
+In Progress,Initech Solutions,"1,950.47 USD",Africa,E. Martinez,"470,063.27 USD",3371,57,"16,120.22 USD",Support Tier 2,241.00,2024-05-20,Q3-2024-Product Launch
+Open,Initech Solutions,"4,688.75 USD",Asia Pacific,mia clark,"848,663.75 USD",342,60,"29,485.38 USD",Software License,181.0,2024-03-07,H1-2023-Cross-sell
+Lost,Hooli Inc,"2,234.48 USD",LATAM,TBD,"462,537.36 USD",890,461,"21,827.11 USD",Service Plan Basic,207,2024-04-10,H1-24-Upsell
+LOST,Initech Solutions,"1,376.84 USD",Australia,E. Martinez,"532,837.08 USD",4118,25,"48,364.16 USD",Widget Pro,387,2024-03-05,Q2-2023-Cross-sell
+CL,Initech Solutions,"3,008.69 USD",Middle East,Leo Harris,"5,310.80 USD",4473,471,"41,704.53 USD",Gadget Mini,N/A,2024-05-04,Q4-2024-Black Friday
+Closed-Lost,Wonka Enterprises,"4,574.16 USD",Australia,A. Johnson,"1,399,692.96 USD",4814,41,"11,901.05 USD",CRM Module,306.0,null,H2-24-Brand Awareness
+closed won,Initech Solutions,"4,774.08 USD",South America,N/A,"2,138,787.84 USD",784,480,"5,576.55 USD",,448,2024-03-09,FY-24-Brand Awareness
+Lead,Initech Solutions,"3,287.32 USD",ASIAPAC,TBD,"127,351.77 USD",2425,N/A,"35,966.41 USD",API Access,#REF!,2023-09-02,Q4-2024-Spring Push
+Won,Umbrella Ltd,"1,311.03 USD",EMEA,Carol Davis,"87,651.73 USD",3057,335,"21,062.31 USD",Widget Pro,#REF!,2024-11-05,FY-2023-Social Push
+closed won,Initech Solutions,#N/A,APAC,Grace Lee,"214,411.65 USD",-,381,0,Widget Pro,#REF!,2024-07-08,Q4-23-Webinar Series
+pending,Initech Solutions,"2,600.94 USD",Europe,Frank Wilson,"1,147,014.54 USD",null,364,"42,796.38 USD",,441,2024-09-16,Q1-2023-Webinar Series
+closed won,Initech Solutions,"3,436.98 USD",LATAM,I. Anderson,"1,299,178.44 USD",null,57,"35,905.73 USD",Training Package,378.0,2024-01-14,Q4-2024-Fall Campaign
+In Progress,Initech Solutions,"3,127.92 USD",North America,eva martinez,"1,288,703.04 USD",2320,236,"44,468.94 USD",Training Package,412.0,2023-12-01,H2-24-Holiday Sale
+CW,Initech Solutions,146.46 USD,UK,J. Thomas,"227,460.86 USD",2280,365,"15,030.59 USD",Cloud Storage 5TB,,2025-04-14,Q3-2024-Cross-sell
+CLOSED LOST,Initech Solutions,"3,908.39 USD",Europe,G. Lee,"1,371,844.89 USD",3189,287,"3,858.67 USD",Data Pipeline,351.0,2025-03-10,Q4-2024-Retention
+negotiation,Initech Solutions,N/A,Asia,Bob Williams,"177,262.42 USD",3860,469,"2,289.81 USD",Support Tier 1,53,2024-08-01,Q2-2024-Cross-sell
+LOST,Initech Solutions,"2,754.54 USD",Asia Pacific,jake thomas,"225,872.28 USD",1084,470,"12,897.93 USD",ERP Add-on,82,N/A,FY-23-Trade Show
+negotiation,Initech Solutions,"1,029.96 USD",United States,M. Clark,"69,931.49 USD",1082,63,"31,789.91 USD",Consulting Hours,,2024-10-28,FY-24-Trade Show
+Negotiation,Initech Solutions,#N/A,NA,john smith,"66,801.59 USD",2171,345,"42,088.35 USD",API Access,27.00,2023-11-02,Q3-24-Trade Show
+open,,"2,080.01 USD",UK,G. Lee,"235,041.13 USD",1644,76,"42,515.06 USD",Hardware Unit,113,2023-10-09,FY-2023-Black Friday
+Open,Initech Solutions,"4,255.84 USD",Middle East,N/A,"2,119,408.32 USD",645,3,"26,162.49 USD",ERP Add-on,498.0,2025-03-04,Q2-24-Trade Show
+Negotiation,GreenLeaf Energy,140.98 USD,SA,John Smith,"61,339.13 USD",2601,-,"25,540.49 USD",Premium Onboarding,,2024-12-10,Q1-2024-Black Friday
+Closed-Won,Initech Solutions,"1,245.35 USD",EMEA,Bob Williams,"505,612.10 USD",3775,266,"3,005.78 USD",Data Pipeline,406.00,2025-05-29,Q2-24-Summer Blitz
+CL,Initech Solutions,428.48 USD,USA,L. Harris,"80,125.76 USD",4936,152,"29,743.34 USD",ERP Add-on,187,2023-09-04,H1-23-New Year Promo
+CLOSED WON,Initech Solutions,"4,874.03 USD",Africa,Bob Williams,"2,217,683.65 USD",4579,98,"41,368.59 USD",Service Plan Pro,455,2023-08-25,Q2-24-Email Blast
+open,Initech Solutions,"4,926.16 USD",ASIAPAC,Jake Thomas,"1,601,002.00 USD",4396,82,N/A,Cloud Storage 5TB,325,2024-06-08,Q1-2023-New Year Promo
+Open,Initech Solutions,"2,049.76 USD",Unknown,Leo Harris,"47,144.48 USD",303,-,"48,275.21 USD",Widget B,23,2025-04-18,Q2-23-New Year Promo
+Lost,Initech Solutions,"4,433.72 USD",Europe,M. Clark,"567,516.16 USD",2149,86,"39,811.42 USD",Marketing Suite,128.0,2023-10-12,Q3-23-Black Friday
+negotiation,Initech Solutions,"2,924.70 USD",Britain,M. Clark,"666,831.60 USD",1958,317,"25,753.14 USD",Hardware Unit,228,2024-01-26,
+Negotiation,Initech Solutions,"4,768.83 USD",North America,G. Lee,"1,139,750.37 USD",2142,284,"18,790.71 USD",Security Bundle,239,2025-05-19,H1-2024-Upsell
+CW,Oceanic Airlines,"1,990.50 USD",SA,D. Brown,"5,971.50 USD",4118,103,"8,447.35 USD",Service Plan Enterprise,3,2024-06-22,FY-2024-New Year Promo
+Pending,Initech Solutions,"1,835.46 USD",North America,alice johnson,"36,709.20 USD",4274,271,"13,228.65 USD",Widget Pro,20.0,2024-01-17,Q3-2023-Social Push
+qualified,Initech Solutions,"3,947.42 USD",LATAM,mia clark,null,2696,-,"21,991.18 USD",Security Bundle,null,2023-06-19,Q1-24-Cross-sell
+LOST,Initech Solutions,"2,647.98 USD",Asia Pacific,bob williams,"7,943.94 USD",2242,492,"11,983.20 USD",CRM Module,3.00,2023-06-27,H2-24-Product Launch
+Proposal,PixelForge Studios,"1,083.94 USD",Middle East,Iris Anderson,"416,232.96 USD",2381,247,"44,098.70 USD",Consulting Hours,384.00,2023-11-19,
+Qualified,Initech Solutions,"4,845.56 USD",USA,J. Smith,"2,107,818.60 USD",1578,N/A,,Marketing Suite,435,2023-08-08,Q1-23-Black Friday
+lead,Initech Solutions,"1,421.84 USD",ANZ,Eva Martinez,"361,147.36 USD",3976,313,"22,621.90 USD",Marketing Suite,254.0,2024-09-22,FY-2023-Upsell
+LOST,Initech Solutions,"4,955.68 USD",North America,Bob Williams,"1,318,210.88 USD",3032,317,-,Service Plan Pro,266,2024-03-25,Q2-23-Social Push
+LOST,DataWave Inc,"3,840.84 USD",South America,Iris Anderson,"699,032.88 USD",1137,191,"42,600.61 USD",Support Tier 1,182.00,2023-06-29,Q2-2024-Product Launch
+Qualified,Umbrella Ltd,"3,888.58 USD",??,H. Taylor,"1,240,457.02 USD",N/A,400,793.43 USD,Software License,319,2025-05-04,Q1-2024-Upsell
+Qualified,Initech Solutions,"3,882.39 USD",Australia,david brown,"1,653,898.14 USD",470,100,"18,400.50 USD",CRM Module,426.0,2023-10-02,Q3-2024-Social Push
+open,Initech Solutions,"4,666.56 USD",Asia,Eva Martinez,"1,941,288.96 USD",4521,475,"31,002.13 USD",Cloud Storage 1TB,416.00,2023-07-28,H1-23-Social Push
+Pending,Omni Consumer Products,"1,539.78 USD",MEA,Alice Johnson,"200,171.40 USD",2525,223,"35,060.16 USD",Widget Pro,130.0,2024-03-25,Q4-2023-Fall Campaign
+proposal,NovaTech Solutions,"2,452.40 USD",Africa,M. Clark,"880,411.60 USD",4636,484,"4,872.38 USD",Support Tier 1,359.0,2024-07-25,Q1-2023-Black Friday
+Proposal,Globex Industries,"2,221.79 USD",Britain,Carol Davis,"582,108.98 USD",2662,392,"11,357.90 USD",Security Bundle,262.00,,Q3-2023-Brand Awareness
+Closed-Won,Initech Solutions,"1,968.03 USD",ASIAPAC,H. Taylor,"547,112.34 USD",1476,381,"37,036.73 USD",Security Bundle,278,2023-08-14,Q4-23-Spring Push
+in progress,DataWave Inc,"2,886.71 USD",??,Jane Doe,"60,620.91 USD",1748,,"44,940.56 USD",Software Subscription,21.00,2024-07-05,FY-24-Spring Push
+CLOSED LOST,Initech Solutions,"2,629.72 USD",APAC,mia clark,"339,233.88 USD",3067,279,"7,930.56 USD",Support Tier 2,129.00,2024-05-11,Q1-23-Retention
+lead,Cyberdyne Systems,"2,851.47 USD",NA,bob williams,"1,251,795.33 USD",,91,"43,823.76 USD",Cloud Storage 5TB,439.0,2024-02-14,Q3-23-Summer Blitz
+lead,Wonka Enterprises,"4,155.55 USD",Australia,frank wilson,"1,795,197.60 USD",1363,362,"2,910.35 USD",Training Package,432,pending,Q4-24-New Year Promo
+CLOSED LOST,Initech Solutions,"1,082.85 USD",USA,Frank Wilson,"387,660.30 USD",1929,394,"13,527.15 USD",Training Package,358,2023-08-07,H1-23-Cross-sell
+qualified,Initech Solutions,"3,489.73 USD",EU,Iris Anderson,"732,843.30 USD",4956,468,"44,080.44 USD",Service Plan Basic,210,2024-08-11,Q4-2024-Trade Show
+pending,Initech Solutions,"4,111.22 USD",ASIAPAC,Leo Harris,"185,004.90 USD",2480,-,"2,115.36 USD",Service Plan Enterprise,45.0,2023-06-13,Q2-23-Webinar Series
+Qualified,Cogswell Cogs,878.95 USD,Asia Pacific,A. Johnson,"161,726.80 USD",4383,303,"42,891.59 USD",Service Plan Pro,184,2024-01-21,H2-24-Retention
+Closed Lost,,462.17 USD,United Kingdom,JANE DOE,"151,591.76 USD",3910,173,"29,675.61 USD",Analytics Dashboard,328.0,2023-07-22,Q2-23-Spring Push
+Closed-Lost,Initech Solutions,"3,064.34 USD",APAC,J. Smith,N/A,2651,49,"39,489.92 USD",Hardware Unit,N/A,2024-01-12,
+Closed Lost,MomCorp,"2,339.07 USD",MEA,Carol Davis,"1,094,684.76 USD",2177,193,"36,490.22 USD",Cloud Storage 5TB,468,2023-08-04,Q4-24-Retention

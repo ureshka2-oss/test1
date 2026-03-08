@@ -1,0 +1,187 @@
+Sales Channel,Account Executive,Geographic Region,Marketing Spend,Marketing Leads,Total Amount,Transaction Date,Deal Status,Campaign ID,Product / Service,Closed Deals,Company Name
+Email Campaign,bob williams,Africa,$33453,672,$1701823,"January 14, 2024",Won,,Data Pipeline,94,AgriGrow Corp
+retail,M. Clark,APAC,$7265,3694,$1183676,pending,Open,,Consulting Hours,496,TrueNorth Financial
+Website,J. Smith,Asia Pacific,$12711,147,$664702,"September 29, 2023",Closed Won,,Support Tier 1,178,AgriGrow Corp
+Website,F. Wilson,Europe,$272,3005,$855145,"April 22, 2024",Negotiation,FY-24-Fall Campaign,Analytics Dashboard,156,Tyrell Corporation
+Telesales,E. Martinez,EMEA,N/A,3585,$443637,"May 10, 2025",Open,H1-24-Retention,Service Plan Pro,374,AgriGrow Corp
+email campaign,M. Clark,Asia Pacific,$33955,1220,$91350,"December 30, 2023",Pending,FY-2024-Fall Campaign,Software Subscription,219,AgriGrow Corp
+retail,J. Smith,Britain,$47333,3969,$35661,"May 25, 2025",Proposal,Q3-2024-Webinar Series,Service Plan Enterprise,97,Massive Dynamic
+,Iris Anderson,United States,$21174,2688,$369461,"May 09, 2025",closed won,FY-2024-Webinar Series,Security Bundle,26,AgriGrow Corp
+Store,Mia Clark,Middle East,$33280,3657,$37141,,In Progress,Q3-2024-New Year Promo,Other,320,NovaTech Solutions
+Phone,E. Martinez,SA,$899,2107,$245048,"April 28, 2025",CW,H1-2024-Upsell,Hardware Unit,402,AgriGrow Corp
+,Henry Taylor,UK,,2106,$360939,"July 02, 2025",CLOSED LOST,FY-24-Holiday Sale,Software License,485,AgriGrow Corp
+email campaign,iris anderson,APAC,$21071,1936,$1266785,"August 26, 2023",Lead,Q3-23-Upsell,Support Tier 1,194,AgriGrow Corp
+Website,L. Harris,Asia,$38676,2053,$1197462,"November 12, 2023",qualified,H2-2023-Retention,Service Plan Enterprise,332,AgriGrow Corp
+Website,F. Wilson,Asia,$25028,3715,$234799,TBD,in progress,H2-24-Upsell,Software License,392,AgriGrow Corp
+social,Jane Doe,NA,$994,2141,$100609,"July 01, 2025",CL,Q3-24-Fall Campaign,Gadget X,104,AgriGrow Corp
+Affiliate,jake thomas,EU,$42744,null,$1200232,"January 26, 2025",pending,Q4-24-Spring Push,Software Subscription,346,AgriGrow Corp
+email,bob williams,Britain,$32949,2280,$577507,"August 20, 2023",PENDING,H1-24-Holiday Sale,Support Tier 2,161,AgriGrow Corp
+Affiliate,Leo Harris,Europe,$19683,3517,$851027,"November 14, 2023",CLOSED LOST,Q1-24-Cross-sell,Security Bundle,289,Buy N Large
+DIRECT,jane doe,Middle East,,939,$1019655,"August 16, 2023",Negotiation,H1-24-Summer Blitz,Other,80,AgriGrow Corp
+Brick & Mortar,N/A,EU,$2164,-,$772833,"June 12, 2024",Pending,Q4-23-Holiday Sale,Widget A,256,AgriGrow Corp
+Social Media,JANE DOE,ANZ,$26801,1838,$283024,N/A,Won,H2-2024-Upsell,Premium Onboarding,423,AgriGrow Corp
+reseller,henry taylor,Asia,$30556,2384,$554479,"February 19, 2024",pending,Q1-2024-Social Push,Widget B,379,AgriGrow Corp
+Social,john smith,UK,$38612,null,$107566,"May 14, 2024",Negotiation,Q1-23-Black Friday,API Access,289,Krusty Burger LLC
+E-Commerce,mia clark,Europe,$31056,339,$477410,"April 02, 2024",WON,H1-2023-Webinar Series,Service Plan Pro,178,AgriGrow Corp
+Call Center,leo harris,ANZ,$10006,3677,$544426,"October 08, 2023",WON,Q4-24-Webinar Series,Widget A,N/A,Massive Dynamic
+Social,iris anderson,US,$17264,3437,$16813,"December 20, 2024",open,Q1-2024-Holiday Sale,Widget Pro,126,Wonka Enterprises
+E-Commerce,Unassigned,Asia,$9973,4013,$206260,"June 01, 2024",Lead,Q1-2023-Social Push,Service Plan Pro,192,Spacely Sprockets
+,J. Thomas,SA,$16055,1457,$1655777,"April 11, 2024",Lost,Q1-23-Product Launch,Widget Pro,179,AgriGrow Corp
+Web,Bob Williams,ASIAPAC,N/A,1435,$707018,null,Closed-Lost,,Security Bundle,261,AgriGrow Corp
+in-store,jane doe,UK,$25397,2505,$195085,"August 23, 2024",Lead,Q1-2024-Summer Blitz,Hardware Unit,477,Globex Industries
+retail,K. White,United Kingdom,$4410,4095,$700840,"May 20, 2024",WON,H1-24-Summer Blitz,N/A,,AgriGrow Corp
+web,A. Johnson,South America,$235,2191,$234653,"May 09, 2024",Won,H2-2024-Holiday Sale,Cloud Storage 5TB,59,Brawndo Corp
+social media,Leo Harris,United Kingdom,$19053,4310,$919128,"December 23, 2023",Closed Won,H2-2024-Spring Push,Analytics Dashboard,284,AgriGrow Corp
+E-Commerce,TBD,USA,$43335,4735,$142447,"April 01, 2025",Lead,Q4-23-Product Launch,Support Tier 1,110,AgriGrow Corp
+reseller,Bob Williams,Latin America,$5787,216,NULL,"April 20, 2024",Qualified,Q2-2023-Holiday Sale,Widget A,324,AgriGrow Corp
+call center,John Smith,Africa,$26390,3506,$218849,"December 27, 2023",In Progress,Q2-2023-Webinar Series,Support Tier 1,97,AgriGrow Corp
+email,J. Thomas,MEA,$21345,3257,$772480,"May 17, 2025",Closed-Lost,H1-2023-Brand Awareness,Gadget X,432,AgriGrow Corp
+e-comm,iris anderson,EMEA,$46505,-,$1635981,"February 23, 2025",CLOSED LOST,Q2-2023-Brand Awareness,Support Tier 2,147,AgriGrow Corp
+Direct Sales,Unassigned,SA,-,3847,$4917,"August 08, 2023",CL,Q3-2024-Holiday Sale,Service Plan Enterprise,192,
+in-store,Jake Thomas,Australia,$42092,1304,$1129881,"April 23, 2025",qualified,Q1-2023-Black Friday,Marketing Suite,280,Acme Corp
+Affiliate,jane doe,NA,$43366,2505,$1518060,"May 22, 2024",pending,Q3-23-Retention,Consulting Hours,382,AgriGrow Corp
+social,JANE DOE,N. America,null,1013,$420619,"April 21, 2025",PENDING,Q1-2024-New Year Promo,MISC,364,AgriGrow Corp
+Field Sales,mia clark,ASIAPAC,$17258,,$810181,"March 01, 2025",Negotiation,FY-24-Brand Awareness,Training Package,453,AgriGrow Corp
+E-Commerce,mia clark,Europe,$31056,339,$477410,"April 02, 2024",WON,H1-2023-Webinar Series,Service Plan Pro,178,AgriGrow Corp
+E-Commerce,B. Williams,United Kingdom,$40852,4938,#N/A,"March 05, 2025",Closed Lost,H2-2024-Brand Awareness,Software License,426,AgriGrow Corp
+Email Campaign,iris anderson,North America,$43870,2352,$864357,"August 14, 2024",WON,Q4-24-Upsell,Software License,187,AgriGrow Corp
+Social Media,Eva Martinez,Africa,$29165,3684,$516345,"March 26, 2025",pending,FY-24-Brand Awareness,Data Pipeline,325,AgriGrow Corp
+referral,J. Smith,USA,$30915,null,$34739,"May 25, 2024",PENDING,Q3-2023-Product Launch,Gadget X,246,AgriGrow Corp
+phone,Carol Davis,Asia,$9532,599,$10485,"May 13, 2025",pending,Q4-2024-Spring Push,Cloud Storage 1TB,201,Massive Dynamic
+,J. Doe,Africa,$39000,3856,$328705,"November 02, 2024",Negotiation,,CRM Module,321,AgriGrow Corp
+in-store,karen white,N. America,$9740,,$84722,"July 14, 2025",closed won,H2-2024-Summer Blitz,Hardware Unit,359,Cyberdyne Systems
+PARTNER,karen white,Asia,$40282,3021,$199596,"January 05, 2025",closed lost,Q1-2023-Black Friday,Support Tier 1,65,AgriGrow Corp
+Phone,E. Martinez,N. America,$19193,,$818189,"February 17, 2025",In Progress,H1-23-Social Push,Marketing Suite,323,AgriGrow Corp
+Partner,frank wilson,Asia Pacific,$9676,4478,$1037637,"September 17, 2024",closed won,H1-24-Cross-sell,Training Package,,AgriGrow Corp
+email,leo harris,US,$36821,1324,$23761,"September 19, 2024",Lost,Q1-2024-Cross-sell,Security Bundle,-,AgriGrow Corp
+web,Frank Wilson,US,$49949,1691,$1488724,"August 26, 2023",Proposal,Q4-23-Webinar Series,API Access,161,AgriGrow Corp
+Reseller,Leo Harris,Australia,$18513,158,$240992,"December 22, 2023",CLOSED WON,,Analytics Dashboard,439,AgriGrow Corp
+Telesales,J. Smith,APAC,$27692,4696,$2455504,"May 11, 2025",in progress,,Support Tier 2,270,AgriGrow Corp
+Email,Iris Anderson,Britain,$20564,N/A,$81720,"July 18, 2024",Qualified,Q4-2024-Fall Campaign,Support Tier 2,257,AgriGrow Corp
+Social,Frank Wilson,North America,$35422,673,$1549458,"June 01, 2025",PENDING,,Gadget X,425,AgriGrow Corp
+,Alice Johnson,LATAM,$18035,1971,$115730,"April 02, 2025",LOST,Q1-23-New Year Promo,Support Tier 1,413,AgriGrow Corp
+DIRECT,john smith,EMEA,$10869,4844,$411676,"February 16, 2024",Closed-Won,H1-2023-Product Launch,Gadget X,241,AgriGrow Corp
+call center,carol davis,United Kingdom,$46870,3649,$260618,"February 07, 2025",CL,H1-24-Cross-sell,Security Bundle,60,AgriGrow Corp
+In-Store,leo harris,NA,$16261,3527,$12654,"June 29, 2024",closed lost,,Hardware Unit,405,AgriGrow Corp
+Field Sales,I. Anderson,EU,$9432,4552,$1514352,"June 06, 2025",closed won,Q1-24-New Year Promo,Premium Onboarding,420,AgriGrow Corp
+field,C. Davis,US,$9918,3012,$239632,"October 29, 2024",LOST,H1-24-Cross-sell,Support Tier 2,53,Weyland Corp
+email,I. Anderson,SA,$37480,4630,$1145367,"June 20, 2025",proposal,H2-2023-Trade Show,CRM Module,33,AgriGrow Corp
+,Jane Doe,Australia,-,2473,$27079,"February 16, 2024",open,H2-2024-Upsell,Gadget X,257,
+Social Media,J. Doe,ANZ,$1827,1232,$1795074,"January 07, 2024",closed won,,Service Plan Pro,500,AgriGrow Corp
+Social,Frank Wilson,ASIAPAC,$17413,null,$347113,"October 13, 2023",WON,Q3-2024-Webinar Series,Cloud Storage 1TB,436,AgriGrow Corp
+Field Sales,A. Johnson,Britain,$16216,4079,$720,"October 13, 2024",pending,Q3-2024-Trade Show,Widget Pro,429,AgriGrow Corp
+partner,Leo Harris,United States,$25305,902,$94739,"April 19, 2024",In Progress,Q4-23-Spring Push,Consulting Hours,16,Sterling Cooper
+Channel Partner,John Smith,NA,$8149,1972,-,"May 22, 2025",Won,Q2-24-New Year Promo,Security Bundle,14,AgriGrow Corp
+Social Media,carol davis,EU,$31750,2786,$138372,"April 24, 2024",Open,H2-23-Trade Show,Service Plan Enterprise,477,AgriGrow Corp
+in-store,K. White,Britain,$12809,,$463966,"December 27, 2024",Proposal,,Cloud Storage 1TB,436,AgriGrow Corp
+Store,Jake Thomas,United Kingdom,,2289,$1403,"October 09, 2024",negotiation,Q3-2023-Black Friday,,402,AgriGrow Corp
+Web,bob williams,ANZ,$7013,3535,$66953,"August 21, 2024",WON,H2-2023-Cross-sell,API Access,484,Cogswell Cogs
+Retail,carol davis,EU,$44972,3244,$367955,"September 14, 2024",Closed Won,Q1-2023-Holiday Sale,Data Pipeline,-,Spacely Sprockets
+call center,J. Smith,Asia,$22123,1520,$330414,"December 29, 2024",Negotiation,Q3-23-Cross-sell,Widget A,225,BlueOcean Retail
+Social,mia clark,Middle East,null,2971,$1222919,"April 08, 2025",WON,H1-24-Fall Campaign,Marketing Suite,146,AgriGrow Corp
+phone,C. Davis,LATAM,$7500,3306,$206638,"July 06, 2024",lead,H1-24-Retention,API Access,380,AgriGrow Corp
+call center,iris anderson,ANZ,$18631,1321,$300346,"February 11, 2025",open,Q2-23-Upsell,Training Package,239,NovaTech Solutions
+Field Sales,iris anderson,ASIAPAC,$47443,4260,$48417,"March 09, 2024",Negotiation,Q3-24-Email Blast,Gadget X,80,AgriGrow Corp
+in-store,K. White,United Kingdom,$6386,2013,$216635,"January 30, 2024",CLOSED LOST,H2-2024-Spring Push,Security Bundle,427,Stratton Oakmont
+online,J. Thomas,North America,-,649,$3888,"November 25, 2024",Pending,H1-2023-Brand Awareness,ERP Add-on,310,AgriGrow Corp
+Referral,D. Brown,Britain,$22983,3138,$642820,"August 13, 2024",CLOSED LOST,FY-2023-Cross-sell,Premium Onboarding,484,AgriGrow Corp
+,Iris Anderson,United States,$21174,2688,$369461,"May 09, 2025",closed won,FY-2024-Webinar Series,Security Bundle,26,AgriGrow Corp
+Web,H. Taylor,Asia,$26417,845,$1017720,"June 23, 2025",negotiation,Q2-23-Email Blast,Consulting Hours,443,AgriGrow Corp
+social media,grace lee,US,$123,722,$359721,"February 10, 2024",Closed-Won,Q2-23-Product Launch,ERP Add-on,477,AgriGrow Corp
+Store,leo harris,Middle East,$48551,937,$173982,"August 21, 2024",in progress,H2-2024-Webinar Series,Premium Onboarding,284,AgriGrow Corp
+email campaign,mia clark,LATAM,$22916,879,$607655,"September 06, 2023",in progress,Q3-23-Trade Show,Marketing Suite,220,AgriGrow Corp
+Social Media,grace lee,Asia,$42320,4911,$638892,N/A,open,H2-2023-Upsell,Software License,6,Krusty Burger LLC
+,Eva Martinez,N. America,$16403,4293,$88926,"November 03, 2024",CLOSED WON,Q3-2024-Upsell,CRM Module,177,Bluth Company
+,H. Taylor,APAC,,1780,$821034,"September 12, 2024",In Progress,H1-23-Product Launch,Service Plan Pro,12,NovaTech Solutions
+Direct Sales,david brown,Australia,$46721,3658,$41761,"September 12, 2023",negotiation,FY-24-Fall Campaign,Service Plan Basic,452,AgriGrow Corp
+Store,N/A,United States,$7720,1215,$124416,"February 10, 2025",Closed Won,H2-24-Retention,Widget Pro,,AgriGrow Corp
+Web,L. Harris,EMEA,$358,3364,$24636,"January 04, 2025",Negotiation,Q3-23-Holiday Sale,Consulting Hours,243,SummitView Hotels
+DIRECT,Frank Wilson,United States,$41663,2870,$382010,"January 16, 2024",Closed-Won,Q3-2024-Webinar Series,Service Plan Enterprise,341,AgriGrow Corp
+Social Media,frank wilson,USA,$20447,N/A,$433253,"December 07, 2023",Pending,H2-23-Product Launch,ERP Add-on,30,Stratton Oakmont
+web,N/A,Asia Pacific,$32255,3919,$42801,"December 18, 2024",CW,FY-2024-Brand Awareness,Service Plan Basic,54,Planet Express
+Social Media,bob williams,EU,$28198,3431,$497874,"August 25, 2024",Lead,Q4-23-Retention,Widget B,316,AgriGrow Corp
+RETAIL,alice johnson,UK,$43540,146,$638636,TBD,CW,Q3-23-Holiday Sale,Gadget X,24,AgriGrow Corp
+Retail,A. Johnson,UK,$38011,2793,$56267,"July 05, 2025",WON,H2-24-Social Push,Premium Onboarding,50,Stratton Oakmont
+in-store,eva martinez,Unknown,$47509,1782,$182360,"December 06, 2023",LOST,FY-23-Social Push,Software License,31,AgriGrow Corp
+Social Media,frank wilson,USA,$20447,N/A,$433253,"December 07, 2023",Pending,H2-23-Product Launch,ERP Add-on,30,Stratton Oakmont
+e-comm,,ANZ,0,238,$1793192,"September 26, 2023",CW,,Data Pipeline,223,Cyberdyne Systems
+email campaign,iris anderson,APAC,$21071,1936,$1266785,"August 26, 2023",Lead,Q3-23-Upsell,Support Tier 1,194,AgriGrow Corp
+reseller,Bob Williams,Latin America,$5787,216,NULL,"April 20, 2024",Qualified,Q2-2023-Holiday Sale,Widget A,324,AgriGrow Corp
+Social Media,JOHN SMITH,Latin America,$35747,228,$317190,"April 30, 2025",Open,Q4-24-Cross-sell,Cloud Storage 5TB,113,AgriGrow Corp
+Affiliate,jake thomas,EU,$42744,null,$1200232,"January 26, 2025",pending,Q4-24-Spring Push,Software Subscription,346,AgriGrow Corp
+in-store,David Brown,Asia Pacific,$46395,4987,$804939,"April 27, 2025",qualified,Q1-2023-Email Blast,Gadget Mini,490,Prestige Worldwide
+,john smith,Africa,$23761,1671,$938,"January 30, 2024",Proposal,H1-2024-Trade Show,Marketing Suite,297,BlueOcean Retail
+Channel Partner,JOHN SMITH,Europe,$18254,45,$26143,"December 13, 2023",Closed-Lost,Q2-2024-Product Launch,Hardware Unit,79,AgriGrow Corp
+Channel Partner,iris anderson,Britain,$2865,4231,$70301,"October 10, 2024",CW,Q3-2024-Cross-sell,Widget B,433,AgriGrow Corp
+Field Sales,frank wilson,USA,$34506,587,$52835,"May 27, 2024",CLOSED LOST,Q1-24-Upsell,Data Pipeline,195,AgriGrow Corp
+partner,D. Brown,Africa,$14983,-,$137575,"July 14, 2025",CLOSED WON,H1-2023-Spring Push,Consulting Hours,186,AgriGrow Corp
+reseller,M. Clark,APAC,$19215,4795,$1551032,"July 16, 2025",Proposal,H2-24-Holiday Sale,Consulting Hours,188,AgriGrow Corp
+online,Eva Martinez,N. America,$48130,3808,$1198893,"March 20, 2025",Proposal,Q2-2023-Summer Blitz,Widget Pro,51,AgriGrow Corp
+direct,Alice Johnson,N. America,$17476,4172,$1089314,"March 10, 2024",In Progress,H1-23-Brand Awareness,Software Subscription,23,Initech Solutions
+email,L. Harris,North America,$1107,2798,$69537,"February 13, 2025",Qualified,Q4-2023-New Year Promo,Data Pipeline,134,AgriGrow Corp
+referral,D. Brown,SA,$7884,889,$107,"March 29, 2024",Proposal,Q4-2024-Product Launch,Cloud Storage 5TB,319,AgriGrow Corp
+,Jane Doe,Australia,-,2473,$27079,"February 16, 2024",open,H2-2024-Upsell,Gadget X,257,
+Web,iris anderson,Middle East,$41556,3662,$64541,"March 15, 2025",Closed Lost,Q4-2023-Email Blast,Gadget X,105,Stark Industries
+call center,JOHN SMITH,US,,4546,$222945,"November 10, 2024",CW,Q1-24-Upsell,ERP Add-on,373,AgriGrow Corp
+reseller,david brown,Australia,$114,1880,$34615,"August 22, 2024",proposal,H1-2024-Retention,Analytics Dashboard,135,AgriGrow Corp
+Social,L. Harris,Africa,$426,164,$22586,"November 03, 2023",Lost,H1-2024-Brand Awareness,Security Bundle,,AgriGrow Corp
+Email Campaign,Grace Lee,ANZ,$41550,4651,-,"March 03, 2024",Closed Lost,Q2-24-Cross-sell,Widget A,488,Massive Dynamic
+Phone,F. Wilson,Latin America,$6920,1977,$2218490,"April 16, 2024",closed lost,Q3-24-Upsell,ERP Add-on,50,AgriGrow Corp
+Website,F. Wilson,Europe,$272,3005,$855145,"April 22, 2024",Negotiation,FY-24-Fall Campaign,Analytics Dashboard,156,Tyrell Corporation
+affiliate,Grace Lee,Britain,$3194,1124,$225260,"August 05, 2024",negotiation,H2-2023-Fall Campaign,Consulting Hours,23,AgriGrow Corp
+call center,E. Martinez,Asia,$32543,4833,$230773,,Closed-Lost,Q2-2024-Social Push,Cloud Storage 5TB,9,AgriGrow Corp
+Brick & Mortar,L. Harris,Latin America,$12578,2700,$636837,"December 27, 2024",open,Q2-2024-Email Blast,Software Subscription,403,AgriGrow Corp
+email,bob williams,Britain,$32949,2280,$577507,"August 20, 2023",PENDING,H1-24-Holiday Sale,Support Tier 2,161,AgriGrow Corp
+email campaign,bob williams,UK,$817,2482,$514198,"November 29, 2024",In Progress,Q2-24-Fall Campaign,Security Bundle,399,AgriGrow Corp
+referral,J. Smith,Australia,$2122,2116,$1156314,"April 16, 2025",In Progress,H2-24-Cross-sell,Gadget Mini,5,AgriGrow Corp
+Social,L. Harris,Africa,$426,164,$22586,"November 03, 2023",Lost,H1-2024-Brand Awareness,Security Bundle,,AgriGrow Corp
+phone,Alice Johnson,N. America,$3828,N/A,$350941,"June 29, 2025",Closed Won,Q1-2023-Holiday Sale,CRM Module,281,AgriGrow Corp
+e-comm,mia clark,APAC,$46688,2545,$104189,"January 28, 2025",negotiation,FY-2023-Summer Blitz,Training Package,-,TrueNorth Financial
+social,E. Martinez,Europe,$11898,1424,$243980,"September 16, 2023",Lead,Q3-24-Holiday Sale,CRM Module,420,AgriGrow Corp
+Social Media,D. Brown,EMEA,,4119,$325971,"August 26, 2024",Closed-Won,FY-2023-New Year Promo,MISC,188,Bluth Company
+Affiliate,jake thomas,Latin America,$14881,3678,$204401,pending,CLOSED WON,H2-2023-Spring Push,N/A,10,AgriGrow Corp
+Social Media,Grace Lee,NA,$15649,-,$441408,"April 04, 2025",closed won,H1-23-Retention,Software Subscription,54,AgriGrow Corp
+Call Center,F. Wilson,United States,$17151,1456,$689803,"July 28, 2025",Qualified,Q1-2023-New Year Promo,Software License,381,AgriGrow Corp
+Direct,,UK,null,2573,$773674,"May 04, 2024",Lead,Q4-2024-Social Push,Premium Onboarding,126,AgriGrow Corp
+Direct Sales,Eva Martinez,-,$28841,560,$87259,"August 28, 2023",Lost,H2-2024-Fall Campaign,Training Package,209,Dharma Initiative
+,carol davis,,$28064,260,$161908,"October 16, 2023",closed lost,,Software License,1,Bluth Company
+call center,N/A,Unknown,$18125,9,$1020978,"October 09, 2024",Pending,Q2-23-Product Launch,Other,257,AgriGrow Corp
+reseller,david brown,Australia,$114,1880,$34615,"August 22, 2024",proposal,H1-2024-Retention,Analytics Dashboard,135,AgriGrow Corp
+in-store,Frank Wilson,Asia Pacific,$11944,1810,$255126,"June 04, 2025",in progress,Q4-2023-Summer Blitz,Gadget X,155,AgriGrow Corp
+Direct,karen white,LATAM,$14706,595,$231100,"September 14, 2024",Closed Won,Q4-2024-Webinar Series,Cloud Storage 5TB,135,AgriGrow Corp
+email,David Brown,US,null,4299,$37642,"September 08, 2023",closed lost,,Support Tier 1,247,AgriGrow Corp
+Referral,Unassigned,Asia Pacific,null,4282,$648364,"February 05, 2025",Open,Q4-2024-Spring Push,,155,AgriGrow Corp
+direct,M. Clark,Unknown,$5552,3935,$582365,"February 01, 2025",CLOSED LOST,H1-2023-Retention,Service Plan Enterprise,281,Umbrella Ltd
+referral,Eva Martinez,Middle East,$49561,3084,$74810,"July 12, 2025",PENDING,Q1-2023-Fall Campaign,Analytics Dashboard,151,AgriGrow Corp
+e-comm,David Brown,Asia Pacific,$23816,2526,$85083,"June 13, 2025",Closed-Lost,Q2-2023-Cross-sell,Cloud Storage 1TB,374,AgriGrow Corp
+Partner,frank wilson,Asia Pacific,$9676,4478,$1037637,"September 17, 2024",closed won,H1-24-Cross-sell,Training Package,,AgriGrow Corp
+online,john smith,Europe,$7769,1676,$41532,"February 15, 2025",Won,FY-2023-Holiday Sale,Widget A,35,AgriGrow Corp
+Social,K. White,Asia,$15055,4660,$1120442,"August 15, 2024",qualified,,Widget A,,AgriGrow Corp
+field,frank wilson,North America,$3672,4284,$40074,"August 20, 2023",PENDING,FY-2024-Email Blast,Service Plan Enterprise,274,AgriGrow Corp
+web,N/A,North America,$30296,4880,$1746146,"September 03, 2023",CW,,Support Tier 1,145,AgriGrow Corp
+DIRECT,N/A,USA,$15715,4357,$816950,"February 09, 2025",CW,Q2-2023-Trade Show,Premium Onboarding,315,NovaTech Solutions
+Online,Karen White,North America,$4218,1566,$48722,"February 26, 2025",Pending,FY-2023-Social Push,Cloud Storage 5TB,-,PixelForge Studios
+social,Jane Doe,NA,$994,2141,$100609,"July 01, 2025",CL,Q3-24-Fall Campaign,Gadget X,104,AgriGrow Corp
+RETAIL,Grace Lee,USA,$9222,2435,$1174115,"October 13, 2023",Proposal,Q4-24-Cross-sell,Widget Pro,201,AgriGrow Corp
+partner,iris anderson,USA,$19155,null,$168511,"November 05, 2023",in progress,Q4-24-Product Launch,Cloud Storage 1TB,73,Dunder Mifflin
+Referral,eva martinez,SA,$34490,2904,$1166920,"January 09, 2024",in progress,,Consulting Hours,359,AgriGrow Corp
+Affiliate,G. Lee,N/A,,2551,$306221,"March 19, 2025",closed lost,Q2-23-Fall Campaign,ERP Add-on,177,AgriGrow Corp
+ecommerce,John Smith,??,$33478,1885,$1406623,,Closed-Won,H2-2023-Social Push,API Access,220,AgriGrow Corp
+reseller,David Brown,Australia,null,1060,$594150,TBD,Lost,Q1-23-Fall Campaign,Service Plan Basic,299,AgriGrow Corp
+Social Media,Eva Martinez,Africa,$29165,3684,$516345,"March 26, 2025",pending,FY-24-Brand Awareness,Data Pipeline,325,AgriGrow Corp
+Email Campaign,Karen White,ANZ,$16261,1957,$177742,"October 02, 2024",in progress,H2-2023-Brand Awareness,Data Pipeline,200,Oscorp Technologies
+partner,Eva Martinez,ASIAPAC,$15884,3821,$220494,"March 28, 2025",Lead,Q2-23-Holiday Sale,Service Plan Enterprise,167,AgriGrow Corp
+PARTNER,leo harris,APAC,$38749,1333,$357665,"February 25, 2025",closed won,Q2-23-Social Push,Widget A,148,AgriGrow Corp
+Affiliate,jake thomas,USA,$869,4227,$9860,"May 07, 2025",closed lost,Q3-2023-Social Push,Widget A,454,AgriGrow Corp
+partner,iris anderson,USA,$19155,null,$168511,"November 05, 2023",in progress,Q4-24-Product Launch,Cloud Storage 1TB,73,Dunder Mifflin
+PARTNER,Alice Johnson,LATAM,$30863,3052,$507918,"August 03, 2025",Proposal,,Cloud Storage 5TB,367,AgriGrow Corp
+In-Store,david brown,EU,$4436,1449,$191640,"May 10, 2024",closed lost,FY-2024-Email Blast,Software License,396,AgriGrow Corp
+Affiliate,K. White,ASIAPAC,N/A,495,$1079310,"February 27, 2025",closed lost,H2-2024-Cross-sell,Gadget Mini,221,AgriGrow Corp
+e-comm,H. Taylor,Middle East,$23458,3383,$454358,"October 07, 2024",closed won,Q2-24-Summer Blitz,Security Bundle,236,AgriGrow Corp
+reseller,B. Williams,US,-,3324,$113764,"August 14, 2024",Closed Won,Q1-23-Retention,Data Pipeline,132,AgriGrow Corp
+call center,john smith,Australia,$21501,1570,$569250,"October 24, 2023",PENDING,Q4-2024-Fall Campaign,MISC,286,Planet Express
+partner,Unassigned,Asia Pacific,$25828,596,$24121,"May 04, 2025",closed won,FY-24-New Year Promo,Cloud Storage 1TB,,
+DIRECT,alice johnson,MEA,$7863,785,$95158,"April 02, 2025",In Progress,H1-2024-Fall Campaign,Widget B,324,AgriGrow Corp
+ecommerce,Grace Lee,Asia Pacific,$12950,1379,$134471,null,Proposal,H2-24-Social Push,Support Tier 2,162,AgriGrow Corp
+,,,,,,,,,,,
+,,,,,,,,,,,

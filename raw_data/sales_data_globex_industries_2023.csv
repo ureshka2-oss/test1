@@ -1,0 +1,130 @@
+campaignName	salesRep	leadCount	totalRevenue	saleDate	productName	conversionCount	salesRegion	salesChannel	companyName	unitPrice	quantity	dealStatus	adSpend
+H2-23-Fall Campaign	karen white	3291	USD 1,386,201.70	10.31.2023	Widget A	342	Europe	Brick & Mortar	Globex Industries	USD 3,115.06	445.00	CLOSED WON	USD 26,750.73
+	David Brown	2346	USD 261,603.64	07.19.2024	ERP Add-on	320	Australia	Online	Globex Industries	USD 4,433.96	59	Closed Lost	USD 18,321.28
+H2-24-Cross-sell	david brown	4135	USD 625,632.54	09.23.2023	Support Tier 1	331	North America	Retail	Globex Industries	USD 3,224.91	194	WON	USD 34,719.05
+	carol davis	4893	USD 1,824,954.30	01.24.2024	Security Bundle	325	North America		Globex Industries	USD 4,679.37	390	pending	null
+H2-24-Fall Campaign	iris anderson	3081	USD 1,088,928.50	06.27.2024	Marketing Suite	393	USA	Direct	Hooli Inc	USD 2,675.50	407.0	open	USD 15,447.74
+H1-2023-Email Blast	Iris Anderson	268	USD 868,111.52	01.22.2025	ERP Add-on	345	Asia	In-Store	Globex Industries	USD 2,523.58	344.00	Won	USD 2,833.97
+H2-2024-New Year Promo	henry taylor	N/A	USD 95,227.04	12.10.2023	Service Plan Pro	164	Africa	Direct Sales	Globex Industries	USD 3,071.84	31	Lead	USD 9,043.62
+Q2-23-Upsell	D. Brown	4208	USD 2,083,397.30	02.11.2025	Premium Onboarding	143	United States	Direct	TrueNorth Financial	USD 4,845.11	430	Lead	USD 5,315.33
+Q4-2023-Email Blast	Grace Lee	3049	USD 880,471.68	06.26.2025	ERP Add-on	202	United States	DIRECT	Globex Industries	USD 3,335.12	264.0	In Progress	USD 45,170.64
+Q3-24-New Year Promo	A. Johnson	689	USD 138,748.75	02.16.2024	Cloud Storage 1TB	214	UK	In-Store	Pied Piper	USD 1,109.99	125	CLOSED WON	
+	jane doe	2160	USD 281,809.53	11.09.2023	API Access	143	Africa	PARTNER	Globex Industries	USD 1,079.73	261.0	Pending	USD 23,248.94
+Q3-23-Trade Show	Iris Anderson	1753	NULL	01.18.2025	Marketing Suite	475	United States	e-comm	Globex Industries	NULL	265.00	proposal	USD 46,056.59
+Q3-24-Summer Blitz	Jane Doe	3272	USD 1,020,022.51	09.30.2024	Training Package	377	United Kingdom	referral	Globex Industries	USD 2,705.63	377	closed lost	USD 19,526.88
+Q1-23-Holiday Sale	Alice Johnson	4349	USD 1,983,018.60	09.11.2024	Widget A	459	NA	Field Sales	Globex Industries	USD 4,310.91	460	Lost	USD 27,311.07
+FY-24-Email Blast	Grace Lee	3501	USD 133,105.92	05.03.2024	Data Pipeline	217	Europe	partner	GreenLeaf Energy	USD 978.72	136	lead	USD 40,951.60
+Q3-24-Retention	frank wilson	2555	USD 83,031.39	12.14.2024	Training Package	439	Asia	Retail	Globex Industries	USD 709.67	117	Negotiation	USD 40,918.74
+Q1-23-Summer Blitz	jane doe	1220	USD 207,485.28	12.27.2023	Widget Pro	143	APAC	Channel Partner	Globex Industries	USD 4,322.61	48.00	Closed-Lost	USD 8,408.09
+Q4-2023-Summer Blitz	frank wilson	3588	USD 1,028,214.72	02.19.2024	Gadget X	400	Unknown	email campaign	Globex Industries	USD 4,943.34	208	WON	USD 44,951.05
+Q1-24-Social Push	H. Taylor	666	USD 356,598.58	06.27.2025	Analytics Dashboard	226	SA	Affiliate	Globex Industries	USD 1,180.79	302.00	Pending	USD 37,601.07
+	D. Brown	4667	USD 167,919.68	05.31.2024	Widget A	277	South America		SummitView Hotels	N/A	446	Lead	USD 15,828.21
+Q1-2023-Product Launch	Frank Wilson	1736	USD 250,387.20	01.27.2024	Consulting Hours	83	??	Reseller	Globex Industries	USD 1,555.20	161	CLOSED LOST	USD 22,102.64
+Q3-23-Spring Push	Karen White	740	USD 1,080,680.28	08.29.2024	API Access	224	Middle East	social	Spacely Sprockets	USD 3,018.66	358	negotiation	null
+FY-23-Holiday Sale		2455	USD 144,327.68	pending	Support Tier 2	408			Globex Industries	USD 322.16	448.0	in progress	USD 17,273.93
+FY-2024-Product Launch	Henry Taylor	null	USD 120,529.71	07.30.2023	Service Plan Basic	88	MEA	In-Store	Initech Solutions	USD 266.07	453	Negotiation	0
+Q1-2024-Spring Push	Jane Doe	4236	USD 17,276.22	10.06.2023	Software Subscription	407	ANZ	Social Media	Globex Industries	null	333	CW	USD 5,440.23
+Q3-2024-Retention	john smith	2881	USD 1,341,699.12	05.25.2024	Marketing Suite	99	??	Reseller	NovaTech Solutions	USD 3,063.24	438	proposal	USD 32,339.11
+Q1-23-Webinar Series	frank wilson	4559	USD 1,390,417.82	N/A	Software Subscription	392	MEA	Field Sales	Globex Industries	USD 3,416.26	407.0	Closed-Won	USD 23,370.32
+FY-2024-Cross-sell	A. Johnson	4728	USD 1,716,572.48	10.05.2023	Cloud Storage 5TB	286	United Kingdom	Channel Partner	Massive Dynamic	USD 4,048.52	424	Won	USD 33,535.28
+Q2-24-Product Launch	Henry Taylor	2188	USD 149,530.29	02.12.2025	API Access	222	ASIAPAC	PARTNER	Globex Industries	USD 3,834.11	39.0	closed won	USD 33,091.92
+Q2-2024-Email Blast	C. Davis	1721	USD 568,972.35	10.22.2023	Cloud Storage 1TB	83	N. America	Affiliate	Globex Industries	USD 1,404.87	405.00	Qualified	USD 43,191.75
+Q3-24-Cross-sell	L. Harris	1272	USD 50,417.08	08.11.2023			N. America	referral	Globex Industries	USD 869.26	58	CL	
+H2-23-Holiday Sale	bob williams	N/A	USD 514,588.20	03.10.2025	Gadget X	327	Africa	Web	Globex Industries	USD 4,474.68	115	Closed-Lost	USD 34,531.60
+H1-2024-Product Launch	M. Clark	543	USD 658,306.88	10.03.2023	Hardware Unit	324	LATAM	in-store	Initech Solutions	USD 3,740.38	176.00	Closed Won	USD 10,503.22
+Q1-2023-Upsell	Karen White	2065	USD 41,709.46	TBD	-	189	US	direct	Umbrella Ltd	USD 1,604.21	26.0	CW	USD 44,316.87
+H2-23-Webinar Series	mia clark	2521	USD 1,110,303.00	02.16.2024	Software Subscription	120	United States	Retail	Globex Industries	USD 2,467.34	450	Lost	USD 25,272.03
+H1-2024-Summer Blitz	iris anderson	3520	USD 163,704.36	11.07.2024	Software License	272	NA	field	Globex Industries	NA	#REF!	lead	N/A
+Q4-23-Trade Show	jake thomas	4210	USD 114,619.08	07.05.2025	Analytics Dashboard	31	Asia		QuickShip Logistics	USD 250.26	458.0	Closed Won	USD 22,352.28
+Q2-2023-Upsell	Leo Harris		USD 298,362.60	null	Support Tier 2	253	US	Direct Sales	Globex Industries	USD 1,069.40	279.00	closed won	USD 7,906.93
+Q1-2024-Product Launch	alice johnson	2941	USD 167,530.41	05.04.2025	Analytics Dashboard	-	North America	Online	HealthPlus Pharma	USD 979.71	171.0	in progress	USD 23,571.53
+Q4-24-Fall Campaign	N/A	796	USD 2,402,408.50	06.20.2024	ERP Add-on	380	USA		Globex Industries	USD 4,984.25	482.0	open	
+H1-2024-New Year Promo	J. Thomas	1945	USD 54,878.04	07.01.2025	Widget B	303	Middle East	Brick & Mortar	Globex Industries	USD 373.32	147.00	qualified	USD 10,707.44
+Q1-23-Holiday Sale	F. Wilson		USD 759,302.40	01.05.2025	Security Bundle	270	Middle East	PARTNER	Globex Industries	USD 2,138.88	355	closed lost	USD 4,131.21
+Q2-2023-New Year Promo	D. Brown	4542	USD 1,561,010.16	12.05.2024	Software License	-	Middle East	Affiliate	Cybertruck Co	USD 3,647.22	428	negotiation	USD 4,845.66
+Q3-2023-Webinar Series	Jake Thomas	796	USD 250,965.54	11.06.2024	Security Bundle	373	USA	Social	Globex Industries	USD 663.93	378.00	Open	USD 12,389.88
+Q3-23-Brand Awareness	C. Davis	3119	USD 2,211,049.74	02.06.2024	Hardware Unit	350	EU	direct	NovaTech Solutions	USD 4,946.42	447.0	Closed-Won	USD 7,113.20
+Q3-2023-Trade Show	I. Anderson	2420	USD 1,530,450.44	10.13.2023	Service Plan Enterprise	426	NA	social media	Globex Industries	USD 4,410.52	347.00	qualified	USD 31,862.33
+Q4-24-Upsell	frank wilson	4598	USD 1,812,394.80	11.11.2024	Service Plan Enterprise	144	Asia	DIRECT	Globex Industries	USD 4,769.46	380	closed won	
+FY-24-New Year Promo	J. Smith	680	USD 194,374.29	08.04.2023	Support Tier 2	57	ANZ	Retail	Globex Industries	NA	185.0	in progress	USD 7,100.46
+	carol davis	3376	USD 1,944,359.40	05.11.2024	Data Pipeline	341	ANZ	online	Globex Industries	USD 3,951.95	492.00	Closed-Lost	USD 26,542.88
+Q4-2023-Brand Awareness	M. Clark	-	USD 359,820.89	08.25.2024	Service Plan Enterprise	188	Unknown	Affiliate	Globex Industries	USD 2,516.23	143	Lost	N/A
+Q1-24-Product Launch	Karen White	3351	USD 134,976.00	09.24.2023	API Access	276	SA	phone	Globex Industries	USD 2,699.52	50.0	Proposal	USD 36,939.50
+FY-2023-Email Blast	Carol Davis	4837	USD 515,167.98	04.12.2025	Premium Onboarding	454		Call Center	Globex Industries	USD 1,966.29	262	negotiation	USD 41,901.41
+FY-2023-Cross-sell	karen white	3722	USD 365,912.08	10.04.2024	Service Plan Basic	250	Asia Pacific	In-Store	Globex Industries	USD 2,690.53	136.00	negotiation	USD 15,863.61
+Q3-2023-Black Friday	mia clark	2187	USD 117,677.52	05.16.2025	Widget Pro	428	Europe	Online	Globex Industries	USD 1,634.41	72.0	Lost	USD 12,634.62
+H2-2023-Fall Campaign	F. Wilson	3881	USD 1,264,441.14	07.19.2023	MISC		Europe	Brick & Mortar	Globex Industries	USD 3,976.23	318	open	USD 33,281.19
+Q2-24-Black Friday	F. Wilson	N/A	USD 33,334.29	01.25.2024	Widget Pro	55	South America	E-Commerce	Globex Industries	USD 3,843.74		pending	USD 32,127.28
+Q1-2024-Retention		3063	USD 28,315.80	04.01.2024	CRM Module	125	UK		Globex Industries	USD 314.62	90.00	CLOSED LOST	USD 19,203.60
+H2-24-Spring Push	G. Lee	743	USD 87,132.00	05.05.2025	Security Bundle	500	Asia Pacific	DIRECT	Globex Industries	USD 548.00	159.00	closed lost	USD 31,199.80
+H1-24-Brand Awareness	Henry Taylor	3389	USD 1,740,455.52	06.23.2025	Widget B	345	Europe	social media		USD 4,428.64	393	closed won	USD 592.62
+Q2-2023-Spring Push	E. Martinez	2415	USD 111,461.87	07.15.2024	Cloud Storage 1TB	-	EU	field	NovaTech Solutions	USD 583.57	191.0	Won	USD 43,604.77
+Q2-24-New Year Promo	Carol Davis	1894	USD 140,676.03	01.23.2025	Service Plan Enterprise	65	United Kingdom	Affiliate	Globex Industries	USD 1,420.97	99	Open	USD 46,135.03
+H2-2024-Product Launch	I. Anderson	118	USD 518,792.40	10.15.2024	CRM Module		Asia Pacific	email campaign	Globex Industries	USD 1,271.55	408	negotiation	USD 42,115.21
+Q2-2024-Trade Show	carol davis	4109	USD 832,601.00	08.24.2024	Software Subscription		Britain	Reseller	NovaTech Solutions	USD 4,757.72	175.0	CLOSED LOST	USD 8,360.78
+Q3-24-Social Push	J. Smith	1475	USD 61,911.91	03.12.2024	Support Tier 1	56	Britain	Affiliate	QuickShip Logistics	USD 3,766.91	#REF!	closed lost	USD 7,635.46
+FY-23-New Year Promo	david brown	1132	USD 166,551.66	06.11.2025	Premium Onboarding	307	ASIAPAC	field	Genco Pura	USD 1,376.46	121.00	Won	USD 8,395.02
+H2-2024-Fall Campaign	carol davis	null	USD 563,953.29	07.10.2024	Software Subscription	359	NA	social media	Globex Industries	USD 3,734.79	151	PENDING	USD 2,834.47
+Q3-2024-Cross-sell	K. White	N/A	USD 1,681,558.78	12.24.2024	Cloud Storage 5TB	427	LATAM	affiliate	Globex Industries	USD 4,818.22	349.00	Lead	USD 34,911.07
+	I. Anderson	784	USD 1,858,250.16	04.17.2024	Cloud Storage 1TB		APAC	Reseller	Globex Industries	USD 3,823.56	486.00	WON	USD 11,033.35
+Q3-2024-Holiday Sale	Henry Taylor		USD 513,280.00	05.13.2025	Widget A	19	EU	Email Campaign	Globex Industries	USD 3,208.00	160	proposal	USD 20,535.87
+Q2-24-Spring Push	Eva Martinez	-	-	11.26.2024	Support Tier 1		LATAM	Social Media	Globex Industries	#N/A	354.0	CW	USD 20,681.03
+	H. Taylor	2814	USD 967,206.40	02.22.2024	Training Package	-	USA	phone	Globex Industries	USD 1,994.24	485	LOST	USD 9,081.11
+Q3-24-Holiday Sale	leo harris	3478	USD 712,370.72	06.01.2024	Support Tier 2	484	ASIAPAC	Retail	Globex Industries	USD 1,509.26	472.00	Qualified	USD 43,521.50
+Q2-2024-Spring Push	H. Taylor	2302	USD 463,684.60	08.21.2024	Software Subscription	373	MEA		Prestige Worldwide	USD 4,032.04	115.0	lead	
+Q2-2023-Webinar Series	C. Davis	4816	USD 333,085.13	11.27.2023	Analytics Dashboard	N/A	South America	E-Commerce	Globex Industries	USD 4,562.81	73.0	LOST	USD 15,005.95
+Q1-24-New Year Promo	Carol Davis	4019	USD 31,936.20	11.19.2024	Analytics Dashboard	463	LATAM	email	Globex Industries	USD 626.20	51.00	Negotiation	USD 44,207.19
+H1-24-Fall Campaign	Mia Clark	3089	USD 644,495.50	08.01.2023	API Access	375	N. America	referral	Oscorp Technologies	USD 2,113.10	305	Closed Won	USD 1,590.87
+Q4-2023-Black Friday	Bob Williams	3683	USD 766,356.69	07.03.2025	Hardware Unit	237	United Kingdom	In-Store	Globex Industries	USD 2,529.23	303.00	in progress	USD 36,681.25
+H1-2023-Product Launch	jane doe	4759	USD 1,190,659.68	04.06.2025	Service Plan Basic	59	N/A	Phone	Globex Industries	USD 3,543.63	336.0	PENDING	null
+H1-2023-Webinar Series	john smith	1064	USD 729,576.00	12.31.2024	Cloud Storage 1TB	318	??	Field Sales	Globex Industries	USD 1,519.95	480	Closed-Won	
+	Frank Wilson	2228	USD 265,219.50	01.07.2025	Widget B	341	??	Email Campaign	Globex Industries	USD 2,040.15	130	Lead	USD 20,961.38
+FY-2024-New Year Promo	N/A	1184	USD 1,646,242.77	01.29.2025	Widget Pro	412	Britain	Website	Globex Industries	USD 3,634.09	453	CLOSED LOST	
+FY-23-Summer Blitz	Frank Wilson	667	USD 199,109.88	06.22.2024		N/A	Asia	Brick & Mortar	Globex Industries	USD 1,860.84	107.0	Closed Lost	null
+FY-24-Fall Campaign	E. Martinez	1974	USD 1,083,112.95	02.12.2025	Security Bundle	460	United States	Affiliate	Globex Industries	USD 3,551.19	305.00	Lead	null
+H2-24-Email Blast	alice johnson	4979	USD 67,896.92	01.10.2025	Security Bundle	31	N. America	Email	Globex Industries	USD 421.72	161	CLOSED LOST	USD 22,597.40
+Q3-23-Email Blast	Unassigned	N/A	USD 71,423.88	07.04.2025	Widget B	189	NA	Field Sales	Globex Industries	USD 147.57	484	CLOSED LOST	USD 15,556.88
+H2-2024-Holiday Sale	M. Clark	755	USD 73,021.35	11.03.2024	API Access	358	North America	ONLINE	Dharma Initiative	USD 1,973.55	37.00	Closed Won	USD 48,584.35
+H1-2023-Product Launch	eva martinez	4472	USD 541,602.76	01.10.2025	Software License	381	LATAM		FreshCart	USD 2,554.73	212	lead	USD 4,373.15
+Q2-2024-Product Launch	Jane Doe	N/A	USD 355,399.80	04.18.2024	N/A	321	South America	Field Sales	Globex Industries	USD 2,538.57	140	Pending	USD 42,557.09
+	Unassigned	3295	USD 2,559.12	05.03.2025	Consulting Hours	486	South America	Online	Globex Industries	USD 639.78	4.0	Closed Lost	
+	Leo Harris	3795	USD 1,823,047.02	04.06.2025	Hardware Unit	411	Asia	ecommerce	Globex Industries	USD 3,971.78	459	CLOSED LOST	USD 19,634.77
+H2-2024-Webinar Series	bob williams	1020	USD 22,846.98	09.30.2024	Cloud Storage 1TB	423	LATAM	Online	Globex Industries	USD 3,807.83	6.00	qualified	USD 27,179.61
+	B. Williams	2655	USD 573,967.68	04.04.2025	CRM Module	362	EMEA		Globex Industries	USD 3,261.18	176	LOST	USD 37,870.57
+	J. Smith	111	USD 1,452,442.74	04.02.2025	Data Pipeline	16	Latin America	Affiliate	Globex Industries	USD 2,922.42	497	Qualified	USD 4,904.16
+Q2-23-Cross-sell	john smith	1813	USD 55,581.76	pending	Marketing Suite	N/A	UK	e-comm	Globex Industries	USD 3,473.86	16	LOST	USD 32,131.88
+Q1-2023-New Year Promo	A. Johnson	4712	USD 342,288.43	09.30.2023	Gadget Mini	42	US	ecommerce	Brawndo Corp	USD 748.99	457	in progress	USD 28,109.18
+Q4-2023-Fall Campaign	eva martinez	2134	USD 1,810,391.25	11.05.2023	ERP Add-on	363	NA	Retail	Globex Industries	USD 4,827.71	375	Lead	USD 20,505.55
+H1-2023-Fall Campaign	eva martinez	3925	USD 663,762.40	03.04.2025	Service Plan Basic	297	NA	Web	DataWave Inc	USD 2,370.58	280.00	Closed-Lost	-
+Q3-2023-Black Friday		3241	NA	null	Data Pipeline	296	United States	referral	Globex Industries	USD 1,100.31	null	CLOSED WON	null
+FY-23-Email Blast	karen white	4183	USD 727,670.58		Service Plan Enterprise		North America	ONLINE	Bluth Company	USD 4,605.51	158.0	In Progress	USD 19,963.29
+H2-2024-Webinar Series	A. Johnson	3435	USD 308,213.36	07.26.2023	Software Subscription	410	N. America	DIRECT	Globex Industries	USD 2,963.59	104	closed lost	USD 25,277.43
+FY-23-Fall Campaign	I. Anderson	2024	USD 12,259.05	07.25.2023	Consulting Hours	424	N. America	Phone	Globex Industries	USD 1,197.73	null	qualified	USD 23,149.52
+Q4-24-Email Blast	leo harris	1780	USD 1,555,832.94	02.16.2024	Gadget Mini	364	N. America	retail	Weyland Corp	USD 3,652.19	426	negotiation	USD 26,648.68
+Q2-23-Brand Awareness	N/A	3321	USD 367,921.68	09.28.2024	Hardware Unit	17	Africa	Brick & Mortar		USD 2,190.01	168.00	open	USD 25,490.18
+Q2-24-Black Friday	Frank Wilson	3250	USD 1,759,050.00	08.28.2023	Cloud Storage 5TB	412	Asia Pacific	affiliate	Massive Dynamic	USD 4,690.80	375.0	qualified	USD 31,616.73
+Q1-2023-Trade Show	J. Doe	3544	USD 122,058.75	01.17.2025	Marketing Suite	265	Middle East	Retail	Globex Industries	USD 3,698.75	33	LOST	
+H1-2023-Spring Push	leo harris	4148	USD 307,320.76	12.01.2024	Hardware Unit	360	USA	Phone	Globex Industries	USD 689.06	446	pending	USD 22,516.64
+H1-24-Upsell	Iris Anderson		USD 108,340.72	12.08.2024	Gadget Mini	147	North America	RETAIL	Globex Industries	NULL	469.0	Won	USD 35,912.90
+H2-2023-Summer Blitz	David Brown		USD 670,844.01	02.19.2024	Support Tier 2	447	Asia Pacific	Channel Partner	Globex Industries	USD 2,289.57	293.00	open	USD 5,119.88
+FY-2023-New Year Promo	eva martinez	794	USD 1,237,742.34	11.17.2023	Software Subscription	302	??	DIRECT	TrueNorth Financial	USD 3,577.29	346	LOST	USD 11,680.55
+Q4-24-Black Friday	Jane Doe	3310	USD 198,756.48	04.28.2024	N/A	351	UK	web	Globex Industries	USD 1,035.19	192.00	CL	USD 15,250.62
+	jane doe	3086	USD 491,003.64	11.16.2023	CRM Module	339	USA	Social Media	Vandelay Ind	USD 4,232.79	116	open	USD 19,574.82
+Q4-23-Spring Push	H. Taylor	4096		10.21.2023	API Access	386	Middle East	Partner	Globex Industries	USD 1,092.38	null	closed lost	USD 4,179.86
+Q1-2023-Holiday Sale	Bob Williams	4590	USD 891,964.50	01.29.2024	-	N/A	UK	ONLINE	Globex Industries	USD 2,098.74	425.0	Lead	USD 10,803.58
+H1-23-Holiday Sale	J. Smith	3879	USD 853,310.70	06.15.2024	Support Tier 1	392	Australia	Direct	Globex Industries	USD 2,106.94	405.00	closed lost	USD 20,693.88
+	Grace Lee	3893	USD 479,830.56	11.30.2024	Support Tier 2	252	Europe	call center	Globex Industries	USD 1,052.26	456	PENDING	USD 16,590.82
+Q1-24-Trade Show	L. Harris	4158	USD 267,333.14	06.01.2024	-	498	-	Field Sales	Globex Industries	USD 3,612.61	74	proposal	USD 46,134.78
+Q3-23-Product Launch	Leo Harris	174	USD 555,139.75	08.11.2023	Security Bundle	327	UK	online	Globex Industries	USD 3,828.55	145.00	CLOSED LOST	-
+Q2-24-New Year Promo	frank wilson	2037	USD 1,521,952.25	03.26.2025	Support Tier 1	56	Britain	affiliate	Initech Solutions	USD 4,682.93	325.0	lead	USD 33,189.52
+FY-23-New Year Promo	B. Williams	3728	USD 701,678.18	04.14.2025	Support Tier 1	199	Africa	E-Commerce	Globex Industries	USD 3,233.54	217	Negotiation	USD 31,019.33
+H2-24-Summer Blitz	Mia Clark	3032	USD 830,226.60	07.14.2024	Gadget Mini	84	USA	retail	Globex Industries	USD 1,976.73	420	Closed Lost	USD 18,404.80
+	C. Davis	1706	USD 405,473.18	10.26.2024	Data Pipeline	311	Australia	Phone	Brawndo Corp	USD 1,868.54	217	CL	USD 41,270.31
+Q4-2024-Social Push	H. Taylor	4382	USD 850,982.25	04.30.2025	Premium Onboarding	398	EU	Email	Prestige Worldwide	USD 1,740.25	489	LOST	USD 13,244.06
+Q1-24-Product Launch	alice johnson		USD 2,086,597.80	03.14.2025	Data Pipeline	55	ANZ	Online	Globex Industries	USD 4,968.09	420.0	LOST	USD 19,918.92
+Q2-2023-Upsell	Mia Clark	711	USD 1,048,423.04	02.13.2025	Service Plan Pro	183	APAC	RETAIL	Globex Industries	USD 3,448.76	304	In Progress	USD 43,108.25
+H1-2024-Webinar Series	grace lee	728	USD 1,391,559.40	N/A	Software License	309	Middle East	Social	Buy N Large	USD 4,518.05	308	pending	USD 14,268.61
+FY-2023-Webinar Series	I. Anderson	270	USD 1,102,157.70	10.22.2024	Support Tier 2	238	Australia	Partner	Globex Industries	USD 2,762.30	399	Closed-Won	USD 49,343.85
+Q4-2023-Black Friday	A. Johnson		USD 672,438.36	07.01.2025	-	202	Asia Pacific	retail	Buy N Large	USD 1,807.63	372.00	Lead	USD 29,206.13
+Q3-2023-Fall Campaign	L. Harris	1263	USD 2,248,462.24	12.29.2023	Security Bundle	288	South America	e-comm	Globex Industries	USD 4,533.19	496.00	Won	USD 49,213.57
+Q4-23-Retention	Eva Martinez		USD 14,203.23	07.14.2025	Gadget Mini	228	Britain		Bluth Company	USD 4,734.41	3.00	in progress	USD 47,175.29

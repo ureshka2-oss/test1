@@ -1,0 +1,65 @@
+UNIT_PRICE,AD_SPEND,DATE,CAMPAIGN,REGION,PRODUCT,STATUS,QTY,COMPANY,CHANNEL,SALES_REP,REVENUE,CONVERSIONS,CUR
+$488.46,"$28,710.44",07-Sep-2023,H2-24-Upsell,EU,Data Pipeline,Pending,388,Cyberdyne Systems,in-store,john smith,"$189,522.48",44,USD
+"$4,751.95","$5,998.99",24-Mar-2024,,EMEA,Premium Onboarding,lead,210.00,Weyland Corp,Email,Henry Taylor,"$997,909.50",101,JPY
+$830.62,"$14,109.44",18-Aug-2023,,NA,Security Bundle,negotiation,256,Soylent Corp,Website,B. Williams,"$212,638.72",293,JPY
+"$3,138.49",null,09-Oct-2023,Q2-24-Fall Campaign,ASIAPAC,Widget A,proposal,342,Cyberdyne Systems,email,frank wilson,"$1,073,363.58",115,GBP
+"$1,501.75","$38,969.31",02-Sep-2023,H2-2023-New Year Promo,United States,Premium Onboarding,CLOSED LOST,167.00,Cyberdyne Systems,Website,L. Harris,"$250,792.25",384,CAD
+"$1,396.66","$40,253.62",12-May-2025,FY-2023-Email Blast,US,Analytics Dashboard,CL,352,Cyberdyne Systems,email,I. Anderson,"$491,624.32",323,EUR
+NULL,N/A,13-Feb-2024,Q3-2023-Holiday Sale,EU,-,lead,278.00,GreenLeaf Energy,social,E. Martinez,"$242,139.53",1,EUR
+"$4,198.46","$25,432.04",18-Apr-2025,Q1-2023-Retention,Latin America,Analytics Dashboard,Won,285.0,Cyberdyne Systems,Direct,Iris Anderson,"$1,196,561.10",137,GBP
+"$3,058.89","$1,760.78",28-May-2024,H1-24-Black Friday,United Kingdom,Software Subscription,WON,87.0,Cyberdyne Systems,Phone,grace lee,"$266,123.43",430,
+"$4,043.59",N/A,14-Sep-2023,H2-23-Product Launch,USA,Gadget X,CW,104,Cyberdyne Systems,direct,carol davis,"$420,533.36",N/A,USD
+"$4,113.06","$13,378.00",22-Oct-2024,H2-24-Product Launch,APAC,Cloud Storage 1TB,CLOSED WON,362,Cyberdyne Systems,PARTNER,eva martinez,"$1,488,927.72",252,GBP
+"$3,336.63","$10,078.11",24-May-2024,Q1-24-Fall Campaign,US,Hardware Unit,in progress,296,QuickShip Logistics,DIRECT,jake thomas,"$987,642.48",,EUR
+"$2,158.72",N/A,26-Oct-2023,Q2-2023-Black Friday,MEA,Gadget X,CLOSED WON,162,Cyberdyne Systems,in-store,Grace Lee,"$349,712.64",352,AUD
+"$2,726.38","$15,456.37",,Q3-2024-Email Blast,SA,API Access,CW,204.0,Cyberdyne Systems,retail,A. Johnson,"$556,181.52",272,AUD
+"$3,727.91","$36,284.66",pending,,LATAM,Premium Onboarding,qualified,12.0,Cyberdyne Systems,Retail,G. Lee,"$44,734.92",461,JPY
+"$4,954.49","$15,017.07",,H1-23-Retention,NA,Hardware Unit,CLOSED LOST,99.0,Cyberdyne Systems,Direct,L. Harris,"$490,494.51",366,CAD
+"$4,250.55","$20,142.96",13-Sep-2024,Q1-24-Social Push,Britain,Support Tier 1,CL,296,Prestige Worldwide,Direct Sales,David Brown,"$1,258,162.80",215,CAD
+"$1,326.84","$46,764.12",25-Sep-2023,FY-24-Summer Blitz,MEA,Cloud Storage 1TB,lead,260.00,Cyberdyne Systems,Referral,G. Lee,"$344,978.40",380,EUR
+"$4,419.98","$6,058.06",27-Sep-2024,Q3-23-Cross-sell,ASIAPAC,Analytics Dashboard,Proposal,97,Cyberdyne Systems,Brick & Mortar,bob williams,"$428,738.06",124,
+$316.70,"$29,351.09",17-Mar-2024,Q4-24-Trade Show,USA,Widget B,CL,250,,Phone,TBD,"$79,175.00",473,USD
+"$3,717.07","$19,158.60",28-Sep-2023,H2-23-New Year Promo,Asia,Support Tier 1,closed lost,453,Cyberdyne Systems,retail,jake thomas,"$1,683,832.71",137,
+"$2,940.27","$40,645.18",11-Aug-2024,Q1-2023-Retention,USA,API Access,proposal,243,BlueOcean Retail,Field Sales,J. Thomas,"$714,485.61",456,GBP
+null,"$20,342.51",21-Oct-2024,Q1-2024-Social Push,Britain,Security Bundle,open,209,Cyberdyne Systems,Brick & Mortar,carol davis,"$242,320.96",419,
+"$3,966.21","$16,019.40",21-Sep-2024,H2-24-Email Blast,Europe,Analytics Dashboard,Lost,46,Cyberdyne Systems,Direct,john smith,"$182,445.66",253,GBP
+"$2,764.55",,22-Apr-2025,Q2-24-Holiday Sale,Australia,CRM Module,Lost,28,Cyberdyne Systems,in-store,JOHN SMITH,"$77,407.40",281,AUD
+$868.86,N/A,08-Nov-2024,Q4-2023-Product Launch,UK,Marketing Suite,WON,435.0,Cyberdyne Systems,E-Commerce,D. Brown,"$377,954.10",,GBP
+"$1,092.24","$34,773.19",21-Mar-2025,FY-24-New Year Promo,ANZ,Service Plan Basic,Qualified,312.0,Virtucon,DIRECT,E. Martinez,"$340,778.88",16,JPY
+"$2,741.94","$7,642.49",19-Mar-2025,Q4-2023-Social Push,Africa,Gadget X,pending,1.0,Cyberdyne Systems,DIRECT,iris anderson,"$2,741.94",32,USD
+"$3,918.87","$15,222.81",N/A,Q4-2023-Cross-sell,Britain,-,Closed-Won,437,Cyberdyne Systems,Store,Frank Wilson,"$1,712,546.19",399,EUR
+"$2,043.18","$44,078.65",25-Apr-2024,Q3-2024-Social Push,USA,ERP Add-on,Closed-Lost,359,Cyberdyne Systems,email,C. Davis,"$733,501.62",-,
+$416.88,"$28,156.77",31-Jul-2023,Q1-2024-Spring Push,LATAM,Marketing Suite,CL,413,Cyberdyne Systems,Field Sales,Leo Harris,"$172,171.44",464,AUD
+"$2,899.39","$9,576.33",08-Jun-2024,Q2-24-New Year Promo,N. America,API Access,pending,488.0,Cyberdyne Systems,web,Karen White,"$1,414,902.32",121,CAD
+"$1,233.30",$102.67,12-Sep-2024,FY-2024-Trade Show,North America,Training Package,CLOSED WON,214,Cyberdyne Systems,social media,carol davis,"$263,926.20",432,USD
+"$3,670.73",0,23-Oct-2024,H1-2024-Holiday Sale,South America,Gadget X,pending,442.0,Cyberdyne Systems,phone,carol davis,"$1,622,462.66",87,CAD
+"$4,547.56","$49,407.70",06-Feb-2025,H1-24-Upsell,MEA,API Access,open,151.00,Oceanic Airlines,Social,alice johnson,"$686,681.56",61,AUD
+$963.55,"$38,203.89",23-Oct-2024,,N. America,Service Plan Enterprise,pending,317,Cyberdyne Systems,ONLINE,Unassigned,"$305,445.35",110,
+"$3,170.48","$25,762.29",pending,FY-23-Spring Push,South America,MISC,LOST,272.00,Tyrell Corporation,email campaign,jake thomas,"$862,370.56",46,GBP
+"$3,445.93","$20,166.45",08-Jan-2025,H2-2024-Brand Awareness,??,Gadget Mini,CW,308,,Website,eva martinez,"$1,061,346.44",182,
+"$1,710.45",-,15-Nov-2024,Q1-2023-Spring Push,LATAM,Cloud Storage 5TB,in progress,68,Cyberdyne Systems,DIRECT,grace lee,"$116,310.60",91,AUD
+"$1,186.99",null,15-Jan-2025,Q3-24-Black Friday,USA,Consulting Hours,CLOSED LOST,41.00,Cyberdyne Systems,web,C. Davis,"$48,666.59",377,EUR
+"$2,403.79","$10,921.07",02-Aug-2024,Q4-23-Spring Push,Latin America,Support Tier 1,proposal,,TrueNorth Financial,reseller,eva martinez,N/A,,EUR
+"$4,802.99","$3,195.96",20-Feb-2025,Q1-24-Trade Show,Australia,Widget Pro,negotiation,441.00,Cyberdyne Systems,affiliate,jake thomas,"$2,118,118.59",56,EUR
+$557.48,"$12,867.03",31-Dec-2023,FY-24-Webinar Series,Africa,Gadget X,CLOSED LOST,399,Cyberdyne Systems,In-Store,K. White,"$222,434.52",,GBP
+"$1,807.05",N/A,16-Oct-2024,H2-23-Fall Campaign,Middle East,Cloud Storage 5TB,in progress,108.0,Cyberdyne Systems,Web,carol davis,"$195,161.40",277,GBP
+$405.85,"$13,099.44",28-May-2024,Q1-2024-Product Launch,South America,Support Tier 1,LOST,149.0,Cyberdyne Systems,Telesales,mia clark,"$60,471.65",315,CAD
+"$1,369.56","$44,742.34",09-Mar-2025,Q4-23-Brand Awareness,Asia,Marketing Suite,negotiation,365,Stark Industries,Email,mia clark,"$499,889.40",465,USD
+"$3,306.61","$40,112.18",04-Feb-2025,Q1-2024-Cross-sell,UK,Gadget X,Won,219.00,Cyberdyne Systems,Direct Sales,Alice Johnson,"$724,147.59",286,
+"$3,154.27","$47,763.14",29-Apr-2025,H1-24-Social Push,SA,Service Plan Enterprise,WON,202,Cyberdyne Systems,Store,john smith,"$637,162.54",152,EUR
+"$3,097.64","$31,160.09",17-Feb-2025,Q4-2024-Webinar Series,USA,Training Package,LOST,228,Weyland Corp,call center,K. White,"$706,261.92",264,GBP
+"$3,874.09","$25,900.32",13-Mar-2024,H1-2024-Cross-sell,SA,Support Tier 1,negotiation,119.0,Cyberdyne Systems,Store,Karen White,"$461,016.71",151,CAD
+$27.64,"$2,191.41",11-Nov-2024,,South America,Security Bundle,Negotiation,2.00,Dharma Initiative,Referral,bob williams,$55.28,379,CAD
+"$4,713.35","$28,096.78",01-Aug-2024,FY-23-Brand Awareness,South America,Widget B,Pending,278,Cyberdyne Systems,Direct,David Brown,"$1,310,311.30",102,JPY
+"$1,932.97","$41,407.62",06-Nov-2024,H1-24-Social Push,United Kingdom,Premium Onboarding,CLOSED WON,362,Cyberdyne Systems,Phone,F. Wilson,"$699,735.14",228,EUR
+$568.69,"$17,226.16",14-Aug-2023,H1-24-New Year Promo,Britain,Service Plan Pro,CL,150,,E-Commerce,leo harris,"$85,303.50",120,EUR
+"$4,262.66",,21-Aug-2024,H2-23-Retention,Africa,Cloud Storage 1TB,WON,,Sterling Cooper,Field Sales,Henry Taylor,N/A,68,JPY
+"$4,970.56",N/A,26-Nov-2024,Q4-23-Upsell,Asia Pacific,Service Plan Enterprise,WON,352.00,Cyberdyne Systems,affiliate,Bob Williams,"$1,749,637.12",240,EUR
+"$1,380.21","$17,572.13",07-May-2025,Q4-24-Product Launch,USA,Consulting Hours,closed lost,220.0,Cyberdyne Systems,PARTNER,B. Williams,"$303,646.20",348,GBP
+"$3,471.88","$11,436.38",26-Oct-2024,Q4-24-Cross-sell,Latin America,Software Subscription,LOST,309.0,Cyberdyne Systems,email,John Smith,"$1,072,810.92",197,GBP
+"$4,726.54","$18,584.55",22-Jul-2023,Q2-2023-Email Blast,US,Widget A,open,381.0,Cyberdyne Systems,call center,Carol Davis,"$1,800,811.74",307,JPY
+"$3,016.97",0,04-Sep-2023,Q2-2023-Fall Campaign,MEA,CRM Module,Closed Lost,472.0,Cyberdyne Systems,,C. Davis,"$1,424,009.84",418,
+"$4,386.17","$42,168.95",11-May-2025,Q2-2023-Email Blast,N. America,Consulting Hours,CLOSED WON,131,,Social,Alice Johnson,"$574,588.27",459,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

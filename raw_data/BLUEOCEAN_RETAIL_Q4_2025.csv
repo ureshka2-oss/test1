@@ -1,0 +1,78 @@
+salesChannel;dealStatus;adSpend;companyName;quantity;saleDate;leadCount;totalRevenue;campaignName;salesRep;productName;unitPrice
+RETAIL;closed lost;0;BlueOcean Retail;61;May 08, 2024;793;USD 182,549.21;H1-24-Trade Show;L. Harris;Gadget X;USD 2,992.61
+Web;Closed-Won;USD 49,525.99;BlueOcean Retail;137;September 20, 2023;284;USD 660,563.31;;leo harris;Software Subscription;USD 4,821.63
+Retail;CLOSED LOST;USD 17,867.25;Prestige Worldwide;356;May 17, 2023;514;USD 78,939.44;;leo harris;Cloud Storage 1TB;USD 221.74
+reseller;negotiation;0;BlueOcean Retail;361;July 04, 2023;1025;null;Q3-23-New Year Promo;Henry Taylor;Widget B;missing
+Referral;lead;USD 41,656.31;BlueOcean Retail;160.0;April 28, 2023;794;USD 43,100.80;Q3-2024-New Year Promo;A. Johnson;Gadget X;USD 269.38
+retail;CW;USD 15,679.04;BlueOcean Retail;269.00;July 30, 2024;2736;USD 118,109.83;Q4-23-Fall Campaign;;;USD 439.07
+call center;Pending;USD 10,400.85;BlueOcean Retail;85.00;January 11, 2025;3976;USD 1,533.40;H2-23-Brand Awareness;JOHN SMITH;Widget Pro;USD 18.04
+E-Commerce;Open;USD 21,237.78;BlueOcean Retail;23;March 23, 2024;2984;USD 30,059.85;Q3-2023-Upsell;eva martinez;Premium Onboarding;USD 1,306.95
+online;qualified;USD 19,894.33;Nakatomi Trading;175;September 22, 2023;2004;USD 145,237.75;H2-23-Summer Blitz;F. Wilson;Service Plan Basic;USD 829.93
+partner;CLOSED LOST;USD 3,751.64;BlueOcean Retail;421;December 14, 2024;N/A;USD 146,680.61;Q4-24-Email Blast;carol davis;Gadget Mini;USD 348.41
+Social Media;Pending;USD 48,040.57;BlueOcean Retail;N/A;February 13, 2024;4677;NA;Q1-24-Spring Push;L. Harris;Gadget Mini;USD 4,004.37
+email campaign;Closed Won;USD 11,527.03;BlueOcean Retail;54.0;February 20, 2024;2748;USD 105,279.48;FY-24-Fall Campaign;mia clark;Service Plan Basic;USD 1,949.62
+DIRECT;lead;USD 30,388.04;BlueOcean Retail;165;November 25, 2024;2073;USD 419,123.10;Q4-2023-Cross-sell;C. Davis;Service Plan Enterprise;USD 2,540.14
+Social;qualified;null;Tyrell Corporation;443.0;December 23, 2023;3984;USD 8,580.91;H2-23-Social Push;Frank Wilson;Cloud Storage 5TB;USD 19.37
+Channel Partner;In Progress;N/A;;500;March 24, 2024;4672;USD 619,605.00;Q3-24-Spring Push;david brown;Premium Onboarding;USD 1,239.21
+Brick & Mortar;Pending;;BlueOcean Retail;344.00;October 16, 2024;2011;USD 955,714.56;H1-23-Brand Awareness;;Support Tier 2;USD 2,778.24
+DIRECT;Qualified;USD 24,269.44;Oscorp Technologies;194;TBD;919;USD 475,387.30;H2-2024-Social Push;M. Clark;Consulting Hours;USD 2,450.45
+call center;Pending;USD 10,400.85;BlueOcean Retail;85.00;January 11, 2025;3976;USD 1,533.40;H2-23-Brand Awareness;JOHN SMITH;Widget Pro;USD 18.04
+Referral;Proposal;null;BlueOcean Retail;192.0;September 20, 2024;484;USD 396,359.04;Q1-23-Trade Show;jake thomas;Cloud Storage 1TB;USD 2,064.37
+referral;Lead;USD 37,435.81;BlueOcean Retail;22;October 19, 2023;;USD 88,145.42;FY-2023-Black Friday;Mia Clark;Cloud Storage 5TB;USD 4,006.61
+Affiliate;proposal;USD 48,766.54;Prestige Worldwide;181.0;April 15, 2023;3139;USD 316,201.57;FY-23-Product Launch;Henry Taylor;Widget B;USD 1,746.97
+;closed won;N/A;Buy N Large;444.0;September 15, 2024;null;USD 1,924,233.84;Q3-23-Cross-sell;Jane Doe;Support Tier 2;USD 4,333.86
+RETAIL;Lost;USD 5,518.12;BlueOcean Retail;361;September 25, 2023;3641;USD 580,589.08;Q3-2024-New Year Promo;Leo Harris;Service Plan Basic;USD 1,608.28
+Retail;Qualified;USD 30,022.66;BlueOcean Retail;108.0;April 24, 2023;1960;USD 412,009.20;Q2-2023-Holiday Sale;eva martinez;Service Plan Pro;USD 3,814.90
+;open;USD 7,354.97;GreenLeaf Energy;490.0;July 10, 2023;4034;USD 2,037,772.80;Q2-23-Product Launch;Mia Clark;Cloud Storage 5TB;USD 4,158.72
+partner;LOST;-;BlueOcean Retail;296;null;3586;USD 412,434.56;Q4-2023-Upsell;leo harris;Service Plan Basic;USD 1,393.36
+direct;CLOSED WON;-;BlueOcean Retail;300;TBD;2155;USD 700,878.00;Q4-23-Trade Show;M. Clark;CRM Module;USD 2,336.26
+;PENDING;USD 5,683.14;BlueOcean Retail;;July 26, 2023;4775;NULL;Q1-2023-Product Launch;David Brown;Hardware Unit;USD 849.37
+social media;CLOSED WON;USD 3,509.37;BlueOcean Retail;102;April 16, 2023;1504;USD 378,221.10;FY-2023-Upsell;E. Martinez;;USD 3,708.05
+email;Closed Lost;N/A;Planet Express;93.00;November 05, 2024;3275;USD 426,323.16;H1-2023-Retention;Bob Williams;Widget Pro;USD 4,584.12
+call center;Qualified;USD 958.86;Krusty Burger LLC;233.0;September 10, 2024;4072;USD 190,570.70;Q3-2024-Webinar Series;David Brown;Consulting Hours;USD 817.90
+retail;WON;USD 20,654.46;BlueOcean Retail;13.00;July 22, 2024;1049;USD 47,425.95;FY-2024-Email Blast;N/A;Support Tier 1;USD 3,648.15
+affiliate;open;USD 2,290.49;Sterling Cooper;261.00;June 29, 2023;3607;USD 953,279.01;Q3-2024-Trade Show;TBD;-;USD 3,652.41
+E-Commerce;CL;USD 41,281.12;BlueOcean Retail;431;June 20, 2023;2115;USD 338,037.61;Q3-23-Fall Campaign;Frank Wilson;Gadget X;USD 784.31
+Store;proposal;USD 29,760.53;BlueOcean Retail;366;June 01, 2024;384;USD 818,873.76;Q1-2024-Cross-sell;G. Lee;Other;USD 2,237.36
+direct;CLOSED WON;-;BlueOcean Retail;300;TBD;2155;USD 700,878.00;Q4-23-Trade Show;M. Clark;CRM Module;USD 2,336.26
+Direct;Closed Lost;USD 4,559.40;BlueOcean Retail;440.00;January 06, 2024;745;USD 1,163,355.60;Q1-24-Spring Push;alice johnson;;USD 2,643.99
+Website;Closed-Lost;USD 8,893.43;BlueOcean Retail;74.0;March 10, 2024;767;USD 49,392.19;;C. Davis;Gadget Mini;missing
+Telesales;In Progress;USD 45,896.13;BlueOcean Retail;66.00;October 16, 2024;1082;USD 129,405.54;Q3-2024-Social Push;Mia Clark;-;USD 1,960.69
+;pending;USD 1,072.54;BlueOcean Retail;437;January 04, 2024;3632;USD 664,917.35;FY-2023-Cross-sell;john smith;Support Tier 1;USD 1,521.55
+Website;in progress;USD 42,142.00;BlueOcean Retail;null;May 13, 2023;2070;;H1-24-Brand Awareness;L. Harris;Service Plan Basic;USD 4,008.01
+retail;Pending;USD 24,682.03;BlueOcean Retail;359;January 13, 2024;1223;USD 224,832.73;Q3-24-Email Blast;Carol Davis;API Access;missing
+;Pending;USD 36,669.70;BlueOcean Retail;335.0;September 01, 2023;4922;USD 1,259,412.40;;john smith;Training Package;USD 3,759.44
+Telesales;Closed-Won;USD 12,768.81;BlueOcean Retail;215.00;February 14, 2024;2928;USD 362,212.65;Q1-2024-Black Friday;N/A;Support Tier 2;USD 1,684.71
+Referral;LOST;USD 8,185.25;AgriGrow Corp;90;August 23, 2023;693;USD 53,783.10;Q4-23-Email Blast;L. Harris;Consulting Hours;USD 597.59
+phone;open;0;BlueOcean Retail;22.00;June 02, 2024;4160;USD 103,378.66;H1-2024-Spring Push;henry taylor;Training Package;USD 4,699.03
+DIRECT;lead;USD 30,388.04;BlueOcean Retail;165;November 25, 2024;2073;USD 419,123.10;Q4-2023-Cross-sell;C. Davis;Service Plan Enterprise;USD 2,540.14
+ecommerce;Lead;USD 44,482.40;BlueOcean Retail;271;May 05, 2024;3803;USD 798,244.05;Q2-2023-Trade Show;B. Williams;Widget A;USD 2,945.55
+partner;Lost;USD 19,692.27;BlueOcean Retail;123.00;September 17, 2024;4326;USD 186,370.83;Q1-23-Webinar Series;L. Harris;Analytics Dashboard;USD 1,515.21
+social media;In Progress;USD 34,256.27;BlueOcean Retail;452.0;June 03, 2023;N/A;USD 1,671,229.32;FY-23-Black Friday;M. Clark;Software License;USD 3,697.41
+Telesales;pending;USD 38,597.07;BlueOcean Retail;292;July 26, 2023;3214;USD 723,897.20;Q4-2023-Trade Show;Bob Williams;Gadget X;USD 2,479.10
+Reseller;Negotiation;USD 37,048.62;BlueOcean Retail;128;September 14, 2024;4634;USD 226,462.72;Q2-2023-Trade Show;D. Brown;Premium Onboarding;USD 1,769.24
+Web;Closed-Lost;USD 36,621.80;BlueOcean Retail;245.0;March 25, 2023;2244;USD 415,074.10;Q4-2023-Product Launch;david brown;Data Pipeline;USD 1,694.18
+Email Campaign;Closed Lost;USD 28,796.14;BlueOcean Retail;215.00;October 07, 2023;119;USD 833,664.65;Q3-23-Black Friday;TBD;Training Package;USD 3,877.51
+email campaign;LOST;USD 38,939.18;Dunder Mifflin;146;August 16, 2024;1691;USD 198,158.50;FY-2024-Trade Show;J. Thomas;;USD 1,357.25
+Direct Sales;In Progress;USD 39,028.29;Weyland Corp;;November 17, 2024;1426;NULL;;Unassigned;Service Plan Enterprise;USD 2,294.86
+E-Commerce;Lost;USD 23,960.99;DataWave Inc;171.00;December 12, 2024;N/A;USD 183,390.49;Q4-2024-Retention;H. Taylor;Software Subscription;NA
+email;in progress;USD 15,651.85;BlueOcean Retail;397;September 11, 2023;380;USD 497,961.07;;jake thomas;Gadget Mini;USD 1,254.31
+social media;Proposal;USD 39,125.19;;466;May 28, 2024;3300;USD 1,146,807.36;Q4-2024-Product Launch;I. Anderson;Gadget Mini;USD 2,460.96
+Telesales;Negotiation;USD 803.65;Hooli Inc;170.00;September 02, 2023;2073;USD 549,905.80;Q1-2024-Spring Push;M. Clark;Software License;USD 3,234.74
+ONLINE;Lead;N/A;BlueOcean Retail;null;December 05, 2024;1275;USD 223,925.57;FY-2023-Email Blast;Leo Harris;Widget B;USD 4,182.80
+Referral;Closed-Lost;USD 10,326.64;Bluth Company;388;March 16, 2023;222;missing;Q3-23-Holiday Sale;Carol Davis;Training Package;#N/A
+field;negotiation;USD 16,509.47;BlueOcean Retail;380;January 17, 2025;457;USD 1,694,328.80;FY-2024-Brand Awareness;grace lee;Widget B;USD 4,458.76
+referral;Closed Won;USD 3,885.92;BlueOcean Retail;461;March 21, 2024;4031;USD 26,161.75;H2-2024-Webinar Series;C. Davis;Gadget Mini;USD 56.75
+Affiliate;proposal;USD 35,941.96;BlueOcean Retail;387;September 11, 2024;4532;USD 1,603,654.47;;TBD;Software License;USD 4,143.81
+PARTNER;LOST;USD 5,219.29;BlueOcean Retail;310;February 25, 2025;1788;USD 875,560.90;Q1-24-Summer Blitz;A. Johnson;Support Tier 1;USD 2,824.39
+Partner;CW;USD 24,354.88;BlueOcean Retail;240.0;pending;2799;USD 1,694.40;H1-24-Brand Awareness;J. Thomas;Widget B;USD 7.06
+phone;CL;USD 15,290.50;Buy N Large;189.00;November 04, 2023;1993;USD 490,182.84;;alice johnson;Widget Pro;USD 2,593.56
+Web;Closed Won;USD 27,149.43;BlueOcean Retail;83;February 03, 2025;4162;USD 320,675.48;Q4-2023-Retention;eva martinez;Hardware Unit;USD 3,863.56
+Email Campaign;CLOSED LOST;N/A;SummitView Hotels;;August 22, 2024;251;N/A;Q1-23-Fall Campaign;alice johnson;Service Plan Basic;USD 509.28
+Partner;pending;null;BlueOcean Retail;399;May 25, 2023;1684;USD 1,539,992.37;Q4-2023-Retention;G. Lee;Software Subscription;USD 3,859.63
+affiliate;LOST;USD 3,912.01;BlueOcean Retail;438.0;February 15, 2025;2654;USD 522,818.70;H1-2023-Social Push;F. Wilson;CRM Module;USD 1,193.65
+ecommerce;WON;USD 12,211.03;BlueOcean Retail;94;January 15, 2025;1423;USD 369,306.26;FY-2023-Upsell;David Brown;Consulting Hours;USD 3,928.79
+direct;CLOSED WON;-;BlueOcean Retail;300;TBD;2155;USD 700,878.00;Q4-23-Trade Show;M. Clark;CRM Module;USD 2,336.26
+RETAIL;Won;USD 2,561.20;BlueOcean Retail;466;October 23, 2023;3344;USD 48,821.93;Q1-23-Social Push;JANE DOE;Service Plan Pro;NA
+;Open;USD 28,204.23;BlueOcean Retail;415.00;December 15, 2024;1028;USD 1,500,557.00;Q4-2023-Social Push;A. Johnson;Cloud Storage 5TB;USD 3,615.80
+Call Center;negotiation;USD 22,742.81;BlueOcean Retail;115;February 26, 2024;1779;USD 278,447.20;FY-2024-Spring Push;D. Brown;Service Plan Enterprise;USD 2,421.28

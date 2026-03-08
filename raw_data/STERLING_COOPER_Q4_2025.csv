@@ -1,0 +1,81 @@
+totalRevenue,conversionCount,saleDate,adSpend,salesRep,productName,campaignName,leadCount,unitPrice,companyName
+12669,127,07.04.2023,29662,henry taylor,Cloud Storage 5TB,Q4-24-Spring Push,4062,119,Tyrell Corporation
+45475,317,01.03.2024,10270,Carol Davis,Other,Q3-2023-Fall Campaign,4934,757,Sterling Cooper
+60885,159,07.07.2023,37574,iris anderson  ,Service Plan Pro,Q4-2024-Product Launch,1577,124,Sterling Cooper
+495979,160,12.30.2023  ,44854,JOHN SMITH,Security Bundle,H2-2024-Trade Show,3230,1728,Sterling Cooper
+345679,42,07.26.2023,4328,K. White,Software License,H1-23-Spring Push,970,1868,Sterling Cooper
+1096208,41,N/A,44296,K. White,Cloud Storage 1TB,Q4-24-Cross-sell,4908,3414,Sterling Cooper
+9562,-,05.07.2024,-,,API Access,H2-2024-Spring Push,1217,341,Sterling Cooper
+30994,361,03.11.2025,47081,Carol Davis,Security Bundle,Q2-24-Email Blast,3671,1068,Sterling Cooper
+274038,283,05.23.2023,29863,Jane Doe,Marketing Suite,H1-2024-Spring Push,3718,2124  ,Sterling Cooper
+686811,,07.11.2023,24155,Unassigned,Consulting Hours,H1-2024-Webinar Series,3015,2973,Sterling Cooper
+1208366,376,09.26.2024,37057,F. Wilson,CRM Module,Q1-24-Holiday Sale,,3432,Initech Solutions
+294442,114,10.18.2024,20890,Jake Thomas,Cloud Storage 1TB,FY-2024-New Year Promo,4004  ,1574,Sterling Cooper
+25931,445,03.26.2023,32490,karen white,MISC,Q4-24-Holiday Sale,2102,NULL,Nakatomi Trading
+1440278,92,TBD,22203,Karen White,Widget Pro,Q2-23-Upsell,1830,3655,
+64057,219,06.02.2023,2478,John Smith,Gadget Mini,Q3-2023-Fall Campaign,4333,1521,Hooli Inc
+68660,499,02.19.2025,0,M. Clark,Cloud Storage 5TB,Q2-24-Brand Awareness  ,4651,4904,Sterling Cooper
+18040,142,11.24.2023,39402,C. Davis,Security Bundle,Q1-2023-Black Friday,3293,140,Sterling Cooper
+1121151,2,08.18.2024,49756,jake thomas,Service Plan Pro,Q1-24-Upsell,3716,4832,GreenLeaf Energy
+1367753,129,05.14.2023,48393,john smith,Gadget Mini,Q3-2024-Holiday Sale,null,3287,Sterling Cooper
+18197,285,01.30.2025,18756,A. Johnson,API Access,Q1-2023-Summer Blitz,464,138,Sterling Cooper
+2176698,444,02.14.2024,-,TBD,Marketing Suite,Q1-2023-Social Push,1375,4370,Hooli Inc
+52097,451,09.14.2024,25581,F. Wilson,Support Tier 2,FY-24-Summer Blitz,235,2083,HealthPlus Pharma
+1559749,127,05.21.2024,0,carol davis,Widget A  ,Q4-23-New Year Promo,35,3635,Sterling Cooper
+688432,76,06.14.2023,39495,H. Taylor,Premium Onboarding,Q3-23-Holiday Sale,N/A,1480,Sterling Cooper
+618968,130,08.03.2023,22398,D. Brown,Service Plan Enterprise,Q1-23-Webinar Series  ,2064,1413,Massive Dynamic
+821702,N/A,02.10.2025,2835,JOHN SMITH,Service Plan Enterprise,H1-24-Webinar Series,3107,1838,Sterling Cooper
+1632082,90,12.08.2023,27550,H. Taylor,Analytics Dashboard,Q4-2023-Trade Show,4964,4584,Sterling Cooper
+135312,236,TBD,14118,frank wilson,CRM Module,H2-2024-Trade Show,3778,306,Sterling Cooper
+492292,353,02.15.2025,-,C. Davis,Software License,H1-24-Fall Campaign,260,1764,Sterling Cooper
+14510,33,01.31.2024,-,Bob Williams,Service Plan Pro,FY-23-Black Friday,4021,2902,Omni Consumer Products
+1594779,195,02.21.2024,0,K. White,Marketing Suite,H1-24-Fall Campaign,1280,3315,Vandelay Ind
+967130,372,08.01.2024,13906,Leo Harris,Software Subscription,FY-2023-Brand Awareness,1395,3060,Sterling Cooper
+1252044,82,01.06.2025,43729,Jane Doe,Gadget X,Q1-2024-Retention,4026,2686,Sterling Cooper
+61916,409,05.31.2023,9128,G. Lee,Cloud Storage 5TB  ,H1-23-Upsell,4298,241,Sterling Cooper
+548143,374,pending,7192,Eva Martinez,Data Pipeline,Q3-24-Webinar Series,2591,1220,Sterling Cooper
+136335  ,356,12.12.2024,4345,bob williams,Marketing Suite,,4146,4869,Sterling Cooper
+54693,428,05.28.2023,22973,Leo Harris,Service Plan Basic,Q4-2023-Black Friday,2996,4733,Sterling Cooper
+2152170,N/A  ,05.27.2024,2885,bob williams,CRM Module,,3896,4588,Dharma Initiative
+285613,406,03.06.2025,16286,B. Williams,ERP Add-on,Q3-2024-Black Friday,469,3483,Stratton Oakmont
+77070,85,04.17.2023,43365,mia clark,Service Plan Basic,Q2-2023-Holiday Sale,3126,3350,Cyberdyne Systems
+285315,488,03.25.2023,2256,J. Doe,Gadget Mini,H2-23-Black Friday,3756,2941,Sterling Cooper
+189712,173  ,07.16.2024,23192,J. Smith,Gadget Mini,,3957,2710,Sterling Cooper
+581097,377,03.17.2024,14357,Bob Williams,Premium Onboarding,Q3-2023-Upsell,1442,4686,Sterling Cooper
+52097,451,09.14.2024,25581,F. Wilson,Support Tier 2,FY-24-Summer Blitz,235,2083,HealthPlus Pharma
+929509,250,09.19.2024,44412,Eva Martinez,CRM Module,Q3-24-Black Friday,,2187,
+#N/A,135,08.11.2023,28223,frank wilson,Service Plan Basic,H1-2024-Social Push,763,2353,Sterling Cooper
+9562,-,05.07.2024,-,,API Access,H2-2024-Spring Push,1217,341,Sterling Cooper
+605511,290,02.22.2025,48815,TBD,ERP Add-on,H2-23-Fall Campaign,679,1770,Sterling Cooper
+1404933,59,05.22.2023,null,john smith,Widget Pro,Q2-24-Product Launch,1694,4048,Bluth Company
+1042,183,12.19.2023,39896,Unassigned,Analytics Dashboard,FY-24-Email Blast,1458,104,Weyland Corp
+416417,413,02.08.2025,-,A. Johnson,Analytics Dashboard,,3404,991,Sterling Cooper
+72659,309,11.27.2023,11224,grace lee,Hardware Unit,Q3-2023-Summer Blitz,4570,766,Weyland Corp
+345679,42,07.26.2023,4328,K. White,Software License,H1-23-Spring Push,970,1868,Sterling Cooper
+138421,232,05.05.2023,15385  ,JOHN SMITH,Gadget Mini,Q2-23-Cross-sell,3093,3076,Sterling Cooper
+105420,23,02.26.2024,30807,Iris Anderson,Software License,Q1-2023-Holiday Sale,2764,2291,Sterling Cooper
+883455,234,08.27.2024,6582  ,J. Thomas,Marketing Suite,Q2-2023-Cross-sell,4061,4577,AgriGrow Corp
+54693,428,05.28.2023,22973,Leo Harris,Service Plan Basic,Q4-2023-Black Friday,2996,4733,Sterling Cooper
+237920,419,02.19.2025,21262,J. Smith,Security Bundle,Q1-23-Black Friday,191,1888,Sterling Cooper
+348505,N/A,05.03.2023  ,40120,bob williams,Gadget Mini,FY-2024-Upsell,505,1667,Initech Solutions
+219208,60,01.08.2025,33140,Iris Anderson,Widget Pro,FY-2023-Black Friday,3600,1889,Hooli Inc
+592100,23,04.29.2024,0,Eva Martinez,Security Bundle,Q2-23-Brand Awareness,4523  ,3383,Sterling Cooper
+269220,290,02.26.2024,46840,C. Davis,ERP Add-on,Q2-24-Cross-sell,4650,2262,Sterling Cooper
+244768,143,10.04.2024,15846,Eva Martinez,Analytics Dashboard,Q4-2024-Social Push,1190,3263  ,Sterling Cooper
+74900,211,09.27.2024  ,279,jane doe,Widget A,Q1-23-Upsell,3405,3281,Hooli Inc
+963330,48,01.07.2025,43008,J. Smith,Widget A,H1-2024-Product Launch,1217,2332,Planet Express
+1449717,64,10.17.2024,46458,JOHN SMITH,Service Plan Enterprise,H2-23-Webinar Series,4252,4419,Tyrell Corporation
+1604232,373,06.09.2023,25166  ,Jane Doe,CRM Module,H1-23-Webinar Series,3782,4000,Sterling Cooper
+182186,263,N/A,-,H. Taylor  ,Marketing Suite,H2-2023-Fall Campaign,4290,2124,Sterling Cooper
+1405015,324,03.19.2023,37861,M. Clark,Service Plan Enterprise,Q4-2024-Holiday Sale,1057,4120,Cogswell Cogs
+738129,53,12.29.2024,38819  ,Henry Taylor,Service Plan Enterprise,,4656,2562,
+109929,339,06.16.2024,37125,alice johnson,,Q1-24-Trade Show,3611,839,HealthPlus Pharma
+754505,298,04.20.2023,14187,Karen White,Widget Pro,H2-2024-Social Push,2477,1771,Sterling Cooper
+158112,489,02.05.2024,34721,Iris Anderson,Premium Onboarding,H1-2024-Holiday Sale,4503,3593,Sterling Cooper
+12669,127,07.04.2023,29662,henry taylor,Cloud Storage 5TB,Q4-24-Spring Push,4062,119,Tyrell Corporation
+454684,392,06.15.2023,21245,J. Thomas,Security Bundle,Q4-2023-Webinar Series,3086,4687,Sterling Cooper
+1926110,270,05.16.2024,43700,John Smith,Software License,Q3-23-Brand Awareness,1697,4347,Sterling Cooper
+72659,309,11.27.2023,11224,grace lee,Hardware Unit,Q3-2023-Summer Blitz,4570,766,Weyland Corp
+15608,135,03.20.2023,47418,Alice Johnson,Other,FY-2024-Email Blast,3967,743,Sterling Cooper  
+,,,,,,,,,
+,,,,,,,,,

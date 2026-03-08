@@ -1,0 +1,82 @@
+deal_status,num_conversions,qty,sale_date,sales_channel,company_name,campaign_name,rep_name,product_name,ad_spend_usd,total_revenue
+Closed-Lost,-,422,26.06.2025,Brick & Mortar,Omni Consumer Products,Q1-23-Trade Show,john smith,Gadget Mini,$19664,$906908
+Closed-Won,476,null,02.04.2024,ONLINE,Planet Express,Q4-2023-Webinar Series,John Smith,Cloud Storage 1TB,$36943,$118022
+PENDING,313,-,08.02.2024,field,Omni Consumer Products,H2-24-Spring Push,jake thomas,Widget Pro,null,$36574
+CLOSED LOST,213,254,05.01.2025,affiliate,Omni Consumer Products  ,H2-23-Holiday Sale,Henry Taylor,Widget Pro,$18750,$371803
+CLOSED LOST,484,493,01.07.2025,Field Sales,Omni Consumer Products,FY-2023-Retention,E. Martinez,Widget A,0,$1703877
+CW,241,407,09.12.2023,Online,Omni Consumer Products,Q4-2024-Summer Blitz,I. Anderson,Cloud Storage 1TB,$49913,$458852
+lead,82,491.0,11.03.2025,,Omni Consumer Products,H1-2023-Social Push,karen white,Widget A,$8333,$906371
+CL,156,47.0,29.08.2024,Online,Omni Consumer Products  ,Q1-2023-Retention,N/A,Support Tier 1,$30934,$90900
+negotiation,226,400,21.01.2024,call center,Omni Consumer Products,Q4-2024-Brand Awareness,john smith,Hardware Unit,$13782,$1568164
+CW,,N/A,pending,Store,Dunder Mifflin,FY-24-Email Blast,TBD  ,Service Plan Enterprise,$33898,NA
+CLOSED LOST,213,254,05.01.2025,affiliate,Omni Consumer Products  ,H2-23-Holiday Sale,Henry Taylor,Widget Pro,$18750,$371803
+Open,,387,13.11.2023,phone,Omni Consumer Products  ,Q2-2024-Fall Campaign,Frank Wilson,Service Plan Enterprise,$16501,$1814504
+WON,-  ,294,05.11.2023,direct,Omni Consumer Products,H2-2024-Black Friday,E. Martinez,Gadget X,$8909,$1019786
+Lead,1,110,06.08.2025,Field Sales,Stratton Oakmont,Q3-24-Holiday Sale,Alice Johnson,Service Plan Pro,$4823,$309617
+In Progress,122,null,TBD,Phone,Omni Consumer Products,FY-23-Retention,Eva Martinez,,$11935,$242250
+lead,339,17.0,08.11.2023,email,Omni Consumer Products,Q1-24-New Year Promo,Karen White,Support Tier 1,$25882,$18240
+proposal  ,403,493.0,30.04.2025,RETAIL,Omni Consumer Products,Q1-23-Trade Show,david brown,Marketing Suite,$3658,$1185488
+open,447,331.0,06.11.2023,,Omni Consumer Products,H1-2024-Webinar Series,alice johnson,Analytics Dashboard,$7877  ,$570670
+WON,21,51.00,12.05.2024,online,Omni Consumer Products,Q1-24-Brand Awareness,Iris Anderson,Software Subscription,N/A,$28080
+proposal,262,144.0,04.08.2025,Call Center  ,Cogswell Cogs,Q1-23-Social Push,E. Martinez,Cloud Storage 5TB,$22173,$530096
+lead,35,453,01.05.2025,Store,Omni Consumer Products,Q1-23-Brand Awareness,Mia Clark,Cloud Storage 1TB,N/A,$165087
+Lead,102  ,402.00,31.10.2023,,Omni Consumer Products,Q4-23-Brand Awareness,L. Harris,Support Tier 1,$14592,$986275
+Pending,,456,15.01.2024,Email,Omni Consumer Products,Q2-23-Email Blast,J. Thomas,Widget A,$35449,$2262303
+CLOSED WON,416,286.00,26.11.2023,Website,Omni Consumer Products,Q1-24-Brand Awareness,karen white,Security Bundle,0,$765107
+Closed-Lost,217,73.00,21.02.2025,partner,Oscorp Technologies,Q1-2024-New Year Promo,Karen White,API Access,$13392,$40892
+Lost,16,500.00,24.10.2024,DIRECT,Omni Consumer Products,Q2-24-Spring Push  ,JANE DOE,Cloud Storage 5TB,$23053,$1034235
+CW,N/A,408,06.05.2024,Website,Omni Consumer Products,Q3-23-Spring Push,B. Williams,,$13942,$918282
+qualified,107,119.00,08.11.2024,call center,Omni Consumer Products,Q1-2023-Spring Push,TBD,Service Plan Basic,$48935,$541254
+Open,420,485,05.09.2023  ,Call Center,Omni Consumer Products,,F. Wilson,Cloud Storage 5TB,$14988,$1212422
+LOST,470,153.00,18.11.2023,Phone,Nakatomi Trading,H1-24-Product Launch,David Brown,CRM Module,$45312,$601630
+closed lost,149,317.0,06.07.2024,,Omni Consumer Products,Q2-2023-Retention,Jake Thomas,API Access,0,$191474
+negotiation,-,79,10.06.2024,affiliate  ,Omni Consumer Products,Q1-24-Black Friday,I. Anderson,Support Tier 2,$17054,$319335
+CLOSED LOST,49,359.00,18.07.2024,email,Omni Consumer Products,H1-2024-Webinar Series,carol davis,Software License,-,$1519324
+CW,271  ,309,03.09.2024,Social,Omni Consumer Products,Q4-24-Spring Push,Henry Taylor,Software Subscription,$15606,$749915
+Closed-Lost,84,180.00,21.12.2024,,Omni Consumer Products,H1-23-Retention,E. Martinez,Gadget Mini,$6387,$173825
+Closed Won,96,483.00,14.05.2025,Email Campaign,Hooli Inc,Q1-23-Product Launch,Frank Wilson,Cloud Storage 1TB,$9590,$696549
+pending,14,371,07.09.2023,Retail,Virtucon,Q2-2023-New Year Promo,E. Martinez,Support Tier 1,$30233,$974624
+Qualified,314,90.0,pending,Direct,Omni Consumer Products,Q3-2023-Upsell,Mia Clark,API Access,$7296,$342221
+Open,334,148,02.03.2024,E-Commerce  ,BrightPath Media,FY-24-Brand Awareness,,Software Subscription,$31320,$508139
+In Progress,N/A,218.00,02.09.2024,Direct,Omni Consumer Products,Q4-23-Summer Blitz,JOHN SMITH,ERP Add-on,$41269,$875239
+closed lost,476,380,26.01.2025,Channel Partner,Omni Consumer Products,,G. Lee,Analytics Dashboard,$6001,$851603
+WON,16,308,16.04.2025,Web,Omni Consumer Products,Q1-23-Social Push,Grace Lee,Service Plan Basic,$5463,$16635
+in progress,47,null,08.03.2025,Direct Sales,Spacely Sprockets,,J. Doe,Cloud Storage 1TB,$8091,$88354
+Qualified,219,472.00,19.02.2024,social,Omni Consumer Products,H2-2023-Summer Blitz,G. Lee,Gadget X,$12271,$1640356
+CLOSED LOST,110,266.0,10.08.2023,Store,,H1-2023-Summer Blitz,L. Harris,Cloud Storage 1TB,$32575,$787379
+pending,156,#REF!,02.10.2023,email campaign,Omni Consumer Products,Q2-24-Fall Campaign,Unassigned  ,Analytics Dashboard,$46133,$156029
+Open,,387,13.11.2023,phone,Omni Consumer Products  ,Q2-2024-Fall Campaign,Frank Wilson,Service Plan Enterprise,$16501,$1814504
+Closed-Lost,491,58,15.09.2023,Store,Omni Consumer Products,Q3-2023-Black Friday,iris anderson,Data Pipeline,$23377,$176525
+Negotiation,363,220.00,03.08.2024,PARTNER,Omni Consumer Products,FY-2023-Upsell,J. Doe,Support Tier 1,N/A,$139586
+CW,334,13.0,29.02.2024,in-store,Omni Consumer Products,FY-24-Social Push,JANE DOE,Service Plan Enterprise,-,$31188
+lead,N/A,278.00,25.11.2023,Call Center,Omni Consumer Products,H1-23-Retention,Jake Thomas,Cloud Storage 1TB,$27626,$893131
+Negotiation,17,499.00,05.01.2025,Email Campaign,Omni Consumer Products,H2-2023-Upsell,TBD,Widget Pro,$44737,$376471
+Closed-Won,105,299.00,25.07.2025,Call Center,Nakatomi Trading  ,Q1-2024-Cross-sell,grace lee,Widget A,$33254,$421464
+open,362,112,15.04.2024  ,field,Omni Consumer Products,Q4-24-Black Friday,K. White,Support Tier 1,$48309,missing
+open,207,133.00,12.06.2025,field,Omni Consumer Products,H1-2023-Spring Push,Carol Davis,Training Package,$19307,$663250
+closed lost,388,487.00,01.11.2024,Referral,Omni Consumer Products  ,Q1-2023-Product Launch,carol davis,Hardware Unit,$22491,$837601
+Lost,438,264,11.12.2024  ,phone,,Q3-2024-Cross-sell,I. Anderson,Support Tier 2,$984,$328535
+CL,223,435,02.03.2025,Direct,Omni Consumer Products,H2-2023-Cross-sell,C. Davis,Data Pipeline,$22626,$189573
+Closed-Won,98,173,19.09.2023,in-store,Omni Consumer Products,,,Widget B  ,$24506,$166831
+Open,52,50.0,30.06.2025,retail,Initech Solutions,FY-2023-Cross-sell,,Widget A,$18239,$103928
+Closed Lost,117,270,26.03.2024,social,,Q2-2024-Black Friday,mia clark,Cloud Storage 1TB,$32915,$549445
+Closed-Won,N/A,412,21.01.2025,Email,Omni Consumer Products,H1-23-Black Friday,Mia Clark,Gadget X,-,$68375  
+In Progress,271,236.00,24.05.2024,Email,Omni Consumer Products,Q3-24-Summer Blitz,M. Clark,ERP Add-on,$26905,$870127
+Won,-,242.00,23.08.2024,Affiliate,Omni Consumer Products,Q3-2024-Summer Blitz,K. White,Security Bundle,$14433,$358826
+pending,,368,09.01.2024,referral,Omni Consumer Products  ,H1-24-Holiday Sale,leo harris,Service Plan Basic,$16007,$417073
+CL  ,189,285,24.09.2023,referral,Omni Consumer Products,FY-2024-Cross-sell,carol davis,Software Subscription,-,$640247
+Negotiation,N/A,186.0,09.09.2023,online,Omni Consumer Products,Q4-2024-New Year Promo,,Software License,$37642,$590394
+open,373,437.00,26.09.2024,Direct Sales,Omni Consumer Products,Q2-2023-Webinar Series,JANE DOE  ,Widget B,$14000,$79075
+Negotiation,451,N/A,20.08.2023,RETAIL,Initech Solutions,Q2-2023-Upsell,John Smith,Gadget Mini,$6797,missing
+Open,316,132,,retail,Omni Consumer Products,FY-2024-Brand Awareness,J. Smith,Support Tier 1,$6729,$203335
+Closed Lost,341,296.0,25.08.2023,social media,SummitView Hotels,Q2-2023-Webinar Series,Alice Johnson,Cloud Storage 5TB,$22162,$1425660
+CL,223,435,02.03.2025,Direct,Omni Consumer Products,H2-2023-Cross-sell,C. Davis,Data Pipeline,$22626,$189573
+CL,179,101.00,25.08.2024,Call Center,Omni Consumer Products,FY-23-Brand Awareness,JOHN SMITH,Marketing Suite,$42822,$93028
+Lead  ,356,287.00,03.03.2024,Direct,Globex Industries,H2-24-Social Push,JANE DOE,Support Tier 1,$28839,$1157603
+Lead,221,309.00,15.04.2024,Online,Omni Consumer Products,FY-24-New Year Promo,henry taylor,Consulting Hours,$25620,$1214716
+CLOSED LOST,368,353,20.05.2024,Channel Partner,Pied Piper,H1-2023-Spring Push,grace lee,Service Plan Basic,$26579,$264425
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

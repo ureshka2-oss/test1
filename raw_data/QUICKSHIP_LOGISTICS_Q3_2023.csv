@@ -1,0 +1,23 @@
+dealStatus	salesRegion	adSpend	totalRevenue	saleDate	productName	campaignName	quantity	conversionCount	unitPrice	salesRep
+LOST	N/A	N/A	$2132059	2025/07/19	Support Tier 2		441	140	$4835	Mia Clark
+CLOSED LOST	Asia Pacific	$48512	$899370	null	API Access	Q3-24-Social Push	298	285	$3018	karen white
+Open	Britain	$19300	$969763	2024/06/18	CRM Module	H1-2023-Holiday Sale	416	370	$2331	eva martinez
+in progress	N. America	$21594	$740381	2025/11/19	Security Bundle		241.0	470	$3072	M. Clark
+qualified	Britain	$41145	$95473	2025/06/06	Cloud Storage 5TB	Q2-24-Email Blast	169.00	148	$565	John Smith
+Open	Africa	$46317	$1018218	2025/07/23	ERP Add-on		208.00	266	$4895	bob williams
+open	South America	$21957	$181289	2024/11/21	Cloud Storage 1TB		49	328	$3700	A. Johnson
+CW	NA	$10938	$728392	2024/09/30	Widget Pro		223.0	483	$3266	bob williams
+Won	N/A	$39471	$254973	2024/05/19	ERP Add-on	Q1-23-Upsell	131.00	219	$1946	leo harris
+WON	UK	$17108	$1007792	2025/05/03	Cloud Storage 5TB	FY-2023-Email Blast	469	360	$2149	jane doe
+LOST	Middle East	$10324	$554610	2025/01/05	API Access	H1-23-New Year Promo	114.0	33	$4865	frank wilson
+Lead	Africa	$42389	$1516872	2025/08/15		Q1-2024-Upsell	363.0	71	$4179	N/A
+CLOSED LOST	ASIAPAC	$35817	$177126	2025/10/15	Software Subscription	Q4-2024-Webinar Series	327.0	393	$542	JOHN SMITH
+Closed-Lost	United Kingdom	N/A	$125891	pending	Security Bundle	Q4-2024-New Year Promo	N/A	447	$2543	carol davis
+Pending	Asia Pacific	$29184	$62458	2024/10/14	Support Tier 2		31.0	173	$2015	N/A
+proposal	Middle East	$10374	$139482	2025/04/06	CRM Module	H1-24-Social Push	79.00	-	$1766	Eva Martinez
+pending	UK	$28893	$284463	2025/01/28	Analytics Dashboard	H2-2023-Social Push	115	171	$2474	A. Johnson
+Negotiation	US	$25830	$1547832	2024/07/21		Q3-23-Holiday Sale	433	448	$3575	Jane Doe
+in progress		$33395	$14950	2024/03/17	ERP Add-on	FY-2024-Holiday Sale	61	182	$245	Iris Anderson
+Lost	Britain	$4485	$39789	2025/12/10	Software Subscription	Q4-2023-Upsell	257.0	140	$155	carol davis
+In Progress	Australia	$33742	NULL	2024/07/16	Security Bundle	Q1-2024-Black Friday	191	222	#N/A	john smith
+Lead	Australia	$2163	$18081	2024/09/24	Service Plan Pro	H2-2023-Social Push	84	267	$215	F. Wilson

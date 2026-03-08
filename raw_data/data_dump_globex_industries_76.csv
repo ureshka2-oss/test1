@@ -1,0 +1,200 @@
+UNIT_PRICE;COMPANY;REVENUE;CAMPAIGN;DATE;SALES_REP;PRODUCT;LEADS;REGION;STATUS;CHANNEL;AD_SPEND;QTY;ccy
+3970.08;Globex Industries;1143383.04;Q2-2024-Retention;03.05.2025;John Smith;Hardware Unit;1874;USA;Proposal;Direct Sales;27952.57;288.00;AUD
+2716.01;Globex Industries;1007639.71;Q3-2024-Cross-sell;07.05.2024;mia clark;Data Pipeline;993;EMEA;closed won;ecommerce;49177.63;371.0;AUD
+213.40;Globex Industries;61886.00;H1-23-Black Friday;pending;Bob Williams;Service Plan Enterprise;4758;United States;Lost;Phone;27009.17;290.00;USD
+1545.52;Globex Industries;564114.80;Q1-2024-Holiday Sale;10.30.2024;Carol Davis;Software License;4331;Australia;Negotiation;Direct Sales;42960.08;365;JPY
+1467.91;Globex Industries;255416.34;Q1-2024-Brand Awareness;12.28.2024;F. Wilson;Analytics Dashboard;967;United Kingdom;CW;Call Center;null;174.0;
+2628.01;QuickShip Logistics;1038063.95;H1-2023-Cross-sell;11.21.2023;J. Smith;Hardware Unit;883;ANZ;CLOSED LOST;Affiliate;47010.62;395.0;USD
+2028.14;Globex Industries;953225.80;;01.11.2024;frank wilson;Widget B;3403;-;Pending;retail;0;470.00;EUR
+3107.80;TrueNorth Financial;447523.20;FY-2023-Black Friday;08.29.2023;E. Martinez;Software Subscription;539;Unknown;Negotiation;E-Commerce;34680.53;144.00;AUD
+3039.37;Globex Industries;1416346.42;Q1-24-Upsell;10.25.2023;K. White;Hardware Unit;534;LATAM;Closed Lost;Partner;N/A;466.0;USD
+NULL;Globex Industries;75120.94;Q3-2023-Product Launch;pending;karen white;ERP Add-on;3779;APAC;in progress;DIRECT;35409.11;206.0;AUD
+595.84;Globex Industries;126302.56;H2-2023-Product Launch;08.14.2023;Eva Martinez;Hardware Unit;4899;EMEA;PENDING;Web;25598.75;null;USD
+4548.95;Krusty Burger LLC;1128139.60;FY-2023-Cross-sell;12.19.2024;carol davis;Cloud Storage 5TB;-;United States;LOST;email campaign;47061.03;248.0;AUD
+4454.19;HealthPlus Pharma;886383.81;FY-2024-Trade Show;06.08.2025;J. Smith;API Access;4184;N. America;CW;Social Media;1478.38;199.00;GBP
+2744.13;MomCorp;403387.11;H1-24-Brand Awareness;12.01.2023;L. Harris;ERP Add-on;262;North America;CL;Direct;34936.57;147.00;CAD
+1156.05;;NULL;Q3-2024-New Year Promo;06.22.2024;John Smith;Analytics Dashboard;3002;Europe;closed lost;Email;null;;CAD
+4347.68;Globex Industries;1834720.96;Q1-2024-Black Friday;10.26.2024;Carol Davis;Widget Pro;2170;;Closed Won;Phone;11974.81;422.00;GBP
+4609.43;Globex Industries;1106263.20;Q4-2023-Holiday Sale;09.18.2023;grace lee;ERP Add-on;3857;Middle East;Qualified;Direct Sales;42087.02;240.00;USD
+83.06;Globex Industries;37626.18;Q2-23-Fall Campaign;07.16.2025;E. Martinez;Software Subscription;4343;Asia Pacific;Won;Social;30558.22;453.0;USD
+3101.01;DataWave Inc;669818.16;Q1-2024-Holiday Sale;04.02.2025;J. Thomas;Support Tier 1;932;Middle East;negotiation;PARTNER;2621.34;216.0;JPY
+932.40;Globex Industries;114685.20;Q2-2024-Black Friday;TBD;L. Harris;MISC;3694;United Kingdom;Open;In-Store;24554.77;123;
+88.84;Globex Industries;42199.00;Q4-23-Upsell;05.27.2024;Iris Anderson;Service Plan Pro;3827;;Won;DIRECT;16528.73;475.0;
+null;NovaTech Solutions;null;Q2-2024-Black Friday;10.12.2023;D. Brown;Gadget Mini;1294;N. America;negotiation;Email;27603.44;135.0;
+4090.92;;380455.56;Q4-24-Cross-sell;02.07.2024;grace lee;Software Subscription;3730;Asia;open;reseller;40035.01;93.00;
+160.15;Globex Industries;50607.40;H1-2023-Spring Push;07.01.2025;bob williams;Widget A;1657;ANZ;CW;social;null;316.00;GBP
+;Globex Industries;113387.27;FY-23-Black Friday;08.27.2024;frank wilson;Service Plan Basic;415;Africa;Pending;Referral;8333.50;350;EUR
+1035.58;Dharma Initiative;15533.70;H2-2023-Holiday Sale;02.23.2025;grace lee;Security Bundle;2096;EU;Closed-Lost;affiliate;18001.33;15.0;USD
+1538.59;Umbrella Ltd;264637.48;H2-2023-New Year Promo;04.13.2025;David Brown;CRM Module;1959;Asia Pacific;Closed-Lost;ecommerce;12815.42;172;CAD
+#N/A;Krusty Burger LLC;123107.90;Q2-24-Cross-sell;12.21.2023;N/A;Data Pipeline;2132;Asia Pacific;closed won;Telesales;34076.09;N/A;AUD
+67.96;Globex Industries;10261.96;;04.01.2024;leo harris;Widget Pro;3364;Europe;PENDING;DIRECT;40400.47;151;
+1914.52;Globex Industries;817500.04;Q4-2023-Webinar Series;11.07.2024;L. Harris;CRM Module;714;ASIAPAC;Closed-Won;retail;-;427;GBP
+3642.52;AgriGrow Corp;287759.08;H1-2023-Retention;10.01.2024;leo harris;Premium Onboarding;2671;Africa;negotiation;RETAIL;20694.13;79.00;EUR
+3409.88;Globex Industries;1319623.56;Q2-23-New Year Promo;11.17.2024;J. Thomas;Analytics Dashboard;2837;-;negotiation;online;39230.68;387;AUD
+578.74;Globex Industries;108224.38;FY-2023-Retention;02.13.2025;jane doe;Consulting Hours;-;United States;Negotiation;direct;23249.26;187;USD
+3104.73;Sterling Cooper;12418.92;H1-24-Summer Blitz;11.04.2024;Iris Anderson;Cloud Storage 5TB;287;North America;closed lost;referral;37291.05;4;JPY
+missing;Globex Industries;113121.03;Q4-24-Upsell;09.10.2023;Mia Clark;-;3072;Latin America;In Progress;field;38714.45;109;CAD
+1685.79;Globex Industries;559682.28;;06.08.2024;A. Johnson;Premium Onboarding;4752;Asia Pacific;in progress;direct;21090.49;332.00;CAD
+4441.95;Globex Industries;1074951.90;Q1-24-Webinar Series;pending;John Smith;Gadget X;191;NA;Closed-Lost;phone;26440.68;242.0;AUD
+1098.91;Globex Industries;145056.12;Q2-2023-Brand Awareness;04.20.2024;leo harris;N/A;954;USA;in progress;partner;35295.85;132;JPY
+2959.88;Globex Industries;808047.24;H2-24-Cross-sell;07.07.2024;Jane Doe;Cloud Storage 5TB;1341;United Kingdom;LOST;Direct Sales;24512.63;273.0;EUR
+NULL;Globex Industries;227458.26;Q2-2024-Webinar Series;02.02.2024;Carol Davis;Software License;4698;MEA;proposal;referral;32902.52;280;GBP
+494.40;Cogswell Cogs;27192.00;Q1-24-Black Friday;10.17.2024;TBD;Cloud Storage 5TB;441;Asia Pacific;Qualified;ONLINE;37078.25;55.0;EUR
+989.00;Wonka Enterprises;112746.00;;04.01.2025;TBD;Marketing Suite;288;USA;lead;reseller;18977.87;114;USD
+652.93;Globex Industries;317323.98;Q2-2023-Upsell;N/A;C. Davis;Marketing Suite;830;SA;In Progress;Channel Partner;6638.48;486.00;
+147.06;;24853.14;;06.24.2024;Henry Taylor;Analytics Dashboard;3263;SA;closed won;email campaign;24071.67;169;CAD
+2943.86;Globex Industries;1127498.38;Q4-24-Email Blast;05.09.2025;E. Martinez;Widget B;N/A;South America;Qualified;phone;8756.46;383.00;CAD
+1932.65;Globex Industries;964392.35;H2-23-Webinar Series;08.17.2023;M. Clark;Security Bundle;3205;Europe;Lead;in-store;null;499;
+1234.05;AgriGrow Corp;578769.45;Q2-24-Fall Campaign;03.16.2025;I. Anderson;Widget A;1895;ANZ;in progress;phone;19532.82;469.00;AUD
+NULL;Globex Industries;39190.45;;12.22.2024;JANE DOE;Training Package;4307;Middle East;in progress;;10069.61;253;EUR
+4001.57;Soylent Corp;1084425.47;Q4-23-Fall Campaign;08.06.2023;Grace Lee;Service Plan Enterprise;2085;LATAM;pending;call center;35048.38;271;
+471.46;Globex Industries;173497.28;Q1-2023-Fall Campaign;05.24.2024;leo harris;Service Plan Pro;3289;ASIAPAC;lead;Email;2623.28;368;CAD
+4551.86;Globex Industries;1438387.76;Q4-2024-Holiday Sale;01.10.2025;N/A;ERP Add-on;1990;APAC;in progress;;14725.28;316;JPY
+2474.93;Globex Industries;245018.07;H1-2024-Product Launch;09.29.2024;H. Taylor;Service Plan Pro;2624;Britain;closed lost;email;2313.82;99;GBP
+4903.94;Globex Industries;1132810.14;Q1-2023-Trade Show;05.22.2024;david brown;ERP Add-on;4168;N. America;qualified;Referral;8486.63;231;USD
+735.53;Globex Industries;133130.93;Q1-2024-Social Push;05.24.2025;K. White;Widget A;4741;-;proposal;Telesales;24091.99;181.00;USD
+2533.36;Globex Industries;210203.79;;null;TBD;N/A;4340;APAC;CLOSED LOST;DIRECT;30223.99;;GBP
+1650.93;Initech Solutions;820512.21;Q1-2024-Summer Blitz;06.16.2025;F. Wilson;API Access;4315;NA;Qualified;field;20735.21;497;JPY
+4716.14;Wonka Enterprises;292400.68;H1-23-Retention;08.31.2023;A. Johnson;Consulting Hours;3514;LATAM;Pending;partner;;62.00;AUD
+3862.36;Globex Industries;1371137.80;FY-2023-Product Launch;07.04.2025;Bob Williams;Widget A;null;ANZ;Lead;e-comm;16180.11;355.00;EUR
+3846.82;Globex Industries;1304071.98;FY-23-Product Launch;02.01.2024;E. Martinez;Software License;4324;EU;Pending;affiliate;34894.57;339.0;AUD
+2522.97;Globex Industries;275003.73;Q1-24-Summer Blitz;08.21.2024;Leo Harris;Premium Onboarding;399;LATAM;CLOSED WON;Social Media;34232.80;109.00;AUD
+3694.21;Globex Industries;155156.82;Q4-23-Fall Campaign;05.21.2024;Leo Harris;Hardware Unit;4611;-;Lead;Social Media;23671.67;42;CAD
+3103.26;Globex Industries;168588.31;FY-23-Retention;11.18.2023;Jake Thomas;Data Pipeline;1883;United Kingdom;Closed-Lost;field;N/A;;EUR
+3733.03;SummitView Hotels;649547.22;Q1-2024-Webinar Series;05.18.2024;J. Smith;N/A;null;Middle East;CLOSED WON;Online;32968.94;174.00;EUR
+907.19;Globex Industries;450873.43;H1-2024-Webinar Series;08.25.2023;karen white;Widget Pro;4753;North America;closed won;ecommerce;41674.20;497;EUR
+3301.92;Sterling Cooper;1125954.72;;11.11.2023;A. Johnson;Widget A;2759;Africa;in progress;ecommerce;38704.76;341.0;USD
+4225.29;Umbrella Ltd;1318290.48;Q4-23-Brand Awareness;04.27.2025;;Other;2202;Africa;Qualified;Field Sales;44364.39;312.0;GBP
+1677.90;Globex Industries;276853.50;Q3-2024-Email Blast;03.09.2025;B. Williams;Software License;591;ASIAPAC;Closed-Lost;email;0;165;
+176.45;AgriGrow Corp;79755.40;FY-23-Webinar Series;05.17.2025;Mia Clark;CRM Module;4706;APAC;Lead;Phone;35307.81;452;AUD
+3053.89;Globex Industries;1120777.63;Q3-2024-Spring Push;07.05.2025;david brown;Premium Onboarding;1458;Europe;Open;Online;35909.30;367.00;JPY
+535.77;Globex Industries;153230.22;Q2-23-Email Blast;02.09.2025;Leo Harris;;3883;Unknown;Negotiation;social media;45518.31;286;AUD
+3524.70;Globex Industries;;Q3-2023-Fall Campaign;10.19.2023;M. Clark;Support Tier 2;1394;NA;Qualified;online;25325.52;N/A;GBP
+4471.84;Globex Industries;500846.08;Q3-2023-Social Push;08.21.2023;grace lee;Widget A;1392;SA;Open;Partner;3658.27;112;CAD
+3780.86;;703239.96;Q3-2023-Fall Campaign;08.01.2023;john smith;Widget A;2892;Africa;Lost;affiliate;35648.92;186;
+2662.08;Globex Industries;95834.88;H1-24-Brand Awareness;11.01.2024;eva martinez;Service Plan Basic;766;Europe;in progress;Online;11684.35;36.0;JPY
+3165.99;Initech Solutions;189959.40;Q4-23-Black Friday;01.20.2024;henry taylor;Widget A;2280;Latin America;LOST;Retail;21553.36;60;GBP
+1749.92;Cogswell Cogs;213490.24;Q1-2024-Retention;02.16.2024;Alice Johnson;Widget B;4550;US;in progress;Social;27932.26;122;EUR
+2183.66;Oscorp Technologies;858178.38;H1-2024-Trade Show;12.28.2024;grace lee;Service Plan Pro;2167;EU;closed lost;Phone;48241.22;393.0;
+2059.26;Globex Industries;183274.14;H2-23-Retention;08.27.2023;david brown;Data Pipeline;2259;N/A;CW;Email;0;89.0;CAD
+3586.64;Vandelay Ind;1488455.60;Q2-24-New Year Promo;05.07.2025;Frank Wilson;Widget Pro;3050;Africa;Closed Lost;call center;;415.0;CAD
+3088.34;Globex Industries;1544170.00;;07.09.2025;TBD;API Access;1047;Europe;lead;Store;28429.61;500;USD
+2619.38;Globex Industries;442675.22;H2-24-Upsell;08.02.2024;Iris Anderson;Hardware Unit;4878;Britain;Closed Lost;Referral;2234.75;169.00;CAD
+590.26;Weyland Corp;289227.40;Q1-2023-Retention;03.11.2025;jane doe;Marketing Suite;2579;N/A;Pending;E-Commerce;9344.18;490;CAD
+4763.86;Globex Industries;1491088.18;Q1-24-Cross-sell;05.06.2025;henry taylor;Security Bundle;794;;lead;e-comm;41765.21;313.0;
+2402.89;Globex Industries;1141372.75;;02.11.2025;Jake Thomas;Software License;1410;LATAM;Closed-Won;Retail;360.66;475;GBP
+341.77;Krusty Burger LLC;49214.88;Q1-24-Upsell;12.13.2024;TBD;Service Plan Basic;2118;Unknown;CL;social;42883.63;144.0;
+418.95;Globex Industries;92169.00;Q3-2023-Spring Push;10.14.2023;Unassigned;Support Tier 1;3187;ASIAPAC;CL;Email Campaign;42981.96;220.00;USD
+3332.79;Globex Industries;636562.89;;02.03.2025;Eva Martinez;Training Package;1101;;CLOSED LOST;;46306.18;191.00;
+-;DataWave Inc;NULL;Q3-23-New Year Promo;02.01.2025;G. Lee;Service Plan Enterprise;4851;Unknown;qualified;E-Commerce;20569.57;10.0;EUR
+2259.33;Oscorp Technologies;842730.09;Q2-2023-Black Friday;06.03.2025;F. Wilson;Analytics Dashboard;N/A;Asia;WON;Telesales;36633.38;373;CAD
+3883.43;Spacely Sprockets;1161145.57;Q3-2023-Brand Awareness;07.22.2025;mia clark;Consulting Hours;2411;Latin America;LOST;;17217.71;299;AUD
+3896.65;Globex Industries;1067682.10;FY-2023-Spring Push;11.16.2023;Bob Williams;ERP Add-on;2371;N. America;Lead;call center;null;274;CAD
+558.18;Globex Industries;251739.18;;07.21.2024;jane doe;Support Tier 1;3350;EMEA;Closed Won;call center;30842.05;451.00;
+4803.34;Globex Industries;2377653.30;Q1-24-Product Launch;04.17.2025;eva martinez;Premium Onboarding;2496;MEA;WON;partner;5272.63;495;CAD
+3242.09;Globex Industries;1319530.63;FY-2024-New Year Promo;08.20.2024;karen white;Other;4542;United Kingdom;Open;email;32442.29;407.0;AUD
+3649.76;Prestige Worldwide;NULL;Q4-2024-New Year Promo;07.09.2024;G. Lee;Gadget Mini;2825;MEA;CL;Telesales;-;null;CAD
+1738.88;Globex Industries;669468.80;Q2-2023-Fall Campaign;10.02.2023;karen white;Consulting Hours;537;Africa;Won;Web;29751.34;385.0;GBP
+2923.69;Globex Industries;1400447.51;;09.13.2024;Eva Martinez;Software Subscription;985;United States;closed won;Channel Partner;22302.36;479;JPY
+4988.35;Omni Consumer Products;2115060.40;Q1-2024-Cross-sell;04.18.2025;bob williams;Security Bundle;4778;United Kingdom;pending;in-store;3673.82;424;GBP
+4683.89;Globex Industries;1470741.46;Q2-24-Brand Awareness;08.16.2024;JANE DOE;API Access;3552;Europe;in progress;;26455.43;314;CAD
+831.27;Globex Industries;220286.55;FY-23-Summer Blitz;08.09.2023;M. Clark;Marketing Suite;451;SA;PENDING;Referral;36409.67;265.0;JPY
+758.97;Globex Industries;44779.23;Q2-2023-Fall Campaign;11.22.2023;Mia Clark;Service Plan Basic;257;USA;open;;2068.26;59;AUD
+NULL;Globex Industries;NA;Q2-2024-New Year Promo;04.28.2025;TBD;Cloud Storage 5TB;1449;Asia;CW;Website;4608.58;21.00;JPY
+1775.76;Prestige Worldwide;628619.04;;07.22.2025;Iris Anderson;Gadget X;1583;USA;PENDING;direct;1380.36;354;CAD
+-;Globex Industries;;Q2-24-Product Launch;08.28.2023;D. Brown;Gadget Mini;3766;EMEA;PENDING;;43245.08;218.00;GBP
+4749.02;Globex Industries;1932851.14;H1-2024-Cross-sell;01.07.2024;A. Johnson;Gadget Mini;4969;Middle East;in progress;affiliate;18258.46;407;AUD
+-;Globex Industries;-;Q3-2024-Black Friday;04.14.2024;Grace Lee;Software License;1625;??;Proposal;Field Sales;26190.88;337.00;
+3334.00;Globex Industries;690138.00;H1-2024-Product Launch;05.27.2024;L. Harris;Gadget Mini;-;UK;LOST;RETAIL;44239.49;207;USD
+1802.95;Globex Industries;364195.90;;06.02.2024;Bob Williams;Security Bundle;3848;Europe;LOST;referral;38462.44;202;EUR
+3366.79;Cybertruck Co;767628.12;Q4-2024-Upsell;11.21.2023;Jane Doe;Gadget Mini;1617;South America;CLOSED LOST;E-Commerce;22787.95;228;EUR
+1341.12;Brawndo Corp;610209.60;H1-2024-Fall Campaign;02.10.2024;bob williams;Widget A;3421;LATAM;Open;Web;8355.65;455;CAD
+2636.94;Globex Industries;missing;H1-2024-Spring Push;03.20.2025;E. Martinez;Training Package;718;SA;CLOSED WON;Field Sales;5860.00;N/A;CAD
+#N/A;;13762.23;;03.22.2024;C. Davis;Service Plan Enterprise;4069;UK;Qualified;reseller;39070.24;181.00;JPY
+877.33;QuickShip Logistics;112298.24;Q1-23-Spring Push;08.28.2024;N/A;Cloud Storage 1TB;3271;USA;Won;E-Commerce;48125.11;128;AUD
+1142.92;Cyberdyne Systems;570317.08;Q1-2024-Holiday Sale;null;jake thomas;Software License;4710;Britain;CW;call center;18772.40;499.00;GBP
+776.99;Globex Industries;75368.03;Q1-2024-Summer Blitz;05.28.2025;K. White;ERP Add-on;N/A;UK;In Progress;affiliate;19036.65;97;USD
+4310.32;Rekall Inc;1767231.20;FY-23-Retention;11.23.2024;Frank Wilson;MISC;2921;Europe;Lost;Affiliate;4814.67;410.0;USD
+1354.40;Globex Industries;28442.40;H1-24-New Year Promo;12.22.2024;karen white;Analytics Dashboard;3433;South America;Closed Won;Phone;N/A;21.0;AUD
+4306.56;Vandelay Ind;1541748.48;FY-23-Brand Awareness;10.20.2023;C. Davis;Widget A;;UK;proposal;Email;46163.69;358.00;JPY
+1498.33;Globex Industries;662261.86;Q1-2024-Fall Campaign;12.15.2023;B. Williams;Training Package;2467;Asia Pacific;CL;PARTNER;15370.65;442;JPY
+2859.57;QuickShip Logistics;83640.95;H1-23-Fall Campaign;10.18.2024;C. Davis;Security Bundle;3789;Asia Pacific;CL;Referral;41485.66;N/A;AUD
+4105.65;Globex Industries;1818802.95;H1-24-Trade Show;TBD;karen white;Training Package;3900;ANZ;CLOSED LOST;e-comm;25771.85;443.0;JPY
+3580.09;Globex Industries;855641.51;Q1-23-Social Push;01.01.2025;;Support Tier 2;988;Australia;WON;social;10995.86;239;CAD
+558.34;Initech Solutions;180706.56;H1-2024-New Year Promo;03.16.2025;jane doe;Software Subscription;942;LATAM;qualified;in-store;null;;CAD
+2626.29;Globex Industries;556773.48;Q3-24-Retention;12.25.2024;G. Lee;Cloud Storage 1TB;2993;Middle East;pending;DIRECT;33813.60;212.0;CAD
+748.57;Globex Industries;309159.41;Q3-24-Fall Campaign;11.15.2024;C. Davis;Premium Onboarding;4424;United Kingdom;Closed Lost;Web;0;413;AUD
+1231.47;Globex Industries;11083.23;FY-24-Product Launch;10.22.2024;M. Clark;Hardware Unit;4624;Middle East;CLOSED LOST;partner;29931.77;9.00;
+3474.08;Globex Industries;1361839.36;FY-24-Product Launch;;Grace Lee;Gadget X;754;Unknown;Closed-Lost;Social;37807.29;392.00;EUR
+3418.38;Globex Industries;241939.79;FY-23-Fall Campaign;04.20.2025;J. Thomas;Security Bundle;1894;;Closed Won;e-comm;27833.68;null;JPY
+null;HealthPlus Pharma;N/A;Q1-2024-Email Blast;10.11.2024;Carol Davis;Analytics Dashboard;3581;SA;Negotiation;direct;12477.70;145;AUD
+1903.15;Globex Industries;477690.65;Q3-23-Webinar Series;06.14.2025;Iris Anderson;Security Bundle;3401;Africa;PENDING;Phone;38549.32;251.0;JPY
+1659.86;CloudNine SaaS;411645.28;H2-2024-Cross-sell;03.14.2025;alice johnson;Service Plan Pro;4361;APAC;closed lost;referral;39667.13;248;EUR
+2437.84;Globex Industries;251097.52;Q1-24-Retention;10.29.2024;B. Williams;Gadget X;2354;UK;pending;Email Campaign;2712.49;103.00;USD
+#N/A;Globex Industries;15277.94;;10.02.2024;henry taylor;Hardware Unit;4011;EU;Pending;phone;42886.66;52;
+1677.90;Bluth Company;637602.00;;05.19.2025;B. Williams;Premium Onboarding;4538;LATAM;proposal;Direct Sales;37682.25;380.0;CAD
+173.24;Globex Industries;41057.88;Q2-2024-Holiday Sale;01.12.2024;K. White;-;2551;N/A;closed won;;865.63;237;
+2608.69;Globex Industries;169831.55;FY-2024-Email Blast;01.07.2025;david brown;MISC;1886;Africa;Qualified;e-comm;28495.01;-;CAD
+708.84;Globex Industries;185716.08;FY-2023-Holiday Sale;07.25.2024;M. Clark;Widget A;4737;LATAM;negotiation;Direct;12800.91;262.00;
+3638.51;Globex Industries;50939.14;H1-24-Social Push;05.15.2025;karen white;CRM Module;3593;Latin America;open;online;17370.61;14.00;AUD
+2354.64;Globex Industries;44738.16;H2-24-Email Blast;02.27.2025;C. Davis;Data Pipeline;1067;LATAM;Closed Lost;Retail;33102.11;19.00;GBP
+4062.34;TrueNorth Financial;235615.72;Q4-2023-New Year Promo;06.20.2024;JOHN SMITH;Service Plan Pro;292;United States;Closed Lost;partner;23309.19;58;CAD
+;Globex Industries;42968.27;Q3-2024-Black Friday;11.22.2024;JOHN SMITH;Premium Onboarding;3555;EMEA;Closed Lost;online;17314.94;135;AUD
+280.52;Globex Industries;20758.48;Q1-2023-Trade Show;08.30.2023;karen white;;4975;-;CLOSED LOST;Call Center;21907.84;74;GBP
+-;Globex Industries;243262.75;FY-24-Fall Campaign;09.09.2024;alice johnson;Cloud Storage 1TB;2752;Australia;Closed-Lost;affiliate;25930.01;345;AUD
+1820.61;Globex Industries;54618.30;H2-24-Trade Show;04.12.2025;Karen White;N/A;2561;United Kingdom;closed won;Reseller;46977.36;30.0;AUD
+2955.99;PixelForge Studios;1324283.52;Q2-2024-Cross-sell;10.20.2024;Karen White;Software Subscription;3342;Middle East;pending;Online;-;448.0;JPY
+1863.42;Globex Industries;730460.64;FY-24-Brand Awareness;05.22.2025;Jake Thomas;Training Package;23;USA;In Progress;social;25052.44;392.0;EUR
+2565.67;Globex Industries;1016005.32;Q1-23-Cross-sell;07.18.2025;TBD;Gadget X;4688;UK;Lost;e-comm;4013.55;396.0;GBP
+4156.35;Globex Industries;1454722.50;;03.02.2024;K. White;Premium Onboarding;4836;United Kingdom;Proposal;web;8549.76;350.0;CAD
+missing;Globex Industries;503.43;Q2-2024-Summer Blitz;02.08.2024;K. White;Service Plan Enterprise;2735;EMEA;LOST;retail;20990.75;295.0;EUR
+2231.22;Globex Industries;718452.84;H2-2024-Webinar Series;04.19.2025;eva martinez;API Access;;South America;Won;Affiliate;3110.75;322;USD
+;Vandelay Ind;-;FY-24-Trade Show;01.12.2025;A. Johnson;Software Subscription;2947;UK;Negotiation;Online;;469.00;GBP
+2960.03;Globex Industries;50320.51;H2-2024-Holiday Sale;04.23.2025;jake thomas;MISC;3189;N/A;lead;Field Sales;4021.10;17;USD
+4782.92;Globex Industries;2381894.16;H2-23-Black Friday;pending;;Service Plan Pro;2415;Asia Pacific;Lost;reseller;43493.78;498.0;USD
+2654.15;Buy N Large;456513.80;Q2-24-Black Friday;03.12.2024;Iris Anderson;Gadget X;4011;EMEA;Closed-Won;call center;2158.91;172.00;JPY
+1768.87;;495283.60;FY-23-Black Friday;05.13.2024;Eva Martinez;Training Package;2061;USA;Open;Direct Sales;30800.19;280;USD
+2464.35;Globex Industries;569264.85;;03.31.2025;;Cloud Storage 5TB;null;ASIAPAC;pending;Partner;37246.05;231.00;JPY
+4457.10;Globex Industries;298625.70;Q3-24-Cross-sell;07.12.2024;frank wilson;Support Tier 1;;UK;open;Direct;31912.97;67.00;AUD
+4377.98;Globex Industries;2097052.42;Q3-2024-Fall Campaign;08.03.2023;iris anderson;Consulting Hours;4174;USA;lead;social media;35944.50;479.0;USD
+1999.89;Cogswell Cogs;947947.86;Q1-24-Email Blast;02.26.2025;J. Doe;Service Plan Basic;301;NA;In Progress;web;9933.19;474;AUD
+2748.68;Globex Industries;1019760.28;Q3-2024-Upsell;04.15.2024;Jane Doe;Support Tier 1;null;NA;In Progress;;2332.34;371;GBP
+4558.33;Globex Industries;1340149.02;Q1-24-New Year Promo;10.14.2024;Leo Harris;Software License;3593;United States;Lost;Call Center;16538.36;294.0;EUR
+2358.52;;235852.00;Q2-2023-Black Friday;05.07.2024;David Brown;Widget Pro;2476;Britain;In Progress;RETAIL;25148.05;100;JPY
+1502.56;Globex Industries;429732.16;Q2-2023-Fall Campaign;01.03.2024;JANE DOE;Cloud Storage 5TB;4494;USA;Closed Won;;44004.40;286;USD
+2515.85;Globex Industries;628962.50;Q1-24-Retention;01.04.2024;john smith;Software License;4529;Asia;Closed Won;email;3423.37;250.0;GBP
+null;Globex Industries;129767.75;Q2-24-Brand Awareness;;jane doe;Support Tier 2;2150;United States;Qualified;phone;874.23;472.00;JPY
+1524.43;Globex Industries;564039.10;Q2-2023-Upsell;04.19.2024;K. White;Support Tier 2;1902;Africa;Closed Won;Call Center;39297.63;370;CAD
+1537.47;Globex Industries;764122.59;Q1-2024-Upsell;10.10.2024;carol davis;Widget B;4741;UK;Closed Lost;Retail;37214.97;497;CAD
+3772.19;Globex Industries;11316.57;H1-23-Fall Campaign;03.28.2025;Iris Anderson;Training Package;2601;Europe;Closed Lost;Store;4031.76;3;USD
+3861.89;Globex Industries;729897.21;H1-23-Email Blast;06.05.2024;Henry Taylor;Consulting Hours;2597;South America;in progress;Social Media;33225.96;189.0;AUD
+1595.26;Buy N Large;NA;Q2-24-Webinar Series;05.15.2024;K. White;Service Plan Enterprise;2327;N. America;open;;N/A;-;JPY
+552.09;NovaTech Solutions;24844.05;Q3-2024-Black Friday;06.25.2024;Eva Martinez;Service Plan Pro;3292;LATAM;CLOSED WON;Referral;16147.30;45.0;AUD
+4880.80;Globex Industries;1556975.20;Q3-24-New Year Promo;03.20.2025;Karen White;;;EMEA;negotiation;Social Media;2634.77;319.0;CAD
+missing;Weyland Corp;3924.55;H2-2024-Black Friday;09.18.2023;Carol Davis;API Access;1032;EMEA;Closed-Won;referral;16854.08;10.0;
+549.16;Globex Industries;225704.76;;08.03.2023;david brown;Security Bundle;4294;LATAM;Lost;Affiliate;10982.59;411;EUR
+2445.11;Globex Industries;66017.97;FY-2023-Social Push;02.10.2024;M. Clark;Cloud Storage 5TB;4029;SA;qualified;Social;47335.58;27.00;AUD
+863.26;Initech Solutions;122582.92;Q2-2023-Product Launch;05.24.2025;J. Doe;Security Bundle;null;NA;CLOSED LOST;Web;26048.02;142;AUD
+2044.52;AgriGrow Corp;644023.80;Q4-24-Webinar Series;04.19.2024;david brown;MISC;2981;Latin America;Pending;referral;19539.47;315.0;
+243.89;Planet Express;103409.36;Q2-2024-Spring Push;07.16.2025;Iris Anderson;Security Bundle;4072;Africa;Closed Won;reseller;10299.46;424.00;EUR
+3273.71;FreshCart;540162.15;H1-23-Fall Campaign;03.24.2024;Unassigned;Marketing Suite;null;United States;WON;web;38938.64;165.00;USD
+1637.41;Globex Industries;381516.53;Q1-2023-New Year Promo;02.22.2024;Carol Davis;Service Plan Basic;710;Latin America;Closed Won;Direct Sales;10406.15;233;EUR
+4252.05;Globex Industries;248549.63;H2-2023-Brand Awareness;11.04.2023;F. Wilson;Service Plan Enterprise;2786;United States;open;Channel Partner;20248.28;#REF!;AUD
+4615.67;Globex Industries;1938581.40;H2-24-Spring Push;07.07.2025;Leo Harris;Cloud Storage 1TB;3500;EU;open;In-Store;28336.18;420;GBP
+4358.35;Globex Industries;645035.80;H1-2024-Spring Push;02.01.2025;Henry Taylor;Security Bundle;;Latin America;closed won;Web;35081.52;148.0;CAD
+2153.18;DataWave Inc;415563.74;Q4-23-Summer Blitz;11.21.2024;Henry Taylor;Software Subscription;-;South America;In Progress;Referral;37395.70;193;EUR
+152.84;Globex Industries;13908.44;FY-2024-New Year Promo;07.13.2025;Bob Williams;Premium Onboarding;3906;Asia Pacific;pending;e-comm;35697.47;91.0;CAD
+838.48;Globex Industries;129125.92;H2-23-Fall Campaign;07.15.2024;J. Smith;Software License;3297;North America;Negotiation;E-Commerce;32367.66;154.0;GBP
+1505.84;QuickShip Logistics;112938.00;FY-2024-Brand Awareness;10.14.2024;leo harris;Service Plan Pro;-;Africa;CW;social media;32775.98;75;GBP
+1259.92;Globex Industries;22678.56;H1-2023-Summer Blitz;10.18.2023;carol davis;Service Plan Enterprise;1929;Asia;CLOSED WON;call center;37626.02;18;USD
+476.62;;174919.54;Q1-23-Black Friday;12.13.2023;D. Brown;Gadget Mini;4740;EMEA;negotiation;RETAIL;19247.20;367;EUR
+3311.58;Globex Industries;1248465.66;H1-23-Social Push;03.23.2025;Carol Davis;Cloud Storage 1TB;null;Australia;Won;e-comm;48884.94;377;GBP
+2708.31;FreshCart;1340613.45;H2-2024-Upsell;01.16.2025;leo harris;Widget B;1249;Middle East;Closed Lost;Referral;38118.82;495;USD
+2720.97;Globex Industries;188727.21;;null;jake thomas;Hardware Unit;2000;MEA;in progress;;7183.31;;CAD
+4100.21;Acme Corp;414121.21;FY-2023-Upsell;04.08.2024;;ERP Add-on;2517;South America;qualified;web;25114.44;101;CAD
+null;Virtucon;missing;Q1-2024-Spring Push;12.16.2024;JOHN SMITH;Service Plan Basic;N/A;United Kingdom;closed won;Web;46842.77;410.0;JPY
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;

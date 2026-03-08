@@ -1,0 +1,158 @@
+totalRevenue;adSpend;campaignName;saleDate;unitPrice;salesChannel;salesRegion;leadCount;dealStatus;companyName;quantity;productName;Currency
+#N/A;;H2-2024-Trade Show;05-Jan-2024;$2936;Reseller;Middle East;313;Closed-Lost;Initech Solutions;null;Training Package;GBP
+$5113;$35995  ;Q2-23-Brand Awareness;29-Mar-2024;$365;Referral;Britain;-;closed lost;AgriGrow Corp;14;Widget A;USD
+$358570;$38034;Q3-2023-New Year Promo;03-Jun-2024;$1741;Direct;MEA;1695;WON;AgriGrow Corp;206.00;Gadget X;CAD
+$766675;null;Q1-2024-Black Friday;13-Apr-2025;$2142;phone;EU;3759;Qualified;AgriGrow Corp;358;ERP Add-on;USD
+$332347;$29663;;23-Sep-2025;$4748;social media;APAC;2552;Negotiation;AgriGrow Corp;70.00;Marketing Suite;EUR
+null;null;H2-2023-Black Friday;16-Feb-2024;$3776;reseller;ANZ;4925;Closed-Won;Bluth Company;N/A;Support Tier 2;GBP
+$1267594  ;$25741;FY-23-Cross-sell;26-Oct-2025;$2566;Email Campaign;N. America;359;In Progress;Tyrell Corporation;494;Training Package;AUD
+$227631;$48351;FY-24-Trade Show;16-Apr-2025;$276;field;Australia;2883;WON;AgriGrow Corp;N/A;Premium Onboarding;GBP
+$90740;$47287;FY-23-Black Friday;27-Dec-2023;$4480;retail;N. America;81;closed won;AgriGrow Corp;0;Premium Onboarding;EUR
+$377043;$25859;Q4-2023-Webinar Series;08-Aug-2024;$1904;social media;Asia Pacific;1042;Won;GreenLeaf Energy;198.00;Service Plan Pro;USD
+$182320;$30358;H1-2023-Black Friday;03-May-2025;$499;ONLINE;United States;1784;Proposal;AgriGrow Corp;N/A;Marketing Suite;GBP
+$210489;$8496;Q2-24-Fall Campaign;01-Jun-2025;missing;Retail;EU;195;WON;AgriGrow Corp;144;API Access;CAD
+$9153;$18702;H1-2024-Summer Blitz;18-Jan-2024;$416;Channel Partner;United States;930;lead;AgriGrow Corp;22.00;Cloud Storage 5TB;
+$2238128;$5152;Q2-2024-Summer Blitz;null;$4834;in-store;APAC;363;Pending;Oceanic Airlines;463;Cloud Storage 5TB;CAD
+$166946;$29832;Q4-2024-Retention;08-Aug-2025;null;email campaign;United Kingdom;1569;in progress;Buy N Large;-;Gadget Mini;USD
+$46879;$35552;H2-2024-Social Push;18-Aug-2024;$609;RETAIL;Asia Pacific;1675;CL;AgriGrow Corp;77;Data Pipeline;GBP
+$155657;$37876;Q4-23-Upsell;TBD;$4324;Phone;Britain;714;WON;AgriGrow Corp;36;Software License;EUR
+$985758;$6739;Q4-2023-Retention;pending;$4585;DIRECT;Unknown;426;qualified;AgriGrow Corp;215.0;Support Tier 2;EUR
+$466112;$2286;Q3-23-Webinar Series;24-Dec-2024;$1647;Email Campaign;LATAM;3041;Lead;AgriGrow Corp;283.00;Hardware Unit;EUR
+$30324;$20325;Q2-2024-Webinar Series;24-Aug-2025;$83;social media;APAC;592;Closed Lost;AgriGrow Corp;365;Gadget Mini;GBP
+$182337;$38328;Q1-2023-Email Blast;07-May-2025  ;$1599;Social;??;4343;Pending;AgriGrow Corp;114;API Access;
+$191776;$13521;;14-May-2024;NULL;online;MEA  ;444;LOST;AgriGrow Corp;208.0;CRM Module;JPY
+$98412;$25621;Q3-24-Cross-sell;19-Mar-2025;$475;Telesales;EU;4403;lead;AgriGrow Corp;207.0;Marketing Suite;
+$355208;$9158;Q2-2023-Cross-sell;20-Apr-2024;$3415;Referral;US;4875;Negotiation;AgriGrow Corp;104;ERP Add-on;EUR
+$491503;$35364;;27-Aug-2024;$1277;referral;-;3929;CLOSED LOST;AgriGrow Corp  ;385.0;Consulting Hours;CAD
+$1646383;0;;24-May-2025;$3794;ONLINE;Britain;1822;pending;Prestige Worldwide;434.00;Cloud Storage 5TB  ;USD
+$1666651;$36334;H2-24-Spring Push;09-Feb-2025;$4554;social media;EU;2154;lead;Rekall Inc;366;Hardware Unit  ;CAD
+$157858;$17617;FY-23-Email Blast;12-Jul-2024;$1774;;North America;469;CW;Pied Piper;89.00;Hardware Unit;EUR
+$2218806;$40035;Q3-23-Black Friday;15-Sep-2024;$4556;web;EU;4519;Won;FreshCart;487.0;Hardware Unit;CAD
+$673506;$26170;Q4-2024-Product Launch;27-Oct-2025;$1497;Telesales;UK;2121;Closed Won;Pinnacle Analytics;450;Support Tier 1;
+$13078;$47029;FY-24-Trade Show;17-Jun-2025;$4999;Retail;APAC;2316;CLOSED WON;AgriGrow Corp;0  ;Support Tier 2;JPY
+$638002;$42547;Q3-24-Webinar Series;18-Jan-2024;$1833;Web;MEA;2502;Lost;Pinnacle Analytics;348.0;Support Tier 2;USD
+NULL;N/A  ;Q2-24-Holiday Sale;09-Apr-2024;$4713;Social Media;EMEA;640;CW;AgriGrow Corp;null;Cloud Storage 5TB;GBP
+$743183;$48279;FY-23-Holiday Sale;01-Apr-2025;$2173  ;RETAIL;LATAM;46;proposal;AgriGrow Corp;342;Data Pipeline;EUR
+$180442;-;Q1-2023-New Year Promo;11-May-2025;$411;Referral;North America;2055;Closed-Won;Stratton Oakmont;439;Consulting Hours;JPY
+$210846;$45209;H1-23-Retention;09-Dec-2024;$720;phone;NA;4778;closed won;Pied Piper;293;;CAD
+$242;$42850;H1-2023-Spring Push;11-Jul-2024;$19;Channel Partner;USA;2002;Closed Lost;Spacely Sprockets;13.00;Service Plan Pro;EUR
+$1156982;$21119;H1-2024-Summer Blitz;05-May-2025;$4573;Phone;United Kingdom;4705;in progress;AgriGrow Corp;253;Training Package;GBP
+$635915;$43605;H1-24-Cross-sell;N/A;$3513;Social;Africa;1711;qualified;Massive Dynamic;181;Service Plan Pro;GBP
+$106800;;H2-2024-Summer Blitz;29-Aug-2024;$390;RETAIL;EU;2630;pending;AgriGrow Corp;274.0;Marketing Suite;EUR
+$170205;$10972;FY-24-Cross-sell;23-Aug-2025;$1261;Online;United States;361;closed won;AgriGrow Corp;135.00;Service Plan Pro;
+$1237018;$9322;Q4-24-Spring Push;11-May-2025;$3927;Retail;LATAM;555;PENDING;AgriGrow Corp;315.00;Widget A;EUR
+$1004435;$45945;H2-23-New Year Promo;09-Jan-2025;$2589;retail;Unknown;2944;Negotiation;;388;Gadget Mini;
+$1462765;$18556;H1-23-Fall Campaign;17-Sep-2024;$3222;Store;USA;2366;Closed Won;AgriGrow Corp;454;API Access;JPY
+$496964;$10463;H2-2024-Email Blast;19-May-2024;$1006;Social;??;3139;In Progress;MomCorp;494;Data Pipeline;
+$383;$35493;Q1-2023-New Year Promo;15-Nov-2025;$48;field;Britain;4108;Qualified;AgriGrow Corp;8.00;Data Pipeline;CAD
+$47664;$48055;H2-23-Retention  ;29-Sep-2025;$3898;;United States;4531;qualified;AgriGrow Corp;#REF!;API Access;CAD
+$2029922  ;$39235;H2-23-Retention;04-Nov-2025;$4721;social media;LATAM;1907;WON;AgriGrow Corp;430.00;CRM Module;GBP
+$1595531;$45159;FY-24-Cross-sell;10-Sep-2024;$3685;reseller;United States;392;Closed-Won;AgriGrow Corp;433;Consulting Hours  ;AUD
+$1147754;$3809;FY-2024-Email Blast;05-Oct-2024;$2401;PARTNER;Asia;N/A;Won;AgriGrow Corp;478.00;Support Tier 1;JPY
+$136026;$30635;H2-2024-Spring Push;18-Jun-2025;$4858;social;UK;4223;closed lost;Genco Pura;28;Support Tier 2;
+$1311584;$7032;FY-2023-Brand Awareness;14-Sep-2025;$2809;Online;South America;25;proposal;AgriGrow Corp;467.0;Service Plan Basic;USD
+$400813;$42620;H2-2023-Webinar Series;21-Feb-2025;$1426;ecommerce;Asia Pacific;1426;CLOSED WON;AgriGrow Corp;281.00;Widget B;GBP
+$485079  ;$22793;H2-23-Trade Show;09-Jul-2025;$1183;Call Center;South America;4585;In Progress;AgriGrow Corp;410.0;CRM Module;AUD
+$6351;$48789;Q2-24-Brand Awareness;14-Dec-2023;$3175;reseller;EU;660;closed won;AgriGrow Corp;2.00;Hardware Unit;CAD
+$1685789;$22166;H1-24-Spring Push;25-Nov-2024;$4043;;N. America;3433;proposal;Oceanic Airlines;417.0;Data Pipeline;EUR
+$448024;$4011;FY-2024-Fall Campaign;12-Jan-2025;$4817;Retail;N. America;2419;WON;AgriGrow Corp;93.00;Widget B;USD  
+$514591;$32411;Q4-2024-Upsell;03-May-2024;$1126;partner;Britain;98;WON;AgriGrow Corp;457;Training Package;AUD
+$455146;$48303;H2-2023-Brand Awareness;28-Mar-2024;$4551;Brick & Mortar;United Kingdom;65;closed lost;AgriGrow Corp;100;;EUR
+$8612;;FY-2024-Spring Push;08-Feb-2025;$44;Direct;Latin America;3468;CW;BrightPath Media  ;196;Service Plan Basic;EUR
+-;$38535;H1-2024-Cross-sell;20-Nov-2024;NULL;web;Middle East;;PENDING;BlueOcean Retail;427;Training Package  ;AUD
+$486030;$34025;Q1-2024-Fall Campaign;03-Jun-2025;$1385;ecommerce;Latin America;4152;open;AgriGrow Corp;351;Software License;EUR
+$1075013;$30165;FY-2023-New Year Promo;15-Sep-2025;$4406;Brick & Mortar;Britain;;lead;AgriGrow Corp;244.00;Widget Pro;GBP
+$281390;$38284;;14-Feb-2025;$855  ;affiliate;North America;3599;CW;AgriGrow Corp;329.00;Gadget X;USD
+$874034  ;$33585;Q1-23-Spring Push;pending;$2276;call center;Middle East;2096;Closed Won;AgriGrow Corp;384.0;Training Package;EUR
+$95529;$10632;Q1-2024-New Year Promo;27-Jul-2024;$2654;e-comm;ANZ;3279;negotiation;Planet Express;36.0;Widget B;CAD
+$2243133  ;$10086;H2-23-Fall Campaign;24-Aug-2025;$4887;email campaign;Britain;671;WON;Pinnacle Analytics;459;Support Tier 2;CAD
+missing;$46814;Q4-2024-Email Blast;23-Jan-2024;$3008;online;Africa;2969;Lost;AgriGrow Corp;0;Hardware Unit;GBP
+N/A;$11536;;26-Jan-2024;missing;;Asia Pacific;1862;Lost;Wayne Corp;223.00;CRM Module;GBP
+$415168;$9355;Q2-24-Upsell;18-Jan-2024;$1005;PARTNER;EU;1921;Lead;AgriGrow Corp;413;Software License;GBP
+$641477;$19863;Q4-24-Product Launch;26-Oct-2025;$1481;Phone;United States;271;qualified;Brawndo Corp;433.00;Security Bundle;JPY
+$1044131;$3615;Q4-2023-Social Push;N/A;$4746;RETAIL;LATAM;1270;Open;AgriGrow Corp;220.00;-;JPY
+$208242;N/A;Q4-2023-Retention;28-Jan-2025;$2262;e-comm;Africa;348;CW;Umbrella Ltd;0  ;Service Plan Basic;CAD
+$238374;$11018;;23-Jan-2025;$556;;-;N/A;Proposal;AgriGrow Corp;429.0;Premium Onboarding;AUD
+$672929;$6060;H2-24-New Year Promo;09-Nov-2025;$3867;Brick & Mortar;N. America  ;162;Closed-Won;AgriGrow Corp;174;Data Pipeline;JPY
+$1137486;$41282;Q4-2024-Social Push;14-Jan-2025;$3522;e-comm;USA;257;lead;AgriGrow Corp;323.0;Service Plan Enterprise;AUD
+$1000297;;H1-2023-Email Blast;01-Sep-2024;$3732;affiliate;Britain;746;In Progress;AgriGrow Corp;268.0;Premium Onboarding;JPY
+$164710;$14899;H2-2023-Social Push;25-Jul-2024;$617;ecommerce;Asia;780;In Progress;AgriGrow Corp;267;CRM Module;JPY
+$225569;N/A;Q2-23-Spring Push;10-Nov-2025;$817;Call Center;??;2094;In Progress;Planet Express;276;Gadget X;JPY
+$75146;$13787;Q2-23-Webinar Series;03-Sep-2024;N/A;Field Sales;N/A;402;Won;AgriGrow Corp;343.0;Gadget X;USD
+$33900;0;H2-2023-Black Friday;null;$1614;partner;South America;2181;CW;AgriGrow Corp;21;Support Tier 2;EUR
+$1690062;$31855;Q4-23-Upsell;13-Oct-2025;$4092;web;Asia Pacific;1181;qualified;AgriGrow Corp;413.00;Software Subscription;CAD
+$659331;$17879;H2-2024-Webinar Series;31-Oct-2024;$1492;Direct Sales;Europe;1856;CW;AgriGrow Corp;442;Gadget X;GBP
+$20298;$10129;Q2-23-Upsell;05-Jul-2024;$121;ONLINE;ANZ;945;Open;AgriGrow Corp;168.0;CRM Module;EUR
+$814754;$30478;;22-Oct-2025;$4603;Web;North America;3658;in progress;AgriGrow Corp;177;Service Plan Pro;EUR
+$198586;$7925;FY-2024-New Year Promo;24-Jul-2024;$2613;Web;N. America;4288;proposal;Planet Express;76.0;Cloud Storage 1TB;GBP
+$368608;$21656;H1-23-Black Friday;16-Sep-2024;$2857;Reseller;Australia;511;Closed Won;AgriGrow Corp;129;API Access;CAD
+$1429709;$45163;Q3-23-Fall Campaign;15-Dec-2023;$3294;email;Britain;300;WON;AgriGrow Corp;434;N/A;
+$604401;$25009;H2-24-Retention;18-Mar-2025;$3555;Channel Partner;SA;95;open  ;AgriGrow Corp;170.00;API Access;USD
+$211918;$25751;H1-24-Upsell;19-Sep-2025;$2649;social media;NA;4547;negotiation;AgriGrow Corp;80.00;API Access;GBP
+$1078627;$15245;Q3-2023-Holiday Sale;06-Aug-2025;$2752;direct;North America;1154;qualified;SummitView Hotels;392;Support Tier 2;GBP
+$351429;$23653;Q1-24-Retention;16-Nov-2024;$4624;E-Commerce;Middle East;1979;Lost;Brawndo Corp;76;API Access;AUD
+$219280;$24108;Q2-24-Brand Awareness;25-Nov-2023;missing;Channel Partner;Australia;4572  ;closed won;AgriGrow Corp;177;Widget Pro;USD
+$264105;$36299;Q4-23-Email Blast;13-Nov-2025;$1190;Brick & Mortar;Europe;N/A;CLOSED LOST;AgriGrow Corp;222;Marketing Suite;AUD
+$278145;$191;Q1-2023-Upsell;02-Sep-2024;$1580;DIRECT;MEA;674;negotiation;AgriGrow Corp;176;MISC;
+$320026;$23678;Q3-23-Trade Show;09-Nov-2024;$3169;email;;3137;Closed Won;AgriGrow Corp;101;CRM Module;EUR
+$1504817;$25250;FY-24-Summer Blitz;17-Jun-2024;$4519;partner;N/A;3915;Closed-Lost;AgriGrow Corp;333.00;Service Plan Basic;USD
+$547450;0;Q2-2023-Summer Blitz;30-Jan-2024;$1722;Telesales;ASIAPAC;4352;in progress;Cybertruck Co  ;318;Gadget Mini;CAD
+$109147;$24354;;23-Jul-2025;$574;In-Store;United Kingdom;2325;Pending;AgriGrow Corp;190;Cloud Storage 5TB;
+$654153;$47222;Q4-2023-Summer Blitz;03-Jul-2024;$4810;Email Campaign;LATAM;2558;Negotiation;Cogswell Cogs;136;Software License;EUR
+$26616;$11028;;08-Oct-2025;$1401;phone;APAC;2510;Lost;AgriGrow Corp;19;Cloud Storage 1TB;USD
+$1822941;$49030;Q4-2023-Cross-sell;30-Oct-2024;$4124;social;Latin America;581;LOST;AgriGrow Corp;442;Other  ;GBP
+$287392;$9378;H1-24-Fall Campaign;29-Jan-2024;$4421;web;USA;;Closed Lost;PixelForge Studios;65;Gadget Mini;AUD
+$311208  ;$9760;FY-2024-Email Blast;14-Aug-2024;$2510;Web;United Kingdom;2642;Pending;AgriGrow Corp;124;Widget Pro;AUD
+$772985;$15163;;04-Apr-2025;$2147;Social Media;North America;1957;in progress  ;AgriGrow Corp;360;Premium Onboarding;EUR
+$346304;$1640;Q1-2023-Product Launch;N/A;$1425;Store;NA;42;Qualified;Genco Pura;243;API Access;USD
+$464057;$34438;Q4-2023-Upsell;null;$2148;RETAIL;Middle East;2660;Lead;AgriGrow Corp;216;Service Plan Enterprise  ;USD
+$118932;-;Q1-24-Fall Campaign;21-Sep-2024;$1888;phone;SA  ;299;Lost;AgriGrow Corp;63;MISC;GBP
+$262902;$5805;Q2-23-Upsell;24-Aug-2025;$1158;in-store;APAC;2848;Lead;AgriGrow Corp;227;API Access;
+$1355891;$45619;Q1-2023-New Year Promo;01-Dec-2023;$3705;web;North America;356;Pending;AgriGrow Corp;366;Data Pipeline;GBP
+$617114;$21325;Q2-2023-Webinar Series;23-Sep-2024;$2459;Telesales;MEA;1647;Closed-Won;Planet Express;251;Service Plan Enterprise;JPY
+$40024;$36252;FY-2023-Cross-sell;19-Nov-2024;$4002;retail;N. America;394;PENDING;AgriGrow Corp;10;Software Subscription;
+$462418;$11166;Q3-2024-Trade Show;11-Apr-2025;$1682;In-Store;UK;2935;WON;Hooli Inc;275.0;-;CAD
+$4860;$19074;H1-2024-Holiday Sale;15-Sep-2024;missing;online;Asia;3982;open;AgriGrow Corp;107.00;Consulting Hours;USD
+$391105;$8491;H1-2024-Holiday Sale;21-Apr-2024;$1099;email campaign;US;2752;in progress;AgriGrow Corp;356.0;Gadget Mini;USD
+$305059;$14478;Q4-23-Trade Show;25-Oct-2024;$3720;referral;North America;832;closed lost;Acme Corp;82.00;Support Tier 1;GBP
+$841105;$17257;FY-2024-Upsell  ;27-Feb-2025;$3036;direct;South America;2441;negotiation;Vandelay Ind;277;Training Package;AUD
+$811494;$47480;H2-24-Holiday Sale;10-Sep-2025;$3051;Web;APAC;1444;closed won;;266;Service Plan Basic;AUD
+$17975;$43106;FY-2023-Social Push;TBD;$4494;social media;South America;null;lead;AgriGrow Corp;4;Widget Pro;USD
+$2251007;$13647;H2-24-Webinar Series;22-Dec-2024;$4872;Store;EMEA;2427;In Progress;AgriGrow Corp;462.0;Widget A;AUD
+$1737019;$30202;Q4-23-Brand Awareness;21-Apr-2025;$3488;Field Sales;United Kingdom;1010;Closed Won;Acme Corp;498.0;Support Tier 1;JPY
+$1612257;$24420  ;Q1-23-Brand Awareness;16-May-2025;$4188;Channel Partner;Britain;4371;Open;AgriGrow Corp;385.00;Software License;GBP
+$323240;$27640;H2-2024-New Year Promo;16-Nov-2025;$1138;ONLINE;USA;-;In Progress;AgriGrow Corp;284.0;Widget A;
+$186434;$39222;Q1-2024-Social Push;04-Mar-2024;$1983;retail;ANZ;236;LOST;AgriGrow Corp;94.00;Service Plan Basic;EUR
+$187759;$3091;FY-2024-Upsell;05-Dec-2023;$1211;Email Campaign;NA;4478;LOST;AgriGrow Corp;155;Security Bundle;USD
+$299616;$46124;Q2-23-Email Blast;09-Dec-2023;$607;Social Media;MEA;681;Lost  ;Buy N Large;494;Analytics Dashboard;USD
+$47455;$25628;Q3-23-Black Friday;20-Nov-2024;$4746;Phone;EMEA;2477;Qualified;GreenLeaf Energy;10.0;API Access;EUR
+$207613;$42966;H1-2023-Black Friday;15-Dec-2023;$4513;;ASIAPAC;802;Proposal;AgriGrow Corp;46.0;Widget A;CAD
+$194740;$13071;FY-2024-Email Blast;19-Jul-2024;$397;Direct;NA;null;CLOSED WON;AgriGrow Corp;491.00;Hardware Unit;GBP
+$227150;$35312;H1-24-Summer Blitz;23-Aug-2024;$2275;Web;MEA;2697;Closed Lost;AgriGrow Corp;-;Service Plan Pro;AUD
+$78037;$40943;Q2-24-Upsell;24-Apr-2025;$879;PARTNER;EMEA;1077;closed won;Globex Industries;;Cloud Storage 1TB;EUR
+$658364;null;Q2-24-New Year Promo;15-Sep-2024;$1392;Email;NA;1875;In Progress;AgriGrow Corp;473;Cloud Storage 5TB  ;USD
+$1162720;$13423;;27-Aug-2025;$3703;Partner;Asia Pacific;93;Closed-Won;AgriGrow Corp;314;CRM Module;
+$168744;$31117;Q1-2024-New Year Promo;06-Sep-2024;$2446;direct;EU;3508;Negotiation;AgriGrow Corp;69;Widget B;JPY
+$317819;$48223;Q2-2023-Spring Push  ;25-Jul-2024;$4744;Telesales;Britain;440;Closed Lost;AgriGrow Corp;67;Consulting Hours;EUR
+$586155;$16759;Q3-2023-Fall Campaign;26-Jul-2025;$1798;online;United States;2895;open;AgriGrow Corp;326;Premium Onboarding  ;USD
+$359439;$5571;Q4-23-Product Launch;29-May-2024;$728;web;SA  ;4864;Negotiation;AgriGrow Corp;494;Training Package;CAD
+$283867;$42693;Q1-2023-Black Friday;27-Jan-2024;$1999;Brick & Mortar;Africa;-;CW;AgriGrow Corp;142.0;Widget A;CAD
+$132162;$41768;FY-23-Cross-sell;07-Aug-2024  ;$821;;Unknown;2682;Proposal;;161;Software License;
+$890584;$16390;H1-23-Holiday Sale;23-Jan-2025;$2801;Web;SA;4499;CLOSED WON;QuickShip Logistics;318;API Access;JPY
+$1844356;$45425;Q4-23-Webinar Series;17-Feb-2025;$4841;Brick & Mortar;Australia;639;lead;AgriGrow Corp;381;Support Tier 1;USD
+$164877;$41433;Q2-2024-Holiday Sale;06-Feb-2025;$1363  ;field;Middle East;3717;pending;AgriGrow Corp;121.0;Service Plan Basic;EUR
+$51785;$7639;H1-23-Black Friday;02-Dec-2023;$141  ;Affiliate;Africa;4528;WON;AgriGrow Corp;366;Support Tier 2;AUD
+$1879876;$32082;Q1-24-New Year Promo;18-Mar-2024;$4783;reseller;Asia Pacific;2305;CLOSED WON;;393.0;Cloud Storage 1TB;EUR
+$1048570;$3084;Q2-23-New Year Promo;03-Dec-2023;$3484;web;Asia Pacific;1965;Closed-Lost;AgriGrow Corp;301.00;Service Plan Pro;USD
+$266228;$12027;H1-2024-Webinar Series;12-Mar-2025;$578;call center;Britain;3501;proposal;AgriGrow Corp;461.0;Support Tier 2;EUR
+$516788;$41183;Q2-23-Product Launch;18-Feb-2024;$2109;referral;APAC;1030;Closed Won;QuickShip Logistics;245.00;Widget Pro;
+$371113;$15734;;31-Dec-2023;$2291;Website;United States;175  ;Negotiation;AgriGrow Corp;162;Gadget X;CAD
+$381913;-;Q3-2023-Brand Awareness;10-May-2025;$2182;Phone;??;-;Closed Lost;AgriGrow Corp;175;Marketing Suite;EUR
+$71792;;Q3-2023-Webinar Series;21-Jan-2024;$1072;Field Sales;Britain;3182;negotiation;Dunder Mifflin;67;Service Plan Enterprise;GBP
+$694783;$8574;Q1-2024-Brand Awareness;09-Apr-2025;$1833;Online;LATAM;3659;CL;AgriGrow Corp;379;Service Plan Enterprise;USD
+$20535;$15064;FY-2024-Upsell;06-Mar-2025;$138;email campaign;N. America;3018;qualified;Initech Solutions;149.00;Service Plan Pro  ;GBP
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
