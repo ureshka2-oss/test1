@@ -11,7 +11,12 @@ DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
 
 def load_market_data(filename="global_energy_market.csv"):
     """Load the global energy market dataset."""
-    filepath = os.path.join(DATA_DIR, filename)
+    # Sanitize filename to prevent path traversal attacks
+    safe_name = os.path.basename(filename)
+    filepath = os.path.join(DATA_DIR, safe_name)
+    resolved = os.path.realpath(filepath)
+    if not resolved.startswith(os.path.realpath(DATA_DIR)):
+        raise ValueError(f"Invalid filename: {filename}")
     df = pd.read_csv(filepath)
     return df
 
@@ -56,12 +61,18 @@ def clean_data(df):
     }
     df["region_code"] = df["region"].map(region_map)
 
-    # Calculate year-over-year revenue growth
-    df["revenue_growth_pct"] = (
-        (df["revenue_2023_bn"] - df["revenue_2022_bn"]) / df["revenue_2022_bn"] * 100
+    # Calculate year-over-year revenue growth (guard against division by zero)
+    df["revenue_growth_pct"] = df.apply(
+        lambda row: ((row["revenue_2023_bn"] - row["revenue_2022_bn"]) / row["revenue_2022_bn"] * 100)
+        if row["revenue_2022_bn"] != 0 else 0.0,
+        axis=1,
     )
 
-    # Calculate R&D intensity (R&D spend as % of revenue)
-    df["rd_intensity"] = df["r_and_d_spend_mm"] / (df["revenue_2023_bn"] * 1000) * 100
+    # Calculate R&D intensity (R&D spend as % of revenue, guard against division by zero)
+    df["rd_intensity"] = df.apply(
+        lambda row: (row["r_and_d_spend_mm"] / (row["revenue_2023_bn"] * 1000) * 100)
+        if row["revenue_2023_bn"] != 0 else 0.0,
+        axis=1,
+    )
 
     return df

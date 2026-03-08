@@ -169,52 +169,75 @@ const regions = [
     { name: "Africa", revenue: 12.0, carbon: 35.6, renewable: 57.5 },
 ];
 
-// Render sector bars
+// Safe text helper to prevent XSS
+function txt(el, text) { el.textContent = text; return el; }
+function el(tag, attrs) {
+    const e = document.createElement(tag);
+    if (attrs) Object.entries(attrs).forEach(([k, v]) => { if (k === "text") e.textContent = v; else e.style[k] = v; });
+    return e;
+}
+
+// Render sector bars (safe DOM construction)
 const maxRev = sectors[0].revenue;
-document.getElementById("sector-bars").innerHTML = sectors.map(s => `
-    <div class="bar-row">
-        <div class="bar-label">${s.name}</div>
-        <div class="bar-track">
-            <div class="bar-fill" style="width: ${(s.revenue / maxRev * 100)}%; background: ${s.color};">
-                ${s.revenue > maxRev * 0.1 ? '$' + s.revenue + 'B' : ''}
-            </div>
-        </div>
-        <div class="bar-value">$${s.revenue}B</div>
-    </div>
-`).join("");
+const sectorContainer = document.getElementById("sector-bars");
+sectors.forEach(s => {
+    const row = el("div"); row.className = "bar-row";
+    const label = el("div"); label.className = "bar-label"; label.textContent = s.name;
+    const track = el("div"); track.className = "bar-track";
+    const fill = el("div"); fill.className = "bar-fill";
+    fill.style.width = (s.revenue / maxRev * 100) + "%";
+    fill.style.background = s.color;
+    if (s.revenue > maxRev * 0.1) fill.textContent = "$" + s.revenue + "B";
+    track.appendChild(fill);
+    const value = el("div"); value.className = "bar-value"; value.textContent = "$" + s.revenue + "B";
+    row.append(label, track, value);
+    sectorContainer.appendChild(row);
+});
 
-// Render growth table
-document.getElementById("growth-table").innerHTML = growthLeaders.map(g => `
-    <tr>
-        <td style="font-weight: 600;">${g.company}</td>
-        <td><span class="badge badge-blue">${g.sector}</span></td>
-        <td><span class="badge badge-green">+${g.growth}%</span></td>
-    </tr>
-`).join("");
+// Render growth table (safe DOM construction)
+const growthBody = document.getElementById("growth-table");
+growthLeaders.forEach(g => {
+    const tr = document.createElement("tr");
+    const td1 = el("td", { fontWeight: "600" }); td1.textContent = g.company;
+    const td2 = document.createElement("td");
+    const badge1 = el("span"); badge1.className = "badge badge-blue"; badge1.textContent = g.sector;
+    td2.appendChild(badge1);
+    const td3 = document.createElement("td");
+    const badge2 = el("span"); badge2.className = "badge badge-green"; badge2.textContent = "+" + g.growth + "%";
+    td3.appendChild(badge2);
+    tr.append(td1, td2, td3);
+    growthBody.appendChild(tr);
+});
 
-// Render sustainability table
-document.getElementById("sustainability-table").innerHTML = sustainability.map(s => {
+// Render sustainability table (safe DOM construction)
+const susBody = document.getElementById("sustainability-table");
+sustainability.forEach(s => {
     const color = s.score > 85 ? "#22c55e" : s.score > 70 ? "#f59e0b" : "#94a3b8";
-    return `<tr>
-        <td style="font-weight: 600;">${s.company}</td>
-        <td>
-            <span class="score-bar"><span class="score-fill" style="width: ${s.score}%; background: ${color};"></span></span>
-            ${s.score}
-        </td>
-        <td>${s.renewable}%</td>
-        <td>${s.carbon}</td>
-    </tr>`;
-}).join("");
+    const tr = document.createElement("tr");
+    const td1 = el("td", { fontWeight: "600" }); td1.textContent = s.company;
+    const td2 = document.createElement("td");
+    const bar = el("span"); bar.className = "score-bar";
+    const barFill = el("span"); barFill.className = "score-fill";
+    barFill.style.width = s.score + "%"; barFill.style.background = color;
+    bar.appendChild(barFill);
+    td2.append(bar, document.createTextNode(" " + s.score));
+    const td3 = document.createElement("td"); td3.textContent = s.renewable + "%";
+    const td4 = document.createElement("td"); td4.textContent = s.carbon;
+    tr.append(td1, td2, td3, td4);
+    susBody.appendChild(tr);
+});
 
-// Render regional table
-document.getElementById("regional-table").innerHTML = regions.map(r => `
-    <tr>
-        <td style="font-weight: 600;">${r.name}</td>
-        <td>$${r.revenue}B</td>
-        <td>${r.carbon}</td>
-        <td>${r.renewable}%</td>
-    </tr>
-`).join("");
+// Render regional table (safe DOM construction)
+const regBody = document.getElementById("regional-table");
+regions.forEach(r => {
+    const tr = document.createElement("tr");
+    const td1 = el("td", { fontWeight: "600" }); td1.textContent = r.name;
+    const td2 = document.createElement("td"); td2.textContent = "$" + r.revenue + "B";
+    const td3 = document.createElement("td"); td3.textContent = r.carbon;
+    const td4 = document.createElement("td"); td4.textContent = r.renewable + "%";
+    tr.append(td1, td2, td3, td4);
+    regBody.appendChild(tr);
+});
 </script>
 
 </body>
