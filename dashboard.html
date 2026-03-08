@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Energy Market Report 2023</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f172a; color: #e2e8f0; }
+        .header { background: linear-gradient(135deg, #1e293b, #0f172a); padding: 32px 48px; border-bottom: 1px solid #334155; }
+        .header h1 { font-size: 28px; font-weight: 700; color: #f8fafc; }
+        .header p { color: #94a3b8; margin-top: 4px; font-size: 14px; }
+        .kpi-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; padding: 24px 48px; }
+        .kpi { background: #1e293b; border-radius: 12px; padding: 20px 24px; border: 1px solid #334155; }
+        .kpi .label { font-size: 12px; text-transform: uppercase; letter-spacing: 1px; color: #94a3b8; }
+        .kpi .value { font-size: 32px; font-weight: 700; margin-top: 4px; color: #f8fafc; }
+        .kpi .sub { font-size: 13px; color: #64748b; margin-top: 2px; }
+        .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; padding: 0 48px 24px; }
+        .card { background: #1e293b; border-radius: 12px; padding: 24px; border: 1px solid #334155; }
+        .card h2 { font-size: 16px; font-weight: 600; margin-bottom: 16px; color: #f8fafc; }
+        .bar-row { display: flex; align-items: center; margin-bottom: 10px; font-size: 13px; }
+        .bar-label { width: 130px; flex-shrink: 0; color: #cbd5e1; }
+        .bar-track { flex: 1; height: 24px; background: #334155; border-radius: 6px; overflow: hidden; position: relative; }
+        .bar-fill { height: 100%; border-radius: 6px; display: flex; align-items: center; padding-left: 8px; font-size: 12px; font-weight: 600; color: #fff; min-width: 40px; }
+        .bar-value { width: 80px; text-align: right; flex-shrink: 0; color: #94a3b8; font-weight: 500; margin-left: 8px; }
+        table { width: 100%; border-collapse: collapse; font-size: 13px; }
+        th { text-align: left; padding: 8px 12px; color: #94a3b8; font-weight: 500; border-bottom: 1px solid #334155; font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; }
+        td { padding: 10px 12px; border-bottom: 1px solid #1e293b; color: #cbd5e1; }
+        tr:hover td { background: #334155; }
+        .badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; }
+        .badge-green { background: #065f46; color: #6ee7b7; }
+        .badge-red { background: #7f1d1d; color: #fca5a5; }
+        .badge-blue { background: #1e3a5f; color: #93c5fd; }
+        .score-bar { width: 60px; height: 6px; background: #334155; border-radius: 3px; display: inline-block; vertical-align: middle; margin-right: 8px; }
+        .score-fill { height: 100%; border-radius: 3px; }
+        .full-width { grid-column: 1 / -1; }
+        .footer { text-align: center; padding: 24px; color: #475569; font-size: 12px; }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>Global Energy Market Report 2023</h1>
+    <p>Market sizing & competitive benchmarking across 20 energy companies</p>
+</div>
+
+<div class="kpi-row">
+    <div class="kpi">
+        <div class="label">Total Market Size</div>
+        <div class="value">$1,061.6B</div>
+        <div class="sub">Across all sectors</div>
+    </div>
+    <div class="kpi">
+        <div class="label">Companies Analyzed</div>
+        <div class="value">20</div>
+        <div class="sub">6 regions, 6 sectors</div>
+    </div>
+    <div class="kpi">
+        <div class="label">Top Growth</div>
+        <div class="value" style="color: #4ade80;">+133.3%</div>
+        <div class="sub">SunHarvest (Renewables)</div>
+    </div>
+    <div class="kpi">
+        <div class="label">Renewables Growth</div>
+        <div class="value" style="color: #4ade80;">+56.0%</div>
+        <div class="sub">Outpacing Oil & Gas</div>
+    </div>
+</div>
+
+<div class="grid">
+    <!-- Market Size by Sector -->
+    <div class="card">
+        <h2>Market Size by Sector</h2>
+        <div id="sector-bars"></div>
+    </div>
+
+    <!-- Top Growth Leaders -->
+    <div class="card">
+        <h2>Top 5 Growth Leaders</h2>
+        <table>
+            <thead><tr><th>Company</th><th>Sector</th><th>Growth</th></tr></thead>
+            <tbody id="growth-table"></tbody>
+        </table>
+    </div>
+
+    <!-- Sustainability Scorecard -->
+    <div class="card">
+        <h2>Sustainability Scorecard</h2>
+        <table>
+            <thead><tr><th>Company</th><th>Score</th><th>Renewable %</th><th>Carbon</th></tr></thead>
+            <tbody id="sustainability-table"></tbody>
+        </table>
+    </div>
+
+    <!-- Regional Benchmark -->
+    <div class="card">
+        <h2>Regional Benchmark</h2>
+        <table>
+            <thead><tr><th>Region</th><th>Revenue</th><th>Avg Carbon</th><th>Renewable %</th></tr></thead>
+            <tbody id="regional-table"></tbody>
+        </table>
+    </div>
+
+    <!-- Key Insights -->
+    <div class="card full-width" style="background: linear-gradient(135deg, #1e293b, #172554);">
+        <h2>Key Insights</h2>
+        <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-top: 8px;">
+            <div style="padding: 12px; background: #0f172a; border-radius: 8px;">
+                <div style="font-size: 13px; color: #94a3b8;">Fastest Grower</div>
+                <div style="font-size: 18px; font-weight: 700; color: #4ade80; margin-top: 4px;">SunHarvest</div>
+                <div style="font-size: 12px; color: #64748b;">+133.3% YoY revenue growth</div>
+            </div>
+            <div style="padding: 12px; background: #0f172a; border-radius: 8px;">
+                <div style="font-size: 13px; color: #94a3b8;">Most Sustainable</div>
+                <div style="font-size: 18px; font-weight: 700; color: #38bdf8; margin-top: 4px;">BatteryPlus</div>
+                <div style="font-size: 12px; color: #64748b;">Score: 92.1 / 100</div>
+            </div>
+            <div style="padding: 12px; background: #0f172a; border-radius: 8px;">
+                <div style="font-size: 13px; color: #94a3b8;">Largest Sector</div>
+                <div style="font-size: 18px; font-weight: 700; color: #f8fafc; margin-top: 4px;">Oil & Gas</div>
+                <div style="font-size: 12px; color: #64748b;">$826.7B total revenue</div>
+            </div>
+            <div style="padding: 12px; background: #0f172a; border-radius: 8px;">
+                <div style="font-size: 13px; color: #94a3b8;">Greenest Region</div>
+                <div style="font-size: 18px; font-weight: 700; color: #4ade80; margin-top: 4px;">Europe</div>
+                <div style="font-size: 12px; color: #64748b;">77.3% average renewable mix</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="footer">Global Energy Market Analysis &mdash; Generated from 20 companies across 6 regions</div>
+
+<script>
+const sectors = [
+    { name: "Oil & Gas", revenue: 826.7, color: "#ef4444" },
+    { name: "Utilities", revenue: 130.8, color: "#f59e0b" },
+    { name: "Renewables", revenue: 54.6, color: "#22c55e" },
+    { name: "Coal", revenue: 24.1, color: "#6b7280" },
+    { name: "Nuclear", revenue: 19.2, color: "#8b5cf6" },
+    { name: "Energy Storage", revenue: 6.2, color: "#06b6d4" },
+];
+
+const growthLeaders = [
+    { company: "SunHarvest", sector: "Renewables", growth: 133.3 },
+    { company: "BatteryPlus", sector: "Energy Storage", growth: 121.4 },
+    { company: "SmartGrid AI", sector: "Utilities", growth: 94.4 },
+    { company: "HydroGen Solutions", sector: "Renewables", growth: 81.2 },
+    { company: "GreenFuture", sector: "Renewables", growth: 64.7 },
+];
+
+const sustainability = [
+    { company: "BatteryPlus", score: 92.1, renewable: 85.0, carbon: 6.8 },
+    { company: "HydroGen Solutions", score: 86.9, renewable: 95.0, carbon: 4.5 },
+    { company: "OceanWind", score: 84.6, renewable: 100.0, carbon: 2.8 },
+    { company: "SunHarvest", score: 84.3, renewable: 100.0, carbon: 3.0 },
+    { company: "GreenFuture", score: 82.3, renewable: 100.0, carbon: 2.1 },
+    { company: "WindForce Energy", score: 82.0, renewable: 100.0, carbon: 3.8 },
+    { company: "SolarWave", score: 78.8, renewable: 98.0, carbon: 5.2 },
+    { company: "SmartGrid AI", score: 69.3, renewable: 65.0, carbon: 15.2 },
+];
+
+const regions = [
+    { name: "North America", revenue: 499.3, carbon: 48.8, renewable: 24.2 },
+    { name: "Middle East", revenue: 258.3, carbon: 91.7, renewable: 3.2 },
+    { name: "Asia Pacific", revenue: 131.3, carbon: 53.7, renewable: 47.1 },
+    { name: "Europe", revenue: 130.9, carbon: 19.1, renewable: 77.3 },
+    { name: "South America", revenue: 29.8, carbon: 75.8, renewable: 10.0 },
+    { name: "Africa", revenue: 12.0, carbon: 35.6, renewable: 57.5 },
+];
+
+// Render sector bars
+const maxRev = sectors[0].revenue;
+document.getElementById("sector-bars").innerHTML = sectors.map(s => `
+    <div class="bar-row">
+        <div class="bar-label">${s.name}</div>
+        <div class="bar-track">
+            <div class="bar-fill" style="width: ${(s.revenue / maxRev * 100)}%; background: ${s.color};">
+                ${s.revenue > maxRev * 0.1 ? '$' + s.revenue + 'B' : ''}
+            </div>
+        </div>
+        <div class="bar-value">$${s.revenue}B</div>
+    </div>
+`).join("");
+
+// Render growth table
+document.getElementById("growth-table").innerHTML = growthLeaders.map(g => `
+    <tr>
+        <td style="font-weight: 600;">${g.company}</td>
+        <td><span class="badge badge-blue">${g.sector}</span></td>
+        <td><span class="badge badge-green">+${g.growth}%</span></td>
+    </tr>
+`).join("");
+
+// Render sustainability table
+document.getElementById("sustainability-table").innerHTML = sustainability.map(s => {
+    const color = s.score > 85 ? "#22c55e" : s.score > 70 ? "#f59e0b" : "#94a3b8";
+    return `<tr>
+        <td style="font-weight: 600;">${s.company}</td>
+        <td>
+            <span class="score-bar"><span class="score-fill" style="width: ${s.score}%; background: ${color};"></span></span>
+            ${s.score}
+        </td>
+        <td>${s.renewable}%</td>
+        <td>${s.carbon}</td>
+    </tr>`;
+}).join("");
+
+// Render regional table
+document.getElementById("regional-table").innerHTML = regions.map(r => `
+    <tr>
+        <td style="font-weight: 600;">${r.name}</td>
+        <td>$${r.revenue}B</td>
+        <td>${r.carbon}</td>
+        <td>${r.renewable}%</td>
+    </tr>
+`).join("");
+</script>
+
+</body>
+</html>
