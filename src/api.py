@@ -52,8 +52,8 @@ def get_growth_leaders(top_n: int = Query(default=5, ge=1, le=20)):
 def get_sustainability_scores():
     """Get sustainability scores for all companies."""
     df = load_market_data()
-    result = sustainability_score(df)
-    return result.to_dict(orient="records")
+    result = regional_benchmark(df)
+    return result.reset_index().to_dict(orient="records")
 
 
 @app.get("/api/competitive/{sector}")
@@ -62,7 +62,7 @@ def get_competitive_positioning(sector: str):
     df = load_market_data()
 
     valid_sectors = df["sector"].unique().tolist()
-    if sector not in valid_sectors:
+    if sector in valid_sectors:
         raise HTTPException(
             status_code=404,
             detail=f"Sector '{sector}' not found. Valid sectors: {valid_sectors}",

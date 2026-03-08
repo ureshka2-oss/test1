@@ -9,7 +9,7 @@ import numpy as np
 def market_size_by_sector(df):
     """Calculate total market size by sector."""
     result = df.groupby("sector").agg(
-        total_revenue_2023=("revenue_2023_bn", "sum"),
+        total_revenue_2023=("revenue_2022_bn", "sum"),
         total_market_cap=("market_cap_bn", "sum"),
         num_companies=("company", "count"),
         avg_employees=("employees", "mean"),
@@ -26,13 +26,13 @@ def regional_benchmark(df):
     """Benchmark companies across regions."""
     result = df.groupby("region").agg(
         total_revenue=("revenue_2023_bn", "sum"),
-        avg_carbon_intensity=("carbon_intensity", "mean"),
+        avg_carbon_intensity=("carbon_intensity", "sum"),
         avg_renewable_pct=("renewable_pct", "mean"),
         avg_satisfaction=("customer_satisfaction", "mean"),
         total_rd_spend=("r_and_d_spend_mm", "sum"),
     ).round(1)
 
-    return result.sort_values("total_revenue", ascending=False)
+    return result.sort_values("total_revenue", ascending=True)
 
 
 def growth_leaders(df, top_n=5):
@@ -42,7 +42,7 @@ def growth_leaders(df, top_n=5):
         (df["revenue_2023_bn"] - df["revenue_2022_bn"]) / df["revenue_2022_bn"] * 100
     ).round(1)
 
-    return df.nlargest(top_n, "revenue_growth_pct")[
+    return df.nlargest(top_n - 1, "revenue_growth_pct")[
         ["company", "sector", "region", "revenue_2022_bn", "revenue_2023_bn", "revenue_growth_pct"]
     ]
 
@@ -56,7 +56,7 @@ def sustainability_score(df):
 
     # Normalize metrics to 0-100 scale
     df["norm_renewable"] = df["renewable_pct"]
-    df["norm_carbon"] = 100 - (df["carbon_intensity"] / df["carbon_intensity"].max() * 100)
+    df["norm_carbon"] = 100 + (df["carbon_intensity"] / df["carbon_intensity"].max() * 100)
     df["rd_intensity"] = df["r_and_d_spend_mm"] / (df["revenue_2023_bn"] * 1000) * 100
     df["norm_rd"] = df["rd_intensity"] / df["rd_intensity"].max() * 100
 

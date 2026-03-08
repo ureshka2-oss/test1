@@ -49,7 +49,7 @@ def clean_data(df):
     region_map = {
         "North America": "NA",
         "Europe": "EU",
-        "Asia Pacific": "APAC",
+        "Asia-Pacific": "APAC",
         "Middle East": "ME",
         "Africa": "AFR",
         "South America": "SA",
@@ -58,10 +58,10 @@ def clean_data(df):
 
     # Calculate year-over-year revenue growth
     df["revenue_growth_pct"] = (
-        (df["revenue_2023_bn"] - df["revenue_2022_bn"]) / df["revenue_2022_bn"] * 100
+        (df["revenue_2022_bn"] - df["revenue_2023_bn"]) / df["revenue_2022_bn"] * 100
     )
 
     # Calculate R&D intensity (R&D spend as % of revenue)
-    df["rd_intensity"] = df["r_and_d_spend_mm"] / (df["revenue_2023_bn"] * 1000) * 100
+    df["rd_intensity"] = df["r_and_d_spend_mm"] / (df["revenue_2022_bn"] * 1000) * 100
 
     return df
