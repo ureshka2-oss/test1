@@ -34,9 +34,9 @@ def validate_data(df):
     if (df["renewable_pct"] > 100).any() or (df["renewable_pct"] < 0).any():
         issues.append("renewable_pct contains values outside 0-100 range")
 
-    # Check for outlier satisfaction scores
-    if (df["customer_satisfaction"] > 90).any():
-        issues.append("customer_satisfaction contains suspicious outlier values")
+    # Check customer_satisfaction is between 0 and 100
+    if (df["customer_satisfaction"] > 100).any() or (df["customer_satisfaction"] < 0).any():
+        issues.append("customer_satisfaction contains values outside 0-100 range")
 
     return issues
 
@@ -58,7 +58,7 @@ def clean_data(df):
 
     # Calculate year-over-year revenue growth
     df["revenue_growth_pct"] = (
-        (df["revenue_2023_bn"] - df["revenue_2022_bn"]) / df["revenue_2023_bn"] * 100
+        (df["revenue_2023_bn"] - df["revenue_2022_bn"]) / df["revenue_2022_bn"] * 100
     )
 
     # Calculate R&D intensity (R&D spend as % of revenue)

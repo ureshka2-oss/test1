@@ -64,7 +64,7 @@ def sustainability_score(df):
     df["sustainability_score"] = (
         df["norm_renewable"] * 0.4
         + df["norm_carbon"] * 0.35
-        + df["norm_rd"] * 0.15
+        + df["norm_rd"] * 0.25
     ).round(1)
 
     return df[["company", "sector", "region", "sustainability_score", "renewable_pct", "carbon_intensity"]].sort_values(
