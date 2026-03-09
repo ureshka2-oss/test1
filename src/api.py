@@ -2,6 +2,9 @@
 FastAPI backend serving energy market analysis results.
 """
 
+import logging
+from contextlib import asynccontextmanager
+
 from fastapi import FastAPI, HTTPException, Query
 from src.data_loader import load_market_data, clean_data
 from src.analysis import (
@@ -11,11 +14,31 @@ from src.analysis import (
     sustainability_score,
     competitive_positioning,
 )
+from src.scheduler import (
+    init_scheduler,
+    shutdown_scheduler,
+    scheduler,
+    get_cache,
+    refresh_data,
+    refresh_analysis,
+    generate_scheduled_report,
+)
+
+logging.basicConfig(level=logging.INFO)
+
+
+@asynccontextmanager
+async def lifespan(app):
+    init_scheduler()
+    yield
+    shutdown_scheduler()
+
 
 app = FastAPI(
     title="Global Energy Market Analysis API",
     description="Market sizing and benchmarking for the global energy sector",
     version="0.1.0",
+    lifespan=lifespan,
 )
 
 
@@ -111,3 +134,77 @@ def compare_sectors(sector_a: str, sector_b: str):
         }
 
     return comparison
+
+
+# --- Scheduler management endpoints ---
+
+
+@app.get("/api/scheduler/jobs")
+def list_scheduled_jobs():
+    """List all scheduled jobs and their next run times."""
+    jobs = []
+    for job in scheduler.get_jobs():
+        jobs.append({
+            "id": job.id,
+            "name": job.name,
+            "next_run_time": str(job.next_run_time) if job.next_run_time else None,
+            "trigger": str(job.trigger),
+        })
+    return {"jobs": jobs}
+
+
+@app.post("/api/scheduler/jobs/{job_id}/run")
+def run_job_now(job_id: str):
+    """Trigger a scheduled job to run immediately."""
+    job_map = {
+        "refresh_data": refresh_data,
+        "refresh_analysis": refresh_analysis,
+        "daily_report": generate_scheduled_report,
+    }
+    if job_id not in job_map:
+        raise HTTPException(status_code=404, detail=f"Job '{job_id}' not found")
+    job_map[job_id]()
+    return {"status": "completed", "job_id": job_id}
+
+
+@app.post("/api/scheduler/jobs/{job_id}/pause")
+def pause_job(job_id: str):
+    """Pause a scheduled job."""
+    try:
+        scheduler.pause_job(job_id)
+        return {"status": "paused", "job_id": job_id}
+    except Exception:
+        raise HTTPException(status_code=404, detail=f"Job '{job_id}' not found")
+
+
+@app.post("/api/scheduler/jobs/{job_id}/resume")
+def resume_job(job_id: str):
+    """Resume a paused scheduled job."""
+    try:
+        scheduler.resume_job(job_id)
+        return {"status": "resumed", "job_id": job_id}
+    except Exception:
+        raise HTTPException(status_code=404, detail=f"Job '{job_id}' not found")
+
+
+@app.get("/api/scheduler/cache")
+def get_cached_data():
+    """Get the current state of the analysis cache."""
+    cache = get_cache()
+    return {
+        "last_refreshed": cache["last_refreshed"],
+        "data_issues": cache["data_issues"],
+        "has_market_size": cache["market_size"] is not None,
+        "has_growth_leaders": cache["growth_leaders"] is not None,
+        "has_sustainability_scores": cache["sustainability_scores"] is not None,
+        "has_report": cache["last_report"] is not None,
+    }
+
+
+@app.get("/api/scheduler/report")
+def get_latest_report():
+    """Get the latest generated report from the cache."""
+    cache = get_cache()
+    if cache["last_report"] is None:
+        raise HTTPException(status_code=404, detail="No report has been generated yet")
+    return cache["last_report"]
